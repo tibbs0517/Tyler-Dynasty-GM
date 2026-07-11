@@ -27,6 +27,7 @@ jobs:
         run: |
           python update_league.py
           python scripts/download_players.py
+          python scripts/build_player_index.py
 
       - name: Commit Updated Files
         run: |
