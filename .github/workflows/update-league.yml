@@ -32,6 +32,7 @@ jobs:
           python scripts/build_league_database.py
           python scripts/build_enriched_players.py
           python scripts/build_waiver_board.py
+          python scripts/value_engine.py
 
       - name: Commit Updated Files
         run: |
