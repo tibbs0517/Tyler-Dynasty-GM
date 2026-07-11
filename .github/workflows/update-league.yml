@@ -30,6 +30,7 @@ jobs:
           python scripts/build_player_index.py
           python scripts/find_unrostered_players.py
           python scripts/build_league_database.py
+          python scripts/build_enriched_players.py
 
       - name: Commit Updated Files
         run: |
