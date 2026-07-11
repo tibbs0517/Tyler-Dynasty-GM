@@ -5,63 +5,75 @@ from datetime import datetime
 
 DATA = Path("data")
 REPORTS = Path("reports")
+CONFIG_FILE = Path("config.json")
 
 REPORTS.mkdir(exist_ok=True)
 
 
-def load_json(filename):
-    with open(DATA / filename, "r") as f:
+def load_json(path):
+    with open(path, "r") as f:
         return json.load(f)
 
 
-league = load_json("league.json")
-transactions = load_json("transactions.json")
-waiver_board = load_json("waiver_board.json")
-rosters = load_json("rosters.json")
-users = load_json("users.json")
-players = load_json("players.json")
+config = load_json(CONFIG_FILE)
 
+league = load_json(DATA / "league.json")
+transactions = load_json(DATA / "transactions.json")
+waiver_board = load_json(DATA / "waiver_board.json")
+rosters = load_json(DATA / "rosters.json")
+users = load_json(DATA / "users.json")
+players = load_json(DATA / "players.json")
 
-# ------------------------------------------
-# Build lookup dictionaries
-# ------------------------------------------
+# ----------------------------------------------------
+# Configuration
+# ----------------------------------------------------
+
+MY_ROSTER_ID = config["roster_id"]
+MY_USERNAME = config["username"]
+REPORT_NAME = config["report_name"]
+
+# ----------------------------------------------------
+# Player Lookup
+# ----------------------------------------------------
 
 player_lookup = {}
 
 for pid, player in players.items():
+
     name = player.get("full_name")
 
     if not name:
-        first = player.get("first_name", "")
-        last = player.get("last_name", "")
-        name = (first + " " + last).strip()
+        name = (
+            player.get("first_name", "")
+            + " "
+            + player.get("last_name", "")
+        ).strip()
 
     if not name:
         name = pid
 
     player_lookup[pid] = name
 
+# ----------------------------------------------------
+# Owner Lookup
+# ----------------------------------------------------
 
 owner_lookup = {}
 
 for roster in rosters:
 
-    owner_id = roster["owner_id"]
-    roster_id = roster["roster_id"]
-
-    display_name = str(roster_id)
+    owner = str(roster["roster_id"])
 
     for user in users:
-        if user["user_id"] == owner_id:
-            display_name = user["display_name"]
+        if user["user_id"] == roster["owner_id"]:
+            owner = user["display_name"]
             break
 
-    owner_lookup[roster_id] = display_name
+    owner_lookup[roster["roster_id"]] = owner
 
-
-# ------------------------------------------
+# ----------------------------------------------------
 # Collect statistics
-# ------------------------------------------
+# ----------------------------------------------------
 
 activity = Counter()
 
@@ -75,27 +87,29 @@ recent_drops = []
 
 latest_week = max(transactions.keys(), key=int)
 
-for t in transactions[latest_week]:
+for transaction in transactions[latest_week]:
 
-    ttype = t["type"]
+    ttype = transaction["type"]
 
     if ttype == "trade":
+
         trade_count += 1
 
         teams = [
             owner_lookup.get(r, str(r))
-            for r in t.get("roster_ids", [])
+            for r in transaction.get("roster_ids", [])
         ]
 
-        recent_trades.append(
-            " ↔ ".join(teams)
-        )
+        recent_trades.append(" ↔ ".join(teams))
 
     elif ttype == "waiver":
+
         waiver_count += 1
 
-        if t.get("adds"):
-            for pid, roster in t["adds"].items():
+        if transaction.get("adds"):
+
+            for pid, roster in transaction["adds"].items():
+
                 recent_waivers.append(
                     (
                         player_lookup.get(pid, pid),
@@ -104,25 +118,39 @@ for t in transactions[latest_week]:
                 )
 
     elif ttype == "free_agent":
+
         free_agent_count += 1
 
-    for roster in t.get("roster_ids", []):
+    for roster in transaction.get("roster_ids", []):
+
         activity[owner_lookup.get(roster, roster)] += 1
 
-    if t.get("drops"):
-        for pid in t["drops"]:
-            recent_drops.append(
-                player_lookup.get(pid, pid)
-            )
+    if transaction.get("drops"):
 
+        for pid in transaction["drops"]:
 
-# ------------------------------------------
-# Build report
-# ------------------------------------------
+            recent_drops.append(player_lookup.get(pid, pid))
+
+# ----------------------------------------------------
+# Find My Team
+# ----------------------------------------------------
+
+my_roster = None
+
+for roster in rosters:
+
+    if roster["roster_id"] == MY_ROSTER_ID:
+
+        my_roster = roster
+        break
+
+# ----------------------------------------------------
+# Build Report
+# ----------------------------------------------------
 
 report = []
 
-report.append("# Tyler Dynasty GM Report")
+report.append(f"# {REPORT_NAME}")
 report.append("")
 report.append(f"Generated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 report.append("")
@@ -145,6 +173,17 @@ report.append(f"Free Agent Moves: {free_agent_count}")
 report.append("")
 report.append("---")
 report.append("")
+report.append("## My Front Office")
+report.append("")
+report.append(f"Username: {MY_USERNAME}")
+report.append(f"Roster ID: {MY_ROSTER_ID}")
+
+if my_roster:
+    report.append(f"Players on Roster: {len(my_roster['players'])}")
+
+report.append("")
+report.append("---")
+report.append("")
 report.append("## Recent Trades")
 report.append("")
 
@@ -160,11 +199,18 @@ report.append("")
 report.append("## Top Waiver Claims")
 report.append("")
 
-if recent_waivers:
-    for player, owner in recent_waivers[:10]:
-        report.append(f"- {player} → {owner}")
-else:
-    report.append("No waiver claims.")
+seen = set()
+
+for player, owner in recent_waivers:
+
+    key = (player, owner)
+
+    if key in seen:
+        continue
+
+    seen.add(key)
+
+    report.append(f"- {player} → {owner}")
 
 report.append("")
 report.append("---")
@@ -172,11 +218,8 @@ report.append("")
 report.append("## Recently Dropped Players")
 report.append("")
 
-if recent_drops:
-    for player in recent_drops[:15]:
-        report.append(f"- {player}")
-else:
-    report.append("No recent drops.")
+for player in recent_drops[:15]:
+    report.append(f"- {player}")
 
 report.append("")
 report.append("---")
