@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: '0 * * * *'
+    - cron: "0 * * * *"
 
 jobs:
   update:
@@ -21,22 +21,52 @@ jobs:
 
       - name: Install Dependencies
         run: |
+          python -m pip install --upgrade pip
           pip install -r requirements.txt
 
       - name: Run League Update
         run: |
           python update_league.py
+
+      - name: Download Transactions
+        run: |
           python scripts/download_transactions.py
+
+      - name: Download Players
+        run: |
           python scripts/download_players.py
+
+      - name: Build Player Index
+        run: |
           python scripts/build_player_index.py
+
+      - name: Find Unrostered Players
+        run: |
           python scripts/find_unrostered_players.py
+
+      - name: Build League Database
+        run: |
           python scripts/build_league_database.py
+
+      - name: Build Enriched Players
+        run: |
           python scripts/build_enriched_players.py
+
+      - name: Build Waiver Board
+        run: |
           python scripts/build_waiver_board.py
+
+      - name: Calculate Player Values
+        run: |
           python scripts/value_engine.py
 
       - name: Analyze Transactions
-        run: python analyze_transactions.py
+        run: |
+          python analyze_transactions.py
+
+      - name: Generate GM Report
+        run: |
+          python scripts/gm_report.py
 
       - name: Commit Updated Files
         run: |
