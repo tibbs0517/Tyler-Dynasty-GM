@@ -3,88 +3,94 @@ from pathlib import Path
 
 DATA = Path("data")
 
-with open(DATA / "transactions.json") as f:
-    transactions = json.load(f)
 
-with open(DATA / "players.json") as f:
-    players = json.load(f)
+def main():
+    with open(DATA / "transactions.json") as f:
+        transactions = json.load(f)
 
-with open(DATA / "users.json") as f:
-    users = json.load(f)
+    with open(DATA / "players.json") as f:
+        players = json.load(f)
 
-with open(DATA / "rosters.json") as f:
-    rosters = json.load(f)
+    with open(DATA / "users.json") as f:
+        users = json.load(f)
 
-# ------------------------------------------
-# Build lookup dictionaries
-# ------------------------------------------
+    with open(DATA / "rosters.json") as f:
+        rosters = json.load(f)
 
-player_lookup = {}
+    # ------------------------------------------
+    # Build lookup dictionaries
+    # ------------------------------------------
 
-for pid, player in players.items():
-    name = player.get("full_name")
+    player_lookup = {}
 
-    if not name:
-        first = player.get("first_name", "")
-        last = player.get("last_name", "")
-        name = (first + " " + last).strip()
+    for pid, player in players.items():
+        name = player.get("full_name")
 
-    if not name:
-        name = pid
+        if not name:
+            first = player.get("first_name", "")
+            last = player.get("last_name", "")
+            name = (first + " " + last).strip()
 
-    player_lookup[pid] = name
+        if not name:
+            name = pid
 
-owner_lookup = {}
+        player_lookup[pid] = name
 
-for roster in rosters:
-    owner_id = roster["owner_id"]
-    roster_id = roster["roster_id"]
+    owner_lookup = {}
 
-    username = owner_id
+    for roster in rosters:
+        owner_id = roster["owner_id"]
+        roster_id = roster["roster_id"]
 
-    for user in users:
-        if user["user_id"] == owner_id:
-            username = user["display_name"]
-            break
+        username = owner_id
 
-    owner_lookup[roster_id] = username
+        for user in users:
+            if user["user_id"] == owner_id:
+                username = user["display_name"]
+                break
 
-# ------------------------------------------
-# Print Transactions
-# ------------------------------------------
+        owner_lookup[roster_id] = username
 
-for week in sorted(transactions.keys(), key=int):
+    # ------------------------------------------
+    # Print Transactions
+    # ------------------------------------------
 
-    print(f"\n===================")
-    print(f"Week {week}")
-    print("===================\n")
+    for week in sorted(transactions.keys(), key=int):
 
-    for t in transactions[week]:
+        print("\n===================")
+        print(f"Week {week}")
+        print("===================\n")
 
-        print(t["type"].upper())
+        for t in transactions[week]:
 
-        if t.get("adds"):
-            for pid, roster in t["adds"].items():
-                print(
-                    f"ADD  : {player_lookup.get(pid,pid)} -> {owner_lookup.get(roster,roster)}"
-                )
+            print(t["type"].upper())
 
-        if t.get("drops"):
-            for pid, roster in t["drops"].items():
-                print(
-                    f"DROP : {player_lookup.get(pid,pid)} <- {owner_lookup.get(roster,roster)}"
-                )
+            if t.get("adds"):
+                for pid, roster in t["adds"].items():
+                    print(
+                        f"ADD  : {player_lookup.get(pid, pid)} -> {owner_lookup.get(roster, roster)}"
+                    )
 
-        if t.get("draft_picks"):
+            if t.get("drops"):
+                for pid, roster in t["drops"].items():
+                    print(
+                        f"DROP : {player_lookup.get(pid, pid)} <- {owner_lookup.get(roster, roster)}"
+                    )
 
-            print("PICKS")
+            if t.get("draft_picks"):
 
-            for p in t["draft_picks"]:
+                print("PICKS")
 
-                print(
-                    f"{p['season']} Round {p['round']} "
-                    f"Roster {p['previous_owner_id']} -> "
-                    f"Roster {p['owner_id']}"
-                )
+                for p in t["draft_picks"]:
 
-        print()
+                    print(
+                        f"{p['season']} Round {p['round']} "
+                        f"Roster {p['previous_owner_id']} -> "
+                        f"Roster {p['owner_id']}"
+                    )
+
+            print()
+
+
+if __name__ == "__main__":
+    main()
