@@ -60,6 +60,10 @@ jobs:
         run: |
           python scripts/value_engine.py
 
+      - name: Build AI Context
+        run: |
+          python scripts/build_ai_context.py
+
       - name: Analyze Transactions
         run: |
           python analyze_transactions.py
