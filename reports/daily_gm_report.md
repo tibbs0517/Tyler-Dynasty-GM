@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-07-11 20:44:13
+Generated: 2026-07-11 20:46:16
 
 ---
 
@@ -21,6 +21,14 @@ Free Agent Moves: 40
 
 ---
 
+## My Front Office
+
+Username: tylergratz
+Roster ID: 5
+Players on Roster: 22
+
+---
+
 ## Recent Trades
 
 - tylerhjensen ↔ theFalIeniD
@@ -32,7 +40,6 @@ Free Agent Moves: 40
 ## Top Waiver Claims
 
 - Kaelon Black → SammyA
-- J.J. McCarthy → SammyA
 - J.J. McCarthy → SammyA
 - J.J. McCarthy → jmikolay
 - Jalen Nailor → HebrewsHeroes
