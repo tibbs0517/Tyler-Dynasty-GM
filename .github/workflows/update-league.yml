@@ -35,6 +35,9 @@ jobs:
           python scripts/build_waiver_board.py
           python scripts/value_engine.py
 
+      - name: Analyze Transactions
+        run: python analyze_transactions.py
+
       - name: Commit Updated Files
         run: |
           git config --global user.name "github-actions"
