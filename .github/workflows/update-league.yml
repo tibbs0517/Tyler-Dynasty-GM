@@ -28,6 +28,7 @@ jobs:
           python update_league.py
           python scripts/download_players.py
           python scripts/build_player_index.py
+          python scripts/find_unrostered_players.py
 
       - name: Commit Updated Files
         run: |
