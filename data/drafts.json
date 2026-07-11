@@ -1,0 +1,58 @@
+[
+  {
+    "created": 1770675266127,
+    "creators": [
+      "429817971473403904"
+    ],
+    "draft_id": "1326711861202161664",
+    "draft_order": {
+      "326192785587699712": 6,
+      "334388238179381248": 9,
+      "353394136252092416": 10,
+      "429737370590400512": 5,
+      "429817971473403904": 7,
+      "430171068452319232": 3,
+      "434689597088198656": 8,
+      "472188020636774400": 4,
+      "472427763857354752": 2,
+      "798719789433487360": 1
+    },
+    "last_message_id": "1381060310906994688",
+    "last_message_time": 1783632946281,
+    "last_picked": 1783632945595,
+    "league_id": "1326711861197938688",
+    "metadata": {
+      "description": "",
+      "name": "The Fantasy Football League",
+      "scoring_type": "dynasty_half_ppr",
+      "show_team_names": "0"
+    },
+    "season": "2026",
+    "season_type": "regular",
+    "settings": {
+      "alpha_sort": 0,
+      "autopause_enabled": 1,
+      "autopause_end_time": 720,
+      "autopause_start_time": 240,
+      "autostart": 1,
+      "cpu_autopick": 1,
+      "enforce_position_limits": 1,
+      "nomination_timer": 60,
+      "pick_timer": 28800,
+      "player_type": 1,
+      "reversal_round": 0,
+      "rounds": 3,
+      "slots_bn": 12,
+      "slots_flex": 2,
+      "slots_qb": 1,
+      "slots_rb": 2,
+      "slots_te": 1,
+      "slots_wr": 3,
+      "teams": 10
+    },
+    "sport": "nfl",
+    "start_time": 1783386041744,
+    "status": "complete",
+    "type": "linear"
+  }
+]
