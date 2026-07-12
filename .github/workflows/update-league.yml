@@ -72,6 +72,15 @@ jobs:
         run: |
           python scripts/gm_report.py
 
+      - name: Publish AI Files
+        run: |
+          mkdir -p docs
+
+          cp data/ai_context.json docs/ai_context.json
+          cp reports/daily_gm_report.md docs/daily_gm_report.md
+          cp data/waiver_board.json docs/waiver_board.json
+          cp data/league_database.json docs/league_database.json
+
       - name: Commit Updated Files
         run: |
           git config --global user.name "github-actions"
