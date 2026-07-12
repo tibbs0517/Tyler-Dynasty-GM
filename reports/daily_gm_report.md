@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-07-12 00:22:32
+Generated: 2026-07-12 07:34:21
 
 ---
 
@@ -16,7 +16,7 @@ Available Players: 2804
 ## League Activity
 
 Trades: 3
-Waiver Claims: 8
+Waiver Claims: 9
 Free Agent Moves: 40
 
 ---
@@ -39,6 +39,7 @@ Players on Roster: 22
 
 ## Top Waiver Claims
 
+- Isaac TeSlaa → tylergratz
 - Kaelon Black → SammyA
 - J.J. McCarthy → SammyA
 - J.J. McCarthy → jmikolay
@@ -54,6 +55,7 @@ Players on Roster: 22
 - Cooper Kupp
 - Jalen Tolbert
 - Christian Kirk
+- Pat Bryant
 - T.J. Hockenson
 - Jaydon Blue
 - Isaac TeSlaa
@@ -65,7 +67,6 @@ Players on Roster: 22
 - Kyle Williams
 - Isaac Guerendo
 - Najee Harris
-- Xavier Legette
 
 ---
 
@@ -77,8 +78,8 @@ Players on Roster: 22
 - AnthonyJania: 6 moves
 - theFalIeniD: 6 moves
 - HebrewsHeroes: 6 moves
+- tylergratz: 4 moves
 - jmikolay: 3 moves
-- tylergratz: 3 moves
 - HoNeYmOOnBaBy: 3 moves
 
 ---

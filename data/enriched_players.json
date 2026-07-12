@@ -9143,7 +9143,7 @@
     "name": "DaRon Bland",
     "position": "DB",
     "team": "DAL",
-    "age": 26,
+    "age": 27,
     "years_exp": 4,
     "active": true,
     "injury_status": "Questionable",
@@ -17663,8 +17663,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": false,
-    "roster_id": null
+    "rostered": true,
+    "roster_id": 5
   },
   "8738": {
     "id": "8738",
@@ -24834,7 +24834,7 @@
     "name": "DeAngelo Malone",
     "position": "DL",
     "team": "ATL",
-    "age": 26,
+    "age": 27,
     "years_exp": 4,
     "active": true,
     "injury_status": null,
@@ -86948,7 +86948,7 @@
     "name": "Braiden McGregor",
     "position": "DE",
     "team": "NYJ",
-    "age": 24,
+    "age": 25,
     "years_exp": 2,
     "active": true,
     "injury_status": null,
@@ -96495,8 +96495,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": true,
-    "roster_id": 5
+    "rostered": false,
+    "roster_id": null
   },
   "6257": {
     "id": "6257",

@@ -574,6 +574,20 @@
     "gm_score": 93
   },
   {
+    "id": "12535",
+    "name": "Isaac TeSlaa",
+    "position": "WR",
+    "team": "DET",
+    "age": 24,
+    "years_exp": 1,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 5,
+    "gm_score": 93
+  },
+  {
     "id": "11635",
     "name": "Ladd McConkey",
     "position": "WR",
@@ -977,20 +991,6 @@
     "bye_week": null,
     "rostered": true,
     "roster_id": 4,
-    "gm_score": 93
-  },
-  {
-    "id": "12492",
-    "name": "Pat Bryant",
-    "position": "WR",
-    "team": "DEN",
-    "age": 23,
-    "years_exp": 1,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 5,
     "gm_score": 93
   },
   {
@@ -7448,20 +7448,6 @@
     "gm_score": 73
   },
   {
-    "id": "12535",
-    "name": "Isaac TeSlaa",
-    "position": "WR",
-    "team": "DET",
-    "age": 24,
-    "years_exp": 1,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 73
-  },
-  {
     "id": "6358",
     "name": "Kahlil Lewis",
     "position": "WR",
@@ -11009,6 +10995,20 @@
     "position": "WR",
     "team": null,
     "age": 25,
+    "years_exp": 1,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 73
+  },
+  {
+    "id": "12492",
+    "name": "Pat Bryant",
+    "position": "WR",
+    "team": "DEN",
+    "age": 23,
     "years_exp": 1,
     "active": true,
     "injury_status": null,

@@ -7476,13 +7476,6 @@
     "status": "Active"
   },
   {
-    "id": "12535",
-    "name": "Isaac TeSlaa",
-    "position": "WR",
-    "team": "DET",
-    "status": "Active"
-  },
-  {
     "id": "6626",
     "name": "Isaac Zico",
     "position": "WR",
@@ -14949,6 +14942,13 @@
     "name": "Parris Campbell",
     "position": "WR",
     "team": null,
+    "status": "Active"
+  },
+  {
+    "id": "12492",
+    "name": "Pat Bryant",
+    "position": "WR",
+    "team": "DEN",
     "status": "Active"
   },
   {

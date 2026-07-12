@@ -26091,19 +26091,6 @@
     "roster_id": null
   },
   {
-    "id": "12535",
-    "name": "Isaac TeSlaa",
-    "position": "WR",
-    "team": "DET",
-    "age": 24,
-    "years_exp": 1,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
     "id": "6626",
     "name": "Isaac Zico",
     "position": "WR",
@@ -32612,6 +32599,19 @@
     "years_exp": 7,
     "active": true,
     "injury_status": "NA",
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
+    "id": "12492",
+    "name": "Pat Bryant",
+    "position": "WR",
+    "team": "DEN",
+    "age": 23,
+    "years_exp": 1,
+    "active": true,
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
