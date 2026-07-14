@@ -21015,7 +21015,7 @@
     "age": 28,
     "years_exp": 5,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Sus",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -122463,11 +122463,11 @@
     "id": "12907",
     "name": "Quentin Skinner",
     "position": "WR",
-    "team": null,
+    "team": "BUF",
     "age": 24,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
