@@ -35190,7 +35190,7 @@
     "5903": {
       "name": "Will Grier",
       "position": "QB",
-      "team": "CAR",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -105830,7 +105830,7 @@
       "id": "5903",
       "name": "Will Grier",
       "position": "QB",
-      "team": "CAR",
+      "team": null,
       "status": "Active"
     },
     {
