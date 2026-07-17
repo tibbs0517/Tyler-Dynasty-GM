@@ -33092,7 +33092,7 @@
     "age": 26,
     "years_exp": 5,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
