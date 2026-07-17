@@ -143913,7 +143913,7 @@
     "id": "7697",
     "name": "Brady Christensen",
     "position": "T",
-    "team": null,
+    "team": "CAR",
     "age": 29,
     "years_exp": 5,
     "active": true,
@@ -156956,7 +156956,7 @@
     "age": 22,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": true,
     "roster_id": 4
