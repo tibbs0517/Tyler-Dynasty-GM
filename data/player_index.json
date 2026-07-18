@@ -10908,7 +10908,7 @@
   "8488": {
     "name": "Zachary Thomas",
     "position": "OL",
-    "team": "SF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -38348,7 +38348,7 @@
   "14048": {
     "name": "Travis Shaw",
     "position": "DT",
-    "team": "NE",
+    "team": null,
     "status": "Active",
     "active": true
   },
