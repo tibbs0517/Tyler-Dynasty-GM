@@ -34517,7 +34517,7 @@
     "age": null,
     "years_exp": 0,
     "active": true,
-    "injury_status": null,
+    "injury_status": "PUP",
     "bye_week": null,
     "rostered": false,
     "roster_id": null,
