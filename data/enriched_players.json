@@ -15395,7 +15395,7 @@
     "id": "11972",
     "name": "Isaiah Iton",
     "position": "DL",
-    "team": null,
+    "team": "NE",
     "age": 24,
     "years_exp": 2,
     "active": true,
@@ -21483,7 +21483,7 @@
     "age": 22,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "PUP",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -142487,7 +142487,7 @@
     "age": 25,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "PUP",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -157281,7 +157281,7 @@
     "age": 26,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "PUP",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
