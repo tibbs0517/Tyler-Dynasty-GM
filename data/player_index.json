@@ -702,7 +702,7 @@
   "12785": {
     "name": "Dom Jones",
     "position": "DB",
-    "team": "CLE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -69435,7 +69435,7 @@
   "6850": {
     "name": "Harrison Bryant",
     "position": "TE",
-    "team": "SEA",
+    "team": null,
     "status": "Active",
     "active": true
   },
