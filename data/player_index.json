@@ -4846,7 +4846,7 @@
   "12877": {
     "name": "Brandon Johnson",
     "position": "DB",
-    "team": null,
+    "team": "SEA",
     "status": "Active",
     "active": true
   },
@@ -61315,7 +61315,7 @@
   "8386": {
     "name": "Damarri Mathis",
     "position": "DB",
-    "team": null,
+    "team": "CLE",
     "status": "Active",
     "active": true
   },
