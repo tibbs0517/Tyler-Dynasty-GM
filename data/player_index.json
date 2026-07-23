@@ -29724,7 +29724,7 @@
   "13707": {
     "name": "Jaylon Guilbeau",
     "position": "CB",
-    "team": "CAR",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -41393,7 +41393,7 @@
   "12983": {
     "name": "Brock Lampe",
     "position": "FB",
-    "team": "NE",
+    "team": null,
     "status": "Active",
     "active": true
   },

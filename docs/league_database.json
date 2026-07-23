@@ -120,8 +120,8 @@
     "last_message_text_map": null,
     "last_message_time": 1783839969933,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1326711861202161664",
+    "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
     "bracket_id": null,
@@ -30976,7 +30976,7 @@
     "13707": {
       "name": "Jaylon Guilbeau",
       "position": "CB",
-      "team": "CAR",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -42645,7 +42645,7 @@
     "12983": {
       "name": "Brock Lampe",
       "position": "FB",
-      "team": "NE",
+      "team": null,
       "status": "Active",
       "active": true
     },
