@@ -59068,7 +59068,7 @@
   "13227": {
     "name": "Mitch Van Vooren",
     "position": "WR",
-    "team": null,
+    "team": "NE",
     "status": "Active",
     "active": true
   },
@@ -76540,7 +76540,7 @@
   "13970": {
     "name": "Riley Wilson",
     "position": "LB",
-    "team": "TB",
+    "team": "NE",
     "status": "Active",
     "active": true
   },
