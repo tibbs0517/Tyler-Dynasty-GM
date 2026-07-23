@@ -57,7 +57,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 4,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 22
+      "daily_waivers_last_ran": 23
     },
     "avatar": null,
     "company_id": null,
@@ -120,8 +120,8 @@
     "last_message_text_map": null,
     "last_message_time": 1783839969933,
     "last_pinned_message_id": null,
-    "draft_id": "1326711861202161664",
     "last_read_id": null,
+    "draft_id": "1326711861202161664",
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
     "bracket_id": null,
@@ -64590,7 +64590,7 @@
     "8202": {
       "name": "Michael Woods",
       "position": "WR",
-      "team": null,
+      "team": "DEN",
       "status": "Inactive",
       "active": true
     },
@@ -100587,7 +100587,7 @@
       "id": "8202",
       "name": "Michael Woods",
       "position": "WR",
-      "team": null,
+      "team": "DEN",
       "status": "Inactive"
     },
     {
