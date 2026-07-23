@@ -20257,7 +20257,7 @@
     "id": "8488",
     "name": "Zachary Thomas",
     "position": "OL",
-    "team": null,
+    "team": "TEN",
     "age": 28,
     "years_exp": 4,
     "active": true,
@@ -42777,7 +42777,7 @@
     "age": 23,
     "years_exp": 2,
     "active": true,
-    "injury_status": null,
+    "injury_status": "PUP",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -48484,7 +48484,7 @@
     "age": 28,
     "years_exp": 4,
     "active": true,
-    "injury_status": null,
+    "injury_status": "PUP",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -118927,7 +118927,7 @@
     "id": "13669",
     "name": "Derrell Bailey",
     "position": "OL",
-    "team": null,
+    "team": "CAR",
     "age": null,
     "years_exp": 0,
     "active": true,
@@ -121453,7 +121453,7 @@
     "age": 28,
     "years_exp": 7,
     "active": true,
-    "injury_status": null,
+    "injury_status": "PUP",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -145269,7 +145269,7 @@
     "age": 25,
     "years_exp": 2,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "PUP",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -153901,7 +153901,7 @@
     "age": 21,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
