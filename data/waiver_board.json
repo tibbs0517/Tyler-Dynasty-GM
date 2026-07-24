@@ -12938,7 +12938,7 @@
     "id": "12933",
     "name": "Caden Prieskorn",
     "position": "TE",
-    "team": null,
+    "team": "CAR",
     "age": 26,
     "years_exp": 1,
     "active": true,
@@ -19234,7 +19234,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "PUP",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -19325,7 +19325,7 @@
     "age": 24,
     "years_exp": 2,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "PUP",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
