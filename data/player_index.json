@@ -534,7 +534,7 @@
   "12887": {
     "name": "Joshua Gray",
     "position": "OL",
-    "team": "CAR",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -10131,7 +10131,7 @@
   "7451": {
     "name": "Cam Gill",
     "position": "LB",
-    "team": null,
+    "team": "CAR",
     "status": "Active",
     "active": true
   },
@@ -39762,7 +39762,7 @@
   "13427": {
     "name": "Diego Pavia",
     "position": "QB",
-    "team": "BAL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -44662,7 +44662,7 @@
   "11039": {
     "name": "Ryan Hayes",
     "position": "OL",
-    "team": "TEN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -82869,7 +82869,7 @@
     "name": "Nic Scourton",
     "position": "DL",
     "team": "CAR",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "6968": {
