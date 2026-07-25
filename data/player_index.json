@@ -5847,7 +5847,7 @@
   "11598": {
     "name": "Tanner McLachlan",
     "position": "TE",
-    "team": null,
+    "team": "SF",
     "status": "Active",
     "active": true
   },
@@ -14310,8 +14310,8 @@
   "13753": {
     "name": "DeCarlos Nicholson",
     "position": "CB",
-    "team": null,
-    "status": "Inactive",
+    "team": "CAR",
+    "status": "Active",
     "active": true
   },
   "4073": {
@@ -20652,7 +20652,7 @@
   "8736": {
     "name": "Elijah Garcia",
     "position": "DT",
-    "team": null,
+    "team": "CAR",
     "status": "Active",
     "active": true
   },
@@ -79816,7 +79816,7 @@
   "13708": {
     "name": "Kobe Prentice",
     "position": "WR",
-    "team": null,
+    "team": "NE",
     "status": "Active",
     "active": true
   },
@@ -81895,7 +81895,7 @@
   "6987": {
     "name": "Hakeem Adeniji",
     "position": "G",
-    "team": null,
+    "team": "BAL",
     "status": "Active",
     "active": true
   },

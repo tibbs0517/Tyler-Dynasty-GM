@@ -61,6 +61,7 @@
     },
     "avatar": null,
     "company_id": null,
+    "last_message_id": "1381928631038668800",
     "sport": "nfl",
     "season_type": "regular",
     "season": "2026",
@@ -111,19 +112,20 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1381928631038668800",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
+    "draft_id": "1326711861202161664",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
     "last_message_time": 1783839969933,
     "last_pinned_message_id": null,
-    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "group_id": null,
     "roster_positions": [
       "QB",
@@ -149,8 +151,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -7099,7 +7099,7 @@
     "11598": {
       "name": "Tanner McLachlan",
       "position": "TE",
-      "team": null,
+      "team": "SF",
       "status": "Active",
       "active": true
     },
@@ -15562,8 +15562,8 @@
     "13753": {
       "name": "DeCarlos Nicholson",
       "position": "CB",
-      "team": null,
-      "status": "Inactive",
+      "team": "CAR",
+      "status": "Active",
       "active": true
     },
     "4073": {
@@ -21904,7 +21904,7 @@
     "8736": {
       "name": "Elijah Garcia",
       "position": "DT",
-      "team": null,
+      "team": "CAR",
       "status": "Active",
       "active": true
     },
@@ -81068,7 +81068,7 @@
     "13708": {
       "name": "Kobe Prentice",
       "position": "WR",
-      "team": null,
+      "team": "NE",
       "status": "Active",
       "active": true
     },
@@ -83147,7 +83147,7 @@
     "6987": {
       "name": "Hakeem Adeniji",
       "position": "G",
-      "team": null,
+      "team": "BAL",
       "status": "Active",
       "active": true
     },
@@ -98599,7 +98599,7 @@
       "id": "13708",
       "name": "Kobe Prentice",
       "position": "WR",
-      "team": null,
+      "team": "NE",
       "status": "Active"
     },
     {
@@ -104080,7 +104080,7 @@
       "id": "11598",
       "name": "Tanner McLachlan",
       "position": "TE",
-      "team": null,
+      "team": "SF",
       "status": "Active"
     },
     {
