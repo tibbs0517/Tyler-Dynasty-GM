@@ -3125,7 +3125,7 @@
     "id": "3269",
     "name": "Chris Moore",
     "position": "WR",
-    "team": null,
+    "team": "BAL",
     "status": "Active"
   },
   {
@@ -9310,6 +9310,13 @@
     "status": "Active"
   },
   {
+    "id": "14061",
+    "name": "Jeremiah Franklin",
+    "position": "TE",
+    "team": "NE",
+    "status": "Active"
+  },
+  {
     "id": "8203",
     "name": "Jeremiah Hall",
     "position": "TE",
@@ -9608,7 +9615,7 @@
     "name": "Jimmy Kibble",
     "position": "WR",
     "team": "NE",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "5254",
@@ -14640,7 +14647,7 @@
     "id": "3258",
     "name": "Nick Vannett",
     "position": "TE",
-    "team": null,
+    "team": "SEA",
     "status": "Active"
   },
   {

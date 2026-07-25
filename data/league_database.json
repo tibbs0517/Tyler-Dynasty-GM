@@ -61,10 +61,11 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "shard": 470,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "last_message_id": "1381928631038668800",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -111,7 +112,6 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1381928631038668800",
     "draft_id": "1326711861202161664",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -124,7 +124,8 @@
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
-    "group_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -149,8 +150,7 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -7862,7 +7862,7 @@
     "3269": {
       "name": "Chris Moore",
       "position": "WR",
-      "team": null,
+      "team": "BAL",
       "status": "Active",
       "active": true
     },
@@ -26171,6 +26171,13 @@
       "status": "Inactive",
       "active": false
     },
+    "14061": {
+      "name": "Jeremiah Franklin",
+      "position": "TE",
+      "team": "NE",
+      "status": "Active",
+      "active": true
+    },
     "11214": {
       "name": "Tanner Morgan",
       "position": "QB",
@@ -43927,7 +43934,7 @@
       "name": "Jimmy Kibble",
       "position": "WR",
       "team": "NE",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "3647": {
@@ -45914,7 +45921,7 @@
     "11039": {
       "name": "Ryan Hayes",
       "position": "OL",
-      "team": null,
+      "team": "CAR",
       "status": "Active",
       "active": true
     },
@@ -46782,7 +46789,7 @@
     "3258": {
       "name": "Nick Vannett",
       "position": "TE",
-      "team": null,
+      "team": "SEA",
       "status": "Active",
       "active": true
     },
@@ -76469,7 +76476,7 @@
     "12364": {
       "name": "Kyon Barrs",
       "position": "DL",
-      "team": null,
+      "team": "CAR",
       "status": "Active",
       "active": true
     },
@@ -77911,7 +77918,7 @@
     "8506": {
       "name": "Nazeeh Johnson",
       "position": "DB",
-      "team": null,
+      "team": "TEN",
       "status": "Active",
       "active": true
     },
@@ -89779,7 +89786,7 @@
       "id": "3269",
       "name": "Chris Moore",
       "position": "WR",
-      "team": null,
+      "team": "BAL",
       "status": "Active"
     },
     {
@@ -95964,6 +95971,13 @@
       "status": "Active"
     },
     {
+      "id": "14061",
+      "name": "Jeremiah Franklin",
+      "position": "TE",
+      "team": "NE",
+      "status": "Active"
+    },
+    {
       "id": "8203",
       "name": "Jeremiah Hall",
       "position": "TE",
@@ -96262,7 +96276,7 @@
       "name": "Jimmy Kibble",
       "position": "WR",
       "team": "NE",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "5254",
@@ -101294,7 +101308,7 @@
       "id": "3258",
       "name": "Nick Vannett",
       "position": "TE",
-      "team": null,
+      "team": "SEA",
       "status": "Active"
     },
     {

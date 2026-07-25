@@ -6610,7 +6610,7 @@
   "3269": {
     "name": "Chris Moore",
     "position": "WR",
-    "team": null,
+    "team": "BAL",
     "status": "Active",
     "active": true
   },
@@ -24919,6 +24919,13 @@
     "status": "Inactive",
     "active": false
   },
+  "14061": {
+    "name": "Jeremiah Franklin",
+    "position": "TE",
+    "team": "NE",
+    "status": "Active",
+    "active": true
+  },
   "11214": {
     "name": "Tanner Morgan",
     "position": "QB",
@@ -42675,7 +42682,7 @@
     "name": "Jimmy Kibble",
     "position": "WR",
     "team": "NE",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3647": {
@@ -44662,7 +44669,7 @@
   "11039": {
     "name": "Ryan Hayes",
     "position": "OL",
-    "team": null,
+    "team": "CAR",
     "status": "Active",
     "active": true
   },
@@ -45530,7 +45537,7 @@
   "3258": {
     "name": "Nick Vannett",
     "position": "TE",
-    "team": null,
+    "team": "SEA",
     "status": "Active",
     "active": true
   },
@@ -75217,7 +75224,7 @@
   "12364": {
     "name": "Kyon Barrs",
     "position": "DL",
-    "team": null,
+    "team": "CAR",
     "status": "Active",
     "active": true
   },
@@ -76659,7 +76666,7 @@
   "8506": {
     "name": "Nazeeh Johnson",
     "position": "DB",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
