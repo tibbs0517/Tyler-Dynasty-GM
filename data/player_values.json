@@ -19229,7 +19229,7 @@
     "age": null,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null,
@@ -21770,20 +21770,6 @@
     "gm_score": 65
   },
   {
-    "id": "6853",
-    "name": "Van Jefferson",
-    "position": "WR",
-    "team": "WAS",
-    "age": 29,
-    "years_exp": 6,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 65
-  },
-  {
     "id": "6557",
     "name": "Jeff Smith",
     "position": "WR",
@@ -22250,7 +22236,7 @@
     "name": "Brandon Johnson",
     "position": "WR",
     "team": "LV",
-    "age": 27,
+    "age": 28,
     "years_exp": 4,
     "active": true,
     "injury_status": null,
@@ -32662,6 +32648,20 @@
     "gm_score": 53
   },
   {
+    "id": "6853",
+    "name": "Van Jefferson",
+    "position": "WR",
+    "team": "WAS",
+    "age": 30,
+    "years_exp": 6,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 53
+  },
+  {
     "id": "2771",
     "name": "Jimmie Hunt",
     "position": "WR",
@@ -34993,7 +34993,7 @@
     "age": 26,
     "years_exp": 2,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null,
