@@ -61,6 +61,8 @@
     },
     "avatar": null,
     "company_id": null,
+    "sport": "nfl",
+    "season_type": "regular",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -108,9 +110,7 @@
       "st_ff": 1.0
     },
     "season": "2026",
-    "season_type": "regular",
     "shard": 470,
-    "sport": "nfl",
     "last_message_id": "1381928631038668800",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -120,15 +120,11 @@
     "last_message_text_map": null,
     "last_message_time": 1783839969933,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1326711861202161664",
+    "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -153,6 +149,10 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -5720,7 +5720,7 @@
     "6005": {
       "name": "Kevin Givens",
       "position": "DT",
-      "team": null,
+      "team": "SF",
       "status": "Active",
       "active": true
     },
@@ -17872,7 +17872,7 @@
     "12282": {
       "name": "C.J. Ravenell",
       "position": "DL",
-      "team": "NYG",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -20413,7 +20413,7 @@
     "13432": {
       "name": "Khalil Dinkins",
       "position": "TE",
-      "team": "SF",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -35869,7 +35869,7 @@
     "12960": {
       "name": "Michael Reid",
       "position": "CB",
-      "team": "CAR",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -46572,7 +46572,7 @@
     "13439": {
       "name": "Luke Elzinga",
       "position": "P",
-      "team": "BAL",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -60691,7 +60691,7 @@
     "11923": {
       "name": "Evan Anderson",
       "position": "DL",
-      "team": "SF",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -63582,7 +63582,7 @@
     "8754": {
       "name": "Sebastian Gutierrez",
       "position": "T",
-      "team": "NE",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -65297,7 +65297,7 @@
     "13669": {
       "name": "Derrell Bailey",
       "position": "OL",
-      "team": "CAR",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -66872,7 +66872,7 @@
     "11315": {
       "name": "Cam Jones",
       "position": "LB",
-      "team": "NYG",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -69105,7 +69105,7 @@
     "13146": {
       "name": "Jared Bartlett",
       "position": "LB",
-      "team": "CAR",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -80998,7 +80998,7 @@
     "13038": {
       "name": "Jared Penning",
       "position": "OL",
-      "team": "BAL",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -98508,7 +98508,7 @@
       "id": "13432",
       "name": "Khalil Dinkins",
       "position": "TE",
-      "team": "SF",
+      "team": null,
       "status": "Active"
     },
     {

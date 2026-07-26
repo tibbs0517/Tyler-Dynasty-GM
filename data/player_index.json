@@ -4468,7 +4468,7 @@
   "6005": {
     "name": "Kevin Givens",
     "position": "DT",
-    "team": null,
+    "team": "SF",
     "status": "Active",
     "active": true
   },
@@ -16620,7 +16620,7 @@
   "12282": {
     "name": "C.J. Ravenell",
     "position": "DL",
-    "team": "NYG",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -19161,7 +19161,7 @@
   "13432": {
     "name": "Khalil Dinkins",
     "position": "TE",
-    "team": "SF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -34617,7 +34617,7 @@
   "12960": {
     "name": "Michael Reid",
     "position": "CB",
-    "team": "CAR",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -45320,7 +45320,7 @@
   "13439": {
     "name": "Luke Elzinga",
     "position": "P",
-    "team": "BAL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -59439,7 +59439,7 @@
   "11923": {
     "name": "Evan Anderson",
     "position": "DL",
-    "team": "SF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -62330,7 +62330,7 @@
   "8754": {
     "name": "Sebastian Gutierrez",
     "position": "T",
-    "team": "NE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -64045,7 +64045,7 @@
   "13669": {
     "name": "Derrell Bailey",
     "position": "OL",
-    "team": "CAR",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -65620,7 +65620,7 @@
   "11315": {
     "name": "Cam Jones",
     "position": "LB",
-    "team": "NYG",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -67853,7 +67853,7 @@
   "13146": {
     "name": "Jared Bartlett",
     "position": "LB",
-    "team": "CAR",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -79746,7 +79746,7 @@
   "13038": {
     "name": "Jared Penning",
     "position": "OL",
-    "team": "BAL",
+    "team": null,
     "status": "Active",
     "active": true
   },
