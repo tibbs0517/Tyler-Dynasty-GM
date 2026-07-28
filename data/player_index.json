@@ -29801,7 +29801,7 @@
   "7369": {
     "name": "Bill Murray",
     "position": "DT",
-    "team": null,
+    "team": "LAR",
     "status": "Active",
     "active": true
   },
@@ -36759,7 +36759,7 @@
   "5842": {
     "name": "Clelin Ferrell",
     "position": "DE",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -49198,7 +49198,7 @@
   "11290": {
     "name": "Alex Cook",
     "position": "DB",
-    "team": null,
+    "team": "LAR",
     "status": "Active",
     "active": true
   },
@@ -53567,6 +53567,13 @@
     "name": "Stone Smartt",
     "position": "TE",
     "team": "PHI",
+    "status": "Active",
+    "active": true
+  },
+  "14062": {
+    "name": "Tyler Moore",
+    "position": "TE",
+    "team": "NYG",
     "status": "Active",
     "active": true
   },
