@@ -1780,7 +1780,7 @@
   "13352": {
     "name": "Lincoln Pare",
     "position": "RB",
-    "team": "IND",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -31999,7 +31999,7 @@
   "7690": {
     "name": "Ben Cleveland",
     "position": "G",
-    "team": "LAC",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -40763,7 +40763,7 @@
   "12548": {
     "name": "Lenny Krieg",
     "position": "K",
-    "team": null,
+    "team": "GB",
     "status": "Active",
     "active": true
   },
@@ -47000,7 +47000,7 @@
   "13935": {
     "name": "Kahlil Saunders",
     "position": "DL",
-    "team": "MIA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -47518,7 +47518,7 @@
   "13920": {
     "name": "Jonathan Brady",
     "position": "WR",
-    "team": "LV",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -57101,7 +57101,7 @@
   "13625": {
     "name": "Keli Lawson",
     "position": "LB",
-    "team": "MIN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -70359,7 +70359,7 @@
   "13594": {
     "name": "Latrell McCutchin",
     "position": "DB",
-    "team": "TEN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -70849,7 +70849,7 @@
   "815": {
     "name": "Nick Bellore",
     "position": "LB",
-    "team": "WAS",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -72501,7 +72501,7 @@
   "13144": {
     "name": "Laki Tasi",
     "position": "DL",
-    "team": "LV",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -75665,7 +75665,7 @@
   "11378": {
     "name": "Jordan Mims",
     "position": "RB",
-    "team": null,
+    "team": "MIN",
     "status": "Active",
     "active": true
   },
@@ -79963,7 +79963,7 @@
   "13617": {
     "name": "Luke Wysong",
     "position": "WR",
-    "team": "MIN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -84163,7 +84163,7 @@
   "13897": {
     "name": "Christian Thomas",
     "position": "LB",
-    "team": "LV",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -84702,7 +84702,7 @@
   "10216": {
     "name": "Kenny McIntosh",
     "position": "RB",
-    "team": "SEA",
+    "team": null,
     "status": "Active",
     "active": true
   },

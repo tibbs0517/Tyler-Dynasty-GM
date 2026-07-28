@@ -10069,7 +10069,7 @@
     "id": "13920",
     "name": "Jonathan Brady",
     "position": "WR",
-    "team": "LV",
+    "team": null,
     "status": "Active"
   },
   {
@@ -10209,7 +10209,7 @@
     "id": "11378",
     "name": "Jordan Mims",
     "position": "RB",
-    "team": null,
+    "team": "MIN",
     "status": "Active"
   },
   {
@@ -11595,7 +11595,7 @@
     "id": "10216",
     "name": "Kenny McIntosh",
     "position": "RB",
-    "team": "SEA",
+    "team": null,
     "status": "Active"
   },
   {
@@ -12561,7 +12561,7 @@
     "id": "13352",
     "name": "Lincoln Pare",
     "position": "RB",
-    "team": "IND",
+    "team": null,
     "status": "Active"
   },
   {
@@ -12764,7 +12764,7 @@
     "id": "13617",
     "name": "Luke Wysong",
     "position": "WR",
-    "team": "MIN",
+    "team": null,
     "status": "Active"
   },
   {
