@@ -3586,7 +3586,7 @@
   "7770": {
     "name": "Patrick Johnson",
     "position": "LB",
-    "team": null,
+    "team": "LV",
     "status": "Active",
     "active": true
   },
@@ -27008,7 +27008,7 @@
   "8253": {
     "name": "Deven Thompkins",
     "position": "WR",
-    "team": null,
+    "team": "LV",
     "status": "Active",
     "active": true
   },
@@ -53972,7 +53972,7 @@
   "4077": {
     "name": "Jamal Adams",
     "position": "SS",
-    "team": null,
+    "team": "MIN",
     "status": "Active",
     "active": true
   },
@@ -74223,7 +74223,7 @@
   "7704": {
     "name": "Buddy Johnson",
     "position": "LB",
-    "team": null,
+    "team": "LV",
     "status": "Active",
     "active": true
   },
