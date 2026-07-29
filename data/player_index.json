@@ -10698,7 +10698,7 @@
   "11806": {
     "name": "Casey Washington",
     "position": "WR",
-    "team": null,
+    "team": "CAR",
     "status": "Active",
     "active": true
   },
@@ -35212,7 +35212,7 @@
   "7680": {
     "name": "Ifeatu Melifonwu",
     "position": "CB",
-    "team": null,
+    "team": "TB",
     "status": "Active",
     "active": true
   },
@@ -65151,7 +65151,7 @@
   "10991": {
     "name": "KJ Henry",
     "position": "DE",
-    "team": null,
+    "team": "SF",
     "status": "Active",
     "active": true
   },

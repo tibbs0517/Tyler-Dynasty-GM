@@ -982,7 +982,7 @@
     "age": 27,
     "years_exp": 6,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": true,
     "roster_id": 9
@@ -6572,7 +6572,7 @@
     "age": 33,
     "years_exp": 10,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": true,
     "roster_id": 6
@@ -17817,7 +17817,7 @@
     "age": 24,
     "years_exp": 2,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -19867,7 +19867,7 @@
     "id": "11806",
     "name": "Casey Washington",
     "position": "WR",
-    "team": null,
+    "team": "CAR",
     "age": 25,
     "years_exp": 2,
     "active": true,
@@ -29634,7 +29634,7 @@
     "age": 25,
     "years_exp": 2,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "PUP",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -35419,7 +35419,7 @@
     "age": 31,
     "years_exp": 9,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": true,
     "roster_id": 8
@@ -39865,7 +39865,7 @@
     "age": 25,
     "years_exp": 2,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": true,
     "roster_id": 5
@@ -59222,7 +59222,7 @@
     "age": 22,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": true,
     "roster_id": 3
@@ -64318,7 +64318,7 @@
     "age": 24,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -65393,8 +65393,8 @@
     "id": "7680",
     "name": "Ifeatu Melifonwu",
     "position": "CB",
-    "team": null,
-    "age": 26,
+    "team": "TB",
+    "age": 27,
     "years_exp": 5,
     "active": true,
     "injury_status": null,
@@ -72768,7 +72768,7 @@
     "age": 28,
     "years_exp": 5,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -74484,7 +74484,7 @@
     "age": 22,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -75797,7 +75797,7 @@
     "age": 36,
     "years_exp": 13,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "PUP",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -87133,7 +87133,7 @@
     "age": 29,
     "years_exp": 6,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -88056,7 +88056,7 @@
     "age": 30,
     "years_exp": 7,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -89603,7 +89603,7 @@
     "age": 25,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "PUP",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -98755,7 +98755,7 @@
     "age": 26,
     "years_exp": 2,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": true,
     "roster_id": 1
@@ -108245,7 +108245,7 @@
     "age": 24,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": true,
     "roster_id": 3
@@ -120994,7 +120994,7 @@
     "id": "10991",
     "name": "KJ Henry",
     "position": "DE",
-    "team": null,
+    "team": "SF",
     "age": 27,
     "years_exp": 3,
     "active": true,
@@ -121401,7 +121401,7 @@
     "age": 22,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -124092,7 +124092,7 @@
     "age": 22,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": true,
     "roster_id": 3
@@ -134583,7 +134583,7 @@
     "age": 24,
     "years_exp": 3,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -150911,7 +150911,7 @@
     "age": 29,
     "years_exp": 7,
     "active": true,
-    "injury_status": "PUP",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
