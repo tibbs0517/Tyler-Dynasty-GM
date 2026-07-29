@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-07-29 10:49:15
+Generated: 2026-07-29 16:11:53
 
 ---
 
@@ -9,7 +9,7 @@ Generated: 2026-07-29 10:49:15
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2806
+Available Players: 2807
 
 ---
 
@@ -17,7 +17,7 @@ Available Players: 2806
 
 Trades: 3
 Waiver Claims: 9
-Free Agent Moves: 40
+Free Agent Moves: 41
 
 ---
 
@@ -52,6 +52,7 @@ Players on Roster: 22
 
 ## Recently Dropped Players
 
+- Michael Penix
 - Cooper Kupp
 - Jalen Tolbert
 - Christian Kirk
@@ -66,7 +67,6 @@ Players on Roster: 22
 - Emari Demercado
 - Kyle Williams
 - Isaac Guerendo
-- Najee Harris
 
 ---
 
@@ -78,9 +78,9 @@ Players on Roster: 22
 - AnthonyJania: 6 moves
 - theFalIeniD: 6 moves
 - HebrewsHeroes: 6 moves
+- HoNeYmOOnBaBy: 4 moves
 - tylergratz: 4 moves
 - jmikolay: 3 moves
-- HoNeYmOOnBaBy: 3 moves
 
 ---
 

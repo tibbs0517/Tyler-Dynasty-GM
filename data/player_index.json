@@ -8311,7 +8311,7 @@
   "7731": {
     "name": "Jay Tufele",
     "position": "DT",
-    "team": "DET",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -12448,7 +12448,7 @@
   "4574": {
     "name": "Cooper Rush",
     "position": "QB",
-    "team": null,
+    "team": "ATL",
     "status": "Active",
     "active": true
   },
@@ -20981,7 +20981,7 @@
   "8932": {
     "name": "Lucas Havrisik",
     "position": "K",
-    "team": "GB",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -26042,7 +26042,7 @@
   "13960": {
     "name": "Ja'Qurious Conley",
     "position": "DB",
-    "team": "TB",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -32286,7 +32286,7 @@
   "6969": {
     "name": "Dane Jackson",
     "position": "CB",
-    "team": "JAX",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -32734,7 +32734,7 @@
   "11860": {
     "name": "Beanie Bishop",
     "position": "CB",
-    "team": "NO",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -36969,7 +36969,7 @@
   "14055": {
     "name": "Louis Hansen",
     "position": "TE",
-    "team": "HOU",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -43696,7 +43696,7 @@
   "11084": {
     "name": "Andre Carter",
     "position": "LB",
-    "team": "WAS",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -44221,7 +44221,7 @@
   "7989": {
     "name": "DJ Turner",
     "position": "WR",
-    "team": null,
+    "team": "HOU",
     "status": "Active",
     "active": true
   },
@@ -57150,7 +57150,7 @@
   "4854": {
     "name": "River Cracraft",
     "position": "WR",
-    "team": null,
+    "team": "WAS",
     "status": "Active",
     "active": true
   },
@@ -58844,7 +58844,7 @@
   "2549": {
     "name": "Trevor Siemian",
     "position": "QB",
-    "team": "ATL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -70954,7 +70954,7 @@
   "4435": {
     "name": "Anthony Firkser",
     "position": "TE",
-    "team": "WAS",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -71738,7 +71738,7 @@
   "4390": {
     "name": "Matt Haack",
     "position": "P",
-    "team": null,
+    "team": "WAS",
     "status": "Active",
     "active": true
   },
@@ -72823,7 +72823,7 @@
   "13087": {
     "name": "Dante Barnett",
     "position": "DL",
-    "team": "GB",
+    "team": null,
     "status": "Active",
     "active": true
   },

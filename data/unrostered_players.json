@@ -675,7 +675,7 @@
     "id": "4435",
     "name": "Anthony Firkser",
     "position": "TE",
-    "team": "WAS",
+    "team": null,
     "status": "Active"
   },
   {
@@ -3615,7 +3615,7 @@
     "id": "4574",
     "name": "Cooper Rush",
     "position": "QB",
-    "team": null,
+    "team": "ATL",
     "status": "Active"
   },
   {
@@ -3867,7 +3867,7 @@
     "id": "7989",
     "name": "DJ Turner",
     "position": "WR",
-    "team": null,
+    "team": "HOU",
     "status": "Active"
   },
   {
@@ -12624,7 +12624,7 @@
     "id": "14055",
     "name": "Louis Hansen",
     "position": "TE",
-    "team": "HOU",
+    "team": null,
     "status": "Active"
   },
   {
@@ -13878,6 +13878,13 @@
     "name": "Michael Miller",
     "position": "TE",
     "team": null,
+    "status": "Active"
+  },
+  {
+    "id": "11559",
+    "name": "Michael Penix",
+    "position": "QB",
+    "team": "ATL",
     "status": "Active"
   },
   {
@@ -15809,7 +15816,7 @@
     "id": "4854",
     "name": "River Cracraft",
     "position": "WR",
-    "team": null,
+    "team": "WAS",
     "status": "Active"
   },
   {
@@ -18434,7 +18441,7 @@
     "id": "2549",
     "name": "Trevor Siemian",
     "position": "QB",
-    "team": "ATL",
+    "team": null,
     "status": "Active"
   },
   {

@@ -61,6 +61,10 @@
     },
     "avatar": null,
     "company_id": null,
+    "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 470,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -107,23 +111,24 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 470,
-    "sport": "nfl",
-    "last_message_id": "1381928631038668800",
-    "draft_id": "1326711861202161664",
+    "last_message_id": "1388207183711182848",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
+    "draft_id": "1326711861202161664",
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1783839969933,
+    "last_message_time": 1785336893540,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -148,11 +153,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -838,7 +838,9 @@
         "9228",
         "9229"
       ],
-      "reserve": null,
+      "reserve": [
+        "12536"
+      ],
       "roster_id": 4,
       "settings": {
         "fpts": 0,
@@ -1065,7 +1067,6 @@
       "player_map": null,
       "players": [
         "10222",
-        "11559",
         "11581",
         "11624",
         "12514",
@@ -1162,7 +1163,9 @@
         "9508",
         "9753"
       ],
-      "reserve": null,
+      "reserve": [
+        "9753"
+      ],
       "roster_id": 9,
       "settings": {
         "fpts": 0,
@@ -9564,7 +9567,7 @@
     "7731": {
       "name": "Jay Tufele",
       "position": "DT",
-      "team": "DET",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -13701,7 +13704,7 @@
     "4574": {
       "name": "Cooper Rush",
       "position": "QB",
-      "team": null,
+      "team": "ATL",
       "status": "Active",
       "active": true
     },
@@ -22234,7 +22237,7 @@
     "8932": {
       "name": "Lucas Havrisik",
       "position": "K",
-      "team": "GB",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -27295,7 +27298,7 @@
     "13960": {
       "name": "Ja'Qurious Conley",
       "position": "DB",
-      "team": "TB",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -33539,7 +33542,7 @@
     "6969": {
       "name": "Dane Jackson",
       "position": "CB",
-      "team": "JAX",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -33987,7 +33990,7 @@
     "11860": {
       "name": "Beanie Bishop",
       "position": "CB",
-      "team": "NO",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -38222,7 +38225,7 @@
     "14055": {
       "name": "Louis Hansen",
       "position": "TE",
-      "team": "HOU",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -44949,7 +44952,7 @@
     "11084": {
       "name": "Andre Carter",
       "position": "LB",
-      "team": "WAS",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -45474,7 +45477,7 @@
     "7989": {
       "name": "DJ Turner",
       "position": "WR",
-      "team": null,
+      "team": "HOU",
       "status": "Active",
       "active": true
     },
@@ -58403,7 +58406,7 @@
     "4854": {
       "name": "River Cracraft",
       "position": "WR",
-      "team": null,
+      "team": "WAS",
       "status": "Active",
       "active": true
     },
@@ -60097,7 +60100,7 @@
     "2549": {
       "name": "Trevor Siemian",
       "position": "QB",
-      "team": "ATL",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -72207,7 +72210,7 @@
     "4435": {
       "name": "Anthony Firkser",
       "position": "TE",
-      "team": "WAS",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -72991,7 +72994,7 @@
     "4390": {
       "name": "Matt Haack",
       "position": "P",
-      "team": null,
+      "team": "WAS",
       "status": "Active",
       "active": true
     },
@@ -74076,7 +74079,7 @@
     "13087": {
       "name": "Dante Barnett",
       "position": "DL",
-      "team": "GB",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -87344,7 +87347,7 @@
       "id": "4435",
       "name": "Anthony Firkser",
       "position": "TE",
-      "team": "WAS",
+      "team": null,
       "status": "Active"
     },
     {
@@ -90284,7 +90287,7 @@
       "id": "4574",
       "name": "Cooper Rush",
       "position": "QB",
-      "team": null,
+      "team": "ATL",
       "status": "Active"
     },
     {
@@ -90536,7 +90539,7 @@
       "id": "7989",
       "name": "DJ Turner",
       "position": "WR",
-      "team": null,
+      "team": "HOU",
       "status": "Active"
     },
     {
@@ -99293,7 +99296,7 @@
       "id": "14055",
       "name": "Louis Hansen",
       "position": "TE",
-      "team": "HOU",
+      "team": null,
       "status": "Active"
     },
     {
@@ -100547,6 +100550,13 @@
       "name": "Michael Miller",
       "position": "TE",
       "team": null,
+      "status": "Active"
+    },
+    {
+      "id": "11559",
+      "name": "Michael Penix",
+      "position": "QB",
+      "team": "ATL",
       "status": "Active"
     },
     {
@@ -102478,7 +102488,7 @@
       "id": "4854",
       "name": "River Cracraft",
       "position": "WR",
-      "team": null,
+      "team": "WAS",
       "status": "Active"
     },
     {
@@ -105103,7 +105113,7 @@
       "id": "2549",
       "name": "Trevor Siemian",
       "position": "QB",
-      "team": "ATL",
+      "team": null,
       "status": "Active"
     },
     {
