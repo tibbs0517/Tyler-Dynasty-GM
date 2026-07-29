@@ -12050,7 +12050,7 @@
     "name": "John Michael Gyllenborg",
     "position": "TE",
     "team": "KC",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "987": {
@@ -32560,7 +32560,7 @@
     "name": "Ethan Downs",
     "position": "DE",
     "team": "KC",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "5442": {
@@ -65683,7 +65683,7 @@
   "6566": {
     "name": "Blake Hance",
     "position": "OG",
-    "team": null,
+    "team": "LAR",
     "status": "Active",
     "active": true
   },
