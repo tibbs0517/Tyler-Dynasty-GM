@@ -7859,7 +7859,7 @@
     "age": 30,
     "years_exp": 8,
     "active": true,
-    "injury_status": null,
+    "injury_status": "PUP",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -19468,7 +19468,7 @@
     "age": 31,
     "years_exp": 7,
     "active": true,
-    "injury_status": null,
+    "injury_status": "PUP",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -20157,7 +20157,7 @@
     "age": 29,
     "years_exp": 8,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -22380,7 +22380,7 @@
     "age": 23,
     "years_exp": 0,
     "active": true,
-    "injury_status": "PUP",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -23485,7 +23485,7 @@
     "age": 28,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "PUP",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -26878,7 +26878,7 @@
     "age": 31,
     "years_exp": 7,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "PUP",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -27983,7 +27983,7 @@
     "age": 27,
     "years_exp": 3,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -60470,7 +60470,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Out",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -64288,7 +64288,7 @@
     "id": "12960",
     "name": "Michael Reid",
     "position": "CB",
-    "team": null,
+    "team": "NO",
     "age": 24,
     "years_exp": 1,
     "active": true,
@@ -70818,7 +70818,7 @@
     "age": 29,
     "years_exp": 4,
     "active": true,
-    "injury_status": null,
+    "injury_status": "PUP",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -72218,7 +72218,7 @@
     "id": "12113",
     "name": "Thomas Yassmin",
     "position": "TE",
-    "team": null,
+    "team": "GB",
     "age": 26,
     "years_exp": 2,
     "active": true,
@@ -75797,7 +75797,7 @@
     "age": 36,
     "years_exp": 13,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -77461,7 +77461,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": "PUP",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -80113,7 +80113,7 @@
     "age": 27,
     "years_exp": 5,
     "active": true,
-    "injury_status": "Doubtful",
+    "injury_status": "PUP",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -84130,7 +84130,7 @@
     "age": 23,
     "years_exp": 2,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": true,
     "roster_id": 4
@@ -89603,7 +89603,7 @@
     "age": 25,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -96181,7 +96181,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "PUP",
     "bye_week": null,
     "rostered": true,
     "roster_id": 4
@@ -104995,7 +104995,7 @@
     "age": null,
     "years_exp": 0,
     "active": true,
-    "injury_status": null,
+    "injury_status": "PUP",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -110442,7 +110442,7 @@
     "age": 24,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -114056,7 +114056,7 @@
     "age": 28,
     "years_exp": 4,
     "active": true,
-    "injury_status": "PUP",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -115651,8 +115651,8 @@
     "id": "6296",
     "name": "Quinton Bell",
     "position": "LB",
-    "team": null,
-    "age": 29,
+    "team": "SF",
+    "age": 30,
     "years_exp": 7,
     "active": true,
     "injury_status": null,
@@ -117033,7 +117033,7 @@
     "age": 26,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "PUP",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -118255,7 +118255,7 @@
     "age": 26,
     "years_exp": 5,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -121986,7 +121986,7 @@
     "age": 30,
     "years_exp": 7,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -127433,7 +127433,7 @@
     "age": 24,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "PUP",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -134492,7 +134492,7 @@
     "age": 25,
     "years_exp": 3,
     "active": true,
-    "injury_status": null,
+    "injury_status": "PUP",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -144875,8 +144875,8 @@
     "id": "6838",
     "name": "Marlon Davidson",
     "position": "DE",
-    "team": null,
-    "age": 27,
+    "team": "NYG",
+    "age": 28,
     "years_exp": 6,
     "active": true,
     "injury_status": null,
@@ -157307,7 +157307,7 @@
     "age": 26,
     "years_exp": 3,
     "active": true,
-    "injury_status": "PUP",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null

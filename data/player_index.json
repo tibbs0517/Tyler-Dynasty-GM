@@ -34617,7 +34617,7 @@
   "12960": {
     "name": "Michael Reid",
     "position": "CB",
-    "team": null,
+    "team": "NO",
     "status": "Active",
     "active": true
   },
@@ -38887,7 +38887,7 @@
   "12113": {
     "name": "Thomas Yassmin",
     "position": "TE",
-    "team": null,
+    "team": "GB",
     "status": "Active",
     "active": true
   },
@@ -62274,7 +62274,7 @@
   "6296": {
     "name": "Quinton Bell",
     "position": "LB",
-    "team": null,
+    "team": "SF",
     "status": "Active",
     "active": true
   },
@@ -78010,7 +78010,7 @@
   "6838": {
     "name": "Marlon Davidson",
     "position": "DE",
-    "team": null,
+    "team": "NYG",
     "status": "Active",
     "active": true
   },
