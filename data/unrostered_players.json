@@ -12544,6 +12544,13 @@
     "status": "Active"
   },
   {
+    "id": "14063",
+    "name": "Liam Clifford",
+    "position": "WR",
+    "team": "IND",
+    "status": "Active"
+  },
+  {
     "id": "5938",
     "name": "Lil'Jordan Humphrey",
     "position": "WR",
@@ -15333,7 +15340,7 @@
     "id": "12884",
     "name": "Quincy Skinner",
     "position": "WR",
-    "team": null,
+    "team": "NYJ",
     "status": "Active"
   },
   {

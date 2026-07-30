@@ -17765,6 +17765,13 @@
     "status": "Inactive",
     "active": false
   },
+  "14063": {
+    "name": "Liam Clifford",
+    "position": "WR",
+    "team": "IND",
+    "status": "Active",
+    "active": true
+  },
   "2292": {
     "name": "Chris Matthews",
     "position": "WR",
@@ -22276,7 +22283,7 @@
   "12884": {
     "name": "Quincy Skinner",
     "position": "WR",
-    "team": null,
+    "team": "NYJ",
     "status": "Active",
     "active": true
   },
@@ -69491,7 +69498,7 @@
   "11108": {
     "name": "Anfernee Orji",
     "position": "LB",
-    "team": null,
+    "team": "NYG",
     "status": "Active",
     "active": true
   },

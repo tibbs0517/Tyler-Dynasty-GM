@@ -3010,7 +3010,7 @@
     "age": 31,
     "years_exp": 9,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -14606,7 +14606,7 @@
     "age": 25,
     "years_exp": 2,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -16803,7 +16803,7 @@
     "age": 28,
     "years_exp": 4,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -30732,6 +30732,19 @@
     "roster_id": null
   },
   {
+    "id": "14063",
+    "name": "Liam Clifford",
+    "position": "WR",
+    "team": "IND",
+    "age": null,
+    "years_exp": 0,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
     "id": "5938",
     "name": "Lil'Jordan Humphrey",
     "position": "WR",
@@ -32906,8 +32919,8 @@
     "id": "12884",
     "name": "Quincy Skinner",
     "position": "WR",
-    "team": null,
-    "age": 22,
+    "team": "NYJ",
+    "age": 23,
     "years_exp": 1,
     "active": true,
     "injury_status": null,
@@ -35510,7 +35523,7 @@
     "age": 26,
     "years_exp": 4,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
