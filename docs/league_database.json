@@ -31708,7 +31708,7 @@
     "14056": {
       "name": "Kyre Duplessis",
       "position": "WR",
-      "team": null,
+      "team": "SEA",
       "status": "Active",
       "active": true
     },
@@ -39611,7 +39611,7 @@
     "14048": {
       "name": "Travis Shaw",
       "position": "DT",
-      "team": null,
+      "team": "TB",
       "status": "Active",
       "active": true
     },
@@ -98820,7 +98820,7 @@
       "id": "14056",
       "name": "Kyre Duplessis",
       "position": "WR",
-      "team": null,
+      "team": "SEA",
       "status": "Active"
     },
     {

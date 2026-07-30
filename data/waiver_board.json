@@ -8496,7 +8496,7 @@
     "age": 26,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -21418,7 +21418,7 @@
     "age": 24,
     "years_exp": 2,
     "active": true,
-    "injury_status": null,
+    "injury_status": "PUP",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -22263,7 +22263,7 @@
     "age": 27,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -28490,7 +28490,7 @@
     "age": 25,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -30436,7 +30436,7 @@
     "id": "14056",
     "name": "Kyre Duplessis",
     "position": "WR",
-    "team": null,
+    "team": "SEA",
     "age": null,
     "years_exp": 0,
     "active": true,
