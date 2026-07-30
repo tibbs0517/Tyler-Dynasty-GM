@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-07-30 00:14:36
+Generated: 2026-07-30 10:02:57
 
 ---
 
@@ -16,7 +16,7 @@ Available Players: 2807
 ## League Activity
 
 Trades: 3
-Waiver Claims: 9
+Waiver Claims: 10
 Free Agent Moves: 41
 
 ---
@@ -39,6 +39,7 @@ Players on Roster: 22
 
 ## Top Waiver Claims
 
+- Cyrus Allen → HebrewsHeroes
 - Isaac TeSlaa → tylergratz
 - Kaelon Black → SammyA
 - J.J. McCarthy → SammyA
@@ -52,6 +53,7 @@ Players on Roster: 22
 
 ## Recently Dropped Players
 
+- Troy Franklin
 - Michael Penix
 - Cooper Kupp
 - Jalen Tolbert
@@ -66,7 +68,6 @@ Players on Roster: 22
 - Justice Hill
 - Emari Demercado
 - Kyle Williams
-- Isaac Guerendo
 
 ---
 
@@ -75,9 +76,9 @@ Players on Roster: 22
 - TheCreecher: 13 moves
 - tylerhjensen: 10 moves
 - SammyA: 8 moves
+- HebrewsHeroes: 7 moves
 - AnthonyJania: 6 moves
 - theFalIeniD: 6 moves
-- HebrewsHeroes: 6 moves
 - HoNeYmOOnBaBy: 4 moves
 - tylergratz: 4 moves
 - jmikolay: 3 moves

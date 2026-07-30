@@ -3773,13 +3773,6 @@
     "status": "Active"
   },
   {
-    "id": "13413",
-    "name": "Cyrus Allen",
-    "position": "WR",
-    "team": "KC",
-    "status": "Active"
-  },
-  {
     "id": "8699",
     "name": "Cyrus Holder",
     "position": "WR",
@@ -4197,7 +4190,7 @@
     "name": "Dan Chisena",
     "position": "WR",
     "team": "CAR",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "3020",
@@ -18569,6 +18562,13 @@
     "position": "WR",
     "team": null,
     "status": "Inactive"
+  },
+  {
+    "id": "11627",
+    "name": "Troy Franklin",
+    "position": "WR",
+    "team": "DEN",
+    "status": "Active"
   },
   {
     "id": "5092",

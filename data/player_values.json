@@ -798,20 +798,6 @@
     "gm_score": 93
   },
   {
-    "id": "11627",
-    "name": "Troy Franklin",
-    "position": "WR",
-    "team": "DEN",
-    "age": 23,
-    "years_exp": 2,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 7,
-    "gm_score": 93
-  },
-  {
     "id": "12530",
     "name": "Travis Hunter",
     "position": "WR",
@@ -935,6 +921,20 @@
     "bye_week": null,
     "rostered": true,
     "roster_id": 8,
+    "gm_score": 93
+  },
+  {
+    "id": "13413",
+    "name": "Cyrus Allen",
+    "position": "WR",
+    "team": "KC",
+    "age": 23,
+    "years_exp": 0,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 7,
     "gm_score": 93
   },
   {
@@ -9954,6 +9954,20 @@
     "gm_score": 73
   },
   {
+    "id": "11627",
+    "name": "Troy Franklin",
+    "position": "WR",
+    "team": "DEN",
+    "age": 23,
+    "years_exp": 2,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 73
+  },
+  {
     "id": "13212",
     "name": "Cade McDonald",
     "position": "WR",
@@ -10856,20 +10870,6 @@
     "team": null,
     "age": 25,
     "years_exp": 3,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 73
-  },
-  {
-    "id": "13413",
-    "name": "Cyrus Allen",
-    "position": "WR",
-    "team": "KC",
-    "age": 23,
-    "years_exp": 0,
     "active": true,
     "injury_status": null,
     "bye_week": null,
@@ -27626,7 +27626,7 @@
     "name": "Sione Vaki",
     "position": "RB",
     "team": "DET",
-    "age": 24,
+    "age": 25,
     "years_exp": 2,
     "active": true,
     "injury_status": null,
@@ -35476,20 +35476,6 @@
     "gm_score": 50
   },
   {
-    "id": "5133",
-    "name": "Tyler Conklin",
-    "position": "TE",
-    "team": "DET",
-    "age": 30,
-    "years_exp": 8,
-    "active": true,
-    "injury_status": "PUP",
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 50
-  },
-  {
     "id": "13100",
     "name": "Eli Wilson",
     "position": "TE",
@@ -41924,6 +41910,20 @@
     "years_exp": 10,
     "active": true,
     "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 42
+  },
+  {
+    "id": "5133",
+    "name": "Tyler Conklin",
+    "position": "TE",
+    "team": "DET",
+    "age": 31,
+    "years_exp": 8,
+    "active": true,
+    "injury_status": "PUP",
     "bye_week": null,
     "rostered": false,
     "roster_id": null,
