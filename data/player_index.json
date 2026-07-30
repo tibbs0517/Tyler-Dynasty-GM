@@ -1528,7 +1528,7 @@
   "11122": {
     "name": "Andrew Farmer",
     "position": "LB",
-    "team": "SF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -8010,7 +8010,7 @@
   "13939": {
     "name": "Gabriel Benyard",
     "position": "WR",
-    "team": null,
+    "team": "CAR",
     "status": "Active",
     "active": true
   },
@@ -23886,7 +23886,7 @@
   "6795": {
     "name": "Ross Blacklock",
     "position": "DT",
-    "team": "ATL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -39181,7 +39181,7 @@
   "7764": {
     "name": "William Bradley-King",
     "position": "DE",
-    "team": "SF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -45369,7 +45369,7 @@
   "5757": {
     "name": "Josh Woods",
     "position": "LB",
-    "team": null,
+    "team": "ATL",
     "status": "Active",
     "active": true
   },
@@ -46762,7 +46762,7 @@
   "11841": {
     "name": "Sanoussi Kane",
     "position": "DB",
-    "team": "TEN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -58172,7 +58172,7 @@
   "13980": {
     "name": "Parker Petersen",
     "position": "DT",
-    "team": "CAR",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -72417,7 +72417,7 @@
   "8415": {
     "name": "Haggai Ndubuisi",
     "position": "T",
-    "team": "TB",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -83323,7 +83323,7 @@
   "12989": {
     "name": "Hudson Clark",
     "position": "DB",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },

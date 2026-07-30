@@ -31,7 +31,9 @@
       "9226",
       "9487"
     ],
-    "reserve": null,
+    "reserve": [
+      "13311"
+    ],
     "roster_id": 1,
     "settings": {
       "fpts": 0,
@@ -156,7 +158,9 @@
       "9488",
       "9502"
     ],
-    "reserve": null,
+    "reserve": [
+      "13353"
+    ],
     "roster_id": 3,
     "settings": {
       "fpts": 0,
