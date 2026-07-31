@@ -2439,7 +2439,7 @@
     "id": "12906",
     "name": "Cam Camper",
     "position": "WR",
-    "team": null,
+    "team": "NYJ",
     "status": "Active"
   },
   {
@@ -2803,7 +2803,7 @@
     "id": "13280",
     "name": "Chamon Metayer",
     "position": "TE",
-    "team": null,
+    "team": "CAR",
     "status": "Active"
   },
   {
@@ -10699,7 +10699,7 @@
     "id": "7050",
     "name": "Josiah Deguara",
     "position": "TE",
-    "team": null,
+    "team": "SF",
     "status": "Active"
   },
   {
@@ -18350,7 +18350,7 @@
     "id": "6598",
     "name": "Trenton Irwin",
     "position": "WR",
-    "team": null,
+    "team": "SF",
     "status": "Active"
   },
   {
