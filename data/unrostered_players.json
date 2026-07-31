@@ -675,7 +675,7 @@
     "id": "4435",
     "name": "Anthony Firkser",
     "position": "TE",
-    "team": null,
+    "team": "DET",
     "status": "Active"
   },
   {
@@ -8487,14 +8487,14 @@
     "id": "8416",
     "name": "Jalen Virgil",
     "position": "WR",
-    "team": "BUF",
+    "team": null,
     "status": "Active"
   },
   {
     "id": "13859",
     "name": "Jalen Walthall",
     "position": "WR",
-    "team": "NYJ",
+    "team": null,
     "status": "Active"
   },
   {
@@ -11035,7 +11035,7 @@
     "id": "12721",
     "name": "Kaden Prather",
     "position": "WR",
-    "team": null,
+    "team": "GB",
     "status": "Active"
   },
   {
@@ -16128,6 +16128,13 @@
     "status": "Active"
   },
   {
+    "id": "14064",
+    "name": "Roydell Williams",
+    "position": "RB",
+    "team": "IND",
+    "status": "Active"
+  },
+  {
     "id": "13128",
     "name": "Rushawn Baker",
     "position": "RB",
@@ -19491,7 +19498,7 @@
     "id": "13110",
     "name": "Zach Horton",
     "position": "TE",
-    "team": "DET",
+    "team": null,
     "status": "Active"
   },
   {

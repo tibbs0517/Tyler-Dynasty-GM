@@ -5873,7 +5873,7 @@
     "active": true
   },
   "11436": {
-    "name": "PJ Mustipher",
+    "name": "P.J. Mustipher",
     "position": "NT",
     "team": "ARI",
     "status": "Active",
@@ -10871,7 +10871,7 @@
     "active": false
   },
   "13447": {
-    "name": "Olaivavega Ioane",
+    "name": "Vega Ioane",
     "position": "OG",
     "team": "BAL",
     "status": "Active",
@@ -30270,7 +30270,7 @@
   "12721": {
     "name": "Kaden Prather",
     "position": "WR",
-    "team": null,
+    "team": "GB",
     "status": "Active",
     "active": true
   },
@@ -31348,7 +31348,7 @@
   "13110": {
     "name": "Zach Horton",
     "position": "TE",
-    "team": "DET",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -40763,7 +40763,7 @@
   "13859": {
     "name": "Jalen Walthall",
     "position": "WR",
-    "team": "NYJ",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -51557,7 +51557,7 @@
   "8416": {
     "name": "Jalen Virgil",
     "position": "WR",
-    "team": "BUF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -67748,7 +67748,7 @@
   "13926": {
     "name": "Ben Barten",
     "position": "DL",
-    "team": "NYG",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -70961,7 +70961,7 @@
   "4435": {
     "name": "Anthony Firkser",
     "position": "TE",
-    "team": null,
+    "team": "DET",
     "status": "Active",
     "active": true
   },
@@ -81797,7 +81797,7 @@
   "11454": {
     "name": "Otis Reese",
     "position": "LB",
-    "team": "NE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -82792,6 +82792,13 @@
     "name": "Kris Boyd",
     "position": "CB",
     "team": null,
+    "status": "Active",
+    "active": true
+  },
+  "14064": {
+    "name": "Roydell Williams",
+    "position": "RB",
+    "team": "IND",
     "status": "Active",
     "active": true
   },
