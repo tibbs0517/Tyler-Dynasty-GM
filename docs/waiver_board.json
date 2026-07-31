@@ -2899,19 +2899,6 @@
     "roster_id": null
   },
   {
-    "id": "11559",
-    "name": "Michael Penix",
-    "position": "QB",
-    "team": "ATL",
-    "age": 26,
-    "years_exp": 2,
-    "active": true,
-    "injury_status": "Questionable",
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
     "id": "11561",
     "name": "Michael Pratt",
     "position": "QB",
@@ -4336,7 +4323,7 @@
     "age": 27,
     "years_exp": 7,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -15477,7 +15464,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -16972,7 +16959,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -23494,7 +23481,7 @@
     "id": "4992",
     "name": "Dante Pettis",
     "position": "WR",
-    "team": null,
+    "team": "BUF",
     "age": 30,
     "years_exp": 8,
     "active": true,
@@ -27047,7 +27034,7 @@
     "age": 28,
     "years_exp": 4,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -27060,7 +27047,7 @@
     "age": 23,
     "years_exp": 0,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -30154,7 +30141,7 @@
     "age": 31,
     "years_exp": 8,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -33527,19 +33514,6 @@
     "roster_id": null
   },
   {
-    "id": "11630",
-    "name": "Roman Wilson",
-    "position": "WR",
-    "team": "PIT",
-    "age": 25,
-    "years_exp": 2,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
     "id": "6394",
     "name": "Romell Guerrier",
     "position": "WR",
@@ -33843,7 +33817,7 @@
     "name": "Scotty Miller",
     "position": "WR",
     "team": "CHI",
-    "age": 28,
+    "age": 29,
     "years_exp": 7,
     "active": true,
     "injury_status": null,

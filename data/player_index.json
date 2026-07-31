@@ -632,7 +632,7 @@
   "4992": {
     "name": "Dante Pettis",
     "position": "WR",
-    "team": null,
+    "team": "BUF",
     "status": "Active",
     "active": true
   },
@@ -1528,8 +1528,8 @@
   "11122": {
     "name": "Andrew Farmer",
     "position": "LB",
-    "team": null,
-    "status": "Active",
+    "team": "SF",
+    "status": "Inactive",
     "active": true
   },
   "6559": {
@@ -18657,7 +18657,7 @@
   "5872": {
     "name": "Deebo Samuel",
     "position": "WR",
-    "team": null,
+    "team": "SF",
     "status": "Active",
     "active": true
   },
@@ -39188,8 +39188,8 @@
   "7764": {
     "name": "William Bradley-King",
     "position": "DE",
-    "team": null,
-    "status": "Active",
+    "team": "SF",
+    "status": "Inactive",
     "active": true
   },
   "11793": {
@@ -83456,7 +83456,7 @@
   "8844": {
     "name": "Sam Webb",
     "position": "CB",
-    "team": null,
+    "team": "DEN",
     "status": "Active",
     "active": true
   },

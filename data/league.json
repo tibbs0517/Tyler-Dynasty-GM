@@ -56,13 +56,14 @@
     "daily_waivers_base": 4,
     "reserve_slots": 4,
     "reserve_allow_cov": 1,
-    "daily_waivers_last_ran": 30
+    "daily_waivers_last_ran": 31
   },
   "avatar": null,
   "company_id": null,
   "sport": "nfl",
   "season_type": "regular",
   "season": "2026",
+  "shard": 470,
   "scoring_settings": {
     "sack": 1.0,
     "fgm_40_49": 4.0,
@@ -109,20 +110,24 @@
     "pts_allow_7_13": 4.0,
     "st_ff": 1.0
   },
-  "shard": 470,
-  "last_message_id": "1388550603461910528",
-  "last_author_avatar": "c76ae013b64eb4883b97a71fcf28b3ba",
-  "last_author_display_name": "JWaldman",
-  "last_author_id": "334195495809318912",
-  "last_author_is_bot": false,
+  "last_message_id": "1388814146862084096",
+  "last_author_avatar": null,
+  "last_author_display_name": "sys",
+  "last_author_id": "166666666666666666",
+  "last_author_is_bot": true,
   "last_message_attachment": null,
   "last_message_text_map": null,
-  "last_message_time": 1785418771190,
+  "last_message_time": 1785481604832,
   "last_pinned_message_id": null,
   "last_read_id": null,
   "draft_id": "1326711861202161664",
   "league_id": "1326711861197938688",
   "previous_league_id": "1228352285197746179",
+  "bracket_id": null,
+  "bracket_overrides_id": null,
+  "group_id": null,
+  "loser_bracket_id": null,
+  "loser_bracket_overrides_id": null,
   "roster_positions": [
     "QB",
     "RB",
@@ -147,10 +152,5 @@
     "BN",
     "BN"
   ],
-  "group_id": null,
-  "bracket_id": null,
-  "bracket_overrides_id": null,
-  "loser_bracket_id": null,
-  "loser_bracket_overrides_id": null,
   "total_rosters": 10
 }

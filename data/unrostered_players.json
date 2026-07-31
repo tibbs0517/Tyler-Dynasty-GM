@@ -4329,7 +4329,7 @@
     "id": "4992",
     "name": "Dante Pettis",
     "position": "WR",
-    "team": null,
+    "team": "BUF",
     "status": "Active"
   },
   {
@@ -13881,13 +13881,6 @@
     "status": "Active"
   },
   {
-    "id": "11559",
-    "name": "Michael Penix",
-    "position": "QB",
-    "team": "ATL",
-    "status": "Active"
-  },
-  {
     "id": "11561",
     "name": "Michael Pratt",
     "position": "QB",
@@ -16006,13 +15999,6 @@
     "name": "Roman Hemby",
     "position": "RB",
     "team": "LV",
-    "status": "Active"
-  },
-  {
-    "id": "11630",
-    "name": "Roman Wilson",
-    "position": "WR",
-    "team": "PIT",
     "status": "Active"
   },
   {
