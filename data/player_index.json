@@ -5876,7 +5876,7 @@
     "name": "P.J. Mustipher",
     "position": "NT",
     "team": "ARI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "829": {
@@ -8647,7 +8647,7 @@
   "6119": {
     "name": "Devin White",
     "position": "LB",
-    "team": null,
+    "team": "DET",
     "status": "Active",
     "active": true
   },
@@ -21472,7 +21472,7 @@
     "name": "Ricky Pearsall",
     "position": "WR",
     "team": "SF",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "12514": {
@@ -49632,8 +49632,8 @@
   "10928": {
     "name": "Brodric Martin",
     "position": "DT",
-    "team": null,
-    "status": "Inactive",
+    "team": "ARI",
+    "status": "Active",
     "active": true
   },
   "4409": {
@@ -64633,7 +64633,7 @@
   "4180": {
     "name": "Rayshawn Jenkins",
     "position": "DB",
-    "team": null,
+    "team": "PIT",
     "status": "Active",
     "active": true
   },
