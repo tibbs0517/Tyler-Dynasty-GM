@@ -40763,8 +40763,8 @@
   "13859": {
     "name": "Jalen Walthall",
     "position": "WR",
-    "team": null,
-    "status": "Active",
+    "team": "NYJ",
+    "status": "Inactive",
     "active": true
   },
   "12548": {
@@ -46769,8 +46769,8 @@
   "11841": {
     "name": "Sanoussi Kane",
     "position": "DB",
-    "team": null,
-    "status": "Active",
+    "team": "TEN",
+    "status": "Inactive",
     "active": true
   },
   "4839": {
@@ -72424,7 +72424,7 @@
   "8415": {
     "name": "Haggai Ndubuisi",
     "position": "T",
-    "team": null,
+    "team": "TB",
     "status": "Active",
     "active": true
   },
