@@ -61,11 +61,6 @@
     },
     "avatar": null,
     "company_id": null,
-    "shard": 470,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
-    "last_message_id": "1388929316875685888",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -112,23 +107,24 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "last_message_id": "1389063725926846464",
+    "shard": 470,
     "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
     "last_author_display_name": "HebrewsHeroes",
     "last_author_id": "434689597088198656",
     "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1785509063508,
+    "last_message_time": 1785541109122,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1326711861202161664",
+    "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -153,6 +149,10 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -9869,7 +9869,7 @@
     "8785": {
       "name": "Cal Adomitis",
       "position": "LS",
-      "team": null,
+      "team": "GB",
       "status": "Active",
       "active": true
     },
@@ -13306,7 +13306,7 @@
     "9483": {
       "name": "Zack Kuntz",
       "position": "TE",
-      "team": null,
+      "team": "LV",
       "status": "Active",
       "active": true
     },
@@ -23141,7 +23141,7 @@
     "12108": {
       "name": "Quinton Newsome",
       "position": "DB",
-      "team": null,
+      "team": "ARI",
       "status": "Active",
       "active": true
     },
@@ -51506,7 +51506,7 @@
       "name": "Jaden Davis",
       "position": "DB",
       "team": "ARI",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "2208": {
@@ -106255,7 +106255,7 @@
       "id": "9483",
       "name": "Zack Kuntz",
       "position": "TE",
-      "team": null,
+      "team": "LV",
       "status": "Active"
     },
     {
