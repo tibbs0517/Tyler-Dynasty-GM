@@ -1760,7 +1760,7 @@
     "id": "11621",
     "name": "Brenden Rice",
     "position": "WR",
-    "team": "GB",
+    "team": null,
     "status": "Active"
   },
   {
@@ -3055,7 +3055,7 @@
     "id": "11963",
     "name": "Chris Collier",
     "position": "RB",
-    "team": "LV",
+    "team": null,
     "status": "Active"
   },
   {
@@ -6933,7 +6933,7 @@
     "id": "12981",
     "name": "Gee Scott",
     "position": "TE",
-    "team": "NYJ",
+    "team": null,
     "status": "Active"
   },
   {
@@ -17419,7 +17419,7 @@
     "id": "11598",
     "name": "Tanner McLachlan",
     "position": "TE",
-    "team": "SF",
+    "team": null,
     "status": "Active"
   },
   {

@@ -1099,7 +1099,9 @@
         "8148",
         "96"
       ],
-      "reserve": null,
+      "reserve": [
+        "8142"
+      ],
       "roster_id": 8,
       "settings": {
         "fpts": 0,
@@ -1117,7 +1119,7 @@
         "12529",
         "12514",
         "8148",
-        "8142",
+        "0",
         "12518",
         "5892",
         "7611",
@@ -5235,7 +5237,7 @@
     "13095": {
       "name": "Wande Owens",
       "position": "DB",
-      "team": "BUF",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -7111,7 +7113,7 @@
     "11598": {
       "name": "Tanner McLachlan",
       "position": "TE",
-      "team": "SF",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -7503,7 +7505,7 @@
     "12981": {
       "name": "Gee Scott",
       "position": "TE",
-      "team": "NYJ",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -17996,7 +17998,7 @@
     "13952": {
       "name": "Garrison Grimes",
       "position": "LS",
-      "team": "NYJ",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -42034,7 +42036,7 @@
     "12548": {
       "name": "Lenny Krieg",
       "position": "K",
-      "team": "GB",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -50826,7 +50828,7 @@
     "13216": {
       "name": "Derrick Canteen",
       "position": "CB",
-      "team": "SF",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -59660,7 +59662,7 @@
     "14060": {
       "name": "Blake Cotton",
       "position": "DB",
-      "team": "DEN",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -66912,7 +66914,7 @@
     "11621": {
       "name": "Brenden Rice",
       "position": "WR",
-      "team": "GB",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -69012,7 +69014,7 @@
     "13926": {
       "name": "Ben Barten",
       "position": "DL",
-      "team": null,
+      "team": "NYJ",
       "status": "Active",
       "active": true
     },
@@ -77615,7 +77617,7 @@
     "11963": {
       "name": "Chris Collier",
       "position": "RB",
-      "team": "LV",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -88454,7 +88456,7 @@
       "id": "11621",
       "name": "Brenden Rice",
       "position": "WR",
-      "team": "GB",
+      "team": null,
       "status": "Active"
     },
     {
@@ -89749,7 +89751,7 @@
       "id": "11963",
       "name": "Chris Collier",
       "position": "RB",
-      "team": "LV",
+      "team": null,
       "status": "Active"
     },
     {
@@ -93627,7 +93629,7 @@
       "id": "12981",
       "name": "Gee Scott",
       "position": "TE",
-      "team": "NYJ",
+      "team": null,
       "status": "Active"
     },
     {
@@ -104113,7 +104115,7 @@
       "id": "11598",
       "name": "Tanner McLachlan",
       "position": "TE",
-      "team": "SF",
+      "team": null,
       "status": "Active"
     },
     {
