@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-08-02 11:38:15
+Generated: 2026-08-02 15:47:01
 
 ---
 
@@ -9,7 +9,7 @@ Generated: 2026-08-02 11:38:15
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2807
+Available Players: 2809
 
 ---
 
@@ -17,7 +17,7 @@ Available Players: 2807
 
 Trades: 3
 Waiver Claims: 13
-Free Agent Moves: 41
+Free Agent Moves: 43
 
 ---
 
@@ -56,6 +56,8 @@ Players on Roster: 22
 
 ## Recently Dropped Players
 
+- James Conner
+- MarShawn Lloyd
 - Troy Franklin
 - Michael Penix
 - Cooper Kupp
@@ -69,8 +71,6 @@ Players on Roster: 22
 - Kayshon Boutte
 - Kevin Coleman
 - Justice Hill
-- Emari Demercado
-- Kyle Williams
 
 ---
 
@@ -81,9 +81,9 @@ Players on Roster: 22
 - SammyA: 8 moves
 - HebrewsHeroes: 7 moves
 - theFalIeniD: 7 moves
+- HoNeYmOOnBaBy: 6 moves
 - AnthonyJania: 6 moves
 - jmikolay: 4 moves
-- HoNeYmOOnBaBy: 4 moves
 - tylergratz: 4 moves
 
 ---

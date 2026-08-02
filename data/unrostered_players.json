@@ -8673,6 +8673,13 @@
     "status": "Active"
   },
   {
+    "id": "4137",
+    "name": "James Conner",
+    "position": "RB",
+    "team": "ARI",
+    "status": "Active"
+  },
+  {
     "id": "2119",
     "name": "James Franklin",
     "position": "QB",
@@ -12989,6 +12996,13 @@
     "name": "Mante Morrow",
     "position": "WR",
     "team": "LAC",
+    "status": "Active"
+  },
+  {
+    "id": "11581",
+    "name": "MarShawn Lloyd",
+    "position": "RB",
+    "team": "GB",
     "status": "Active"
   },
   {

@@ -49562,7 +49562,7 @@
   "13216": {
     "name": "Derrick Canteen",
     "position": "CB",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
@@ -67867,7 +67867,7 @@
   "13146": {
     "name": "Jared Bartlett",
     "position": "LB",
-    "team": null,
+    "team": "JAX",
     "status": "Active",
     "active": true
   },

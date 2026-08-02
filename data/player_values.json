@@ -3584,20 +3584,6 @@
     "gm_score": 80
   },
   {
-    "id": "11581",
-    "name": "MarShawn Lloyd",
-    "position": "RB",
-    "team": "GB",
-    "age": 25,
-    "years_exp": 2,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 8,
-    "gm_score": 80
-  },
-  {
     "id": "13303",
     "name": "Cade Klubnik",
     "position": "QB",
@@ -16870,20 +16856,6 @@
     "gm_score": 65
   },
   {
-    "id": "4137",
-    "name": "James Conner",
-    "position": "RB",
-    "team": "ARI",
-    "age": 31,
-    "years_exp": 9,
-    "active": true,
-    "injury_status": "Questionable",
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 8,
-    "gm_score": 65
-  },
-  {
     "id": "5608",
     "name": "Devonte Boyd",
     "position": "WR",
@@ -26922,6 +26894,20 @@
     "gm_score": 60
   },
   {
+    "id": "11581",
+    "name": "MarShawn Lloyd",
+    "position": "RB",
+    "team": "GB",
+    "age": 25,
+    "years_exp": 2,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 60
+  },
+  {
     "id": "4997",
     "name": "Mark Walton",
     "position": "RB",
@@ -29323,7 +29309,7 @@
     "age": 23,
     "years_exp": 0,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null,
@@ -39768,6 +39754,20 @@
     "years_exp": 5,
     "active": true,
     "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 45
+  },
+  {
+    "id": "4137",
+    "name": "James Conner",
+    "position": "RB",
+    "team": "ARI",
+    "age": 31,
+    "years_exp": 9,
+    "active": true,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null,
