@@ -14240,7 +14240,7 @@
   "2340": {
     "name": "Mario Edwards",
     "position": "DE",
-    "team": null,
+    "team": "HOU",
     "status": "Active",
     "active": true
   },
@@ -18993,7 +18993,7 @@
   "13647": {
     "name": "Ben Patterson",
     "position": "WR",
-    "team": "JAX",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -30859,6 +30859,13 @@
     "name": "Tyler Miller",
     "position": "OL",
     "team": "DEN",
+    "status": "Active",
+    "active": true
+  },
+  "14065": {
+    "name": "Jarod Washington",
+    "position": "DB",
+    "team": "MIN",
     "status": "Active",
     "active": true
   },
@@ -56303,7 +56310,7 @@
   "13291": {
     "name": "Kejon Owens",
     "position": "RB",
-    "team": "MIN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -65767,7 +65774,7 @@
   "12922": {
     "name": "Ja'Markis Weston",
     "position": "DE",
-    "team": "SEA",
+    "team": null,
     "status": "Active",
     "active": true
   },

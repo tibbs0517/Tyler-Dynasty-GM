@@ -1284,7 +1284,7 @@
     "id": "13647",
     "name": "Ben Patterson",
     "position": "WR",
-    "team": "JAX",
+    "team": null,
     "status": "Active"
   },
   {
@@ -11385,7 +11385,7 @@
     "id": "13291",
     "name": "Kejon Owens",
     "position": "RB",
-    "team": "MIN",
+    "team": null,
     "status": "Active"
   },
   {
