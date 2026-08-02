@@ -5847,8 +5847,8 @@
   "11598": {
     "name": "Tanner McLachlan",
     "position": "TE",
-    "team": null,
-    "status": "Active",
+    "team": "SF",
+    "status": "Inactive",
     "active": true
   },
   "11995": {
@@ -6239,8 +6239,8 @@
   "12981": {
     "name": "Gee Scott",
     "position": "TE",
-    "team": null,
-    "status": "Active",
+    "team": "NYJ",
+    "status": "Inactive",
     "active": true
   },
   "2581": {
@@ -17516,7 +17516,7 @@
   "13798": {
     "name": "Ethan Hurkett",
     "position": "DL",
-    "team": null,
+    "team": "KC",
     "status": "Active",
     "active": true
   },
@@ -44711,7 +44711,7 @@
   "13259": {
     "name": "Joseph Vaughn",
     "position": "LB",
-    "team": null,
+    "team": "SEA",
     "status": "Active",
     "active": true
   },
@@ -58396,8 +58396,8 @@
   "14060": {
     "name": "Blake Cotton",
     "position": "DB",
-    "team": null,
-    "status": "Active",
+    "team": "DEN",
+    "status": "Inactive",
     "active": true
   },
   "2509": {
@@ -67846,7 +67846,7 @@
   "6211": {
     "name": "Sione Takitaki",
     "position": "LB",
-    "team": null,
+    "team": "HOU",
     "status": "Active",
     "active": true
   },
@@ -79585,7 +79585,7 @@
   "8298": {
     "name": "Mario Goodrich",
     "position": "DB",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },

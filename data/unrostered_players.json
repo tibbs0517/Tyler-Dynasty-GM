@@ -6933,8 +6933,8 @@
     "id": "12981",
     "name": "Gee Scott",
     "position": "TE",
-    "team": null,
-    "status": "Active"
+    "team": "NYJ",
+    "status": "Inactive"
   },
   {
     "id": "4489",
@@ -17419,8 +17419,8 @@
     "id": "11598",
     "name": "Tanner McLachlan",
     "position": "TE",
-    "team": null,
-    "status": "Active"
+    "team": "SF",
+    "status": "Inactive"
   },
   {
     "id": "11924",
