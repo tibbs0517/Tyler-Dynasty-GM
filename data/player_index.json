@@ -7261,7 +7261,7 @@
   "7608": {
     "name": "Khalil Herbert",
     "position": "RB",
-    "team": null,
+    "team": "SF",
     "status": "Active",
     "active": true
   },
@@ -30389,7 +30389,7 @@
   "6177": {
     "name": "Khalen Saunders",
     "position": "DT",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
@@ -38152,7 +38152,7 @@
   "11004": {
     "name": "Titus Leo",
     "position": "LB",
-    "team": null,
+    "team": "SF",
     "status": "Active",
     "active": true
   },
@@ -38915,7 +38915,7 @@
   "1947": {
     "name": "Jadeveon Clowney",
     "position": "DE",
-    "team": null,
+    "team": "HOU",
     "status": "Active",
     "active": true
   },
@@ -62351,7 +62351,7 @@
   "8754": {
     "name": "Sebastian Gutierrez",
     "position": "T",
-    "team": null,
+    "team": "DAL",
     "status": "Active",
     "active": true
   },
@@ -65774,8 +65774,8 @@
   "12922": {
     "name": "Ja'Markis Weston",
     "position": "DE",
-    "team": null,
-    "status": "Active",
+    "team": "SEA",
+    "status": "Inactive",
     "active": true
   },
   "12938": {
@@ -72515,7 +72515,7 @@
   "13144": {
     "name": "Laki Tasi",
     "position": "DL",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
@@ -76358,8 +76358,8 @@
   "11963": {
     "name": "Chris Collier",
     "position": "RB",
-    "team": null,
-    "status": "Active",
+    "team": "LV",
+    "status": "Inactive",
     "active": true
   },
   "8464": {
@@ -80803,7 +80803,7 @@
   "7803": {
     "name": "Trey Hill",
     "position": "C",
-    "team": null,
+    "team": "WAS",
     "status": "Active",
     "active": true
   },

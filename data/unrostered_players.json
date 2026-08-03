@@ -3055,8 +3055,8 @@
     "id": "11963",
     "name": "Chris Collier",
     "position": "RB",
-    "team": null,
-    "status": "Active"
+    "team": "LV",
+    "status": "Inactive"
   },
   {
     "id": "2381",
@@ -11854,7 +11854,7 @@
     "id": "7608",
     "name": "Khalil Herbert",
     "position": "RB",
-    "team": null,
+    "team": "SF",
     "status": "Active"
   },
   {
