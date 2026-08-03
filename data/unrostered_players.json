@@ -6632,7 +6632,7 @@
     "id": "9220",
     "name": "Evan Hull",
     "position": "RB",
-    "team": "HOU",
+    "team": null,
     "status": "Active"
   },
   {
@@ -14605,7 +14605,7 @@
     "id": "8523",
     "name": "Nick Muse",
     "position": "TE",
-    "team": null,
+    "team": "DET",
     "status": "Active"
   },
   {

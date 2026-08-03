@@ -4104,7 +4104,7 @@
   "11054": {
     "name": "Travis Bell",
     "position": "DL",
-    "team": null,
+    "team": "CLE",
     "status": "Active",
     "active": true
   },
@@ -11314,7 +11314,7 @@
   "7849": {
     "name": "Charles Snowden",
     "position": "LB",
-    "team": "DAL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -12945,7 +12945,7 @@
   "10993": {
     "name": "Tre Hawkins",
     "position": "CB",
-    "team": "WAS",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -13841,7 +13841,7 @@
   "13058": {
     "name": "Cam Horsley",
     "position": "DT",
-    "team": "TEN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -17313,7 +17313,7 @@
   "8523": {
     "name": "Nick Muse",
     "position": "TE",
-    "team": null,
+    "team": "DET",
     "status": "Active",
     "active": true
   },
@@ -17852,7 +17852,7 @@
   "7840": {
     "name": "Ta'Quon Graham",
     "position": "DT",
-    "team": "PHI",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -19742,7 +19742,7 @@
   "11243": {
     "name": "David Ebuka Agoha",
     "position": "DL",
-    "team": "TEN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -26238,7 +26238,7 @@
   "3189": {
     "name": "Eli Apple",
     "position": "CB",
-    "team": "SF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -27736,7 +27736,7 @@
   "9220": {
     "name": "Evan Hull",
     "position": "RB",
-    "team": "HOU",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -28639,7 +28639,7 @@
   "12096": {
     "name": "Casey Rogers",
     "position": "DL",
-    "team": null,
+    "team": "NE",
     "status": "Active",
     "active": true
   },
@@ -45766,7 +45766,7 @@
     "active": true
   },
   "8463": {
-    "name": "Zach Tom",
+    "name": "Zach Bako-Bewele",
     "position": "OL",
     "team": "GB",
     "status": "Active",
@@ -58403,7 +58403,7 @@
   "14060": {
     "name": "Blake Cotton",
     "position": "DB",
-    "team": "DEN",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -63422,7 +63422,7 @@
   "14054": {
     "name": "Derrick Graham",
     "position": "OL",
-    "team": "HOU",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -65592,7 +65592,7 @@
   "6210": {
     "name": "Darnell Savage",
     "position": "DB",
-    "team": "PIT",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -69722,7 +69722,7 @@
   "13596": {
     "name": "Mikail Kamara",
     "position": "DE",
-    "team": "SF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -80236,7 +80236,7 @@
   "11619": {
     "name": "Ja'Lynn Polk",
     "position": "WR",
-    "team": "NO",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -81916,7 +81916,7 @@
   "6987": {
     "name": "Hakeem Adeniji",
     "position": "G",
-    "team": "BAL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -82914,6 +82914,13 @@
     "status": "Active",
     "active": true
   },
+  "14066": {
+    "name": "Mekhi Rodgers",
+    "position": "CB",
+    "team": "IND",
+    "status": "Active",
+    "active": true
+  },
   "7966": {
     "name": "Calvin Ashley",
     "position": "OT",
@@ -83344,7 +83351,7 @@
   "12989": {
     "name": "Hudson Clark",
     "position": "DB",
-    "team": "TEN",
+    "team": null,
     "status": "Active",
     "active": true
   },
