@@ -61,10 +61,10 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "shard": 470,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -31724,7 +31724,7 @@
     "14056": {
       "name": "Kyre Duplessis",
       "position": "WR",
-      "team": "SEA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -35894,7 +35894,7 @@
       "active": true
     },
     "12960": {
-      "name": "Michael Reid",
+      "name": "Mike Reid",
       "position": "CB",
       "team": "NO",
       "status": "Active",
@@ -50909,7 +50909,7 @@
       "active": true
     },
     "10928": {
-      "name": "Brodric Martin",
+      "name": "Brodric Martin-Rhodes",
       "position": "DT",
       "team": "ARI",
       "status": "Active",
@@ -58653,7 +58653,7 @@
     "12210": {
       "name": "Cole Burgess",
       "position": "WR",
-      "team": "PIT",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -63581,7 +63581,7 @@
     "11399": {
       "name": "Garrett Nelson",
       "position": "LB",
-      "team": null,
+      "team": "SEA",
       "status": "Active",
       "active": true
     },
@@ -66435,7 +66435,7 @@
       "active": true
     },
     "10991": {
-      "name": "KJ Henry",
+      "name": "K.J. Henry",
       "position": "DE",
       "team": "SF",
       "status": "Active",
@@ -81501,7 +81501,7 @@
     "12968": {
       "name": "Jack Conley",
       "position": "OL",
-      "team": "CLE",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -83657,7 +83657,7 @@
     "12935": {
       "name": "Jakobie Keeney-James",
       "position": "WR",
-      "team": null,
+      "team": "PIT",
       "status": "Active",
       "active": true
     },
@@ -90128,7 +90128,7 @@
       "id": "12210",
       "name": "Cole Burgess",
       "position": "WR",
-      "team": "PIT",
+      "team": null,
       "status": "Active"
     },
     {
@@ -95063,7 +95063,7 @@
       "id": "12935",
       "name": "Jakobie Keeney-James",
       "position": "WR",
-      "team": null,
+      "team": "PIT",
       "status": "Active"
     },
     {
@@ -98871,7 +98871,7 @@
       "id": "14056",
       "name": "Kyre Duplessis",
       "position": "WR",
-      "team": "SEA",
+      "team": null,
       "status": "Active"
     },
     {

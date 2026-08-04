@@ -3412,7 +3412,7 @@
     "id": "12210",
     "name": "Cole Burgess",
     "position": "WR",
-    "team": "PIT",
+    "team": null,
     "status": "Active"
   },
   {
@@ -8347,7 +8347,7 @@
     "id": "12935",
     "name": "Jakobie Keeney-James",
     "position": "WR",
-    "team": null,
+    "team": "PIT",
     "status": "Active"
   },
   {
@@ -12155,7 +12155,7 @@
     "id": "14056",
     "name": "Kyre Duplessis",
     "position": "WR",
-    "team": "SEA",
+    "team": null,
     "status": "Active"
   },
   {
