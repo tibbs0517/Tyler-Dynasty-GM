@@ -6632,7 +6632,7 @@
     "id": "9220",
     "name": "Evan Hull",
     "position": "RB",
-    "team": null,
+    "team": "ARI",
     "status": "Active"
   },
   {
@@ -9259,6 +9259,13 @@
     "position": "WR",
     "team": null,
     "status": "Inactive"
+  },
+  {
+    "id": "14067",
+    "name": "Jeff Weimer",
+    "position": "WR",
+    "team": "KC",
+    "status": "Active"
   },
   {
     "id": "5284",

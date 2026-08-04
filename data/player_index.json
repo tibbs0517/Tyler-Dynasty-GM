@@ -11314,8 +11314,8 @@
   "7849": {
     "name": "Charles Snowden",
     "position": "LB",
-    "team": null,
-    "status": "Active",
+    "team": "DAL",
+    "status": "Inactive",
     "active": true
   },
   "7857": {
@@ -12945,8 +12945,8 @@
   "10993": {
     "name": "Tre Hawkins",
     "position": "CB",
-    "team": null,
-    "status": "Active",
+    "team": "WAS",
+    "status": "Inactive",
     "active": true
   },
   "13516": {
@@ -13841,7 +13841,7 @@
   "13058": {
     "name": "Cam Horsley",
     "position": "DT",
-    "team": null,
+    "team": "ARI",
     "status": "Active",
     "active": true
   },
@@ -27736,7 +27736,7 @@
   "9220": {
     "name": "Evan Hull",
     "position": "RB",
-    "team": null,
+    "team": "ARI",
     "status": "Active",
     "active": true
   },
@@ -47540,6 +47540,13 @@
     "name": "Aidan Robbins",
     "position": "RB",
     "team": null,
+    "status": "Active",
+    "active": true
+  },
+  "14067": {
+    "name": "Jeff Weimer",
+    "position": "WR",
+    "team": "KC",
     "status": "Active",
     "active": true
   },
@@ -69722,8 +69729,8 @@
   "13596": {
     "name": "Mikail Kamara",
     "position": "DE",
-    "team": null,
-    "status": "Active",
+    "team": "SF",
+    "status": "Inactive",
     "active": true
   },
   "5883": {

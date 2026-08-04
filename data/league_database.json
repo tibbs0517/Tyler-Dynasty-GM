@@ -57,14 +57,14 @@
       "daily_waivers_base": 4,
       "reserve_slots": 4,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 3
+      "daily_waivers_last_ran": 4
     },
     "avatar": null,
     "company_id": null,
-    "shard": 470,
-    "season": "2026",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 470,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -116,17 +116,19 @@
     "last_author_display_name": "HebrewsHeroes",
     "last_author_id": "434689597088198656",
     "last_author_is_bot": false,
-    "draft_id": "1326711861202161664",
     "last_message_attachment": null,
     "last_message_text_map": null,
     "last_message_time": 1785678040246,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1326711861202161664",
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
-    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,8 +153,6 @@
       "BN",
       "BN"
     ],
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -12579,8 +12579,8 @@
     "7849": {
       "name": "Charles Snowden",
       "position": "LB",
-      "team": null,
-      "status": "Active",
+      "team": "DAL",
+      "status": "Inactive",
       "active": true
     },
     "7857": {
@@ -14210,8 +14210,8 @@
     "10993": {
       "name": "Tre Hawkins",
       "position": "CB",
-      "team": null,
-      "status": "Active",
+      "team": "WAS",
+      "status": "Inactive",
       "active": true
     },
     "13516": {
@@ -15106,7 +15106,7 @@
     "13058": {
       "name": "Cam Horsley",
       "position": "DT",
-      "team": null,
+      "team": "ARI",
       "status": "Active",
       "active": true
     },
@@ -29001,7 +29001,7 @@
     "9220": {
       "name": "Evan Hull",
       "position": "RB",
-      "team": null,
+      "team": "ARI",
       "status": "Active",
       "active": true
     },
@@ -48805,6 +48805,13 @@
       "name": "Aidan Robbins",
       "position": "RB",
       "team": null,
+      "status": "Active",
+      "active": true
+    },
+    "14067": {
+      "name": "Jeff Weimer",
+      "position": "WR",
+      "team": "KC",
       "status": "Active",
       "active": true
     },
@@ -70987,8 +70994,8 @@
     "13596": {
       "name": "Mikail Kamara",
       "position": "DE",
-      "team": null,
-      "status": "Active",
+      "team": "SF",
+      "status": "Inactive",
       "active": true
     },
     "5883": {
@@ -93341,7 +93348,7 @@
       "id": "9220",
       "name": "Evan Hull",
       "position": "RB",
-      "team": null,
+      "team": "ARI",
       "status": "Active"
     },
     {
@@ -95968,6 +95975,13 @@
       "position": "WR",
       "team": null,
       "status": "Inactive"
+    },
+    {
+      "id": "14067",
+      "name": "Jeff Weimer",
+      "position": "WR",
+      "team": "KC",
+      "status": "Active"
     },
     {
       "id": "5284",
