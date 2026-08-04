@@ -2130,7 +2130,7 @@
   "6930": {
     "name": "Trystan Colon",
     "position": "C",
-    "team": "JAX",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -9088,7 +9088,7 @@
   "7188": {
     "name": "Tyler Hall",
     "position": "DB",
-    "team": null,
+    "team": "CLE",
     "status": "Active",
     "active": true
   },
@@ -31355,7 +31355,7 @@
   "13110": {
     "name": "Zach Horton",
     "position": "TE",
-    "team": null,
+    "team": "DET",
     "status": "Active",
     "active": true
   },
@@ -38005,7 +38005,7 @@
   "4126": {
     "name": "Fabian Moreau",
     "position": "CB",
-    "team": null,
+    "team": "WAS",
     "status": "Active",
     "active": true
   },
@@ -38810,7 +38810,7 @@
   "12070": {
     "name": "McCallan Castles",
     "position": "TE",
-    "team": null,
+    "team": "GB",
     "status": "Active",
     "active": true
   },
@@ -53167,7 +53167,7 @@
   "11802": {
     "name": "Tejhaun Palmer",
     "position": "WR",
-    "team": "ARI",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -54897,7 +54897,7 @@
     "name": "Jonathan Garvin",
     "position": "LB",
     "team": "CHI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "868": {
@@ -60160,7 +60160,7 @@
   "8005": {
     "name": "Tarik Black",
     "position": "WR",
-    "team": "DET",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -70976,7 +70976,7 @@
     "name": "Anthony Firkser",
     "position": "TE",
     "team": "DET",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "2062": {
@@ -73768,7 +73768,7 @@
   "4124": {
     "name": "Ahkello Witherspoon",
     "position": "CB",
-    "team": "WAS",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -80110,7 +80110,7 @@
   "13750": {
     "name": "TJ Harden",
     "position": "RB",
-    "team": "CLE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -81202,7 +81202,7 @@
   "13917": {
     "name": "Marlen Sewell",
     "position": "DB",
-    "team": null,
+    "team": "CHI",
     "status": "Active",
     "active": true
   },
@@ -83533,7 +83533,7 @@
   "10988": {
     "name": "Cameron Mitchell",
     "position": "DB",
-    "team": "IND",
+    "team": null,
     "status": "Active",
     "active": true
   },

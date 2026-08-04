@@ -676,7 +676,7 @@
     "name": "Anthony Firkser",
     "position": "TE",
     "team": "DET",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "6898",
@@ -13730,7 +13730,7 @@
     "id": "12070",
     "name": "McCallan Castles",
     "position": "TE",
-    "team": null,
+    "team": "GB",
     "status": "Active"
   },
   {
@@ -17307,7 +17307,7 @@
     "id": "13750",
     "name": "TJ Harden",
     "position": "RB",
-    "team": "CLE",
+    "team": null,
     "status": "Active"
   },
   {
@@ -17475,7 +17475,7 @@
     "id": "8005",
     "name": "Tarik Black",
     "position": "WR",
-    "team": "DET",
+    "team": null,
     "status": "Active"
   },
   {
@@ -17650,7 +17650,7 @@
     "id": "11802",
     "name": "Tejhaun Palmer",
     "position": "WR",
-    "team": "ARI",
+    "team": null,
     "status": "Active"
   },
   {
@@ -19519,7 +19519,7 @@
     "id": "13110",
     "name": "Zach Horton",
     "position": "TE",
-    "team": null,
+    "team": "DET",
     "status": "Active"
   },
   {
