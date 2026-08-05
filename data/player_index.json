@@ -6239,7 +6239,7 @@
   "12981": {
     "name": "Gee Scott",
     "position": "TE",
-    "team": "NYJ",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -8010,7 +8010,7 @@
   "13939": {
     "name": "Gabriel Benyard",
     "position": "WR",
-    "team": "CAR",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -10992,7 +10992,7 @@
   "14049": {
     "name": "Brandon Hayes",
     "position": "WR",
-    "team": null,
+    "team": "PHI",
     "status": "Active",
     "active": true
   },
@@ -12294,7 +12294,7 @@
   "5773": {
     "name": "KhaDarel Hodge",
     "position": "WR",
-    "team": null,
+    "team": "SF",
     "status": "Active",
     "active": true
   },
@@ -18300,7 +18300,7 @@
   "13430": {
     "name": "RJ Maryland",
     "position": "TE",
-    "team": "GB",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -18916,7 +18916,7 @@
   "8274": {
     "name": "LaBryan Ray",
     "position": "DL",
-    "team": "CAR",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -24929,7 +24929,7 @@
   "14061": {
     "name": "Jeremiah Franklin",
     "position": "TE",
-    "team": "NE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -29724,7 +29724,7 @@
   "5914": {
     "name": "David Long",
     "position": "CB",
-    "team": null,
+    "team": "NYG",
     "status": "Active",
     "active": true
   },
@@ -32643,7 +32643,7 @@
   "13309": {
     "name": "Aaron Anderson",
     "position": "WR",
-    "team": "CLE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -41127,7 +41127,7 @@
   "6094": {
     "name": "Sam Mustipher",
     "position": "OL",
-    "team": null,
+    "team": "JAX",
     "status": "Active",
     "active": true
   },
@@ -45033,7 +45033,7 @@
   "11801": {
     "name": "DJ James",
     "position": "CB",
-    "team": null,
+    "team": "NYG",
     "status": "Active",
     "active": true
   },
@@ -49220,7 +49220,7 @@
     "name": "Roy Robertson-Harris",
     "position": "DE",
     "team": "NYG",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "11290": {
@@ -53209,7 +53209,7 @@
   "2449": {
     "name": "Stefon Diggs",
     "position": "WR",
-    "team": null,
+    "team": "WAS",
     "status": "Active",
     "active": true
   },
@@ -54385,7 +54385,7 @@
   "13054": {
     "name": "Junior Tafuna",
     "position": "DT",
-    "team": "HOU",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -57584,7 +57584,7 @@
   "11615": {
     "name": "Ainias Smith",
     "position": "WR",
-    "team": "CAR",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -59264,7 +59264,7 @@
   "5075": {
     "name": "Ogbo Okoronkwo",
     "position": "LB",
-    "team": null,
+    "team": "SF",
     "status": "Active",
     "active": true
   },
@@ -61889,7 +61889,7 @@
   "12725": {
     "name": "Luke Lachey",
     "position": "TE",
-    "team": "GB",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -66471,6 +66471,13 @@
     "status": "Inactive",
     "active": false
   },
+  "14069": {
+    "name": "Connor Hulstein",
+    "position": "TE",
+    "team": "NYJ",
+    "status": "Active",
+    "active": true
+  },
   "1691": {
     "name": "Chuck Jacobs",
     "position": "WR",
@@ -69701,7 +69708,7 @@
   "12001": {
     "name": "Lawrence Keys",
     "position": "WR",
-    "team": "DET",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -72536,7 +72543,7 @@
   "13722": {
     "name": "Isaiah Nwokobia",
     "position": "DB",
-    "team": "CIN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -81958,7 +81965,7 @@
   "8081": {
     "name": "Jake Curhan",
     "position": "T",
-    "team": null,
+    "team": "CAR",
     "status": "Active",
     "active": true
   },
