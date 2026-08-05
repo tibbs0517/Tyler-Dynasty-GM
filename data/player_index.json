@@ -9704,7 +9704,7 @@
   "7804": {
     "name": "Marlon Tuipulotu",
     "position": "DT",
-    "team": null,
+    "team": "ATL",
     "status": "Active",
     "active": true
   },
@@ -11216,7 +11216,7 @@
   "2985": {
     "name": "Kendall Lamm",
     "position": "OT",
-    "team": null,
+    "team": "BAL",
     "status": "Active",
     "active": true
   },
@@ -12469,7 +12469,7 @@
   "13114": {
     "name": "Coziah Izzard",
     "position": "DT",
-    "team": "ARI",
+    "team": "CLE",
     "status": "Active",
     "active": true
   },
@@ -13288,7 +13288,7 @@
   "8475": {
     "name": "Montrell Washington",
     "position": "WR",
-    "team": null,
+    "team": "HOU",
     "status": "Active",
     "active": true
   },
@@ -18917,7 +18917,7 @@
     "name": "LaBryan Ray",
     "position": "DL",
     "team": "CAR",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3326": {
@@ -24187,7 +24187,7 @@
   "11139": {
     "name": "Elijah Cooks",
     "position": "WR",
-    "team": null,
+    "team": "CAR",
     "status": "Active",
     "active": true
   },
@@ -42916,6 +42916,13 @@
     "status": "Active",
     "active": true
   },
+  "14068": {
+    "name": "Drew Biber",
+    "position": "TE",
+    "team": "GB",
+    "status": "Active",
+    "active": true
+  },
   "5486": {
     "name": "Bryce Johnson",
     "position": "OT",
@@ -53167,7 +53174,7 @@
   "11802": {
     "name": "Tejhaun Palmer",
     "position": "WR",
-    "team": null,
+    "team": "NE",
     "status": "Active",
     "active": true
   },
@@ -70478,7 +70485,7 @@
   "8255": {
     "name": "Raheem Blackshear",
     "position": "RB",
-    "team": null,
+    "team": "DET",
     "status": "Active",
     "active": true
   },
@@ -82483,7 +82490,7 @@
   "12972": {
     "name": "Roc Taylor",
     "position": "WR",
-    "team": null,
+    "team": "CAR",
     "status": "Active",
     "active": true
   },

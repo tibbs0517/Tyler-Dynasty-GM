@@ -5950,6 +5950,13 @@
     "status": "Active"
   },
   {
+    "id": "14068",
+    "name": "Drew Biber",
+    "position": "TE",
+    "team": "GB",
+    "status": "Active"
+  },
+  {
     "id": "289",
     "name": "Drew Brees",
     "position": "QB",
@@ -6296,7 +6303,7 @@
     "id": "11139",
     "name": "Elijah Cooks",
     "position": "WR",
-    "team": null,
+    "team": "CAR",
     "status": "Active"
   },
   {
@@ -14262,7 +14269,7 @@
     "id": "8475",
     "name": "Montrell Washington",
     "position": "WR",
-    "team": null,
+    "team": "HOU",
     "status": "Active"
   },
   {
@@ -15417,7 +15424,7 @@
     "id": "8255",
     "name": "Raheem Blackshear",
     "position": "RB",
-    "team": null,
+    "team": "DET",
     "status": "Active"
   },
   {
@@ -15935,7 +15942,7 @@
     "id": "12972",
     "name": "Roc Taylor",
     "position": "WR",
-    "team": null,
+    "team": "CAR",
     "status": "Active"
   },
   {
@@ -17650,7 +17657,7 @@
     "id": "11802",
     "name": "Tejhaun Palmer",
     "position": "WR",
-    "team": null,
+    "team": "NE",
     "status": "Active"
   },
   {
