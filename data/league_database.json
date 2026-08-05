@@ -60,11 +60,6 @@
       "daily_waivers_last_ran": 5
     },
     "avatar": null,
-    "company_id": null,
-    "shard": 470,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -111,6 +106,11 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 470,
+    "sport": "nfl",
+    "company_id": null,
     "last_message_id": "1389638056692174848",
     "draft_id": "1326711861202161664",
     "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
@@ -148,9 +148,9 @@
       "BN",
       "BN"
     ],
-    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -7280,7 +7280,7 @@
     "12924": {
       "name": "Fatorma Mulbah",
       "position": "DL",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -10459,7 +10459,7 @@
       "name": "Miles Kitselman",
       "position": "TE",
       "team": "DET",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "13310": {
@@ -11698,7 +11698,7 @@
       "name": "Rene Konga",
       "position": "DL",
       "team": "MIA",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "13775": {
@@ -26194,7 +26194,7 @@
     "14061": {
       "name": "Jeremiah Franklin",
       "position": "TE",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -48609,7 +48609,7 @@
       "name": "Saahdiq Charles",
       "position": "T",
       "team": "CAR",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "5968": {
@@ -59465,7 +59465,7 @@
     "13980": {
       "name": "Parker Petersen",
       "position": "DT",
-      "team": null,
+      "team": "CAR",
       "status": "Active",
       "active": true
     },
@@ -61432,7 +61432,7 @@
     "8005": {
       "name": "Tarik Black",
       "position": "WR",
-      "team": null,
+      "team": "DET",
       "status": "Active",
       "active": true
     },
@@ -66948,7 +66948,7 @@
     "6529": {
       "name": "Chris Myarick",
       "position": "TE",
-      "team": null,
+      "team": "LV",
       "status": "Active",
       "active": true
     },
@@ -72262,6 +72262,13 @@
       "name": "Anthony Hitchens",
       "position": "LB",
       "team": "KC",
+      "status": "Active",
+      "active": true
+    },
+    "14070": {
+      "name": "Jordan Washington",
+      "position": "CB",
+      "team": "SEA",
       "status": "Active",
       "active": true
     },
@@ -80899,7 +80906,7 @@
     "13223": {
       "name": "Patrick Jenkins",
       "position": "DL",
-      "team": null,
+      "team": "NYJ",
       "status": "Active",
       "active": true
     },
@@ -81389,7 +81396,7 @@
     "13750": {
       "name": "TJ Harden",
       "position": "RB",
-      "team": null,
+      "team": "SEA",
       "status": "Active",
       "active": true
     },
@@ -89862,7 +89869,7 @@
       "id": "6529",
       "name": "Chris Myarick",
       "position": "TE",
-      "team": null,
+      "team": "LV",
       "status": "Active"
     },
     {
@@ -96064,7 +96071,7 @@
       "id": "14061",
       "name": "Jeremiah Franklin",
       "position": "TE",
-      "team": null,
+      "team": "MIA",
       "status": "Active"
     },
     {
@@ -100860,7 +100867,7 @@
       "name": "Miles Kitselman",
       "position": "TE",
       "team": "DET",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "6151",
@@ -104051,7 +104058,7 @@
       "id": "13750",
       "name": "TJ Harden",
       "position": "RB",
-      "team": null,
+      "team": "SEA",
       "status": "Active"
     },
     {
@@ -104219,7 +104226,7 @@
       "id": "8005",
       "name": "Tarik Black",
       "position": "WR",
-      "team": null,
+      "team": "DET",
       "status": "Active"
     },
     {

@@ -8418,7 +8418,7 @@
     "age": 24,
     "years_exp": 3,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -10949,7 +10949,7 @@
     "id": "13750",
     "name": "TJ Harden",
     "position": "RB",
-    "team": null,
+    "team": "SEA",
     "age": 22,
     "years_exp": 0,
     "active": true,
@@ -13046,7 +13046,7 @@
     "age": 26,
     "years_exp": 2,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -13445,7 +13445,7 @@
     "id": "6529",
     "name": "Chris Myarick",
     "position": "TE",
-    "team": null,
+    "team": "LV",
     "age": 30,
     "years_exp": 7,
     "active": true,
@@ -15902,7 +15902,7 @@
     "id": "14061",
     "name": "Jeremiah Franklin",
     "position": "TE",
-    "team": null,
+    "team": "MIA",
     "age": null,
     "years_exp": 0,
     "active": true,
@@ -15958,7 +15958,7 @@
     "age": null,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -17206,7 +17206,7 @@
     "age": 25,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -17752,7 +17752,7 @@
     "age": 23,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -18441,7 +18441,7 @@
     "age": 22,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -19689,7 +19689,7 @@
     "age": 31,
     "years_exp": 8,
     "active": true,
-    "injury_status": "PUP",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -20092,7 +20092,7 @@
     "age": 23,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -20235,7 +20235,7 @@
     "age": 25,
     "years_exp": 2,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -22731,7 +22731,7 @@
     "age": 26,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -29036,7 +29036,7 @@
     "age": 29,
     "years_exp": 9,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -30726,7 +30726,7 @@
     "age": 26,
     "years_exp": 2,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -34661,7 +34661,7 @@
     "id": "8005",
     "name": "Tarik Black",
     "position": "WR",
-    "team": null,
+    "team": "DET",
     "age": 28,
     "years_exp": 5,
     "active": true,

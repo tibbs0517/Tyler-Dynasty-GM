@@ -6015,7 +6015,7 @@
   "12924": {
     "name": "Fatorma Mulbah",
     "position": "DL",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -9194,7 +9194,7 @@
     "name": "Miles Kitselman",
     "position": "TE",
     "team": "DET",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "13310": {
@@ -10433,7 +10433,7 @@
     "name": "Rene Konga",
     "position": "DL",
     "team": "MIA",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "13775": {
@@ -24929,7 +24929,7 @@
   "14061": {
     "name": "Jeremiah Franklin",
     "position": "TE",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -47344,7 +47344,7 @@
     "name": "Saahdiq Charles",
     "position": "T",
     "team": "CAR",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "5968": {
@@ -58200,7 +58200,7 @@
   "13980": {
     "name": "Parker Petersen",
     "position": "DT",
-    "team": null,
+    "team": "CAR",
     "status": "Active",
     "active": true
   },
@@ -60167,7 +60167,7 @@
   "8005": {
     "name": "Tarik Black",
     "position": "WR",
-    "team": null,
+    "team": "DET",
     "status": "Active",
     "active": true
   },
@@ -65683,7 +65683,7 @@
   "6529": {
     "name": "Chris Myarick",
     "position": "TE",
-    "team": null,
+    "team": "LV",
     "status": "Active",
     "active": true
   },
@@ -70997,6 +70997,13 @@
     "name": "Anthony Hitchens",
     "position": "LB",
     "team": "KC",
+    "status": "Active",
+    "active": true
+  },
+  "14070": {
+    "name": "Jordan Washington",
+    "position": "CB",
+    "team": "SEA",
     "status": "Active",
     "active": true
   },
@@ -79634,7 +79641,7 @@
   "13223": {
     "name": "Patrick Jenkins",
     "position": "DL",
-    "team": null,
+    "team": "NYJ",
     "status": "Active",
     "active": true
   },
@@ -80124,7 +80131,7 @@
   "13750": {
     "name": "TJ Harden",
     "position": "RB",
-    "team": null,
+    "team": "SEA",
     "status": "Active",
     "active": true
   },

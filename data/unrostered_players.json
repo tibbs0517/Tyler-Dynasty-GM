@@ -3132,7 +3132,7 @@
     "id": "6529",
     "name": "Chris Myarick",
     "position": "TE",
-    "team": null,
+    "team": "LV",
     "status": "Active"
   },
   {
@@ -9334,7 +9334,7 @@
     "id": "14061",
     "name": "Jeremiah Franklin",
     "position": "TE",
-    "team": null,
+    "team": "MIA",
     "status": "Active"
   },
   {
@@ -14130,7 +14130,7 @@
     "name": "Miles Kitselman",
     "position": "TE",
     "team": "DET",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "6151",
@@ -17321,7 +17321,7 @@
     "id": "13750",
     "name": "TJ Harden",
     "position": "RB",
-    "team": null,
+    "team": "SEA",
     "status": "Active"
   },
   {
@@ -17489,7 +17489,7 @@
     "id": "8005",
     "name": "Tarik Black",
     "position": "WR",
-    "team": null,
+    "team": "DET",
     "status": "Active"
   },
   {
