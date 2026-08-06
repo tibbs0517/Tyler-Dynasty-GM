@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-08-05 23:31:11
+Generated: 2026-08-06 10:14:02
 
 ---
 
@@ -9,14 +9,14 @@ Generated: 2026-08-05 23:31:11
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2812
+Available Players: 2810
 
 ---
 
 ## League Activity
 
 Trades: 3
-Waiver Claims: 13
+Waiver Claims: 15
 Free Agent Moves: 43
 
 ---
@@ -25,7 +25,7 @@ Free Agent Moves: 43
 
 Username: tylergratz
 Roster ID: 5
-Players on Roster: 22
+Players on Roster: 24
 
 ---
 
@@ -39,6 +39,8 @@ Players on Roster: 22
 
 ## Top Waiver Claims
 
+- Jaydon Blue → tylergratz
+- T.J. Hockenson → tylergratz
 - Roman Wilson → tylerhjensen
 - Cyrus Allen → HebrewsHeroes
 - Michael Penix → jmikolay
@@ -81,10 +83,10 @@ Players on Roster: 22
 - SammyA: 8 moves
 - HebrewsHeroes: 7 moves
 - theFalIeniD: 7 moves
+- tylergratz: 6 moves
 - HoNeYmOOnBaBy: 6 moves
 - AnthonyJania: 6 moves
 - jmikolay: 4 moves
-- tylergratz: 4 moves
 
 ---
 

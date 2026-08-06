@@ -59,8 +59,8 @@
     "id": "13309",
     "name": "Aaron Anderson",
     "position": "WR",
-    "team": null,
-    "status": "Active"
+    "team": "CLE",
+    "status": "Inactive"
   },
   {
     "id": "4683",
@@ -269,8 +269,8 @@
     "id": "11615",
     "name": "Ainias Smith",
     "position": "WR",
-    "team": null,
-    "status": "Active"
+    "team": "CAR",
+    "status": "Inactive"
   },
   {
     "id": "12528",
@@ -3412,8 +3412,8 @@
     "id": "12210",
     "name": "Cole Burgess",
     "position": "WR",
-    "team": null,
-    "status": "Active"
+    "team": "PIT",
+    "status": "Inactive"
   },
   {
     "id": "8840",
@@ -9142,13 +9142,6 @@
     "status": "Active"
   },
   {
-    "id": "12457",
-    "name": "Jaydon Blue",
-    "position": "RB",
-    "team": "DAL",
-    "status": "Active"
-  },
-  {
     "id": "3852",
     "name": "Jaydon Mickens",
     "position": "WR",
@@ -12421,8 +12414,8 @@
     "id": "12001",
     "name": "Lawrence Keys",
     "position": "WR",
-    "team": null,
-    "status": "Active"
+    "team": "DET",
+    "status": "Inactive"
   },
   {
     "id": "13261",
@@ -12743,8 +12736,8 @@
     "id": "12725",
     "name": "Luke Lachey",
     "position": "TE",
-    "team": null,
-    "status": "Active"
+    "team": "GB",
+    "status": "Inactive"
   },
   {
     "id": "2914",
@@ -15403,8 +15396,8 @@
     "id": "13430",
     "name": "RJ Maryland",
     "position": "TE",
-    "team": null,
-    "status": "Active"
+    "team": "GB",
+    "status": "Inactive"
   },
   {
     "id": "12276",
@@ -17231,13 +17224,6 @@
     "name": "Synjyn Days",
     "position": "RB",
     "team": null,
-    "status": "Active"
-  },
-  {
-    "id": "5844",
-    "name": "T.J. Hockenson",
-    "position": "TE",
-    "team": "MIN",
     "status": "Active"
   },
   {

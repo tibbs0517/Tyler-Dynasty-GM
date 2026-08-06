@@ -18300,8 +18300,8 @@
   "13430": {
     "name": "RJ Maryland",
     "position": "TE",
-    "team": null,
-    "status": "Active",
+    "team": "GB",
+    "status": "Inactive",
     "active": true
   },
   "30": {
@@ -32643,8 +32643,8 @@
   "13309": {
     "name": "Aaron Anderson",
     "position": "WR",
-    "team": null,
-    "status": "Active",
+    "team": "CLE",
+    "status": "Inactive",
     "active": true
   },
   "12570": {
@@ -57395,8 +57395,8 @@
   "12210": {
     "name": "Cole Burgess",
     "position": "WR",
-    "team": null,
-    "status": "Active",
+    "team": "PIT",
+    "status": "Inactive",
     "active": true
   },
   "13577": {
@@ -57584,8 +57584,8 @@
   "11615": {
     "name": "Ainias Smith",
     "position": "WR",
-    "team": null,
-    "status": "Active",
+    "team": "CAR",
+    "status": "Inactive",
     "active": true
   },
   "944": {
@@ -61889,8 +61889,8 @@
   "12725": {
     "name": "Luke Lachey",
     "position": "TE",
-    "team": null,
-    "status": "Active",
+    "team": "GB",
+    "status": "Inactive",
     "active": true
   },
   "12500": {
@@ -69708,8 +69708,8 @@
   "12001": {
     "name": "Lawrence Keys",
     "position": "WR",
-    "team": null,
-    "status": "Active",
+    "team": "DET",
+    "status": "Inactive",
     "active": true
   },
   "12883": {
