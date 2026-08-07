@@ -61445,7 +61445,7 @@
     "age": 29,
     "years_exp": 8,
     "active": true,
-    "injury_status": "PUP",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -75836,7 +75836,7 @@
     "age": 36,
     "years_exp": 13,
     "active": true,
-    "injury_status": "PUP",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -92333,7 +92333,7 @@
     "age": 23,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": true,
     "roster_id": 7
@@ -96246,7 +96246,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": "PUP",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": true,
     "roster_id": 4
@@ -111872,7 +111872,7 @@
     "age": 26,
     "years_exp": 4,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": true,
     "roster_id": 8
@@ -147856,7 +147856,7 @@
     "age": 24,
     "years_exp": 1,
     "active": true,
-    "injury_status": "PUP",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
