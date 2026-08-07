@@ -269,7 +269,7 @@
     "id": "11615",
     "name": "Ainias Smith",
     "position": "WR",
-    "team": "CAR",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -1214,7 +1214,7 @@
     "id": "12889",
     "name": "Beaux Collins",
     "position": "WR",
-    "team": "DAL",
+    "team": "NYG",
     "status": "Inactive"
   },
   {
@@ -3552,7 +3552,7 @@
     "id": "11046",
     "name": "Colton Dowell",
     "position": "WR",
-    "team": "SF",
+    "team": null,
     "status": "Active"
   },
   {
@@ -12022,7 +12022,7 @@
     "id": "7438",
     "name": "Kristian Wilkerson",
     "position": "WR",
-    "team": null,
+    "team": "ATL",
     "status": "Active"
   },
   {
@@ -12302,7 +12302,7 @@
     "id": "13357",
     "name": "Lance Mason",
     "position": "TE",
-    "team": "SEA",
+    "team": null,
     "status": "Active"
   },
   {
@@ -12414,7 +12414,7 @@
     "id": "12001",
     "name": "Lawrence Keys",
     "position": "WR",
-    "team": "DET",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -18868,7 +18868,7 @@
     "id": "14062",
     "name": "Tyler Moore",
     "position": "TE",
-    "team": "NYG",
+    "team": null,
     "status": "Active"
   },
   {
