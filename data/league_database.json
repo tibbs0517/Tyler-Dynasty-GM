@@ -18419,7 +18419,7 @@
     "6150": {
       "name": "Max Scharping",
       "position": "OL",
-      "team": null,
+      "team": "WAS",
       "status": "Active",
       "active": true
     },
@@ -21842,7 +21842,7 @@
     "3222": {
       "name": "Deion Jones",
       "position": "LB",
-      "team": null,
+      "team": "NO",
       "status": "Active",
       "active": true
     },
@@ -52867,6 +52867,13 @@
       "name": "Garrett Walston",
       "position": "TE",
       "team": null,
+      "status": "Active",
+      "active": true
+    },
+    "14072": {
+      "name": "Daniel Rickert",
+      "position": "DE",
+      "team": "LAR",
       "status": "Active",
       "active": true
     },
