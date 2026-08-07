@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-08-07 06:12:32
+Generated: 2026-08-07 10:14:50
 
 ---
 
@@ -9,14 +9,14 @@ Generated: 2026-08-07 06:12:32
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2810
+Available Players: 2809
 
 ---
 
 ## League Activity
 
 Trades: 4
-Waiver Claims: 15
+Waiver Claims: 16
 Free Agent Moves: 43
 
 ---
@@ -40,6 +40,7 @@ Players on Roster: 24
 
 ## Top Waiver Claims
 
+- MarShawn Lloyd → HebrewsHeroes
 - Jaydon Blue → tylergratz
 - T.J. Hockenson → tylergratz
 - Roman Wilson → tylerhjensen
@@ -81,7 +82,7 @@ Players on Roster: 24
 
 - TheCreecher: 13 moves
 - tylerhjensen: 11 moves
-- HebrewsHeroes: 8 moves
+- HebrewsHeroes: 9 moves
 - SammyA: 8 moves
 - HoNeYmOOnBaBy: 7 moves
 - theFalIeniD: 7 moves

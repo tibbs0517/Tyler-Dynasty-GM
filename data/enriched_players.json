@@ -94831,8 +94831,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": false,
-    "roster_id": null
+    "rostered": true,
+    "roster_id": 7
   },
   "11038": {
     "id": "11038",
