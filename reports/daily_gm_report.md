@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-08-06 10:14:02
+Generated: 2026-08-07 01:53:02
 
 ---
 
@@ -15,7 +15,7 @@ Available Players: 2810
 
 ## League Activity
 
-Trades: 3
+Trades: 4
 Waiver Claims: 15
 Free Agent Moves: 43
 
@@ -31,6 +31,7 @@ Players on Roster: 24
 
 ## Recent Trades
 
+- HebrewsHeroes ↔ HoNeYmOOnBaBy
 - tylerhjensen ↔ theFalIeniD
 - AnthonyJania ↔ theFalIeniD
 - HebrewsHeroes ↔ TheCreecher
@@ -58,6 +59,8 @@ Players on Roster: 24
 
 ## Recently Dropped Players
 
+- Geno Smith
+- Brenton Strange
 - James Conner
 - MarShawn Lloyd
 - Troy Franklin
@@ -71,8 +74,6 @@ Players on Roster: 24
 - Isaac TeSlaa
 - Emanuel Wilson
 - Kayshon Boutte
-- Kevin Coleman
-- Justice Hill
 
 ---
 
@@ -80,11 +81,11 @@ Players on Roster: 24
 
 - TheCreecher: 13 moves
 - tylerhjensen: 11 moves
+- HebrewsHeroes: 8 moves
 - SammyA: 8 moves
-- HebrewsHeroes: 7 moves
+- HoNeYmOOnBaBy: 7 moves
 - theFalIeniD: 7 moves
 - tylergratz: 6 moves
-- HoNeYmOOnBaBy: 6 moves
 - AnthonyJania: 6 moves
 - jmikolay: 4 moves
 

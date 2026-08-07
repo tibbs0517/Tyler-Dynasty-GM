@@ -1214,7 +1214,7 @@
     "id": "12889",
     "name": "Beaux Collins",
     "position": "WR",
-    "team": "NYG",
+    "team": null,
     "status": "Active"
   },
   {
@@ -4350,7 +4350,7 @@
     "id": "4718",
     "name": "Dare Ogunbowale",
     "position": "RB",
-    "team": null,
+    "team": "LV",
     "status": "Active"
   },
   {
@@ -15144,7 +15144,7 @@
     "id": "4443",
     "name": "Pharaoh Brown",
     "position": "TE",
-    "team": null,
+    "team": "IND",
     "status": "Active"
   },
   {
@@ -15264,7 +15264,7 @@
     "name": "Princeton Fant",
     "position": "TE",
     "team": "DAL",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "7985",
@@ -16594,7 +16594,7 @@
     "name": "Sean McKeon",
     "position": "TE",
     "team": "IND",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "6459",
@@ -19582,7 +19582,7 @@
     "id": "9483",
     "name": "Zack Kuntz",
     "position": "TE",
-    "team": "LV",
+    "team": "DAL",
     "status": "Active"
   },
   {

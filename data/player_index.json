@@ -4468,7 +4468,7 @@
   "6005": {
     "name": "Kevin Givens",
     "position": "DT",
-    "team": "SF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -6337,7 +6337,7 @@
   "7776": {
     "name": "Israel Mukuamu",
     "position": "DB",
-    "team": null,
+    "team": "PIT",
     "status": "Active",
     "active": true
   },
@@ -12042,7 +12042,7 @@
   "9483": {
     "name": "Zack Kuntz",
     "position": "TE",
-    "team": "LV",
+    "team": "DAL",
     "status": "Active",
     "active": true
   },
@@ -12945,7 +12945,7 @@
   "10993": {
     "name": "Tre Hawkins",
     "position": "CB",
-    "team": "WAS",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -17138,7 +17138,7 @@
   "4443": {
     "name": "Pharaoh Brown",
     "position": "TE",
-    "team": null,
+    "team": "IND",
     "status": "Active",
     "active": true
   },
@@ -18601,7 +18601,7 @@
   "13983": {
     "name": "Ahmari Harvey",
     "position": "DB",
-    "team": "PIT",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -20548,7 +20548,7 @@
     "name": "Demetrius Flannigan-Fowles",
     "position": "LB",
     "team": "BUF",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "7762": {
@@ -24957,7 +24957,7 @@
   "6179": {
     "name": "Jahlani Tavai",
     "position": "LB",
-    "team": null,
+    "team": "JAX",
     "status": "Active",
     "active": true
   },
@@ -28360,6 +28360,13 @@
     "name": "Devin Duvernay",
     "position": "WR",
     "team": "ARI",
+    "status": "Active",
+    "active": true
+  },
+  "14071": {
+    "name": "Grant Finley",
+    "position": "FB",
+    "team": "NYG",
     "status": "Active",
     "active": true
   },
@@ -32770,7 +32777,7 @@
     "name": "Sean McKeon",
     "position": "TE",
     "team": "IND",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "2048": {
@@ -38587,7 +38594,7 @@
     "name": "Jalon Walker",
     "position": "DL",
     "team": "ATL",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "12905": {
@@ -41414,7 +41421,7 @@
   "12983": {
     "name": "Brock Lampe",
     "position": "FB",
-    "team": null,
+    "team": "SEA",
     "status": "Active",
     "active": true
   },
@@ -42569,7 +42576,7 @@
   "13684": {
     "name": "Shad Banks",
     "position": "LB",
-    "team": "TEN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -45362,7 +45369,7 @@
   "11750": {
     "name": "Dominique Hampton",
     "position": "CB",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
@@ -49730,7 +49737,7 @@
   "7742": {
     "name": "Kion Smith",
     "position": "T",
-    "team": null,
+    "team": "SF",
     "status": "Active",
     "active": true
   },
@@ -50262,7 +50269,7 @@
   "11837": {
     "name": "Jaden Davis",
     "position": "DB",
-    "team": "ARI",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -52096,7 +52103,7 @@
   "12238": {
     "name": "Eric Watts",
     "position": "DL",
-    "team": "NYJ",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -54385,7 +54392,7 @@
   "13054": {
     "name": "Junior Tafuna",
     "position": "DT",
-    "team": null,
+    "team": "NYJ",
     "status": "Active",
     "active": true
   },
@@ -61448,7 +61455,7 @@
   "13141": {
     "name": "Seth Coleman",
     "position": "LB",
-    "team": "MIA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -63975,7 +63982,7 @@
   "7727": {
     "name": "Cameron Sample",
     "position": "DE",
-    "team": "SF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -66789,7 +66796,7 @@
   "13803": {
     "name": "Tanner Wall",
     "position": "DB",
-    "team": "LV",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -68995,7 +69002,7 @@
     "name": "Princeton Fant",
     "position": "TE",
     "team": "DAL",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "1686": {
@@ -69960,7 +69967,7 @@
   "4718": {
     "name": "Dare Ogunbowale",
     "position": "RB",
-    "team": null,
+    "team": "LV",
     "status": "Active",
     "active": true
   },
@@ -81006,7 +81013,7 @@
   "12889": {
     "name": "Beaux Collins",
     "position": "WR",
-    "team": "NYG",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -81832,7 +81839,7 @@
   "11454": {
     "name": "Otis Reese",
     "position": "LB",
-    "team": null,
+    "team": "BUF",
     "status": "Active",
     "active": true
   },
@@ -84002,7 +84009,7 @@
   "11395": {
     "name": "Keidron Smith",
     "position": "DB",
-    "team": "NYJ",
+    "team": "ATL",
     "status": "Active",
     "active": true
   },
