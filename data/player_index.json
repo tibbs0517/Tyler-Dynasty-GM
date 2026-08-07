@@ -4860,7 +4860,7 @@
   "8194": {
     "name": "Jashaun Corbin",
     "position": "RB",
-    "team": null,
+    "team": "DAL",
     "status": "Active",
     "active": true
   },
@@ -14415,7 +14415,7 @@
   "11046": {
     "name": "Colton Dowell",
     "position": "WR",
-    "team": null,
+    "team": "PIT",
     "status": "Active",
     "active": true
   },
@@ -18601,7 +18601,7 @@
   "13983": {
     "name": "Ahmari Harvey",
     "position": "DB",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -30466,7 +30466,7 @@
   "14056": {
     "name": "Kyre Duplessis",
     "position": "WR",
-    "team": null,
+    "team": "DEN",
     "status": "Active",
     "active": true
   },
@@ -34247,7 +34247,7 @@
     "name": "Dallis Flowers",
     "position": "CB",
     "team": "CHI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "6333": {
@@ -41330,7 +41330,7 @@
   "4238": {
     "name": "Xavier Woods",
     "position": "DB",
-    "team": null,
+    "team": "CHI",
     "status": "Active",
     "active": true
   },
@@ -42576,8 +42576,8 @@
   "13684": {
     "name": "Shad Banks",
     "position": "LB",
-    "team": null,
-    "status": "Active",
+    "team": "TEN",
+    "status": "Inactive",
     "active": true
   },
   "13013": {
@@ -57423,7 +57423,7 @@
   "13357": {
     "name": "Lance Mason",
     "position": "TE",
-    "team": null,
+    "team": "PIT",
     "status": "Active",
     "active": true
   },
@@ -60538,7 +60538,7 @@
   "12607": {
     "name": "Jamon Johnson",
     "position": "LB",
-    "team": null,
+    "team": "BAL",
     "status": "Active",
     "active": true
   },
@@ -62337,7 +62337,7 @@
   "11399": {
     "name": "Garrett Nelson",
     "position": "LB",
-    "team": null,
+    "team": "NO",
     "status": "Active",
     "active": true
   },
@@ -66611,6 +66611,13 @@
     "status": "Active",
     "active": true
   },
+  "14073": {
+    "name": "Eric Butler",
+    "position": "DB",
+    "team": "NE",
+    "status": "Active",
+    "active": true
+  },
   "3206": {
     "name": "Joe Schobert",
     "position": "LB",
@@ -66803,7 +66810,7 @@
   "13803": {
     "name": "Tanner Wall",
     "position": "DB",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -72523,7 +72530,7 @@
     "name": "Bryan Bresee",
     "position": "DT",
     "team": "NO",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "1291": {
@@ -79655,7 +79662,7 @@
   "13223": {
     "name": "Patrick Jenkins",
     "position": "DL",
-    "team": null,
+    "team": "CLE",
     "status": "Active",
     "active": true
   },

@@ -3552,7 +3552,7 @@
     "id": "11046",
     "name": "Colton Dowell",
     "position": "WR",
-    "team": null,
+    "team": "PIT",
     "status": "Active"
   },
   {
@@ -8991,7 +8991,7 @@
     "id": "8194",
     "name": "Jashaun Corbin",
     "position": "RB",
-    "team": null,
+    "team": "DAL",
     "status": "Active"
   },
   {
@@ -12162,7 +12162,7 @@
     "id": "14056",
     "name": "Kyre Duplessis",
     "position": "WR",
-    "team": null,
+    "team": "DEN",
     "status": "Active"
   },
   {
@@ -12302,7 +12302,7 @@
     "id": "13357",
     "name": "Lance Mason",
     "position": "TE",
-    "team": null,
+    "team": "PIT",
     "status": "Active"
   },
   {

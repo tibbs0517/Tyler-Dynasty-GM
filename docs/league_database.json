@@ -61,10 +61,10 @@
     },
     "avatar": null,
     "company_id": null,
-    "shard": 470,
-    "season": "2026",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 470,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -117,16 +117,18 @@
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "draft_id": "1326711861202161664",
     "last_message_text_map": null,
     "last_message_time": 1786086465274,
     "last_pinned_message_id": null,
+    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,8 +153,6 @@
       "BN",
       "BN"
     ],
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -6127,7 +6127,7 @@
     "8194": {
       "name": "Jashaun Corbin",
       "position": "RB",
-      "team": null,
+      "team": "DAL",
       "status": "Active",
       "active": true
     },
@@ -15682,7 +15682,7 @@
     "11046": {
       "name": "Colton Dowell",
       "position": "WR",
-      "team": null,
+      "team": "PIT",
       "status": "Active",
       "active": true
     },
@@ -19868,7 +19868,7 @@
     "13983": {
       "name": "Ahmari Harvey",
       "position": "DB",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -31733,7 +31733,7 @@
     "14056": {
       "name": "Kyre Duplessis",
       "position": "WR",
-      "team": null,
+      "team": "DEN",
       "status": "Active",
       "active": true
     },
@@ -35514,7 +35514,7 @@
       "name": "Dallis Flowers",
       "position": "CB",
       "team": "CHI",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "6333": {
@@ -42597,7 +42597,7 @@
     "4238": {
       "name": "Xavier Woods",
       "position": "DB",
-      "team": null,
+      "team": "CHI",
       "status": "Active",
       "active": true
     },
@@ -43843,8 +43843,8 @@
     "13684": {
       "name": "Shad Banks",
       "position": "LB",
-      "team": null,
-      "status": "Active",
+      "team": "TEN",
+      "status": "Inactive",
       "active": true
     },
     "13013": {
@@ -58690,7 +58690,7 @@
     "13357": {
       "name": "Lance Mason",
       "position": "TE",
-      "team": null,
+      "team": "PIT",
       "status": "Active",
       "active": true
     },
@@ -61805,7 +61805,7 @@
     "12607": {
       "name": "Jamon Johnson",
       "position": "LB",
-      "team": null,
+      "team": "BAL",
       "status": "Active",
       "active": true
     },
@@ -63604,7 +63604,7 @@
     "11399": {
       "name": "Garrett Nelson",
       "position": "LB",
-      "team": null,
+      "team": "NO",
       "status": "Active",
       "active": true
     },
@@ -67878,6 +67878,13 @@
       "status": "Active",
       "active": true
     },
+    "14073": {
+      "name": "Eric Butler",
+      "position": "DB",
+      "team": "NE",
+      "status": "Active",
+      "active": true
+    },
     "3206": {
       "name": "Joe Schobert",
       "position": "LB",
@@ -68070,7 +68077,7 @@
     "13803": {
       "name": "Tanner Wall",
       "position": "DB",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -73790,7 +73797,7 @@
       "name": "Bryan Bresee",
       "position": "DT",
       "team": "NO",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "1291": {
@@ -80922,7 +80929,7 @@
     "13223": {
       "name": "Patrick Jenkins",
       "position": "DL",
-      "team": null,
+      "team": "CLE",
       "status": "Active",
       "active": true
     },
@@ -90305,7 +90312,7 @@
       "id": "11046",
       "name": "Colton Dowell",
       "position": "WR",
-      "team": null,
+      "team": "PIT",
       "status": "Active"
     },
     {
@@ -95744,7 +95751,7 @@
       "id": "8194",
       "name": "Jashaun Corbin",
       "position": "RB",
-      "team": null,
+      "team": "DAL",
       "status": "Active"
     },
     {
@@ -98915,7 +98922,7 @@
       "id": "14056",
       "name": "Kyre Duplessis",
       "position": "WR",
-      "team": null,
+      "team": "DEN",
       "status": "Active"
     },
     {
@@ -99055,7 +99062,7 @@
       "id": "13357",
       "name": "Lance Mason",
       "position": "TE",
-      "team": null,
+      "team": "PIT",
       "status": "Active"
     },
     {
