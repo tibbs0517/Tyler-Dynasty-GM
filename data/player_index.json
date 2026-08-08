@@ -4846,8 +4846,8 @@
   "12877": {
     "name": "Brandon Johnson",
     "position": "DB",
-    "team": null,
-    "status": "Active",
+    "team": "SEA",
+    "status": "Inactive",
     "active": true
   },
   "8119": {
@@ -6704,6 +6704,13 @@
     "team": null,
     "status": "Inactive",
     "active": false
+  },
+  "14075": {
+    "name": "Malakai Williams",
+    "position": "DE",
+    "team": "NO",
+    "status": "Active",
+    "active": true
   },
   "12866": {
     "name": "Jalin Conyers",
@@ -21576,7 +21583,7 @@
   "8461": {
     "name": "Nicholas Petit-Frere",
     "position": "T",
-    "team": null,
+    "team": "WAS",
     "status": "Active",
     "active": true
   },
@@ -37253,6 +37260,13 @@
     "status": "Inactive",
     "active": false
   },
+  "14074": {
+    "name": "Brien Taylor",
+    "position": "DL",
+    "team": "NO",
+    "status": "Active",
+    "active": true
+  },
   "8305": {
     "name": "Montaric Brown",
     "position": "DB",
@@ -47308,7 +47322,7 @@
   "11031": {
     "name": "Brandon Hill",
     "position": "DB",
-    "team": null,
+    "team": "CHI",
     "status": "Active",
     "active": true
   },
@@ -72242,7 +72256,7 @@
   "13985": {
     "name": "William Wright",
     "position": "DB",
-    "team": null,
+    "team": "CHI",
     "status": "Active",
     "active": true
   },
@@ -81188,7 +81202,7 @@
   "4293": {
     "name": "Daniel Brunskill",
     "position": "OL",
-    "team": null,
+    "team": "WAS",
     "status": "Active",
     "active": true
   },

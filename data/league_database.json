@@ -61,11 +61,6 @@
     },
     "avatar": null,
     "company_id": null,
-    "last_message_id": "1391713365033779200",
-    "sport": "nfl",
-    "shard": 470,
-    "season": "2026",
-    "season_type": "regular",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -112,21 +107,23 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 470,
+    "sport": "nfl",
+    "last_message_id": "1391826966453182464",
     "draft_id": "1326711861202161664",
-    "last_author_avatar": null,
-    "last_author_display_name": "sys",
-    "last_author_id": "166666666666666666",
-    "last_author_is_bot": true,
+    "last_author_avatar": "0177a8ebbcc103218eac1238fc1a5492",
+    "last_author_display_name": "theFalIeniD",
+    "last_author_id": "798719789433487360",
+    "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1786172832310,
+    "last_message_time": 1786199916998,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,6 +148,9 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -6113,8 +6113,8 @@
     "12877": {
       "name": "Brandon Johnson",
       "position": "DB",
-      "team": null,
-      "status": "Active",
+      "team": "SEA",
+      "status": "Inactive",
       "active": true
     },
     "8119": {
@@ -7971,6 +7971,13 @@
       "team": null,
       "status": "Inactive",
       "active": false
+    },
+    "14075": {
+      "name": "Malakai Williams",
+      "position": "DE",
+      "team": "NO",
+      "status": "Active",
+      "active": true
     },
     "12866": {
       "name": "Jalin Conyers",
@@ -22843,7 +22850,7 @@
     "8461": {
       "name": "Nicholas Petit-Frere",
       "position": "T",
-      "team": null,
+      "team": "WAS",
       "status": "Active",
       "active": true
     },
@@ -38520,6 +38527,13 @@
       "status": "Inactive",
       "active": false
     },
+    "14074": {
+      "name": "Brien Taylor",
+      "position": "DL",
+      "team": "NO",
+      "status": "Active",
+      "active": true
+    },
     "8305": {
       "name": "Montaric Brown",
       "position": "DB",
@@ -48575,7 +48589,7 @@
     "11031": {
       "name": "Brandon Hill",
       "position": "DB",
-      "team": null,
+      "team": "CHI",
       "status": "Active",
       "active": true
     },
@@ -73509,7 +73523,7 @@
     "13985": {
       "name": "William Wright",
       "position": "DB",
-      "team": null,
+      "team": "CHI",
       "status": "Active",
       "active": true
     },
@@ -82455,7 +82469,7 @@
     "4293": {
       "name": "Daniel Brunskill",
       "position": "OL",
-      "team": null,
+      "team": "WAS",
       "status": "Active",
       "active": true
     },
