@@ -7681,7 +7681,7 @@
   "12842": {
     "name": "Timothy McKay",
     "position": "OG",
-    "team": "WAS",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -12119,7 +12119,7 @@
   "12771": {
     "name": "Jaden Robinson",
     "position": "CB",
-    "team": "DEN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -14009,7 +14009,7 @@
   "11026": {
     "name": "Gervarrius Owens",
     "position": "DB",
-    "team": "CHI",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -16606,7 +16606,7 @@
   "11633": {
     "name": "Jamari Thrash",
     "position": "WR",
-    "team": "CLE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -19413,7 +19413,7 @@
   "13816": {
     "name": "Mark Gronowski",
     "position": "QB",
-    "team": "MIA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -27750,7 +27750,7 @@
   "8262": {
     "name": "DJ Davidson",
     "position": "DL",
-    "team": "WAS",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -32482,7 +32482,7 @@
   "5027": {
     "name": "Geron Christian",
     "position": "OL",
-    "team": null,
+    "team": "JAX",
     "status": "Active",
     "active": true
   },
@@ -33294,7 +33294,7 @@
   "13674": {
     "name": "Chris Hilton",
     "position": "WR",
-    "team": "WAS",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -35114,7 +35114,7 @@
   "13829": {
     "name": "David Blay",
     "position": "DT",
-    "team": "NE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -39216,7 +39216,7 @@
   "7764": {
     "name": "William Bradley-King",
     "position": "DE",
-    "team": "SF",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -40791,7 +40791,7 @@
   "13859": {
     "name": "Jalen Walthall",
     "position": "WR",
-    "team": "NYJ",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -51438,7 +51438,7 @@
   "13713": {
     "name": "KC Eziomume",
     "position": "DB",
-    "team": "CHI",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -57339,7 +57339,7 @@
   "14046": {
     "name": "Reid Carrico",
     "position": "LB",
-    "team": "CLE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -58396,7 +58396,7 @@
   "11001": {
     "name": "Jarrick Bernard-Converse",
     "position": "CB",
-    "team": "NYG",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -65508,7 +65508,7 @@
   "13927": {
     "name": "Zxavian Harris",
     "position": "DL",
-    "team": "NO",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -68420,7 +68420,7 @@
   "12232": {
     "name": "Omar Brown",
     "position": "CB",
-    "team": "MIA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -70373,7 +70373,7 @@
   "13725": {
     "name": "Dominic Richardson",
     "position": "RB",
-    "team": "DAL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -71423,7 +71423,7 @@
   "10863": {
     "name": "A.T. Perry",
     "position": "WR",
-    "team": "PIT",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -72494,7 +72494,7 @@
   "8415": {
     "name": "Haggai Ndubuisi",
     "position": "T",
-    "team": "TB",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -75686,7 +75686,7 @@
   "12975": {
     "name": "JJ Galbreath",
     "position": "TE",
-    "team": "PIT",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -80488,7 +80488,7 @@
   "13642": {
     "name": "Keeshawn Silver",
     "position": "DT",
-    "team": "NO",
+    "team": null,
     "status": "Active",
     "active": true
   },

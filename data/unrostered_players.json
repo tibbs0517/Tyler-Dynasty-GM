@@ -31,7 +31,7 @@
     "id": "10863",
     "name": "A.T. Perry",
     "position": "WR",
-    "team": "PIT",
+    "team": null,
     "status": "Active"
   },
   {
@@ -3090,7 +3090,7 @@
     "id": "13674",
     "name": "Chris Hilton",
     "position": "WR",
-    "team": "WAS",
+    "team": null,
     "status": "Active"
   },
   {
@@ -5715,7 +5715,7 @@
     "id": "13725",
     "name": "Dominic Richardson",
     "position": "RB",
-    "team": "DAL",
+    "team": null,
     "status": "Active"
   },
   {
@@ -7738,7 +7738,7 @@
     "id": "12975",
     "name": "JJ Galbreath",
     "position": "TE",
-    "team": "PIT",
+    "team": null,
     "status": "Active"
   },
   {
@@ -8508,7 +8508,7 @@
     "id": "13859",
     "name": "Jalen Walthall",
     "position": "WR",
-    "team": "NYJ",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -8648,7 +8648,7 @@
     "id": "11633",
     "name": "Jamari Thrash",
     "position": "WR",
-    "team": "CLE",
+    "team": null,
     "status": "Active"
   },
   {
@@ -13198,7 +13198,7 @@
     "id": "13816",
     "name": "Mark Gronowski",
     "position": "QB",
-    "team": "MIA",
+    "team": null,
     "status": "Active"
   },
   {
