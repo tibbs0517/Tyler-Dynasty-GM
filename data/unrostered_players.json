@@ -11242,13 +11242,6 @@
     "status": "Active"
   },
   {
-    "id": "9504",
-    "name": "Kayshon Boutte",
-    "position": "WR",
-    "team": "NE",
-    "status": "Active"
-  },
-  {
     "id": "11070",
     "name": "Kazmeir Allen",
     "position": "WR",
@@ -18428,6 +18421,13 @@
     "name": "Trevor Davis",
     "position": "WR",
     "team": null,
+    "status": "Active"
+  },
+  {
+    "id": "12531",
+    "name": "Trevor Etienne",
+    "position": "RB",
+    "team": "CAR",
     "status": "Active"
   },
   {

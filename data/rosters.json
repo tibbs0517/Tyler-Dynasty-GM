@@ -270,7 +270,6 @@
       "12469",
       "12504",
       "12508",
-      "12531",
       "12533",
       "12535",
       "13285",
@@ -284,6 +283,7 @@
       "6865",
       "7525",
       "8138",
+      "9504",
       "9756"
     ],
     "reserve": [
@@ -298,7 +298,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 11,
-      "waiver_position": 9,
+      "waiver_position": 10,
       "wins": 0
     },
     "starters": [
@@ -425,7 +425,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 100,
-      "waiver_position": 10,
+      "waiver_position": 9,
       "wins": 0
     },
     "starters": [

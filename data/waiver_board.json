@@ -11414,6 +11414,19 @@
     "roster_id": null
   },
   {
+    "id": "12531",
+    "name": "Trevor Etienne",
+    "position": "RB",
+    "team": "CAR",
+    "age": 22,
+    "years_exp": 1,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
     "id": "4696",
     "name": "Trey Edmunds",
     "position": "RB",
@@ -29568,19 +29581,6 @@
     "team": null,
     "age": null,
     "years_exp": 1,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
-    "id": "9504",
-    "name": "Kayshon Boutte",
-    "position": "WR",
-    "team": "NE",
-    "age": 24,
-    "years_exp": 3,
     "active": true,
     "injury_status": null,
     "bye_week": null,

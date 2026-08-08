@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-08-08 04:17:35
+Generated: 2026-08-08 07:36:53
 
 ---
 
@@ -16,7 +16,7 @@ Available Players: 2809
 ## League Activity
 
 Trades: 4
-Waiver Claims: 16
+Waiver Claims: 17
 Free Agent Moves: 43
 
 ---
@@ -40,6 +40,7 @@ Players on Roster: 24
 
 ## Top Waiver Claims
 
+- Kayshon Boutte → tylergratz
 - MarShawn Lloyd → HebrewsHeroes
 - Jaydon Blue → tylergratz
 - T.J. Hockenson → tylergratz
@@ -60,6 +61,7 @@ Players on Roster: 24
 
 ## Recently Dropped Players
 
+- Trevor Etienne
 - Geno Smith
 - Brenton Strange
 - James Conner
@@ -74,7 +76,6 @@ Players on Roster: 24
 - Jaydon Blue
 - Isaac TeSlaa
 - Emanuel Wilson
-- Kayshon Boutte
 
 ---
 
@@ -84,9 +85,9 @@ Players on Roster: 24
 - tylerhjensen: 11 moves
 - HebrewsHeroes: 9 moves
 - SammyA: 8 moves
+- tylergratz: 7 moves
 - HoNeYmOOnBaBy: 7 moves
 - theFalIeniD: 7 moves
-- tylergratz: 6 moves
 - AnthonyJania: 6 moves
 - jmikolay: 4 moves
 
