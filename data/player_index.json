@@ -3093,6 +3093,13 @@
     "status": "Active",
     "active": true
   },
+  "14076": {
+    "name": "Justin Jones",
+    "position": "RB",
+    "team": "SEA",
+    "status": "Active",
+    "active": true
+  },
   "1632": {
     "name": "Deveron Carr",
     "position": "CB",
@@ -23166,7 +23173,7 @@
     "name": "Joey Blount",
     "position": "DB",
     "team": "ARI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "5450": {
@@ -26518,7 +26525,7 @@
   "11384": {
     "name": "Owen Wright",
     "position": "RB",
-    "team": null,
+    "team": "HOU",
     "status": "Active",
     "active": true
   },
@@ -51985,7 +51992,7 @@
     "name": "Kenny Yeboah",
     "position": "TE",
     "team": "ARI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3213": {

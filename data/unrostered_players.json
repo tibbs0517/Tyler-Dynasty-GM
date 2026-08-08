@@ -10871,6 +10871,13 @@
     "status": "Active"
   },
   {
+    "id": "14076",
+    "name": "Justin Jones",
+    "position": "RB",
+    "team": "SEA",
+    "status": "Active"
+  },
+  {
     "id": "13152",
     "name": "Justin Lockhart",
     "position": "WR",
@@ -11624,7 +11631,7 @@
     "name": "Kenny Yeboah",
     "position": "TE",
     "team": "ARI",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "4861",
@@ -14927,7 +14934,7 @@
     "id": "11384",
     "name": "Owen Wright",
     "position": "RB",
-    "team": null,
+    "team": "HOU",
     "status": "Active"
   },
   {

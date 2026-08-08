@@ -5745,6 +5745,19 @@
     "rostered": false,
     "roster_id": null
   },
+  "14076": {
+    "id": "14076",
+    "name": "Justin Jones",
+    "position": "RB",
+    "team": "SEA",
+    "age": null,
+    "years_exp": 0,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
   "1632": {
     "id": "1632",
     "name": "Deveron Carr",
@@ -43024,7 +43037,7 @@
     "age": 27,
     "years_exp": 4,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -46664,7 +46677,7 @@
     "age": 25,
     "years_exp": 0,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -49247,7 +49260,7 @@
     "id": "11384",
     "name": "Owen Wright",
     "position": "RB",
-    "team": null,
+    "team": "HOU",
     "age": 27,
     "years_exp": 3,
     "active": true,
@@ -58221,7 +58234,7 @@
     "age": 30,
     "years_exp": 7,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -82115,7 +82128,7 @@
     "age": 27,
     "years_exp": 4,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -96545,7 +96558,7 @@
     "age": 27,
     "years_exp": 5,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -125223,7 +125236,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
