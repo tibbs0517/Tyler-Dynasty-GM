@@ -27242,7 +27242,7 @@
     "age": 25,
     "years_exp": 2,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -30475,7 +30475,7 @@
     "id": "13208",
     "name": "Kyrese Rowan",
     "position": "WR",
-    "team": null,
+    "team": "DEN",
     "age": 25,
     "years_exp": 1,
     "active": true,

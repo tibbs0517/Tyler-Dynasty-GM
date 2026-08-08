@@ -24296,6 +24296,13 @@
     "status": "Active",
     "active": true
   },
+  "14077": {
+    "name": "Ricardo Hallman",
+    "position": "CB",
+    "team": "DEN",
+    "status": "Active",
+    "active": true
+  },
   "5938": {
     "name": "Lil'Jordan Humphrey",
     "position": "WR",
@@ -69246,7 +69253,7 @@
   "13208": {
     "name": "Kyrese Rowan",
     "position": "WR",
-    "team": null,
+    "team": "DEN",
     "status": "Active",
     "active": true
   },
