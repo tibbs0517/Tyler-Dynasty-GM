@@ -12890,7 +12890,7 @@
     "id": "14058",
     "name": "Malick Meiga",
     "position": "WR",
-    "team": "CAR",
+    "team": null,
     "status": "Active"
   },
   {
@@ -16803,7 +16803,7 @@
     "id": "12217",
     "name": "Shawn Bowman",
     "position": "TE",
-    "team": null,
+    "team": "ARI",
     "status": "Active"
   },
   {

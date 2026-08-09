@@ -61,10 +61,6 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
-    "shard": 470,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -111,8 +107,11 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 470,
+    "sport": "nfl",
     "last_message_id": "1391859782800908288",
-    "draft_id": "1326711861202161664",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -121,14 +120,10 @@
     "last_message_text_map": null,
     "last_message_time": 1786207741027,
     "last_pinned_message_id": null,
+    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -153,6 +148,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -12084,7 +12084,7 @@
     "12871": {
       "name": "Eugene Asante",
       "position": "LB",
-      "team": null,
+      "team": "ARI",
       "status": "Active",
       "active": true
     },
@@ -12595,7 +12595,7 @@
     "7849": {
       "name": "Charles Snowden",
       "position": "LB",
-      "team": "DAL",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -23039,7 +23039,7 @@
     "13766": {
       "name": "Jack Stonehouse",
       "position": "P",
-      "team": "HOU",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -31985,7 +31985,7 @@
     "13811": {
       "name": "Drey Norwood",
       "position": "CB",
-      "team": "LAR",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -32088,10 +32088,10 @@
       "active": true
     },
     "12243": {
-      "name": "Bump Cooper",
+      "name": "Ryan Cooper",
       "position": "CB",
-      "team": null,
-      "status": "Inactive",
+      "team": "DET",
+      "status": "Active",
       "active": true
     },
     "7771": {
@@ -34043,7 +34043,7 @@
     "11860": {
       "name": "Beanie Bishop",
       "position": "CB",
-      "team": null,
+      "team": "CHI",
       "status": "Active",
       "active": true
     },
@@ -39503,7 +39503,7 @@
     "7936": {
       "name": "Amen Ogbongbemiga",
       "position": "LB",
-      "team": null,
+      "team": "DET",
       "status": "Active",
       "active": true
     },
@@ -52635,7 +52635,7 @@
     "14058": {
       "name": "Malick Meiga",
       "position": "WR",
-      "team": "CAR",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -54567,7 +54567,7 @@
     "12217": {
       "name": "Shawn Bowman",
       "position": "TE",
-      "team": null,
+      "team": "ARI",
       "status": "Active",
       "active": true
     },
@@ -55498,7 +55498,7 @@
     "13848": {
       "name": "Matthew McDoom",
       "position": "CB",
-      "team": "BAL",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -63268,7 +63268,7 @@
     "12747": {
       "name": "Power Echols",
       "position": "LB",
-      "team": "SEA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -72571,7 +72571,7 @@
     "10973": {
       "name": "Nick Hampton",
       "position": "LB",
-      "team": "CAR",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -84821,7 +84821,7 @@
     "8844": {
       "name": "Sam Webb",
       "position": "CB",
-      "team": "DEN",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -99678,7 +99678,7 @@
       "id": "14058",
       "name": "Malick Meiga",
       "position": "WR",
-      "team": "CAR",
+      "team": null,
       "status": "Active"
     },
     {
@@ -103591,7 +103591,7 @@
       "id": "12217",
       "name": "Shawn Bowman",
       "position": "TE",
-      "team": null,
+      "team": "ARI",
       "status": "Active"
     },
     {

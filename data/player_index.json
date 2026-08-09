@@ -10817,7 +10817,7 @@
   "12871": {
     "name": "Eugene Asante",
     "position": "LB",
-    "team": null,
+    "team": "ARI",
     "status": "Active",
     "active": true
   },
@@ -11328,7 +11328,7 @@
   "7849": {
     "name": "Charles Snowden",
     "position": "LB",
-    "team": "DAL",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -21772,7 +21772,7 @@
   "13766": {
     "name": "Jack Stonehouse",
     "position": "P",
-    "team": "HOU",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -30718,7 +30718,7 @@
   "13811": {
     "name": "Drey Norwood",
     "position": "CB",
-    "team": "LAR",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -30821,10 +30821,10 @@
     "active": true
   },
   "12243": {
-    "name": "Bump Cooper",
+    "name": "Ryan Cooper",
     "position": "CB",
-    "team": null,
-    "status": "Inactive",
+    "team": "DET",
+    "status": "Active",
     "active": true
   },
   "7771": {
@@ -32776,7 +32776,7 @@
   "11860": {
     "name": "Beanie Bishop",
     "position": "CB",
-    "team": null,
+    "team": "CHI",
     "status": "Active",
     "active": true
   },
@@ -38236,7 +38236,7 @@
   "7936": {
     "name": "Amen Ogbongbemiga",
     "position": "LB",
-    "team": null,
+    "team": "DET",
     "status": "Active",
     "active": true
   },
@@ -51368,7 +51368,7 @@
   "14058": {
     "name": "Malick Meiga",
     "position": "WR",
-    "team": "CAR",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -53300,7 +53300,7 @@
   "12217": {
     "name": "Shawn Bowman",
     "position": "TE",
-    "team": null,
+    "team": "ARI",
     "status": "Active",
     "active": true
   },
@@ -54231,7 +54231,7 @@
   "13848": {
     "name": "Matthew McDoom",
     "position": "CB",
-    "team": "BAL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -62001,7 +62001,7 @@
   "12747": {
     "name": "Power Echols",
     "position": "LB",
-    "team": "SEA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -71304,7 +71304,7 @@
   "10973": {
     "name": "Nick Hampton",
     "position": "LB",
-    "team": "CAR",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -83554,7 +83554,7 @@
   "8844": {
     "name": "Sam Webb",
     "position": "CB",
-    "team": "DEN",
+    "team": null,
     "status": "Active",
     "active": true
   },
