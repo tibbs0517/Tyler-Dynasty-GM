@@ -59492,6 +59492,13 @@
     "status": "Active",
     "active": true
   },
+  "14078": {
+    "name": "Xavier Williams",
+    "position": "DB",
+    "team": "TB",
+    "status": "Active",
+    "active": true
+  },
   "3548": {
     "name": "Jamal Robinson",
     "position": "WR",
@@ -64339,7 +64346,7 @@
   "6453": {
     "name": "D.J. Montgomery",
     "position": "WR",
-    "team": null,
+    "team": "IND",
     "status": "Active",
     "active": true
   },
