@@ -64,6 +64,7 @@
     "sport": "nfl",
     "season_type": "regular",
     "season": "2026",
+    "shard": 470,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -110,7 +111,6 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "shard": 470,
     "last_message_id": "1391859782800908288",
     "draft_id": "1326711861202161664",
     "last_author_avatar": null,
@@ -124,6 +124,11 @@
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -148,11 +153,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -10971,7 +10971,7 @@
     "8297": {
       "name": "Jeremiah Moon",
       "position": "LB",
-      "team": null,
+      "team": "CAR",
       "status": "Active",
       "active": true
     },
