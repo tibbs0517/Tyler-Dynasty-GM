@@ -8648,8 +8648,8 @@
     "id": "11633",
     "name": "Jamari Thrash",
     "position": "WR",
-    "team": null,
-    "status": "Active"
+    "team": "CLE",
+    "status": "Inactive"
   },
   {
     "id": "6713",
@@ -12134,7 +12134,7 @@
     "id": "7605",
     "name": "Kyle Trask",
     "position": "QB",
-    "team": null,
+    "team": "CAR",
     "status": "Active"
   },
   {

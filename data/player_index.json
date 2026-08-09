@@ -16613,8 +16613,8 @@
   "11633": {
     "name": "Jamari Thrash",
     "position": "WR",
-    "team": null,
-    "status": "Active",
+    "team": "CLE",
+    "status": "Inactive",
     "active": true
   },
   "12137": {
@@ -21499,7 +21499,7 @@
   "7605": {
     "name": "Kyle Trask",
     "position": "QB",
-    "team": null,
+    "team": "CAR",
     "status": "Active",
     "active": true
   },
@@ -40238,7 +40238,7 @@
   "7831": {
     "name": "Brenden Jaimes",
     "position": "OL",
-    "team": null,
+    "team": "NYG",
     "status": "Active",
     "active": true
   },
@@ -44229,7 +44229,7 @@
     "name": "Matt Henningsen",
     "position": "DE",
     "team": "DEN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3474": {
@@ -44760,8 +44760,8 @@
   "13259": {
     "name": "Joseph Vaughn",
     "position": "LB",
-    "team": null,
-    "status": "Active",
+    "team": "SEA",
+    "status": "Inactive",
     "active": true
   },
   "7541": {
@@ -58410,8 +58410,8 @@
   "11001": {
     "name": "Jarrick Bernard-Converse",
     "position": "CB",
-    "team": null,
-    "status": "Active",
+    "team": "NYG",
+    "status": "Inactive",
     "active": true
   },
   "8912": {
@@ -67944,8 +67944,8 @@
   "13146": {
     "name": "Jared Bartlett",
     "position": "LB",
-    "team": null,
-    "status": "Active",
+    "team": "JAX",
+    "status": "Inactive",
     "active": true
   },
   "2276": {
@@ -68434,8 +68434,8 @@
   "12232": {
     "name": "Omar Brown",
     "position": "CB",
-    "team": null,
-    "status": "Active",
+    "team": "MIA",
+    "status": "Inactive",
     "active": true
   },
   "11388": {
@@ -72858,8 +72858,8 @@
   "13742": {
     "name": "De'Shawn Rucker",
     "position": "CB",
-    "team": null,
-    "status": "Active",
+    "team": "DET",
+    "status": "Inactive",
     "active": true
   },
   "1438": {
@@ -73951,7 +73951,7 @@
     "name": "Garrett DiGiorgio",
     "position": "G",
     "team": "JAX",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "11435": {
@@ -80502,8 +80502,8 @@
   "13642": {
     "name": "Keeshawn Silver",
     "position": "DT",
-    "team": null,
-    "status": "Active",
+    "team": "NO",
+    "status": "Inactive",
     "active": true
   },
   "4935": {
