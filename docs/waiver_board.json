@@ -6572,7 +6572,7 @@
     "age": 28,
     "years_exp": 5,
     "active": true,
-    "injury_status": null,
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -21600,7 +21600,7 @@
     "age": 29,
     "years_exp": 4,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
