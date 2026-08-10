@@ -32616,7 +32616,7 @@
       "name": "Aidan Keanaaina",
       "position": "DL",
       "team": "DET",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "6244": {
@@ -70863,7 +70863,7 @@
     "5096": {
       "name": "Ray-Ray McCloud",
       "position": "WR",
-      "team": null,
+      "team": "CHI",
       "status": "Active",
       "active": true
     },
@@ -75582,7 +75582,7 @@
       "name": "Kemon Hall",
       "position": "CB",
       "team": "TB",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "7704": {
@@ -102380,7 +102380,7 @@
       "id": "5096",
       "name": "Ray-Ray McCloud",
       "position": "WR",
-      "team": null,
+      "team": "CHI",
       "status": "Active"
     },
     {
