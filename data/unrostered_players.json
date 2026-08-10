@@ -2803,7 +2803,7 @@
     "id": "13280",
     "name": "Chamon Metayer",
     "position": "TE",
-    "team": "CAR",
+    "team": null,
     "status": "Active"
   },
   {
@@ -3090,7 +3090,7 @@
     "id": "13674",
     "name": "Chris Hilton",
     "position": "WR",
-    "team": null,
+    "team": "GB",
     "status": "Active"
   },
   {
@@ -3552,7 +3552,7 @@
     "id": "11046",
     "name": "Colton Dowell",
     "position": "WR",
-    "team": "PIT",
+    "team": null,
     "status": "Active"
   },
   {
@@ -3720,7 +3720,7 @@
     "id": "7541",
     "name": "Cornell Powell",
     "position": "WR",
-    "team": null,
+    "team": "PIT",
     "status": "Active"
   },
   {
@@ -3923,7 +3923,7 @@
     "id": "13331",
     "name": "Dae'Quan Wright",
     "position": "TE",
-    "team": "PHI",
+    "team": null,
     "status": "Active"
   },
   {
@@ -6353,7 +6353,7 @@
     "name": "Elijah Mitchell",
     "position": "RB",
     "team": "PHI",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "7596",
@@ -7591,7 +7591,7 @@
     "id": "11232",
     "name": "Isaiah Winstead",
     "position": "WR",
-    "team": null,
+    "team": "PIT",
     "status": "Active"
   },
   {
@@ -7794,7 +7794,7 @@
     "id": "12479",
     "name": "Ja'Quinden Jackson",
     "position": "RB",
-    "team": null,
+    "team": "PHI",
     "status": "Active"
   },
   {
@@ -10972,8 +10972,8 @@
     "id": "6223",
     "name": "Juwann Winfree",
     "position": "WR",
-    "team": null,
-    "status": "Inactive"
+    "team": "HOU",
+    "status": "Active"
   },
   {
     "id": "4456",
@@ -12568,7 +12568,7 @@
     "id": "14063",
     "name": "Liam Clifford",
     "position": "WR",
-    "team": "IND",
+    "team": null,
     "status": "Active"
   },
   {
@@ -14612,7 +14612,7 @@
     "id": "8523",
     "name": "Nick Muse",
     "position": "TE",
-    "team": "DET",
+    "team": null,
     "status": "Active"
   },
   {
@@ -17636,7 +17636,7 @@
     "id": "2152",
     "name": "Teddy Bridgewater",
     "position": "QB",
-    "team": "DET",
+    "team": null,
     "status": "Active"
   },
   {
