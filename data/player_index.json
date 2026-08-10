@@ -43619,7 +43619,7 @@
   "12796": {
     "name": "Roman Parodie",
     "position": "CB",
-    "team": null,
+    "team": "TB",
     "status": "Active",
     "active": true
   },
@@ -43752,7 +43752,7 @@
   "11084": {
     "name": "Andre Carter",
     "position": "LB",
-    "team": null,
+    "team": "LAC",
     "status": "Active",
     "active": true
   },
@@ -64024,7 +64024,7 @@
   "7727": {
     "name": "Cameron Sample",
     "position": "DE",
-    "team": null,
+    "team": "ATL",
     "status": "Active",
     "active": true
   },
@@ -77198,7 +77198,7 @@
   "8504": {
     "name": "Doug Kramer",
     "position": "OL",
-    "team": null,
+    "team": "SF",
     "status": "Active",
     "active": true
   },
