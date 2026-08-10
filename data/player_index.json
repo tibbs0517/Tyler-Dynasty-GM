@@ -4545,7 +4545,7 @@
   "7974": {
     "name": "Nick McCloud",
     "position": "CB",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -24034,7 +24034,7 @@
     "name": "Zane Gonzalez",
     "position": "K",
     "team": "MIA",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "6104": {
@@ -56625,7 +56625,7 @@
   "11711": {
     "name": "Caedan Wallace",
     "position": "OL",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
