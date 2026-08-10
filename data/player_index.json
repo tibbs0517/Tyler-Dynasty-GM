@@ -67020,8 +67020,8 @@
   "14045": {
     "name": "Marlon Jones",
     "position": "CB",
-    "team": null,
-    "status": "Active",
+    "team": "GB",
+    "status": "Inactive",
     "active": true
   },
   "8193": {
@@ -81489,8 +81489,8 @@
   "12931": {
     "name": "Johnathan Baldwin",
     "position": "DB",
-    "team": null,
-    "status": "Active",
+    "team": "GB",
+    "status": "Inactive",
     "active": true
   },
   "3115": {

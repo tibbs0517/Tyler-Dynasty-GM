@@ -70909,7 +70909,7 @@
     "age": 29,
     "years_exp": 4,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -95401,7 +95401,7 @@
     "age": 25,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -124465,7 +124465,7 @@
     "id": "14045",
     "name": "Marlon Jones",
     "position": "CB",
-    "team": null,
+    "team": "GB",
     "age": null,
     "years_exp": 0,
     "active": true,
@@ -132438,7 +132438,7 @@
     "age": 26,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -138015,7 +138015,7 @@
     "age": 29,
     "years_exp": 7,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -151336,11 +151336,11 @@
     "id": "12931",
     "name": "Johnathan Baldwin",
     "position": "DB",
-    "team": null,
+    "team": "GB",
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
