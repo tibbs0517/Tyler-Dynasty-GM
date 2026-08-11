@@ -16151,7 +16151,7 @@
   "13764": {
     "name": "Chris Freeman",
     "position": "K",
-    "team": null,
+    "team": "HOU",
     "status": "Active",
     "active": true
   },
@@ -76645,8 +76645,8 @@
   "6006": {
     "name": "Byron Cowart",
     "position": "DT",
-    "team": null,
-    "status": "Inactive",
+    "team": "WAS",
+    "status": "Active",
     "active": true
   },
   "13970": {
