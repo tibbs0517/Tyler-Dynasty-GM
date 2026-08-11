@@ -4034,7 +4034,7 @@
   "13148": {
     "name": "Aaron Smith",
     "position": "LB",
-    "team": null,
+    "team": "SEA",
     "status": "Active",
     "active": true
   },
@@ -28374,7 +28374,7 @@
     "name": "Robbie Ouzts",
     "position": "RB",
     "team": "SEA",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "6847": {
