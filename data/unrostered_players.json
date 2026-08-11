@@ -12890,8 +12890,8 @@
     "id": "14058",
     "name": "Malick Meiga",
     "position": "WR",
-    "team": null,
-    "status": "Active"
+    "team": "CAR",
+    "status": "Inactive"
   },
   {
     "id": "13329",
@@ -18539,7 +18539,7 @@
     "id": "7593",
     "name": "Trey Sermon",
     "position": "RB",
-    "team": null,
+    "team": "ATL",
     "status": "Active"
   },
   {

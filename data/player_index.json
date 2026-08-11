@@ -3334,7 +3334,7 @@
   "7593": {
     "name": "Trey Sermon",
     "position": "RB",
-    "team": null,
+    "team": "ATL",
     "status": "Active",
     "active": true
   },
@@ -51368,8 +51368,8 @@
   "14058": {
     "name": "Malick Meiga",
     "position": "WR",
-    "team": null,
-    "status": "Active",
+    "team": "CAR",
+    "status": "Inactive",
     "active": true
   },
   "8458": {
@@ -71311,8 +71311,8 @@
   "10973": {
     "name": "Nick Hampton",
     "position": "LB",
-    "team": null,
-    "status": "Active",
+    "team": "CAR",
+    "status": "Inactive",
     "active": true
   },
   "5200": {
@@ -74727,7 +74727,7 @@
   "11309": {
     "name": "Trey Dean",
     "position": "DB",
-    "team": null,
+    "team": "GB",
     "status": "Active",
     "active": true
   },

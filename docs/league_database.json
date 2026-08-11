@@ -61,10 +61,10 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "shard": 470,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -120,10 +120,13 @@
     "last_message_text_map": null,
     "last_message_time": 1786207741027,
     "last_pinned_message_id": null,
-    "draft_id": "1326711861202161664",
     "last_read_id": null,
+    "draft_id": "1326711861202161664",
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -148,9 +151,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -4601,7 +4601,7 @@
     "7593": {
       "name": "Trey Sermon",
       "position": "RB",
-      "team": null,
+      "team": "ATL",
       "status": "Active",
       "active": true
     },
@@ -52635,8 +52635,8 @@
     "14058": {
       "name": "Malick Meiga",
       "position": "WR",
-      "team": null,
-      "status": "Active",
+      "team": "CAR",
+      "status": "Inactive",
       "active": true
     },
     "8458": {
@@ -72578,8 +72578,8 @@
     "10973": {
       "name": "Nick Hampton",
       "position": "LB",
-      "team": null,
-      "status": "Active",
+      "team": "CAR",
+      "status": "Inactive",
       "active": true
     },
     "5200": {
@@ -75994,7 +75994,7 @@
     "11309": {
       "name": "Trey Dean",
       "position": "DB",
-      "team": null,
+      "team": "GB",
       "status": "Active",
       "active": true
     },
@@ -99685,8 +99685,8 @@
       "id": "14058",
       "name": "Malick Meiga",
       "position": "WR",
-      "team": null,
-      "status": "Active"
+      "team": "CAR",
+      "status": "Inactive"
     },
     {
       "id": "13329",
@@ -105334,7 +105334,7 @@
       "id": "7593",
       "name": "Trey Sermon",
       "position": "RB",
-      "team": null,
+      "team": "ATL",
       "status": "Active"
     },
     {
