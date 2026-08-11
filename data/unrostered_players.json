@@ -3923,7 +3923,7 @@
     "id": "13331",
     "name": "Dae'Quan Wright",
     "position": "TE",
-    "team": null,
+    "team": "CLE",
     "status": "Active"
   },
   {
@@ -12190,8 +12190,8 @@
     "id": "14031",
     "name": "Kyron Hudson",
     "position": "WR",
-    "team": null,
-    "status": "Active"
+    "team": "CHI",
+    "status": "Inactive"
   },
   {
     "id": "6161",

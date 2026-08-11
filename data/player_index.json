@@ -10670,7 +10670,7 @@
   "13331": {
     "name": "Dae'Quan Wright",
     "position": "TE",
-    "team": null,
+    "team": "CLE",
     "status": "Active",
     "active": true
   },
@@ -36073,8 +36073,8 @@
   "14031": {
     "name": "Kyron Hudson",
     "position": "WR",
-    "team": null,
-    "status": "Active",
+    "team": "CHI",
+    "status": "Inactive",
     "active": true
   },
   "8730": {
@@ -41155,7 +41155,7 @@
   "13822": {
     "name": "Jaeden Roberts",
     "position": "OL",
-    "team": null,
+    "team": "ATL",
     "status": "Active",
     "active": true
   },
@@ -61407,7 +61407,7 @@
     "name": "Damarri Mathis",
     "position": "DB",
     "team": "CLE",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "7422": {
@@ -76918,8 +76918,8 @@
   "12740": {
     "name": "Jack Nelson",
     "position": "OT",
-    "team": null,
-    "status": "Active",
+    "team": "ATL",
+    "status": "Inactive",
     "active": true
   },
   "8328": {
