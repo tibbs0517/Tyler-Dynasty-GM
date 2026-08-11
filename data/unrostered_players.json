@@ -675,7 +675,7 @@
     "id": "4435",
     "name": "Anthony Firkser",
     "position": "TE",
-    "team": "DET",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -703,7 +703,7 @@
     "id": "13328",
     "name": "Anthony Hankerson",
     "position": "RB",
-    "team": "MIA",
+    "team": null,
     "status": "Active"
   },
   {
@@ -12190,7 +12190,7 @@
     "id": "14031",
     "name": "Kyron Hudson",
     "position": "WR",
-    "team": "CHI",
+    "team": null,
     "status": "Active"
   },
   {
@@ -12428,7 +12428,7 @@
     "id": "13975",
     "name": "Le'Meke Brockington",
     "position": "WR",
-    "team": "ATL",
+    "team": null,
     "status": "Active"
   },
   {
@@ -13009,7 +13009,7 @@
     "id": "14039",
     "name": "Mante Morrow",
     "position": "WR",
-    "team": "LAC",
+    "team": null,
     "status": "Active"
   },
   {
@@ -14612,7 +14612,7 @@
     "id": "8523",
     "name": "Nick Muse",
     "position": "TE",
-    "team": null,
+    "team": "ATL",
     "status": "Active"
   },
   {

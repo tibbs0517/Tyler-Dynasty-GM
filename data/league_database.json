@@ -15647,7 +15647,7 @@
     "13975": {
       "name": "Le'Meke Brockington",
       "position": "WR",
-      "team": "ATL",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -18594,7 +18594,7 @@
     "8523": {
       "name": "Nick Muse",
       "position": "TE",
-      "team": null,
+      "team": "ATL",
       "status": "Active",
       "active": true
     },
@@ -23984,7 +23984,7 @@
     "12895": {
       "name": "Malik Verdon",
       "position": "DB",
-      "team": "ATL",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -26028,7 +26028,7 @@
     "11016": {
       "name": "Malaesala Aumavae-Laulu",
       "position": "OL",
-      "team": "WAS",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -33217,7 +33217,7 @@
     "13976": {
       "name": "Philip Florenzo",
       "position": "LS",
-      "team": "ATL",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -37340,7 +37340,7 @@
     "14031": {
       "name": "Kyron Hudson",
       "position": "WR",
-      "team": "CHI",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -43122,7 +43122,7 @@
     "13328": {
       "name": "Anthony Hankerson",
       "position": "RB",
-      "team": "MIA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -43871,7 +43871,7 @@
     "13684": {
       "name": "Shad Banks",
       "position": "LB",
-      "team": "TEN",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -48379,7 +48379,7 @@
     "14039": {
       "name": "Mante Morrow",
       "position": "WR",
-      "team": "LAC",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -58641,7 +58641,7 @@
     "12847": {
       "name": "Robert McDaniel",
       "position": "CB",
-      "team": "WAS",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -62757,7 +62757,7 @@
     "8492": {
       "name": "Sam Roberts",
       "position": "DE",
-      "team": "NYG",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -72312,7 +72312,7 @@
     "4435": {
       "name": "Anthony Firkser",
       "position": "TE",
-      "team": "DET",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -74132,7 +74132,7 @@
     "13742": {
       "name": "De'Shawn Rucker",
       "position": "CB",
-      "team": "DET",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -78185,7 +78185,7 @@
     "12740": {
       "name": "Jack Nelson",
       "position": "OT",
-      "team": "ATL",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -82910,7 +82910,7 @@
     "8501": {
       "name": "Nick Zakelj",
       "position": "OL",
-      "team": "SF",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -83771,7 +83771,7 @@
     "12000": {
       "name": "Keni-H Lovely",
       "position": "CB",
-      "team": "JAX",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -87470,7 +87470,7 @@
       "id": "4435",
       "name": "Anthony Firkser",
       "position": "TE",
-      "team": "DET",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -87498,7 +87498,7 @@
       "id": "13328",
       "name": "Anthony Hankerson",
       "position": "RB",
-      "team": "MIA",
+      "team": null,
       "status": "Active"
     },
     {
@@ -98985,7 +98985,7 @@
       "id": "14031",
       "name": "Kyron Hudson",
       "position": "WR",
-      "team": "CHI",
+      "team": null,
       "status": "Active"
     },
     {
@@ -99223,7 +99223,7 @@
       "id": "13975",
       "name": "Le'Meke Brockington",
       "position": "WR",
-      "team": "ATL",
+      "team": null,
       "status": "Active"
     },
     {
@@ -99804,7 +99804,7 @@
       "id": "14039",
       "name": "Mante Morrow",
       "position": "WR",
-      "team": "LAC",
+      "team": null,
       "status": "Active"
     },
     {
@@ -101407,7 +101407,7 @@
       "id": "8523",
       "name": "Nick Muse",
       "position": "TE",
-      "team": null,
+      "team": "ATL",
       "status": "Active"
     },
     {
