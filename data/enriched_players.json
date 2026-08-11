@@ -17439,7 +17439,7 @@
     "team": null,
     "age": 25,
     "years_exp": 5,
-    "active": true,
+    "active": false,
     "injury_status": null,
     "bye_week": null,
     "rostered": false,
@@ -21509,7 +21509,7 @@
     "age": 22,
     "years_exp": 1,
     "active": true,
-    "injury_status": "PUP",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -66996,7 +66996,7 @@
     "age": 24,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -142851,7 +142851,7 @@
     "age": 24,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null

@@ -30505,7 +30505,7 @@
     "age": 24,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -33585,19 +33585,6 @@
     "team": null,
     "age": 24,
     "years_exp": 0,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
-    "id": "7601",
-    "name": "Rondale Moore",
-    "position": "WR",
-    "team": null,
-    "age": 25,
-    "years_exp": 5,
     "active": true,
     "injury_status": null,
     "bye_week": null,
