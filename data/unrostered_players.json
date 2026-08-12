@@ -7511,6 +7511,13 @@
     "status": "Active"
   },
   {
+    "id": "11571",
+    "name": "Isaiah Davis",
+    "position": "RB",
+    "team": "NYJ",
+    "status": "Active"
+  },
+  {
     "id": "4252",
     "name": "Isaiah Ford",
     "position": "WR",
@@ -14970,13 +14977,6 @@
     "name": "Parris Campbell",
     "position": "WR",
     "team": null,
-    "status": "Active"
-  },
-  {
-    "id": "12492",
-    "name": "Pat Bryant",
-    "position": "WR",
-    "team": "DEN",
     "status": "Active"
   },
   {

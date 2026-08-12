@@ -14088,8 +14088,8 @@
     "active": true,
     "injury_status": "Questionable",
     "bye_week": null,
-    "rostered": true,
-    "roster_id": 7
+    "rostered": false,
+    "roster_id": null
   },
   "562": {
     "id": "562",
@@ -96638,8 +96638,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": false,
-    "roster_id": null
+    "rostered": true,
+    "roster_id": 7
   },
   "6257": {
     "id": "6257",
