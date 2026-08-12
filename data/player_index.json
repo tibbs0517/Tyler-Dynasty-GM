@@ -8269,7 +8269,7 @@
   "11931": {
     "name": "Austin Reed",
     "position": "QB",
-    "team": null,
+    "team": "BAL",
     "status": "Active",
     "active": true
   },
@@ -24888,7 +24888,7 @@
     "name": "Skylar Thompson",
     "position": "QB",
     "team": "BAL",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "7316": {

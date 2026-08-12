@@ -1060,7 +1060,7 @@
     "id": "11931",
     "name": "Austin Reed",
     "position": "QB",
-    "team": null,
+    "team": "BAL",
     "status": "Active"
   },
   {
@@ -16937,7 +16937,7 @@
     "name": "Skylar Thompson",
     "position": "QB",
     "team": "BAL",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "4936",
