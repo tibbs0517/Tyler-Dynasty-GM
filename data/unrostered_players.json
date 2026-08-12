@@ -490,6 +490,13 @@
     "status": "Active"
   },
   {
+    "id": "4035",
+    "name": "Alvin Kamara",
+    "position": "RB",
+    "team": "NO",
+    "status": "Active"
+  },
+  {
     "id": "12928",
     "name": "Amar Johnson",
     "position": "RB",
@@ -6360,6 +6367,13 @@
     "name": "Elijah Moore",
     "position": "WR",
     "team": "PHI",
+    "status": "Active"
+  },
+  {
+    "id": "13268",
+    "name": "Elijah Sarratt",
+    "position": "WR",
+    "team": "BAL",
     "status": "Active"
   },
   {

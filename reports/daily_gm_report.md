@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-08-12 11:00:54
+Generated: 2026-08-12 12:58:36
 
 ---
 
@@ -9,7 +9,7 @@ Generated: 2026-08-12 11:00:54
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2809
+Available Players: 2811
 
 ---
 
@@ -17,7 +17,7 @@ Available Players: 2809
 
 Trades: 4
 Waiver Claims: 19
-Free Agent Moves: 43
+Free Agent Moves: 45
 
 ---
 
@@ -62,6 +62,8 @@ Players on Roster: 24
 
 ## Recently Dropped Players
 
+- Elijah Sarratt
+- Alvin Kamara
 - Isaiah Davis
 - Trevor Etienne
 - Geno Smith
@@ -75,8 +77,6 @@ Players on Roster: 24
 - Christian Kirk
 - Pat Bryant
 - T.J. Hockenson
-- Jaydon Blue
-- Isaac TeSlaa
 
 ---
 
@@ -85,9 +85,9 @@ Players on Roster: 24
 - TheCreecher: 13 moves
 - HebrewsHeroes: 11 moves
 - tylerhjensen: 11 moves
+- HoNeYmOOnBaBy: 9 moves
 - SammyA: 8 moves
 - tylergratz: 7 moves
-- HoNeYmOOnBaBy: 7 moves
 - theFalIeniD: 7 moves
 - AnthonyJania: 6 moves
 - jmikolay: 4 moves
