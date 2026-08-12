@@ -26259,7 +26259,7 @@
   "3189": {
     "name": "Eli Apple",
     "position": "CB",
-    "team": null,
+    "team": "SF",
     "status": "Active",
     "active": true
   },
@@ -60286,7 +60286,7 @@
   "8123": {
     "name": "Hassan Haskins",
     "position": "RB",
-    "team": null,
+    "team": "NE",
     "status": "Active",
     "active": true
   },
@@ -66355,7 +66355,7 @@
   "13641": {
     "name": "Jeremiah McClendon",
     "position": "CB",
-    "team": null,
+    "team": "CLE",
     "status": "Active",
     "active": true
   },
@@ -76162,7 +76162,7 @@
   "8139": {
     "name": "Zamir White",
     "position": "RB",
-    "team": null,
+    "team": "SF",
     "status": "Active",
     "active": true
   },
@@ -84632,8 +84632,8 @@
   "11767": {
     "name": "Xavier Thomas",
     "position": "DE",
-    "team": null,
-    "status": "Inactive",
+    "team": "SF",
+    "status": "Active",
     "active": true
   },
   "13294": {
