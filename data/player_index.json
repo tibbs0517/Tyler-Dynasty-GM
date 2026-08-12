@@ -2459,7 +2459,7 @@
   "11849": {
     "name": "Karsen Barnhart",
     "position": "OL",
-    "team": "GB",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -5882,7 +5882,7 @@
   "11436": {
     "name": "P.J. Mustipher",
     "position": "NT",
-    "team": "ARI",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -9207,7 +9207,7 @@
   "13431": {
     "name": "Miles Kitselman",
     "position": "TE",
-    "team": "DET",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -10103,7 +10103,7 @@
   "7561": {
     "name": "Elijah Mitchell",
     "position": "RB",
-    "team": "PHI",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -32671,7 +32671,7 @@
   "13309": {
     "name": "Aaron Anderson",
     "position": "WR",
-    "team": "CLE",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -42954,7 +42954,7 @@
   "14068": {
     "name": "Drew Biber",
     "position": "TE",
-    "team": "GB",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -44277,7 +44277,7 @@
   "7989": {
     "name": "DJ Turner",
     "position": "WR",
-    "team": "HOU",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -47336,7 +47336,7 @@
   "11031": {
     "name": "Brandon Hill",
     "position": "DB",
-    "team": "CHI",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -68441,7 +68441,7 @@
   "12232": {
     "name": "Omar Brown",
     "position": "CB",
-    "team": "MIA",
+    "team": null,
     "status": "Inactive",
     "active": true
   },

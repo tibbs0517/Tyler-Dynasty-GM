@@ -59,7 +59,7 @@
     "id": "13309",
     "name": "Aaron Anderson",
     "position": "WR",
-    "team": "CLE",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -3874,7 +3874,7 @@
     "id": "7989",
     "name": "DJ Turner",
     "position": "WR",
-    "team": "HOU",
+    "team": null,
     "status": "Active"
   },
   {
@@ -5967,7 +5967,7 @@
     "id": "14068",
     "name": "Drew Biber",
     "position": "TE",
-    "team": "GB",
+    "team": null,
     "status": "Active"
   },
   {
@@ -6359,7 +6359,7 @@
     "id": "7561",
     "name": "Elijah Mitchell",
     "position": "RB",
-    "team": "PHI",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -14136,7 +14136,7 @@
     "id": "13431",
     "name": "Miles Kitselman",
     "position": "TE",
-    "team": "DET",
+    "team": null,
     "status": "Inactive"
   },
   {
