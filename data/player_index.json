@@ -32853,7 +32853,7 @@
   "10950": {
     "name": "Braeden Daniels",
     "position": "OL",
-    "team": null,
+    "team": "LV",
     "status": "Active",
     "active": true
   },
@@ -47056,7 +47056,7 @@
   "13935": {
     "name": "Kahlil Saunders",
     "position": "DL",
-    "team": null,
+    "team": "NO",
     "status": "Active",
     "active": true
   },
@@ -63521,7 +63521,7 @@
     "name": "Dillon Radunz",
     "position": "OL",
     "team": "NO",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "2494": {
