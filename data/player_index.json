@@ -19987,7 +19987,7 @@
   "7599": {
     "name": "Jermar Jefferson",
     "position": "RB",
-    "team": null,
+    "team": "MIN",
     "status": "Active",
     "active": true
   },
@@ -54630,7 +54630,7 @@
   "11455": {
     "name": "Anthony Kendall",
     "position": "CB",
-    "team": null,
+    "team": "BUF",
     "status": "Active",
     "active": true
   },
