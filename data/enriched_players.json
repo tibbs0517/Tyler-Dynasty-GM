@@ -48302,7 +48302,7 @@
     "age": 22,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -84774,7 +84774,7 @@
   },
   "12450": {
     "id": "12450",
-    "name": "Travion Fluellen",
+    "name": "Tra Fluellen",
     "position": "DB",
     "team": "GB",
     "age": 25,
@@ -85775,7 +85775,7 @@
   },
   "7717": {
     "id": "7717",
-    "name": "Zechariah McPhearson",
+    "name": "Zech McPhearson",
     "position": "CB",
     "team": "LAR",
     "age": 28,
