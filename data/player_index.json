@@ -27071,7 +27071,7 @@
   "7683": {
     "name": "Monty Rice",
     "position": "LB",
-    "team": null,
+    "team": "LAR",
     "status": "Active",
     "active": true
   },
@@ -65907,7 +65907,7 @@
   "6216": {
     "name": "Ugo Amadi",
     "position": "DB",
-    "team": null,
+    "team": "NYG",
     "status": "Active",
     "active": true
   },
@@ -83561,7 +83561,7 @@
   "8844": {
     "name": "Sam Webb",
     "position": "CB",
-    "team": null,
+    "team": "NYG",
     "status": "Active",
     "active": true
   },
