@@ -13723,7 +13723,7 @@
     "name": "Logan Lee",
     "position": "DL",
     "team": "PIT",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "1270": {
@@ -63555,7 +63555,7 @@
   "8497": {
     "name": "Lecitus Smith",
     "position": "OL",
-    "team": null,
+    "team": "DEN",
     "status": "Active",
     "active": true
   },
@@ -70248,7 +70248,7 @@
     "name": "Terrell Jennings",
     "position": "RB",
     "team": "NE",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "10948": {
@@ -70444,7 +70444,7 @@
     "name": "Michael Deiter",
     "position": "OL",
     "team": "DEN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "13594": {
