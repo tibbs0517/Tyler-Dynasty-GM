@@ -4755,7 +4755,7 @@
   "13894": {
     "name": "Justin Pickett",
     "position": "G",
-    "team": "LV",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -13302,7 +13302,7 @@
   "8475": {
     "name": "Montrell Washington",
     "position": "WR",
-    "team": "HOU",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -13617,7 +13617,7 @@
   "13693": {
     "name": "Kody Huisman",
     "position": "DL",
-    "team": "BUF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -15885,7 +15885,7 @@
   "13665": {
     "name": "Jack Bouwmeester",
     "position": "P",
-    "team": "SF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -16627,7 +16627,7 @@
   "13964": {
     "name": "Myles Montgomery",
     "position": "RB",
-    "team": "NE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -33000,7 +33000,7 @@
   "12932": {
     "name": "Tyron Herring",
     "position": "CB",
-    "team": "CLE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -51368,7 +51368,7 @@
   "14058": {
     "name": "Malick Meiga",
     "position": "WR",
-    "team": "CAR",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -61938,7 +61938,7 @@
   "12725": {
     "name": "Luke Lachey",
     "position": "TE",
-    "team": "GB",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -65228,7 +65228,7 @@
   "10991": {
     "name": "K.J. Henry",
     "position": "DE",
-    "team": "SF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -71570,7 +71570,7 @@
   "12743": {
     "name": "Junior Bergen",
     "position": "WR",
-    "team": "SF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -75763,7 +75763,7 @@
   "11378": {
     "name": "Jordan Mims",
     "position": "RB",
-    "team": "MIN",
+    "team": null,
     "status": "Active",
     "active": true
   },

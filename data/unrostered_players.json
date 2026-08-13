@@ -10244,7 +10244,7 @@
     "id": "11378",
     "name": "Jordan Mims",
     "position": "RB",
-    "team": "MIN",
+    "team": null,
     "status": "Active"
   },
   {
@@ -10818,7 +10818,7 @@
     "id": "12743",
     "name": "Junior Bergen",
     "position": "WR",
-    "team": "SF",
+    "team": null,
     "status": "Active"
   },
   {
@@ -12757,7 +12757,7 @@
     "id": "12725",
     "name": "Luke Lachey",
     "position": "TE",
-    "team": "GB",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -12911,7 +12911,7 @@
     "id": "14058",
     "name": "Malick Meiga",
     "position": "WR",
-    "team": "CAR",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -14283,7 +14283,7 @@
     "id": "8475",
     "name": "Montrell Washington",
     "position": "WR",
-    "team": "HOU",
+    "team": null,
     "status": "Active"
   },
   {
@@ -14339,7 +14339,7 @@
     "id": "13964",
     "name": "Myles Montgomery",
     "position": "RB",
-    "team": "NE",
+    "team": null,
     "status": "Active"
   },
   {
