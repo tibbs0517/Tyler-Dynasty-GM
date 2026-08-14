@@ -574,6 +574,20 @@
     "gm_score": 93
   },
   {
+    "id": "13268",
+    "name": "Elijah Sarratt",
+    "position": "WR",
+    "team": "BAL",
+    "age": 23,
+    "years_exp": 0,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 3,
+    "gm_score": 93
+  },
+  {
     "id": "12535",
     "name": "Isaac TeSlaa",
     "position": "WR",
@@ -686,17 +700,17 @@
     "gm_score": 93
   },
   {
-    "id": "11630",
-    "name": "Roman Wilson",
+    "id": "13296",
+    "name": "Caleb Douglas",
     "position": "WR",
-    "team": "PIT",
-    "age": 25,
-    "years_exp": 2,
+    "team": "MIA",
+    "age": 22,
+    "years_exp": 0,
     "active": true,
     "injury_status": null,
     "bye_week": null,
     "rostered": true,
-    "roster_id": 3,
+    "roster_id": 7,
     "gm_score": 93
   },
   {
@@ -1635,20 +1649,6 @@
     "bye_week": null,
     "rostered": true,
     "roster_id": 1,
-    "gm_score": 85
-  },
-  {
-    "id": "7049",
-    "name": "Jauan Jennings",
-    "position": "WR",
-    "team": "MIN",
-    "age": 29,
-    "years_exp": 6,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 7,
     "gm_score": 85
   },
   {
@@ -7434,20 +7434,6 @@
     "gm_score": 73
   },
   {
-    "id": "13268",
-    "name": "Elijah Sarratt",
-    "position": "WR",
-    "team": "BAL",
-    "age": 23,
-    "years_exp": 0,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 73
-  },
-  {
     "id": "6358",
     "name": "Kahlil Lewis",
     "position": "WR",
@@ -8582,20 +8568,6 @@
     "gm_score": 73
   },
   {
-    "id": "13296",
-    "name": "Caleb Douglas",
-    "position": "WR",
-    "team": "MIA",
-    "age": 22,
-    "years_exp": 0,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 73
-  },
-  {
     "id": "11895",
     "name": "Mason Tipton",
     "position": "WR",
@@ -8614,6 +8586,20 @@
     "name": "Ahmad Wagner",
     "position": "WR",
     "team": null,
+    "age": 25,
+    "years_exp": 2,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 73
+  },
+  {
+    "id": "11630",
+    "name": "Roman Wilson",
+    "position": "WR",
+    "team": "PIT",
     "age": 25,
     "years_exp": 2,
     "active": true,
@@ -15475,6 +15461,20 @@
     "position": "WR",
     "team": null,
     "age": 28,
+    "years_exp": 6,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 65
+  },
+  {
+    "id": "7049",
+    "name": "Jauan Jennings",
+    "position": "WR",
+    "team": "MIN",
+    "age": 29,
     "years_exp": 6,
     "active": true,
     "injury_status": null,

@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-08-14 06:09:48
+Generated: 2026-08-14 08:11:31
 
 ---
 
@@ -16,7 +16,7 @@ Available Players: 2811
 ## League Activity
 
 Trades: 4
-Waiver Claims: 19
+Waiver Claims: 21
 Free Agent Moves: 45
 
 ---
@@ -40,6 +40,8 @@ Players on Roster: 24
 
 ## Top Waiver Claims
 
+- Caleb Douglas → HebrewsHeroes
+- Elijah Sarratt → tylerhjensen
 - Pat Bryant → HebrewsHeroes
 - Kayshon Boutte → tylergratz
 - MarShawn Lloyd → HebrewsHeroes
@@ -62,6 +64,8 @@ Players on Roster: 24
 
 ## Recently Dropped Players
 
+- Jauan Jennings
+- Roman Wilson
 - Elijah Sarratt
 - Alvin Kamara
 - Isaiah Davis
@@ -75,16 +79,14 @@ Players on Roster: 24
 - Cooper Kupp
 - Jalen Tolbert
 - Christian Kirk
-- Pat Bryant
-- T.J. Hockenson
 
 ---
 
 ## Most Active Managers
 
 - TheCreecher: 13 moves
-- HebrewsHeroes: 11 moves
-- tylerhjensen: 11 moves
+- HebrewsHeroes: 12 moves
+- tylerhjensen: 12 moves
 - HoNeYmOOnBaBy: 9 moves
 - SammyA: 8 moves
 - tylergratz: 7 moves

@@ -2366,13 +2366,6 @@
     "status": "Active"
   },
   {
-    "id": "13296",
-    "name": "Caleb Douglas",
-    "position": "WR",
-    "team": "MIA",
-    "status": "Active"
-  },
-  {
     "id": "7741",
     "name": "Caleb Huntley",
     "position": "RB",
@@ -6370,13 +6363,6 @@
     "status": "Active"
   },
   {
-    "id": "13268",
-    "name": "Elijah Sarratt",
-    "position": "WR",
-    "team": "BAL",
-    "status": "Active"
-  },
-  {
     "id": "13909",
     "name": "Elijah Tau-Tolliver",
     "position": "RB",
@@ -9070,6 +9056,13 @@
     "position": "TE",
     "team": null,
     "status": "Injured Reserve"
+  },
+  {
+    "id": "7049",
+    "name": "Jauan Jennings",
+    "position": "WR",
+    "team": "MIN",
+    "status": "Active"
   },
   {
     "id": "2939",
@@ -16034,6 +16027,13 @@
     "name": "Roman Hemby",
     "position": "RB",
     "team": "LV",
+    "status": "Active"
+  },
+  {
+    "id": "11630",
+    "name": "Roman Wilson",
+    "position": "WR",
+    "team": "PIT",
     "status": "Active"
   },
   {

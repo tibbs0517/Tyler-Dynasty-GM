@@ -57,14 +57,14 @@
       "daily_waivers_base": 4,
       "reserve_slots": 4,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 13
+      "daily_waivers_last_ran": 14
     },
     "avatar": null,
     "company_id": null,
-    "shard": 470,
-    "season": "2026",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "last_message_id": "1393887873035427840",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -111,22 +111,21 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1393250777107021824",
+    "shard": 470,
+    "draft_id": "1326711861202161664",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1786539379911,
+    "last_message_time": 1786691275418,
     "last_pinned_message_id": null,
-    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,6 +150,7 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -755,13 +755,13 @@
       "players": [
         "10213",
         "11586",
-        "11630",
         "11637",
         "11783",
         "12474",
         "12481",
         "12506",
         "12512",
+        "13268",
         "13276",
         "13353",
         "13402",
@@ -788,7 +788,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 8,
+        "waiver_position": 9,
         "wins": 0
       },
       "starters": [
@@ -916,7 +916,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 11,
-        "waiver_position": 9,
+        "waiver_position": 8,
         "wins": 0
       },
       "starters": [
@@ -1016,13 +1016,13 @@
         "12492",
         "12497",
         "12509",
+        "13296",
         "13301",
         "13413",
         "4199",
         "5846",
         "6770",
         "6803",
-        "7049",
         "7547",
         "7564",
         "8155",
@@ -89159,13 +89159,6 @@
       "status": "Active"
     },
     {
-      "id": "13296",
-      "name": "Caleb Douglas",
-      "position": "WR",
-      "team": "MIA",
-      "status": "Active"
-    },
-    {
       "id": "7741",
       "name": "Caleb Huntley",
       "position": "RB",
@@ -93163,13 +93156,6 @@
       "status": "Active"
     },
     {
-      "id": "13268",
-      "name": "Elijah Sarratt",
-      "position": "WR",
-      "team": "BAL",
-      "status": "Active"
-    },
-    {
       "id": "13909",
       "name": "Elijah Tau-Tolliver",
       "position": "RB",
@@ -95863,6 +95849,13 @@
       "position": "TE",
       "team": null,
       "status": "Injured Reserve"
+    },
+    {
+      "id": "7049",
+      "name": "Jauan Jennings",
+      "position": "WR",
+      "team": "MIN",
+      "status": "Active"
     },
     {
       "id": "2939",
@@ -102827,6 +102820,13 @@
       "name": "Roman Hemby",
       "position": "RB",
       "team": "LV",
+      "status": "Active"
+    },
+    {
+      "id": "11630",
+      "name": "Roman Wilson",
+      "position": "WR",
+      "team": "PIT",
       "status": "Active"
     },
     {
