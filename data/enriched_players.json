@@ -2919,7 +2919,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": "PUP",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -20859,7 +20859,7 @@
     "age": 34,
     "years_exp": 11,
     "active": true,
-    "injury_status": null,
+    "injury_status": "NA",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -112184,7 +112184,7 @@
     "age": 25,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Doubtful",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
