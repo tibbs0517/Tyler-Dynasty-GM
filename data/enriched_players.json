@@ -45390,7 +45390,7 @@
     "age": 22,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Sus",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -61484,7 +61484,7 @@
     "age": 29,
     "years_exp": 8,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Sus",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -130306,7 +130306,7 @@
     "age": 28,
     "years_exp": 4,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Sus",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -137374,7 +137374,7 @@
     "id": "12808",
     "name": "Brandon George",
     "position": "LB",
-    "team": null,
+    "team": "PHI",
     "age": 25,
     "years_exp": 1,
     "active": true,
@@ -142578,7 +142578,7 @@
     "age": 28,
     "years_exp": 4,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Sus",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
