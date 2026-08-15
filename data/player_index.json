@@ -1455,6 +1455,13 @@
     "status": "Inactive",
     "active": false
   },
+  "14079": {
+    "name": "Keveion'ta Spears",
+    "position": "DT",
+    "team": "ARI",
+    "status": "Active",
+    "active": true
+  },
   "4281": {
     "name": "Josh Carraway",
     "position": "OLB",
@@ -17160,7 +17167,7 @@
     "name": "Chase Bisontis",
     "position": "G",
     "team": "ARI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "6150": {
@@ -19323,7 +19330,7 @@
     "name": "Andrew Rupcich",
     "position": "OT",
     "team": "NE",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "11961": {
@@ -21387,7 +21394,7 @@
   "12940": {
     "name": "Tre Stewart",
     "position": "RB",
-    "team": null,
+    "team": "ARI",
     "status": "Active",
     "active": true
   },
@@ -52601,7 +52608,7 @@
     "name": "Austin Keys",
     "position": "LB",
     "team": "ARI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "1553": {
@@ -81090,7 +81097,7 @@
   "12256": {
     "name": "Baylor Cupp",
     "position": "TE",
-    "team": null,
+    "team": "ARI",
     "status": "Active",
     "active": true
   },
@@ -82176,7 +82183,7 @@
     "name": "Jameson Geers",
     "position": "TE",
     "team": "ARI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "2217": {

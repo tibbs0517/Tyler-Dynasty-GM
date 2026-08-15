@@ -1193,7 +1193,7 @@
     "id": "12256",
     "name": "Baylor Cupp",
     "position": "TE",
-    "team": null,
+    "team": "ARI",
     "status": "Active"
   },
   {
@@ -8789,7 +8789,7 @@
     "name": "Jameson Geers",
     "position": "TE",
     "team": "ARI",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "7555",
@@ -18266,7 +18266,7 @@
     "id": "12940",
     "name": "Tre Stewart",
     "position": "RB",
-    "team": null,
+    "team": "ARI",
     "status": "Active"
   },
   {
