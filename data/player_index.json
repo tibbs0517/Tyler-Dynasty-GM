@@ -39987,7 +39987,7 @@
     "name": "Joshua Pitsenberger",
     "position": "RB",
     "team": "HOU",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "510": {
@@ -54231,7 +54231,7 @@
   "13848": {
     "name": "Matthew McDoom",
     "position": "CB",
-    "team": null,
+    "team": "CIN",
     "status": "Active",
     "active": true
   },
@@ -60406,7 +60406,7 @@
     "name": "Graham Mertz",
     "position": "QB",
     "team": "HOU",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "11460": {
