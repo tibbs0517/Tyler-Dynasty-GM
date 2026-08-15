@@ -8652,7 +8652,7 @@
     "5090": {
       "name": "Folorunso Fatukasi",
       "position": "DT",
-      "team": null,
+      "team": "LV",
       "status": "Active",
       "active": true
     },
@@ -47685,7 +47685,7 @@
       "name": "Brennan Jackson",
       "position": "DE",
       "team": "LV",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "13824": {
