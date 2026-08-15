@@ -4853,7 +4853,7 @@
   "12877": {
     "name": "Brandon Johnson",
     "position": "DB",
-    "team": "SEA",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -11230,7 +11230,7 @@
   "2985": {
     "name": "Kendall Lamm",
     "position": "OT",
-    "team": "BAL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -16151,7 +16151,7 @@
   "13764": {
     "name": "Chris Freeman",
     "position": "K",
-    "team": "HOU",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -48057,7 +48057,7 @@
   "13068": {
     "name": "Joe Michalski",
     "position": "OL",
-    "team": null,
+    "team": "NE",
     "status": "Active",
     "active": true
   },
@@ -76918,7 +76918,7 @@
   "12740": {
     "name": "Jack Nelson",
     "position": "OT",
-    "team": "ATL",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -77681,7 +77681,7 @@
   "11952": {
     "name": "Darrian Dalcourt",
     "position": "OL",
-    "team": null,
+    "team": "NE",
     "status": "Active",
     "active": true
   },
@@ -81062,7 +81062,7 @@
   "12889": {
     "name": "Beaux Collins",
     "position": "WR",
-    "team": "NYG",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
