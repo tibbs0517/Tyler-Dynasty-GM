@@ -2382,7 +2382,7 @@
   "7381": {
     "name": "Niko Lalos",
     "position": "DE",
-    "team": "NE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -5497,7 +5497,7 @@
   "13599": {
     "name": "Kyron Drones",
     "position": "QB",
-    "team": "GB",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -11013,7 +11013,7 @@
   "14049": {
     "name": "Brandon Hayes",
     "position": "WR",
-    "team": "PHI",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -35331,7 +35331,7 @@
   "12161": {
     "name": "Loren Strickland",
     "position": "DB",
-    "team": "DET",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -49471,7 +49471,7 @@
   "13720": {
     "name": "Ceyair Wright",
     "position": "CB",
-    "team": "CIN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -53986,7 +53986,7 @@
   "11448": {
     "name": "Ekow Boye-Doe",
     "position": "CB",
-    "team": null,
+    "team": "DET",
     "status": "Active",
     "active": true
   },
@@ -57941,7 +57941,7 @@
   "2427": {
     "name": "Za'Darius Smith",
     "position": "LB",
-    "team": null,
+    "team": "CLE",
     "status": "Active",
     "active": true
   },
@@ -67734,7 +67734,7 @@
   "12954": {
     "name": "Kye Robichaux",
     "position": "RB",
-    "team": "DET",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -70254,7 +70254,7 @@
   "12412": {
     "name": "Terrell Jennings",
     "position": "RB",
-    "team": "NE",
+    "team": null,
     "status": "Inactive",
     "active": true
   },

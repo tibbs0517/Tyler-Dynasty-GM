@@ -1599,7 +1599,7 @@
     "id": "14049",
     "name": "Brandon Hayes",
     "position": "WR",
-    "team": "PHI",
+    "team": null,
     "status": "Active"
   },
   {
@@ -12064,7 +12064,7 @@
     "id": "12954",
     "name": "Kye Robichaux",
     "position": "RB",
-    "team": "DET",
+    "team": null,
     "status": "Active"
   },
   {
@@ -12197,7 +12197,7 @@
     "id": "13599",
     "name": "Kyron Drones",
     "position": "QB",
-    "team": "GB",
+    "team": null,
     "status": "Active"
   },
   {
@@ -17699,7 +17699,7 @@
     "id": "12412",
     "name": "Terrell Jennings",
     "position": "RB",
-    "team": "NE",
+    "team": null,
     "status": "Inactive"
   },
   {
