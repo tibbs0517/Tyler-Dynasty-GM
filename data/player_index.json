@@ -15704,7 +15704,7 @@
     "name": "Jaren Kanak",
     "position": "TE",
     "team": "TEN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "7688": {
@@ -48828,7 +48828,7 @@
     "name": "Jaylen Harrell",
     "position": "DE",
     "team": "TEN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "12919": {
@@ -70401,7 +70401,7 @@
   "13725": {
     "name": "Dominic Richardson",
     "position": "RB",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
@@ -78395,7 +78395,7 @@
   "13806": {
     "name": "Matt Lauter",
     "position": "TE",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
