@@ -17157,7 +17157,7 @@
     "13665": {
       "name": "Jack Bouwmeester",
       "position": "P",
-      "team": null,
+      "team": "LAR",
       "status": "Active",
       "active": true
     },
@@ -84834,7 +84834,7 @@
       "name": "Sam Webb",
       "position": "CB",
       "team": "NYG",
-      "status": "Active",
+      "status": "Injured Reserve",
       "active": true
     },
     "7342": {
