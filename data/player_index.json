@@ -19427,7 +19427,7 @@
   "13816": {
     "name": "Mark Gronowski",
     "position": "QB",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -47322,7 +47322,7 @@
   "7087": {
     "name": "Jonathan Ward",
     "position": "RB",
-    "team": null,
+    "team": "BAL",
     "status": "Active",
     "active": true
   },
@@ -61771,7 +61771,7 @@
     "name": "Jamaree Salyer",
     "position": "OL",
     "team": "MIA",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "5116": {
@@ -64297,7 +64297,7 @@
   "12970": {
     "name": "Cam Riley",
     "position": "LB",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
