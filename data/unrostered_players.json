@@ -1760,7 +1760,7 @@
     "id": "12374",
     "name": "Brenden Bates",
     "position": "TE",
-    "team": "CLE",
+    "team": null,
     "status": "Active"
   },
   {
@@ -6604,7 +6604,7 @@
     "id": "13661",
     "name": "Ethan Conner",
     "position": "TE",
-    "team": "JAX",
+    "team": null,
     "status": "Active"
   },
   {
@@ -11056,7 +11056,7 @@
     "id": "14021",
     "name": "Kadarius Calloway",
     "position": "RB",
-    "team": "TB",
+    "team": null,
     "status": "Active"
   },
   {
@@ -12211,7 +12211,7 @@
     "id": "14031",
     "name": "Kyron Hudson",
     "position": "WR",
-    "team": "CHI",
+    "team": null,
     "status": "Inactive"
   },
   {
