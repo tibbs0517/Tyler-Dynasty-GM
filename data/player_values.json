@@ -29694,20 +29694,6 @@
     "gm_score": 55
   },
   {
-    "id": "9479",
-    "name": "Darnell Washington",
-    "position": "TE",
-    "team": "PIT",
-    "age": 24,
-    "years_exp": 3,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 55
-  },
-  {
     "id": "13307",
     "name": "Marlin Klein",
     "position": "TE",
@@ -35132,6 +35118,20 @@
     "team": null,
     "age": 30,
     "years_exp": 7,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 50
+  },
+  {
+    "id": "9479",
+    "name": "Darnell Washington",
+    "position": "TE",
+    "team": "PIT",
+    "age": 25,
+    "years_exp": 3,
     "active": true,
     "injury_status": null,
     "bye_week": null,
