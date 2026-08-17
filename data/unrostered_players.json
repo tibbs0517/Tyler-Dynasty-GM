@@ -1162,6 +1162,13 @@
     "status": "Active"
   },
   {
+    "id": "14080",
+    "name": "Barika Kpeenu",
+    "position": "RB",
+    "team": "TB",
+    "status": "Active"
+  },
+  {
     "id": "13533",
     "name": "Barion Brown",
     "position": "WR",
@@ -3748,7 +3755,7 @@
     "id": "6659",
     "name": "Craig Reynolds",
     "position": "RB",
-    "team": null,
+    "team": "WAS",
     "status": "Active"
   },
   {
@@ -9446,7 +9453,7 @@
     "id": "13129",
     "name": "Jermaine Terry",
     "position": "TE",
-    "team": null,
+    "team": "CLE",
     "status": "Active"
   },
   {

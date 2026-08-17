@@ -8960,7 +8960,7 @@
     "12842": {
       "name": "Timothy McKay",
       "position": "OG",
-      "team": null,
+      "team": "JAX",
       "status": "Active",
       "active": true
     },
@@ -12509,7 +12509,7 @@
     "13129": {
       "name": "Jermaine Terry",
       "position": "TE",
-      "team": null,
+      "team": "CLE",
       "status": "Active",
       "active": true
     },
@@ -23149,7 +23149,7 @@
     "6659": {
       "name": "Craig Reynolds",
       "position": "RB",
-      "team": null,
+      "team": "WAS",
       "status": "Active",
       "active": true
     },
@@ -27490,7 +27490,7 @@
       "name": "Parker Hughes",
       "position": "LB",
       "team": "JAX",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "7001": {
@@ -35365,6 +35365,13 @@
       "name": "L'Jarius Sneed",
       "position": "CB",
       "team": "KC",
+      "status": "Active",
+      "active": true
+    },
+    "14080": {
+      "name": "Barika Kpeenu",
+      "position": "RB",
+      "team": "TB",
       "status": "Active",
       "active": true
     },
@@ -43484,7 +43491,7 @@
     "8299": {
       "name": "Baylon Spector",
       "position": "LB",
-      "team": null,
+      "team": "JAX",
       "status": "Active",
       "active": true
     },
@@ -58646,7 +58653,7 @@
     "12847": {
       "name": "Robert McDaniel",
       "position": "CB",
-      "team": null,
+      "team": "TB",
       "status": "Active",
       "active": true
     },
@@ -87962,6 +87969,13 @@
       "status": "Active"
     },
     {
+      "id": "14080",
+      "name": "Barika Kpeenu",
+      "position": "RB",
+      "team": "TB",
+      "status": "Active"
+    },
+    {
       "id": "13533",
       "name": "Barion Brown",
       "position": "WR",
@@ -90548,7 +90562,7 @@
       "id": "6659",
       "name": "Craig Reynolds",
       "position": "RB",
-      "team": null,
+      "team": "WAS",
       "status": "Active"
     },
     {
@@ -96246,7 +96260,7 @@
       "id": "13129",
       "name": "Jermaine Terry",
       "position": "TE",
-      "team": null,
+      "team": "CLE",
       "status": "Active"
     },
     {
