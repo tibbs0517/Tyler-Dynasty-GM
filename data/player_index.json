@@ -35373,7 +35373,7 @@
   "13155": {
     "name": "Chandler Martin",
     "position": "LB",
-    "team": null,
+    "team": "NYG",
     "status": "Active",
     "active": true
   },
@@ -56156,7 +56156,7 @@
   "12391": {
     "name": "Kenny Dyson",
     "position": "LB",
-    "team": null,
+    "team": "MIN",
     "status": "Active",
     "active": true
   },
@@ -67020,7 +67020,7 @@
   "4965": {
     "name": "Marcus Davenport",
     "position": "DE",
-    "team": null,
+    "team": "CHI",
     "status": "Active",
     "active": true
   },
@@ -81076,8 +81076,8 @@
   "12889": {
     "name": "Beaux Collins",
     "position": "WR",
-    "team": null,
-    "status": "Inactive",
+    "team": "ATL",
+    "status": "Active",
     "active": true
   },
   "8325": {
