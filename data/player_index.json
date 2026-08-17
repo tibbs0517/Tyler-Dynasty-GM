@@ -23298,7 +23298,7 @@
   "10215": {
     "name": "Jake Haener",
     "position": "QB",
-    "team": null,
+    "team": "NYG",
     "status": "Active",
     "active": true
   },
@@ -41869,7 +41869,7 @@
   "13328": {
     "name": "Anthony Hankerson",
     "position": "RB",
-    "team": null,
+    "team": "SEA",
     "status": "Active",
     "active": true
   },
@@ -43381,7 +43381,7 @@
   "12151": {
     "name": "Julian Hicks",
     "position": "WR",
-    "team": null,
+    "team": "SEA",
     "status": "Active",
     "active": true
   },
@@ -54057,7 +54057,7 @@
     "name": "Jamal Adams",
     "position": "SS",
     "team": "MIN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3987": {
@@ -56219,7 +56219,7 @@
   "13857": {
     "name": "Bryce Phillips",
     "position": "DB",
-    "team": null,
+    "team": "MIN",
     "status": "Active",
     "active": true
   },
@@ -62022,7 +62022,7 @@
   "12747": {
     "name": "Power Echols",
     "position": "LB",
-    "team": null,
+    "team": "SEA",
     "status": "Active",
     "active": true
   },
@@ -72229,7 +72229,7 @@
     "name": "Shemar Jean-Charles",
     "position": "CB",
     "team": "SEA",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "12379": {
