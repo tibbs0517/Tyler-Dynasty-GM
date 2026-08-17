@@ -61,8 +61,6 @@
     },
     "avatar": null,
     "company_id": null,
-    "last_message_id": "1394891486218186752",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -112,6 +110,8 @@
     "season": "2026",
     "season_type": "regular",
     "shard": 470,
+    "sport": "nfl",
+    "last_message_id": "1394891486218186752",
     "last_author_avatar": "f9e7524eedba85dee81ab6468d7714f2",
     "last_author_display_name": "tylerhjensen",
     "last_author_id": "429737370590400512",
@@ -36603,8 +36603,8 @@
     "12161": {
       "name": "Loren Strickland",
       "position": "DB",
-      "team": null,
-      "status": "Active",
+      "team": "DET",
+      "status": "Inactive",
       "active": true
     },
     "1873": {
@@ -60739,8 +60739,8 @@
     "12861": {
       "name": "Ethan Robinson",
       "position": "DB",
-      "team": null,
-      "status": "Active",
+      "team": "MIA",
+      "status": "Inactive",
       "active": true
     },
     "7133": {
@@ -65037,7 +65037,7 @@
     "7788": {
       "name": "Victor Dimukeje",
       "position": "LB",
-      "team": null,
+      "team": "SF",
       "status": "Active",
       "active": true
     },
@@ -69013,8 +69013,8 @@
     "12954": {
       "name": "Kye Robichaux",
       "position": "RB",
-      "team": null,
-      "status": "Active",
+      "team": "DET",
+      "status": "Inactive",
       "active": true
     },
     "5472": {
@@ -82929,7 +82929,7 @@
     "8501": {
       "name": "Nick Zakelj",
       "position": "OL",
-      "team": null,
+      "team": "SF",
       "status": "Active",
       "active": true
     },
@@ -98885,8 +98885,8 @@
       "id": "12954",
       "name": "Kye Robichaux",
       "position": "RB",
-      "team": null,
-      "status": "Active"
+      "team": "DET",
+      "status": "Inactive"
     },
     {
       "id": "5127",

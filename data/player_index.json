@@ -35338,8 +35338,8 @@
   "12161": {
     "name": "Loren Strickland",
     "position": "DB",
-    "team": null,
-    "status": "Active",
+    "team": "DET",
+    "status": "Inactive",
     "active": true
   },
   "1873": {
@@ -59474,8 +59474,8 @@
   "12861": {
     "name": "Ethan Robinson",
     "position": "DB",
-    "team": null,
-    "status": "Active",
+    "team": "MIA",
+    "status": "Inactive",
     "active": true
   },
   "7133": {
@@ -63772,7 +63772,7 @@
   "7788": {
     "name": "Victor Dimukeje",
     "position": "LB",
-    "team": null,
+    "team": "SF",
     "status": "Active",
     "active": true
   },
@@ -67748,8 +67748,8 @@
   "12954": {
     "name": "Kye Robichaux",
     "position": "RB",
-    "team": null,
-    "status": "Active",
+    "team": "DET",
+    "status": "Inactive",
     "active": true
   },
   "5472": {
@@ -81664,7 +81664,7 @@
   "8501": {
     "name": "Nick Zakelj",
     "position": "OL",
-    "team": null,
+    "team": "SF",
     "status": "Active",
     "active": true
   },
