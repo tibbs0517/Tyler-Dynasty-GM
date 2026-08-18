@@ -13189,7 +13189,7 @@
     "age": 22,
     "years_exp": 0,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -13215,7 +13215,7 @@
     "age": 25,
     "years_exp": 0,
     "active": true,
-    "injury_status": null,
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -19802,7 +19802,7 @@
     "id": "14062",
     "name": "Tyler Moore",
     "position": "TE",
-    "team": null,
+    "team": "IND",
     "age": null,
     "years_exp": 0,
     "active": true,

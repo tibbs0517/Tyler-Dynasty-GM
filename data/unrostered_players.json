@@ -2650,7 +2650,7 @@
     "name": "Carson Towt",
     "position": "TE",
     "team": "IND",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "3161",
@@ -18889,7 +18889,7 @@
     "id": "14062",
     "name": "Tyler Moore",
     "position": "TE",
-    "team": null,
+    "team": "IND",
     "status": "Active"
   },
   {

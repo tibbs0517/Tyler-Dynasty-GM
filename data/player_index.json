@@ -5588,7 +5588,7 @@
   "8412": {
     "name": "Roy Mbaeteka",
     "position": "OL",
-    "team": null,
+    "team": "IND",
     "status": "Active",
     "active": true
   },
@@ -7534,7 +7534,7 @@
   "13012": {
     "name": "Trey Wedig",
     "position": "OT",
-    "team": null,
+    "team": "IND",
     "status": "Active",
     "active": true
   },
@@ -53664,7 +53664,7 @@
   "14062": {
     "name": "Tyler Moore",
     "position": "TE",
-    "team": null,
+    "team": "IND",
     "status": "Active",
     "active": true
   },
@@ -59209,7 +59209,7 @@
     "name": "Carson Towt",
     "position": "TE",
     "team": "IND",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "4295": {
