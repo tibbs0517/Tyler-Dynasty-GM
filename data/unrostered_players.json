@@ -3489,7 +3489,7 @@
     "id": "13844",
     "name": "Coleman Bennett",
     "position": "RB",
-    "team": "CHI",
+    "team": null,
     "status": "Active"
   },
   {
@@ -4336,7 +4336,7 @@
     "id": "11654",
     "name": "Dante Miller",
     "position": "RB",
-    "team": "NYG",
+    "team": null,
     "status": "Active"
   },
   {
@@ -10895,7 +10895,7 @@
     "id": "14076",
     "name": "Justin Jones",
     "position": "RB",
-    "team": "SEA",
+    "team": null,
     "status": "Active"
   },
   {
@@ -11889,7 +11889,7 @@
     "id": "7608",
     "name": "Khalil Herbert",
     "position": "RB",
-    "team": "SF",
+    "team": null,
     "status": "Active"
   },
   {
@@ -12043,7 +12043,7 @@
     "id": "7438",
     "name": "Kristian Wilkerson",
     "position": "WR",
-    "team": "ATL",
+    "team": null,
     "status": "Active"
   },
   {
@@ -14738,7 +14738,7 @@
     "id": "8107",
     "name": "Nikola Kalinic",
     "position": "TE",
-    "team": "CHI",
+    "team": null,
     "status": "Active"
   },
   {
@@ -17314,7 +17314,7 @@
     "id": "13750",
     "name": "TJ Harden",
     "position": "RB",
-    "team": "SEA",
+    "team": null,
     "status": "Active"
   },
   {
@@ -18133,7 +18133,7 @@
     "id": "12849",
     "name": "Traeshon Holden",
     "position": "WR",
-    "team": "DAL",
+    "team": null,
     "status": "Active"
   },
   {

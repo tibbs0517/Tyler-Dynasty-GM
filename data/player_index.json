@@ -3103,7 +3103,7 @@
   "14076": {
     "name": "Justin Jones",
     "position": "RB",
-    "team": "SEA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -7282,7 +7282,7 @@
   "7608": {
     "name": "Khalil Herbert",
     "position": "RB",
-    "team": "SF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -12455,7 +12455,7 @@
   "8776": {
     "name": "Kingsley Jonathan",
     "position": "DT",
-    "team": "NYJ",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -18055,7 +18055,7 @@
   "13626": {
     "name": "Arden Walker",
     "position": "LB",
-    "team": "MIN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -18146,7 +18146,7 @@
   "10937": {
     "name": "Jake Moody",
     "position": "K",
-    "team": "WAS",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -23851,7 +23851,7 @@
   "7438": {
     "name": "Kristian Wilkerson",
     "position": "WR",
-    "team": "ATL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -25699,7 +25699,7 @@
   "8107": {
     "name": "Nikola Kalinic",
     "position": "TE",
-    "team": "CHI",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -31355,7 +31355,7 @@
   "13864": {
     "name": "Aidan Keanaaina",
     "position": "DL",
-    "team": "DET",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -35849,7 +35849,7 @@
   "12849": {
     "name": "Traeshon Holden",
     "position": "WR",
-    "team": "DAL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -39867,7 +39867,7 @@
   "11654": {
     "name": "Dante Miller",
     "position": "RB",
-    "team": "NYG",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -44928,7 +44928,7 @@
   "13598": {
     "name": "Mason Reiger",
     "position": "DE",
-    "team": "MIA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -49786,7 +49786,7 @@
   "7742": {
     "name": "Kion Smith",
     "position": "T",
-    "team": "SF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -54077,7 +54077,7 @@
   "13844": {
     "name": "Coleman Bennett",
     "position": "RB",
-    "team": "CHI",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -66866,7 +66866,7 @@
   "13803": {
     "name": "Tanner Wall",
     "position": "DB",
-    "team": "MIA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -67853,7 +67853,7 @@
   "13926": {
     "name": "Ben Barten",
     "position": "DL",
-    "team": "NYJ",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -71857,7 +71857,7 @@
   "4390": {
     "name": "Matt Haack",
     "position": "P",
-    "team": "WAS",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -80208,7 +80208,7 @@
   "13750": {
     "name": "TJ Harden",
     "position": "RB",
-    "team": "SEA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -80334,7 +80334,7 @@
   "12968": {
     "name": "Jack Conley",
     "position": "OL",
-    "team": "CLE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -80530,7 +80530,7 @@
   "13642": {
     "name": "Keeshawn Silver",
     "position": "DT",
-    "team": "NO",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
