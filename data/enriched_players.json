@@ -12383,7 +12383,7 @@
     "age": 26,
     "years_exp": 2,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -22766,8 +22766,8 @@
     "id": "5981",
     "name": "Greg Gaines",
     "position": "DT",
-    "team": null,
-    "age": 29,
+    "team": "BUF",
+    "age": 30,
     "years_exp": 7,
     "active": true,
     "injury_status": null,
@@ -47730,7 +47730,7 @@
     "age": 29,
     "years_exp": 4,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -55738,7 +55738,7 @@
     "age": 25,
     "years_exp": 2,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -70935,7 +70935,7 @@
     "age": 29,
     "years_exp": 4,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -70948,7 +70948,7 @@
     "age": 26,
     "years_exp": 3,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -96610,7 +96610,7 @@
     "age": 27,
     "years_exp": 5,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -107010,7 +107010,7 @@
     "age": 28,
     "years_exp": 4,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -121180,7 +121180,7 @@
     "age": 27,
     "years_exp": 3,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -134713,7 +134713,7 @@
     "age": 25,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -138236,7 +138236,7 @@
     "age": null,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -155227,7 +155227,7 @@
     "age": 28,
     "years_exp": 4,
     "active": true,
-    "injury_status": "NA",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
