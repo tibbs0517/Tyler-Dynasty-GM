@@ -28098,20 +28098,6 @@
     "gm_score": 60
   },
   {
-    "id": "7528",
-    "name": "Najee Harris",
-    "position": "RB",
-    "team": null,
-    "age": 27,
-    "years_exp": 5,
-    "active": true,
-    "injury_status": "Questionable",
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 60
-  },
-  {
     "id": "13725",
     "name": "Dominic Richardson",
     "position": "RB",
@@ -40986,6 +40972,20 @@
     "years_exp": 12,
     "active": true,
     "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 45
+  },
+  {
+    "id": "7528",
+    "name": "Najee Harris",
+    "position": "RB",
+    "team": "NYG",
+    "age": 28,
+    "years_exp": 5,
+    "active": true,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null,
