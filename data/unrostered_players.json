@@ -1298,7 +1298,7 @@
     "id": "13647",
     "name": "Ben Patterson",
     "position": "WR",
-    "team": null,
+    "team": "CLE",
     "status": "Active"
   },
   {
@@ -9489,7 +9489,7 @@
     "name": "Jerome Ford",
     "position": "RB",
     "team": "WAS",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "11522",
@@ -15845,7 +15845,7 @@
     "name": "River Cracraft",
     "position": "WR",
     "team": "WAS",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "515",
@@ -18301,7 +18301,7 @@
     "id": "7554",
     "name": "Tre' McKitty",
     "position": "TE",
-    "team": null,
+    "team": "WAS",
     "status": "Active"
   },
   {

@@ -61,10 +61,7 @@
     },
     "avatar": null,
     "company_id": null,
-    "shard": 470,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
+    "last_message_id": "1394891486218186752",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -111,8 +108,10 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1394891486218186752",
-    "draft_id": "1326711861202161664",
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 470,
+    "sport": "nfl",
     "last_author_avatar": "f9e7524eedba85dee81ab6468d7714f2",
     "last_author_display_name": "tylerhjensen",
     "last_author_id": "429737370590400512",
@@ -121,6 +120,7 @@
     "last_message_text_map": null,
     "last_message_time": 1786930555447,
     "last_pinned_message_id": null,
+    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
@@ -7056,7 +7056,7 @@
     "12155": {
       "name": "Nate Lynn",
       "position": "DL",
-      "team": null,
+      "team": "NYJ",
       "status": "Active",
       "active": true
     },
@@ -20279,7 +20279,7 @@
     "13647": {
       "name": "Ben Patterson",
       "position": "WR",
-      "team": null,
+      "team": "CLE",
       "status": "Active",
       "active": true
     },
@@ -29366,7 +29366,7 @@
       "name": "Jerome Ford",
       "position": "RB",
       "team": "WAS",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "6645": {
@@ -51576,7 +51576,7 @@
     "5002": {
       "name": "Maurice Hurst",
       "position": "DT",
-      "team": null,
+      "team": "WAS",
       "status": "Active",
       "active": true
     },
@@ -58507,7 +58507,7 @@
       "name": "River Cracraft",
       "position": "WR",
       "team": "WAS",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "1601": {
@@ -59017,7 +59017,7 @@
     "7554": {
       "name": "Tre' McKitty",
       "position": "TE",
-      "team": null,
+      "team": "WAS",
       "status": "Active",
       "active": true
     },
@@ -59220,7 +59220,7 @@
     "2427": {
       "name": "Za'Darius Smith",
       "position": "LB",
-      "team": "CLE",
+      "team": "ATL",
       "status": "Active",
       "active": true
     },
@@ -62783,7 +62783,7 @@
     "13141": {
       "name": "Seth Coleman",
       "position": "LB",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -79051,7 +79051,7 @@
     "12949": {
       "name": "Keenan Garber",
       "position": "CB",
-      "team": null,
+      "team": "NYJ",
       "status": "Active",
       "active": true
     },
@@ -88112,7 +88112,7 @@
       "id": "13647",
       "name": "Ben Patterson",
       "position": "WR",
-      "team": null,
+      "team": "CLE",
       "status": "Active"
     },
     {
@@ -96303,7 +96303,7 @@
       "name": "Jerome Ford",
       "position": "RB",
       "team": "WAS",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "11522",
@@ -102659,7 +102659,7 @@
       "name": "River Cracraft",
       "position": "WR",
       "team": "WAS",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "515",
@@ -105115,7 +105115,7 @@
       "id": "7554",
       "name": "Tre' McKitty",
       "position": "TE",
-      "team": null,
+      "team": "WAS",
       "status": "Active"
     },
     {

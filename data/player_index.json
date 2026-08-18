@@ -5791,7 +5791,7 @@
   "12155": {
     "name": "Nate Lynn",
     "position": "DL",
-    "team": null,
+    "team": "NYJ",
     "status": "Active",
     "active": true
   },
@@ -19014,7 +19014,7 @@
   "13647": {
     "name": "Ben Patterson",
     "position": "WR",
-    "team": null,
+    "team": "CLE",
     "status": "Active",
     "active": true
   },
@@ -28101,7 +28101,7 @@
     "name": "Jerome Ford",
     "position": "RB",
     "team": "WAS",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "6645": {
@@ -50311,7 +50311,7 @@
   "5002": {
     "name": "Maurice Hurst",
     "position": "DT",
-    "team": null,
+    "team": "WAS",
     "status": "Active",
     "active": true
   },
@@ -57242,7 +57242,7 @@
     "name": "River Cracraft",
     "position": "WR",
     "team": "WAS",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "1601": {
@@ -57752,7 +57752,7 @@
   "7554": {
     "name": "Tre' McKitty",
     "position": "TE",
-    "team": null,
+    "team": "WAS",
     "status": "Active",
     "active": true
   },
@@ -57955,7 +57955,7 @@
   "2427": {
     "name": "Za'Darius Smith",
     "position": "LB",
-    "team": "CLE",
+    "team": "ATL",
     "status": "Active",
     "active": true
   },
@@ -61518,7 +61518,7 @@
   "13141": {
     "name": "Seth Coleman",
     "position": "LB",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -77786,7 +77786,7 @@
   "12949": {
     "name": "Keenan Garber",
     "position": "CB",
-    "team": null,
+    "team": "NYJ",
     "status": "Active",
     "active": true
   },
