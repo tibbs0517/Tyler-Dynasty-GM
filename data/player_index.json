@@ -14196,7 +14196,7 @@
     "active": false
   },
   "11772": {
-    "name": "De'Antre Prince",
+    "name": "Deantre Prince",
     "position": "CB",
     "team": "CHI",
     "status": "Active",
@@ -48785,7 +48785,7 @@
   "6809": {
     "name": "Trevon Diggs",
     "position": "CB",
-    "team": null,
+    "team": "SEA",
     "status": "Active",
     "active": true
   },
@@ -61516,7 +61516,7 @@
     "active": true
   },
   "13141": {
-    "name": "Seth Coleman",
+    "name": "Seth Coleman-Lyles",
     "position": "LB",
     "team": "MIA",
     "status": "Active",

@@ -26365,7 +26365,7 @@
   },
   "11772": {
     "id": "11772",
-    "name": "De'Antre Prince",
+    "name": "Deantre Prince",
     "position": "CB",
     "team": "CHI",
     "age": 25,
@@ -90600,7 +90600,7 @@
     "id": "6809",
     "name": "Trevon Diggs",
     "position": "CB",
-    "team": null,
+    "team": "SEA",
     "age": 27,
     "years_exp": 6,
     "active": true,
@@ -114245,7 +114245,7 @@
   },
   "13141": {
     "id": "13141",
-    "name": "Seth Coleman",
+    "name": "Seth Coleman-Lyles",
     "position": "LB",
     "team": "MIA",
     "age": 25,
@@ -116201,7 +116201,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Doubtful",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": true,
     "roster_id": 4
