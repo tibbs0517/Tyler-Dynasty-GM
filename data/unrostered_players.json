@@ -13212,8 +13212,8 @@
     "id": "13001",
     "name": "Mario Williams",
     "position": "WR",
-    "team": null,
-    "status": "Active"
+    "team": "LAR",
+    "status": "Inactive"
   },
   {
     "id": "5776",
@@ -18554,7 +18554,7 @@
     "name": "Trey Sermon",
     "position": "RB",
     "team": "ATL",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "8135",

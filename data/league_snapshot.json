@@ -61,10 +61,6 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
-    "shard": 470,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -111,6 +107,10 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "shard": 470,
     "last_message_id": "1395853369322516480",
     "last_author_avatar": "f9e7524eedba85dee81ab6468d7714f2",
     "last_author_display_name": "tylerhjensen",

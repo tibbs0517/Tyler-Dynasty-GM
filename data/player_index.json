@@ -3342,7 +3342,7 @@
     "name": "Trey Sermon",
     "position": "RB",
     "team": "ATL",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3731": {
@@ -12455,8 +12455,8 @@
   "8776": {
     "name": "Kingsley Jonathan",
     "position": "DT",
-    "team": null,
-    "status": "Active",
+    "team": "NYJ",
+    "status": "Inactive",
     "active": true
   },
   "12295": {
@@ -38201,8 +38201,8 @@
   "11004": {
     "name": "Titus Leo",
     "position": "LB",
-    "team": null,
-    "status": "Active",
+    "team": "SF",
+    "status": "Inactive",
     "active": true
   },
   "10229": {
@@ -41099,8 +41099,8 @@
   "13001": {
     "name": "Mario Williams",
     "position": "WR",
-    "team": null,
-    "status": "Active",
+    "team": "LAR",
+    "status": "Inactive",
     "active": true
   },
   "6021": {
@@ -44928,8 +44928,8 @@
   "13598": {
     "name": "Mason Reiger",
     "position": "DE",
-    "team": null,
-    "status": "Active",
+    "team": "MIA",
+    "status": "Inactive",
     "active": true
   },
   "7090": {
@@ -49219,8 +49219,8 @@
   "13851": {
     "name": "Jahquez Robinson",
     "position": "DB",
-    "team": null,
-    "status": "Active",
+    "team": "BAL",
+    "status": "Inactive",
     "active": true
   },
   "12003": {
@@ -67853,7 +67853,7 @@
   "13926": {
     "name": "Ben Barten",
     "position": "DL",
-    "team": null,
+    "team": "NYG",
     "status": "Active",
     "active": true
   },

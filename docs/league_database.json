@@ -61,10 +61,6 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
-    "shard": 470,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -111,6 +107,10 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "shard": 470,
     "last_message_id": "1395853369322516480",
     "last_author_avatar": "f9e7524eedba85dee81ab6468d7714f2",
     "last_author_display_name": "tylerhjensen",
@@ -4605,7 +4605,7 @@
       "name": "Trey Sermon",
       "position": "RB",
       "team": "ATL",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "3731": {
@@ -13718,8 +13718,8 @@
     "8776": {
       "name": "Kingsley Jonathan",
       "position": "DT",
-      "team": null,
-      "status": "Active",
+      "team": "NYJ",
+      "status": "Inactive",
       "active": true
     },
     "12295": {
@@ -39464,8 +39464,8 @@
     "11004": {
       "name": "Titus Leo",
       "position": "LB",
-      "team": null,
-      "status": "Active",
+      "team": "SF",
+      "status": "Inactive",
       "active": true
     },
     "10229": {
@@ -42362,8 +42362,8 @@
     "13001": {
       "name": "Mario Williams",
       "position": "WR",
-      "team": null,
-      "status": "Active",
+      "team": "LAR",
+      "status": "Inactive",
       "active": true
     },
     "6021": {
@@ -46191,8 +46191,8 @@
     "13598": {
       "name": "Mason Reiger",
       "position": "DE",
-      "team": null,
-      "status": "Active",
+      "team": "MIA",
+      "status": "Inactive",
       "active": true
     },
     "7090": {
@@ -50482,8 +50482,8 @@
     "13851": {
       "name": "Jahquez Robinson",
       "position": "DB",
-      "team": null,
-      "status": "Active",
+      "team": "BAL",
+      "status": "Inactive",
       "active": true
     },
     "12003": {
@@ -69116,7 +69116,7 @@
     "13926": {
       "name": "Ben Barten",
       "position": "DL",
-      "team": null,
+      "team": "NYG",
       "status": "Active",
       "active": true
     },
@@ -100024,8 +100024,8 @@
       "id": "13001",
       "name": "Mario Williams",
       "position": "WR",
-      "team": null,
-      "status": "Active"
+      "team": "LAR",
+      "status": "Inactive"
     },
     {
       "id": "5776",
@@ -105366,7 +105366,7 @@
       "name": "Trey Sermon",
       "position": "RB",
       "team": "ATL",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "8135",
