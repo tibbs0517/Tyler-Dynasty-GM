@@ -534,7 +534,7 @@
   "12887": {
     "name": "Joshua Gray",
     "position": "OL",
-    "team": null,
+    "team": "MIN",
     "status": "Active",
     "active": true
   },
@@ -28114,7 +28114,7 @@
   "6694": {
     "name": "D'Ernest Johnson",
     "position": "RB",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
@@ -65725,7 +65725,7 @@
   "11315": {
     "name": "Cam Jones",
     "position": "LB",
-    "team": null,
+    "team": "KC",
     "status": "Active",
     "active": true
   },
@@ -71591,7 +71591,7 @@
   "12743": {
     "name": "Junior Bergen",
     "position": "WR",
-    "team": null,
+    "team": "NYJ",
     "status": "Active",
     "active": true
   },
@@ -82280,7 +82280,7 @@
   "8469": {
     "name": "Daniel Faalele",
     "position": "T",
-    "team": "NYG",
+    "team": "JAX",
     "status": "Active",
     "active": true
   },
