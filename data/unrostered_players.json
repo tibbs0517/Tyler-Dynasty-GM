@@ -3888,7 +3888,7 @@
     "id": "13326",
     "name": "DT Sheffield",
     "position": "WR",
-    "team": "NYJ",
+    "team": null,
     "status": "Active"
   },
   {
@@ -5722,7 +5722,7 @@
     "id": "13725",
     "name": "Dominic Richardson",
     "position": "RB",
-    "team": "TEN",
+    "team": null,
     "status": "Active"
   },
   {
@@ -6163,7 +6163,7 @@
     "id": "13931",
     "name": "E.J. Horton",
     "position": "WR",
-    "team": "IND",
+    "team": null,
     "status": "Active"
   },
   {
@@ -10755,7 +10755,7 @@
     "id": "4040",
     "name": "JuJu Smith-Schuster",
     "position": "WR",
-    "team": "NYG",
+    "team": null,
     "status": "Active"
   },
   {
@@ -11651,7 +11651,7 @@
     "id": "7597",
     "name": "Kenny Yeboah",
     "position": "TE",
-    "team": "ARI",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -13212,7 +13212,7 @@
     "id": "13001",
     "name": "Mario Williams",
     "position": "WR",
-    "team": "LAR",
+    "team": null,
     "status": "Active"
   },
   {
@@ -14192,7 +14192,7 @@
     "id": "13227",
     "name": "Mitch Van Vooren",
     "position": "WR",
-    "team": "NE",
+    "team": null,
     "status": "Active"
   },
   {

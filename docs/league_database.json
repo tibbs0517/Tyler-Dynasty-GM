@@ -61,10 +61,6 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
-    "shard": 470,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -111,7 +107,12 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "last_message_id": "1395517966006648832",
+    "shard": 470,
+    "draft_id": "1326711861202161664",
     "last_author_avatar": "ca62063676344cfcedb556ee2a79ad72",
     "last_author_display_name": "TheCreecher",
     "last_author_id": "472188020636774400",
@@ -121,11 +122,8 @@
     "last_message_time": 1787079920853,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1326711861202161664",
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -150,6 +148,8 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
@@ -1923,7 +1923,7 @@
     "12739": {
       "name": "Tommy Akingbesote",
       "position": "DT",
-      "team": "BUF",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -9070,7 +9070,7 @@
     "12143": {
       "name": "Bayron Matos",
       "position": "OL",
-      "team": "IND",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -10953,7 +10953,7 @@
     "13901": {
       "name": "Anthony Dunn",
       "position": "DE",
-      "team": "KC",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -26115,7 +26115,7 @@
     "4040": {
       "name": "JuJu Smith-Schuster",
       "position": "WR",
-      "team": "NYG",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -39464,7 +39464,7 @@
     "11004": {
       "name": "Titus Leo",
       "position": "LB",
-      "team": "SF",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -42362,7 +42362,7 @@
     "13001": {
       "name": "Mario Williams",
       "position": "WR",
-      "team": "LAR",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -50482,7 +50482,7 @@
     "13851": {
       "name": "Jahquez Robinson",
       "position": "DB",
-      "team": "BAL",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -53282,7 +53282,7 @@
     "7597": {
       "name": "Kenny Yeboah",
       "position": "TE",
-      "team": "ARI",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -56061,7 +56061,7 @@
     "13931": {
       "name": "E.J. Horton",
       "position": "WR",
-      "team": "IND",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -60436,7 +60436,7 @@
     "13227": {
       "name": "Mitch Van Vooren",
       "position": "WR",
-      "team": "NE",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -70740,7 +70740,7 @@
     "13326": {
       "name": "DT Sheffield",
       "position": "WR",
-      "team": "NYJ",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -71678,7 +71678,7 @@
     "13725": {
       "name": "Dominic Richardson",
       "position": "RB",
-      "team": "TEN",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -84845,7 +84845,7 @@
     "8844": {
       "name": "Sam Webb",
       "position": "CB",
-      "team": "NYG",
+      "team": null,
       "status": "Injured Reserve",
       "active": true
     },
@@ -90700,7 +90700,7 @@
       "id": "13326",
       "name": "DT Sheffield",
       "position": "WR",
-      "team": "NYJ",
+      "team": null,
       "status": "Active"
     },
     {
@@ -92534,7 +92534,7 @@
       "id": "13725",
       "name": "Dominic Richardson",
       "position": "RB",
-      "team": "TEN",
+      "team": null,
       "status": "Active"
     },
     {
@@ -92975,7 +92975,7 @@
       "id": "13931",
       "name": "E.J. Horton",
       "position": "WR",
-      "team": "IND",
+      "team": null,
       "status": "Active"
     },
     {
@@ -97567,7 +97567,7 @@
       "id": "4040",
       "name": "JuJu Smith-Schuster",
       "position": "WR",
-      "team": "NYG",
+      "team": null,
       "status": "Active"
     },
     {
@@ -98463,7 +98463,7 @@
       "id": "7597",
       "name": "Kenny Yeboah",
       "position": "TE",
-      "team": "ARI",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -100024,7 +100024,7 @@
       "id": "13001",
       "name": "Mario Williams",
       "position": "WR",
-      "team": "LAR",
+      "team": null,
       "status": "Active"
     },
     {
@@ -101004,7 +101004,7 @@
       "id": "13227",
       "name": "Mitch Van Vooren",
       "position": "WR",
-      "team": "NE",
+      "team": null,
       "status": "Active"
     },
     {

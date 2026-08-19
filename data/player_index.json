@@ -660,7 +660,7 @@
   "12739": {
     "name": "Tommy Akingbesote",
     "position": "DT",
-    "team": "BUF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -7807,7 +7807,7 @@
   "12143": {
     "name": "Bayron Matos",
     "position": "OL",
-    "team": "IND",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -9690,7 +9690,7 @@
   "13901": {
     "name": "Anthony Dunn",
     "position": "DE",
-    "team": "KC",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -24852,7 +24852,7 @@
   "4040": {
     "name": "JuJu Smith-Schuster",
     "position": "WR",
-    "team": "NYG",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -38201,7 +38201,7 @@
   "11004": {
     "name": "Titus Leo",
     "position": "LB",
-    "team": "SF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -41099,7 +41099,7 @@
   "13001": {
     "name": "Mario Williams",
     "position": "WR",
-    "team": "LAR",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -49219,7 +49219,7 @@
   "13851": {
     "name": "Jahquez Robinson",
     "position": "DB",
-    "team": "BAL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -52019,7 +52019,7 @@
   "7597": {
     "name": "Kenny Yeboah",
     "position": "TE",
-    "team": "ARI",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -54798,7 +54798,7 @@
   "13931": {
     "name": "E.J. Horton",
     "position": "WR",
-    "team": "IND",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -59173,7 +59173,7 @@
   "13227": {
     "name": "Mitch Van Vooren",
     "position": "WR",
-    "team": "NE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -69477,7 +69477,7 @@
   "13326": {
     "name": "DT Sheffield",
     "position": "WR",
-    "team": "NYJ",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -70415,7 +70415,7 @@
   "13725": {
     "name": "Dominic Richardson",
     "position": "RB",
-    "team": "TEN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -83582,7 +83582,7 @@
   "8844": {
     "name": "Sam Webb",
     "position": "CB",
-    "team": "NYG",
+    "team": null,
     "status": "Injured Reserve",
     "active": true
   },
