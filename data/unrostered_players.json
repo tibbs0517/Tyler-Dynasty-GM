@@ -1760,8 +1760,8 @@
     "id": "12374",
     "name": "Brenden Bates",
     "position": "TE",
-    "team": null,
-    "status": "Active"
+    "team": "CLE",
+    "status": "Inactive"
   },
   {
     "id": "7858",
@@ -4336,8 +4336,8 @@
     "id": "11654",
     "name": "Dante Miller",
     "position": "RB",
-    "team": null,
-    "status": "Active"
+    "team": "NYG",
+    "status": "Inactive"
   },
   {
     "id": "4992",
@@ -11056,8 +11056,8 @@
     "id": "14021",
     "name": "Kadarius Calloway",
     "position": "RB",
-    "team": null,
-    "status": "Active"
+    "team": "TB",
+    "status": "Inactive"
   },
   {
     "id": "7606",
@@ -14738,8 +14738,8 @@
     "id": "8107",
     "name": "Nikola Kalinic",
     "position": "TE",
-    "team": null,
-    "status": "Active"
+    "team": "CHI",
+    "status": "Inactive"
   },
   {
     "id": "4234",

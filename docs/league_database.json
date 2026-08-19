@@ -7929,8 +7929,8 @@
     "12374": {
       "name": "Brenden Bates",
       "position": "TE",
-      "team": null,
-      "status": "Active",
+      "team": "CLE",
+      "status": "Inactive",
       "active": true
     },
     "5645": {
@@ -19318,7 +19318,7 @@
     "13626": {
       "name": "Arden Walker",
       "position": "LB",
-      "team": null,
+      "team": "GB",
       "status": "Active",
       "active": true
     },
@@ -26962,8 +26962,8 @@
     "8107": {
       "name": "Nikola Kalinic",
       "position": "TE",
-      "team": null,
-      "status": "Active",
+      "team": "CHI",
+      "status": "Inactive",
       "active": true
     },
     "11172": {
@@ -31274,8 +31274,8 @@
     "11965": {
       "name": "Marcus Banks",
       "position": "DB",
-      "team": null,
-      "status": "Active",
+      "team": "TB",
+      "status": "Inactive",
       "active": true
     },
     "1216": {
@@ -41130,8 +41130,8 @@
     "11654": {
       "name": "Dante Miller",
       "position": "RB",
-      "team": null,
-      "status": "Active",
+      "team": "NYG",
+      "status": "Inactive",
       "active": true
     },
     "2016": {
@@ -52078,8 +52078,8 @@
     "13875": {
       "name": "Sean Brown",
       "position": "LB",
-      "team": null,
-      "status": "Active",
+      "team": "TEN",
+      "status": "Inactive",
       "active": true
     },
     "3233": {
@@ -75696,8 +75696,8 @@
     "14021": {
       "name": "Kadarius Calloway",
       "position": "RB",
-      "team": null,
-      "status": "Active",
+      "team": "TB",
+      "status": "Inactive",
       "active": true
     },
     "210": {
@@ -88572,8 +88572,8 @@
       "id": "12374",
       "name": "Brenden Bates",
       "position": "TE",
-      "team": null,
-      "status": "Active"
+      "team": "CLE",
+      "status": "Inactive"
     },
     {
       "id": "7858",
@@ -91148,8 +91148,8 @@
       "id": "11654",
       "name": "Dante Miller",
       "position": "RB",
-      "team": null,
-      "status": "Active"
+      "team": "NYG",
+      "status": "Inactive"
     },
     {
       "id": "4992",
@@ -97868,8 +97868,8 @@
       "id": "14021",
       "name": "Kadarius Calloway",
       "position": "RB",
-      "team": null,
-      "status": "Active"
+      "team": "TB",
+      "status": "Inactive"
     },
     {
       "id": "7606",
@@ -101550,8 +101550,8 @@
       "id": "8107",
       "name": "Nikola Kalinic",
       "position": "TE",
-      "team": null,
-      "status": "Active"
+      "team": "CHI",
+      "status": "Inactive"
     },
     {
       "id": "4234",
