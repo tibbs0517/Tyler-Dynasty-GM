@@ -7170,7 +7170,7 @@
     "age": 26,
     "years_exp": 4,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": true,
     "roster_id": 1
@@ -27277,7 +27277,7 @@
     "id": "5882",
     "name": "Taylor Rapp",
     "position": "DB",
-    "team": null,
+    "team": "DEN",
     "age": 28,
     "years_exp": 7,
     "active": true,
@@ -27333,7 +27333,7 @@
     "age": 27,
     "years_exp": 4,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -30310,7 +30310,7 @@
     "age": 25,
     "years_exp": 3,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": true,
     "roster_id": 5
@@ -60678,7 +60678,7 @@
     "age": 21,
     "years_exp": 0,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -61484,7 +61484,7 @@
     "age": 32,
     "years_exp": 9,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
