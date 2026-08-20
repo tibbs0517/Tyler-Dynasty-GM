@@ -11889,7 +11889,7 @@
     "id": "7608",
     "name": "Khalil Herbert",
     "position": "RB",
-    "team": null,
+    "team": "SF",
     "status": "Active"
   },
   {
@@ -15047,7 +15047,7 @@
     "name": "Patrick Taylor",
     "position": "RB",
     "team": "SF",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "2674",

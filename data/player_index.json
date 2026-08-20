@@ -7282,7 +7282,7 @@
   "7608": {
     "name": "Khalil Herbert",
     "position": "RB",
-    "team": null,
+    "team": "SF",
     "status": "Active",
     "active": true
   },
@@ -7695,7 +7695,7 @@
   "12842": {
     "name": "Timothy McKay",
     "position": "OG",
-    "team": null,
+    "team": "JAX",
     "status": "Active",
     "active": true
   },
@@ -46567,7 +46567,7 @@
     "name": "Patrick Taylor",
     "position": "RB",
     "team": "SF",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "215": {
