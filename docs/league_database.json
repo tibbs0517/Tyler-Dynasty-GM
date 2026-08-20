@@ -65,6 +65,7 @@
     "season": "2026",
     "season_type": "regular",
     "sport": "nfl",
+    "last_message_id": "1395853369322516480",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -111,7 +112,6 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1395853369322516480",
     "last_author_avatar": "f9e7524eedba85dee81ab6468d7714f2",
     "last_author_display_name": "tylerhjensen",
     "last_author_id": "429737370590400512",
@@ -124,8 +124,11 @@
     "draft_id": "1326711861202161664",
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
-    "group_id": null,
     "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -150,9 +153,6 @@
       "BN",
       "BN"
     ],
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -5024,7 +5024,7 @@
     "8473": {
       "name": "Eric Johnson",
       "position": "DT",
-      "team": "MIN",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -8958,7 +8958,7 @@
     "12842": {
       "name": "Timothy McKay",
       "position": "OG",
-      "team": "JAX",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -25303,7 +25303,7 @@
     "4233": {
       "name": "Zane Gonzalez",
       "position": "K",
-      "team": "MIA",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -36601,7 +36601,7 @@
     "12161": {
       "name": "Loren Strickland",
       "position": "DB",
-      "team": "DET",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -44651,7 +44651,7 @@
     "12151": {
       "name": "Julian Hicks",
       "position": "WR",
-      "team": "SEA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -54542,7 +54542,7 @@
     "8477": {
       "name": "Matt Waletzko",
       "position": "OL",
-      "team": "KC",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -58504,7 +58504,7 @@
     "4854": {
       "name": "River Cracraft",
       "position": "WR",
-      "team": "WAS",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -65385,7 +65385,7 @@
     "13892": {
       "name": "Jeadyn Lukus",
       "position": "CB",
-      "team": "CLE",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -72525,7 +72525,7 @@
     "12803": {
       "name": "Luke Grimm",
       "position": "WR",
-      "team": "LAC",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -84173,7 +84173,7 @@
     "14064": {
       "name": "Roydell Williams",
       "position": "RB",
-      "team": "IND",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -97588,7 +97588,7 @@
       "id": "12151",
       "name": "Julian Hicks",
       "position": "WR",
-      "team": "SEA",
+      "team": null,
       "status": "Active"
     },
     {
@@ -99562,7 +99562,7 @@
       "id": "12803",
       "name": "Luke Grimm",
       "position": "WR",
-      "team": "LAC",
+      "team": null,
       "status": "Active"
     },
     {
@@ -102656,7 +102656,7 @@
       "id": "4854",
       "name": "River Cracraft",
       "position": "WR",
-      "team": "WAS",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -102978,7 +102978,7 @@
       "id": "14064",
       "name": "Roydell Williams",
       "position": "RB",
-      "team": "IND",
+      "team": null,
       "status": "Active"
     },
     {

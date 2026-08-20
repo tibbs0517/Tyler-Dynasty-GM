@@ -10776,7 +10776,7 @@
     "id": "12151",
     "name": "Julian Hicks",
     "position": "WR",
-    "team": "SEA",
+    "team": null,
     "status": "Active"
   },
   {
@@ -12750,7 +12750,7 @@
     "id": "12803",
     "name": "Luke Grimm",
     "position": "WR",
-    "team": "LAC",
+    "team": null,
     "status": "Active"
   },
   {
@@ -15844,7 +15844,7 @@
     "id": "4854",
     "name": "River Cracraft",
     "position": "WR",
-    "team": "WAS",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -16166,7 +16166,7 @@
     "id": "14064",
     "name": "Roydell Williams",
     "position": "RB",
-    "team": "IND",
+    "team": null,
     "status": "Active"
   },
   {

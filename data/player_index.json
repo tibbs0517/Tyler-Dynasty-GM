@@ -3761,7 +3761,7 @@
   "8473": {
     "name": "Eric Johnson",
     "position": "DT",
-    "team": "MIN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -7695,7 +7695,7 @@
   "12842": {
     "name": "Timothy McKay",
     "position": "OG",
-    "team": "JAX",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -24040,7 +24040,7 @@
   "4233": {
     "name": "Zane Gonzalez",
     "position": "K",
-    "team": "MIA",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -35338,7 +35338,7 @@
   "12161": {
     "name": "Loren Strickland",
     "position": "DB",
-    "team": "DET",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -43388,7 +43388,7 @@
   "12151": {
     "name": "Julian Hicks",
     "position": "WR",
-    "team": "SEA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -53279,7 +53279,7 @@
   "8477": {
     "name": "Matt Waletzko",
     "position": "OL",
-    "team": "KC",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -57241,7 +57241,7 @@
   "4854": {
     "name": "River Cracraft",
     "position": "WR",
-    "team": "WAS",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -64122,7 +64122,7 @@
   "13892": {
     "name": "Jeadyn Lukus",
     "position": "CB",
-    "team": "CLE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -71262,7 +71262,7 @@
   "12803": {
     "name": "Luke Grimm",
     "position": "WR",
-    "team": "LAC",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -82910,7 +82910,7 @@
   "14064": {
     "name": "Roydell Williams",
     "position": "RB",
-    "team": "IND",
+    "team": null,
     "status": "Active",
     "active": true
   },
