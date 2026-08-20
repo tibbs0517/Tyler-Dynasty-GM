@@ -29354,7 +29354,7 @@
     "name": "Jack Stoll",
     "position": "TE",
     "team": "CLE",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "669": {
@@ -42975,7 +42975,7 @@
   "14068": {
     "name": "Drew Biber",
     "position": "TE",
-    "team": null,
+    "team": "CLE",
     "status": "Active",
     "active": true
   },
