@@ -56023,7 +56023,7 @@
   "7878": {
     "name": "Milo Eifler",
     "position": "LB",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
@@ -76793,7 +76793,7 @@
     "name": "Nazeeh Johnson",
     "position": "DB",
     "team": "TEN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "5236": {
@@ -83463,7 +83463,7 @@
   "4114": {
     "name": "Tanoh Kpassagnon",
     "position": "DE",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
