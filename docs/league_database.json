@@ -61,10 +61,10 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "shard": 470,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -112,6 +112,7 @@
       "st_ff": 1.0
     },
     "last_message_id": "1395853369322516480",
+    "draft_id": "1326711861202161664",
     "last_author_avatar": "f9e7524eedba85dee81ab6468d7714f2",
     "last_author_display_name": "tylerhjensen",
     "last_author_id": "429737370590400512",
@@ -120,10 +121,14 @@
     "last_message_text_map": null,
     "last_message_time": 1787159886250,
     "last_pinned_message_id": null,
-    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -148,11 +153,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -5780,7 +5780,7 @@
     "14052": {
       "name": "Jai'Onte' McMillan",
       "position": "CB",
-      "team": "IND",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -12220,7 +12220,7 @@
     "12111": {
       "name": "Levelle Bailey",
       "position": "LB",
-      "team": "DEN",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -20592,7 +20592,7 @@
     "8678": {
       "name": "Andrew Rupcich",
       "position": "OT",
-      "team": "NE",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -25639,7 +25639,7 @@
     "7801": {
       "name": "Quinton Bohanna",
       "position": "DT",
-      "team": "JAX",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -31274,7 +31274,7 @@
     "11965": {
       "name": "Marcus Banks",
       "position": "DB",
-      "team": "TB",
+      "team": null,
       "status": "Inactive",
       "active": true
     },

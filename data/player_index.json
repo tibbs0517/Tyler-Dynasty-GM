@@ -4517,7 +4517,7 @@
   "14052": {
     "name": "Jai'Onte' McMillan",
     "position": "CB",
-    "team": "IND",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -10957,7 +10957,7 @@
   "12111": {
     "name": "Levelle Bailey",
     "position": "LB",
-    "team": "DEN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -19329,7 +19329,7 @@
   "8678": {
     "name": "Andrew Rupcich",
     "position": "OT",
-    "team": "NE",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -24376,7 +24376,7 @@
   "7801": {
     "name": "Quinton Bohanna",
     "position": "DT",
-    "team": "JAX",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -30011,7 +30011,7 @@
   "11965": {
     "name": "Marcus Banks",
     "position": "DB",
-    "team": "TB",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
