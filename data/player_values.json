@@ -6720,6 +6720,20 @@
     "gm_score": 73
   },
   {
+    "id": "13600",
+    "name": "Tyren Montgomery",
+    "position": "WR",
+    "team": "TEN",
+    "age": 25,
+    "years_exp": 0,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 73
+  },
+  {
     "id": "11616",
     "name": "Jacob Cowing",
     "position": "WR",
@@ -10323,6 +10337,20 @@
     "position": "WR",
     "team": "SEA",
     "age": 23,
+    "years_exp": 0,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 73
+  },
+  {
+    "id": "13776",
+    "name": "Hank Beatty",
+    "position": "WR",
+    "team": "TEN",
+    "age": 22,
     "years_exp": 0,
     "active": true,
     "injury_status": null,
@@ -15050,20 +15078,6 @@
     "gm_score": 65
   },
   {
-    "id": "13600",
-    "name": "Tyren Montgomery",
-    "position": "WR",
-    "team": "TEN",
-    "age": null,
-    "years_exp": 0,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 65
-  },
-  {
     "id": "5965",
     "name": "Miles Boykin",
     "position": "WR",
@@ -19255,20 +19269,6 @@
     "position": "WR",
     "team": "BAL",
     "age": 26,
-    "years_exp": 0,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 65
-  },
-  {
-    "id": "13776",
-    "name": "Hank Beatty",
-    "position": "WR",
-    "team": "TEN",
-    "age": null,
     "years_exp": 0,
     "active": true,
     "injury_status": null,
