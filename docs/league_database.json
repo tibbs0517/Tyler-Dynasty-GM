@@ -6754,7 +6754,7 @@
       "name": "Tariq Castro-Fields",
       "position": "DB",
       "team": "PHI",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "13599": {
@@ -8272,7 +8272,7 @@
     "12947": {
       "name": "Zeke Correll",
       "position": "OL",
-      "team": null,
+      "team": "PHI",
       "status": "Active",
       "active": true
     },
@@ -12220,8 +12220,8 @@
     "12111": {
       "name": "Levelle Bailey",
       "position": "LB",
-      "team": null,
-      "status": "Active",
+      "team": "DEN",
+      "status": "Inactive",
       "active": true
     },
     "5138": {
@@ -12276,7 +12276,7 @@
     "14049": {
       "name": "Brandon Hayes",
       "position": "WR",
-      "team": null,
+      "team": "PHI",
       "status": "Active",
       "active": true
     },
@@ -52547,7 +52547,7 @@
     "4080": {
       "name": "Zay Jones",
       "position": "WR",
-      "team": null,
+      "team": "HOU",
       "status": "Active",
       "active": true
     },
@@ -54542,8 +54542,8 @@
     "8477": {
       "name": "Matt Waletzko",
       "position": "OL",
-      "team": null,
-      "status": "Active",
+      "team": "KC",
+      "status": "Inactive",
       "active": true
     },
     "7522": {
@@ -71132,7 +71132,7 @@
     "3200": {
       "name": "Sterling Shepard",
       "position": "WR",
-      "team": null,
+      "team": "HOU",
       "status": "Active",
       "active": true
     },
@@ -88418,7 +88418,7 @@
       "id": "14049",
       "name": "Brandon Hayes",
       "position": "WR",
-      "team": null,
+      "team": "PHI",
       "status": "Active"
     },
     {
@@ -103944,7 +103944,7 @@
       "id": "3200",
       "name": "Sterling Shepard",
       "position": "WR",
-      "team": null,
+      "team": "HOU",
       "status": "Active"
     },
     {
@@ -106464,7 +106464,7 @@
       "id": "4080",
       "name": "Zay Jones",
       "position": "WR",
-      "team": null,
+      "team": "HOU",
       "status": "Active"
     },
     {
