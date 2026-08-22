@@ -15088,7 +15088,7 @@
     "name": "Jake Bobo",
     "position": "WR",
     "team": "SEA",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "8131": {
@@ -43388,7 +43388,7 @@
   "12151": {
     "name": "Julian Hicks",
     "position": "WR",
-    "team": null,
+    "team": "SEA",
     "status": "Active",
     "active": true
   },

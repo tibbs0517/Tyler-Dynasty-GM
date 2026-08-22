@@ -8222,7 +8222,7 @@
     "name": "Jake Bobo",
     "position": "WR",
     "team": "SEA",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "12817",
@@ -10776,7 +10776,7 @@
     "id": "12151",
     "name": "Julian Hicks",
     "position": "WR",
-    "team": null,
+    "team": "SEA",
     "status": "Active"
   },
   {

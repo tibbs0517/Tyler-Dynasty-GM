@@ -11798,7 +11798,7 @@
     "age": 26,
     "years_exp": 5,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -28022,7 +28022,7 @@
     "age": 28,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -80577,7 +80577,7 @@
     "id": "12151",
     "name": "Julian Hicks",
     "position": "WR",
-    "team": null,
+    "team": "SEA",
     "age": 26,
     "years_exp": 2,
     "active": true,
