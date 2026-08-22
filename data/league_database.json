@@ -61,11 +61,10 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "shard": 470,
-    "last_message_id": "1396787046596485120",
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -112,6 +111,7 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
+    "last_message_id": "1396787046596485120",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -120,8 +120,8 @@
     "last_message_text_map": null,
     "last_message_time": 1787382492258,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1326711861202161664",
+    "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
     "roster_positions": [
@@ -148,8 +148,8 @@
       "BN",
       "BN"
     ],
-    "group_id": null,
     "bracket_id": null,
+    "group_id": null,
     "bracket_overrides_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
@@ -5109,7 +5109,7 @@
     "11636": {
       "name": "Johnny Wilson",
       "position": "WR",
-      "team": "PHI",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -5816,7 +5816,7 @@
     "7974": {
       "name": "Nick McCloud",
       "position": "CB",
-      "team": "MIA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -52079,7 +52079,7 @@
     "13875": {
       "name": "Sean Brown",
       "position": "LB",
-      "team": "TEN",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -61298,7 +61298,7 @@
     "12175": {
       "name": "James Ester",
       "position": "DT",
-      "team": "MIA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -70741,7 +70741,7 @@
     "13326": {
       "name": "DT Sheffield",
       "position": "WR",
-      "team": "NYJ",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -79673,7 +79673,7 @@
     "13806": {
       "name": "Matt Lauter",
       "position": "TE",
-      "team": "TEN",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -90708,7 +90708,7 @@
       "id": "13326",
       "name": "DT Sheffield",
       "position": "WR",
-      "team": "NYJ",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -96882,7 +96882,7 @@
       "id": "11636",
       "name": "Johnny Wilson",
       "position": "WR",
-      "team": "PHI",
+      "team": null,
       "status": "Active"
     },
     {
@@ -100410,7 +100410,7 @@
       "id": "13806",
       "name": "Matt Lauter",
       "position": "TE",
-      "team": "TEN",
+      "team": null,
       "status": "Active"
     },
     {

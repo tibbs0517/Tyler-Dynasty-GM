@@ -3895,7 +3895,7 @@
     "id": "13326",
     "name": "DT Sheffield",
     "position": "WR",
-    "team": "NYJ",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -10069,7 +10069,7 @@
     "id": "11636",
     "name": "Johnny Wilson",
     "position": "WR",
-    "team": "PHI",
+    "team": null,
     "status": "Active"
   },
   {
@@ -13597,7 +13597,7 @@
     "id": "13806",
     "name": "Matt Lauter",
     "position": "TE",
-    "team": "TEN",
+    "team": null,
     "status": "Active"
   },
   {
