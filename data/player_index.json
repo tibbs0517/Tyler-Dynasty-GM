@@ -3845,8 +3845,8 @@
   "11636": {
     "name": "Johnny Wilson",
     "position": "WR",
-    "team": null,
-    "status": "Active",
+    "team": "PHI",
+    "status": "Inactive",
     "active": true
   },
   "5258": {
@@ -4517,7 +4517,7 @@
   "14052": {
     "name": "Jai'Onte' McMillan",
     "position": "CB",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -60034,8 +60034,8 @@
   "12175": {
     "name": "James Ester",
     "position": "DT",
-    "team": null,
-    "status": "Active",
+    "team": "MIA",
+    "status": "Inactive",
     "active": true
   },
   "3297": {

@@ -28486,7 +28486,7 @@
     "id": "11636",
     "name": "Johnny Wilson",
     "position": "WR",
-    "team": null,
+    "team": "PHI",
     "age": 25,
     "years_exp": 2,
     "active": true,
@@ -30128,7 +30128,7 @@
     "age": 22,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
