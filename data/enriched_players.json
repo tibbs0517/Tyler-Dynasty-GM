@@ -9915,8 +9915,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": false,
-    "roster_id": null
+    "rostered": true,
+    "roster_id": 5
   },
   "2310": {
     "id": "2310",
@@ -157166,8 +157166,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": true,
-    "roster_id": 5
+    "rostered": false,
+    "roster_id": null
   },
   "3957": {
     "id": "3957",

@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-08-22 06:31:41
+Generated: 2026-08-22 07:27:15
 
 ---
 
@@ -16,7 +16,7 @@ Available Players: 2812
 ## League Activity
 
 Trades: 4
-Waiver Claims: 21
+Waiver Claims: 22
 Free Agent Moves: 45
 
 ---
@@ -40,6 +40,7 @@ Players on Roster: 24
 
 ## Top Waiver Claims
 
+- Jauan Jennings → tylergratz
 - Caleb Douglas → HebrewsHeroes
 - Elijah Sarratt → tylerhjensen
 - Pat Bryant → HebrewsHeroes
@@ -64,6 +65,7 @@ Players on Roster: 24
 
 ## Recently Dropped Players
 
+- Colby Parkinson
 - Jauan Jennings
 - Roman Wilson
 - Elijah Sarratt
@@ -78,7 +80,6 @@ Players on Roster: 24
 - Michael Penix
 - Cooper Kupp
 - Jalen Tolbert
-- Christian Kirk
 
 ---
 
@@ -88,8 +89,8 @@ Players on Roster: 24
 - HebrewsHeroes: 12 moves
 - tylerhjensen: 12 moves
 - HoNeYmOOnBaBy: 9 moves
+- tylergratz: 8 moves
 - SammyA: 8 moves
-- tylergratz: 7 moves
 - theFalIeniD: 7 moves
 - AnthonyJania: 6 moves
 - jmikolay: 4 moves

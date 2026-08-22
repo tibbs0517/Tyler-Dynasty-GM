@@ -3388,6 +3388,13 @@
     "status": "Active"
   },
   {
+    "id": "6865",
+    "name": "Colby Parkinson",
+    "position": "TE",
+    "team": "LAR",
+    "status": "Active"
+  },
+  {
     "id": "4738",
     "name": "Colby Pearson",
     "position": "WR",
@@ -9063,13 +9070,6 @@
     "position": "TE",
     "team": null,
     "status": "Injured Reserve"
-  },
-  {
-    "id": "7049",
-    "name": "Jauan Jennings",
-    "position": "WR",
-    "team": "MIN",
-    "status": "Active"
   },
   {
     "id": "2939",

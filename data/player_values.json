@@ -1638,6 +1638,20 @@
     "gm_score": 85
   },
   {
+    "id": "7049",
+    "name": "Jauan Jennings",
+    "position": "WR",
+    "team": "MIN",
+    "age": 29,
+    "years_exp": 6,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 5,
+    "gm_score": 85
+  },
+  {
     "id": "10222",
     "name": "Jayden Reed",
     "position": "WR",
@@ -14980,20 +14994,6 @@
     "gm_score": 70
   },
   {
-    "id": "6865",
-    "name": "Colby Parkinson",
-    "position": "TE",
-    "team": "LAR",
-    "age": 27,
-    "years_exp": 6,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 5,
-    "gm_score": 70
-  },
-  {
     "id": "12515",
     "name": "Donovan Edwards",
     "position": "RB",
@@ -15461,20 +15461,6 @@
     "position": "WR",
     "team": null,
     "age": 28,
-    "years_exp": 6,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 65
-  },
-  {
-    "id": "7049",
-    "name": "Jauan Jennings",
-    "position": "WR",
-    "team": "MIN",
-    "age": 29,
     "years_exp": 6,
     "active": true,
     "injury_status": null,
@@ -39108,6 +39094,20 @@
     "team": "HOU",
     "age": 26,
     "years_exp": 2,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 50
+  },
+  {
+    "id": "6865",
+    "name": "Colby Parkinson",
+    "position": "TE",
+    "team": "LAR",
+    "age": 27,
+    "years_exp": 6,
     "active": true,
     "injury_status": null,
     "bye_week": null,
