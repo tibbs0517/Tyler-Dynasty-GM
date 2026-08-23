@@ -6988,7 +6988,7 @@
   "6045": {
     "name": "Gary Jennings",
     "position": "WR",
-    "team": null,
+    "team": "LAC",
     "status": "Active",
     "active": true
   },
@@ -32763,7 +32763,7 @@
     "name": "Alex Wright",
     "position": "DL",
     "team": "CLE",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "1076": {
@@ -38307,7 +38307,7 @@
     "name": "Tyler Biadasz",
     "position": "C",
     "team": "LAC",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "1446": {
@@ -72942,7 +72942,7 @@
   "13087": {
     "name": "Dante Barnett",
     "position": "DL",
-    "team": null,
+    "team": "CLE",
     "status": "Active",
     "active": true
   },
