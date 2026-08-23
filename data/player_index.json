@@ -41099,7 +41099,7 @@
   "13001": {
     "name": "Mario Williams",
     "position": "WR",
-    "team": "LAR",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -44928,7 +44928,7 @@
   "13598": {
     "name": "Mason Reiger",
     "position": "DE",
-    "team": "MIA",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -84653,7 +84653,7 @@
   "11767": {
     "name": "Xavier Thomas",
     "position": "DE",
-    "team": "SF",
+    "team": null,
     "status": "Active",
     "active": true
   },
