@@ -660,7 +660,7 @@
   "12739": {
     "name": "Tommy Akingbesote",
     "position": "DT",
-    "team": null,
+    "team": "JAX",
     "status": "Active",
     "active": true
   },
@@ -9690,7 +9690,7 @@
   "13901": {
     "name": "Anthony Dunn",
     "position": "DE",
-    "team": null,
+    "team": "NYJ",
     "status": "Active",
     "active": true
   },
@@ -64717,7 +64717,7 @@
   "5445": {
     "name": "George Odum",
     "position": "DB",
-    "team": null,
+    "team": "HOU",
     "status": "Active",
     "active": true
   },
@@ -66866,7 +66866,7 @@
   "13803": {
     "name": "Tanner Wall",
     "position": "DB",
-    "team": null,
+    "team": "NYJ",
     "status": "Active",
     "active": true
   },
@@ -70415,7 +70415,7 @@
   "13725": {
     "name": "Dominic Richardson",
     "position": "RB",
-    "team": null,
+    "team": "NYJ",
     "status": "Active",
     "active": true
   },
