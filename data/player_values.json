@@ -23436,20 +23436,6 @@
     "gm_score": 65
   },
   {
-    "id": "3214",
-    "name": "Hunter Henry",
-    "position": "TE",
-    "team": "NE",
-    "age": 31,
-    "years_exp": 10,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 5,
-    "gm_score": 62
-  },
-  {
     "id": "5022",
     "name": "Dallas Goedert",
     "position": "TE",
@@ -41852,6 +41838,20 @@
     "team": null,
     "age": 33,
     "years_exp": 6,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 42
+  },
+  {
+    "id": "3214",
+    "name": "Hunter Henry",
+    "position": "TE",
+    "team": "NE",
+    "age": 31,
+    "years_exp": 10,
     "active": true,
     "injury_status": null,
     "bye_week": null,

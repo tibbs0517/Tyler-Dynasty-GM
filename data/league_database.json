@@ -111,15 +111,15 @@
     "season_type": "regular",
     "shard": 470,
     "sport": "nfl",
-    "last_message_id": "1397375196519747584",
+    "last_message_id": "1397383776841031680",
     "draft_id": "1326711861202161664",
-    "last_author_avatar": "ca62063676344cfcedb556ee2a79ad72",
-    "last_author_display_name": "TheCreecher",
-    "last_author_id": "472188020636774400",
-    "last_author_is_bot": false,
+    "last_author_avatar": null,
+    "last_author_display_name": "sys",
+    "last_author_id": "166666666666666666",
+    "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1787522718128,
+    "last_message_time": 1787524763835,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1326711861197938688",
@@ -127,6 +127,8 @@
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,8 +153,6 @@
       "BN",
       "BN"
     ],
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -892,7 +892,6 @@
         "13285",
         "13305",
         "3163",
-        "3214",
         "4217",
         "4983",
         "5844",
@@ -904,8 +903,7 @@
         "9756"
       ],
       "reserve": [
-        "11638",
-        "4217"
+        "11638"
       ],
       "roster_id": 5,
       "settings": {
@@ -927,7 +925,7 @@
         "9756",
         "10859",
         "12533",
-        "3214",
+        "4217",
         "3163"
       ],
       "taxi": null
@@ -94188,6 +94186,13 @@
       "name": "Hunter Dekkers",
       "position": "QB",
       "team": "NO",
+      "status": "Active"
+    },
+    {
+      "id": "3214",
+      "name": "Hunter Henry",
+      "position": "TE",
+      "team": "NE",
       "status": "Active"
     },
     {
