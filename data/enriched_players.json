@@ -44090,7 +44090,7 @@
     "age": 22,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": true,
     "roster_id": 1
@@ -49433,7 +49433,7 @@
     "age": 26,
     "years_exp": 4,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -61302,7 +61302,7 @@
     "age": 25,
     "years_exp": 1,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -87965,7 +87965,7 @@
     "age": 24,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -105567,7 +105567,7 @@
     "age": 31,
     "years_exp": 10,
     "active": true,
-    "injury_status": "PUP",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -114719,7 +114719,7 @@
     "age": 21,
     "years_exp": 0,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -115083,7 +115083,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -130280,7 +130280,7 @@
     "age": 24,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -141521,7 +141521,7 @@
     "id": "5095",
     "name": "Daniel Carlson",
     "position": "K",
-    "team": null,
+    "team": "NO",
     "age": 31,
     "years_exp": 8,
     "active": true,
@@ -145811,7 +145811,7 @@
     "id": "9505",
     "name": "Deuce Vaughn",
     "position": "RB",
-    "team": null,
+    "team": "HOU",
     "age": 24,
     "years_exp": 3,
     "active": true,
@@ -153355,7 +153355,7 @@
     "age": 31,
     "years_exp": 10,
     "active": true,
-    "injury_status": "PUP",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
