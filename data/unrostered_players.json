@@ -406,6 +406,13 @@
     "status": "Injured Reserve"
   },
   {
+    "id": "14082",
+    "name": "Alex Tecza",
+    "position": "RB",
+    "team": "PIT",
+    "status": "Active"
+  },
+  {
     "id": "6163",
     "name": "Alex Wesley",
     "position": "WR",
@@ -2726,7 +2733,7 @@
     "id": "13826",
     "name": "Caullin Lacy",
     "position": "WR",
-    "team": "NYJ",
+    "team": null,
     "status": "Active"
   },
   {
@@ -3937,7 +3944,7 @@
     "id": "13331",
     "name": "Dae'Quan Wright",
     "position": "TE",
-    "team": "CLE",
+    "team": null,
     "status": "Active"
   },
   {
@@ -9586,7 +9593,7 @@
     "id": "11808",
     "name": "Jha'Quan Jackson",
     "position": "WR",
-    "team": "HOU",
+    "team": null,
     "status": "Active"
   },
   {
@@ -11000,7 +11007,7 @@
     "id": "6223",
     "name": "Juwann Winfree",
     "position": "WR",
-    "team": "HOU",
+    "team": null,
     "status": "Active"
   },
   {
@@ -16285,7 +16292,7 @@
     "id": "11421",
     "name": "Ryan Miller",
     "position": "WR",
-    "team": "NYG",
+    "team": null,
     "status": "Active"
   },
   {
@@ -16453,7 +16460,7 @@
     "id": "13873",
     "name": "Sam Scott",
     "position": "RB",
-    "team": "NYJ",
+    "team": null,
     "status": "Active"
   },
   {

@@ -744,7 +744,7 @@
   "10926": {
     "name": "Marte Mapu",
     "position": "DB",
-    "team": "HOU",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -6352,7 +6352,7 @@
     "name": "Israel Mukuamu",
     "position": "DB",
     "team": "PIT",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "7794": {
@@ -9879,7 +9879,7 @@
   "13826": {
     "name": "Caullin Lacy",
     "position": "WR",
-    "team": "NYJ",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -10677,7 +10677,7 @@
   "13331": {
     "name": "Dae'Quan Wright",
     "position": "TE",
-    "team": "CLE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -29773,7 +29773,7 @@
   "13707": {
     "name": "Jaylon Guilbeau",
     "position": "CB",
-    "team": null,
+    "team": "PIT",
     "status": "Active",
     "active": true
   },
@@ -41211,7 +41211,7 @@
   "13654": {
     "name": "Devon Marshall",
     "position": "CB",
-    "team": "JAX",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -43633,7 +43633,7 @@
   "6223": {
     "name": "Juwann Winfree",
     "position": "WR",
-    "team": "HOU",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -46853,7 +46853,7 @@
   "11808": {
     "name": "Jha'Quan Jackson",
     "position": "WR",
-    "team": "HOU",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -56044,7 +56044,7 @@
   "13951": {
     "name": "Nathan Voorhis",
     "position": "DE",
-    "team": "NYJ",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -67111,7 +67111,7 @@
   "11421": {
     "name": "Ryan Miller",
     "position": "WR",
-    "team": "NYG",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -80159,7 +80159,7 @@
   "13813": {
     "name": "Laith Marjan",
     "position": "K",
-    "team": "PIT",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -80859,7 +80859,7 @@
   "13873": {
     "name": "Sam Scott",
     "position": "RB",
-    "team": "NYJ",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -80932,6 +80932,13 @@
     "team": null,
     "status": "Inactive",
     "active": false
+  },
+  "14082": {
+    "name": "Alex Tecza",
+    "position": "RB",
+    "team": "PIT",
+    "status": "Active",
+    "active": true
   },
   "7502": {
     "name": "Dominique Dafney",
