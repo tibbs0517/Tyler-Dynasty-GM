@@ -2762,7 +2762,7 @@
     "name": "Cedrick Wilson",
     "position": "WR",
     "team": "DET",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "11081",
@@ -14206,7 +14206,7 @@
     "id": "13227",
     "name": "Mitch Van Vooren",
     "position": "WR",
-    "team": null,
+    "team": "DAL",
     "status": "Active"
   },
   {
@@ -15446,7 +15446,7 @@
     "name": "Raheem Blackshear",
     "position": "RB",
     "team": "DET",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "2749",
@@ -19464,7 +19464,7 @@
     "name": "Xavier Weaver",
     "position": "WR",
     "team": "ARI",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "12189",

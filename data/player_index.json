@@ -8543,7 +8543,7 @@
     "name": "Rejzohn Wright",
     "position": "CB",
     "team": "NO",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "297": {
@@ -13359,7 +13359,7 @@
     "name": "Xavier Weaver",
     "position": "WR",
     "team": "ARI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "260": {
@@ -56038,7 +56038,7 @@
     "name": "Milo Eifler",
     "position": "LB",
     "team": "TEN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "8780": {
@@ -57388,7 +57388,7 @@
   "14046": {
     "name": "Reid Carrico",
     "position": "LB",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
@@ -59187,7 +59187,7 @@
   "13227": {
     "name": "Mitch Van Vooren",
     "position": "WR",
-    "team": null,
+    "team": "DAL",
     "status": "Active",
     "active": true
   },
@@ -61749,7 +61749,7 @@
   "11040": {
     "name": "Jason Taylor",
     "position": "DB",
-    "team": null,
+    "team": "DET",
     "status": "Active",
     "active": true
   },
@@ -70584,7 +70584,7 @@
     "name": "Raheem Blackshear",
     "position": "RB",
     "team": "DET",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "8293": {
@@ -73251,7 +73251,7 @@
     "name": "Cedrick Wilson",
     "position": "WR",
     "team": "DET",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "11783": {
@@ -83477,7 +83477,7 @@
   "12989": {
     "name": "Hudson Clark",
     "position": "DB",
-    "team": null,
+    "team": "ARI",
     "status": "Active",
     "active": true
   },
