@@ -24751,6 +24751,13 @@
     "status": "Active",
     "active": true
   },
+  "14084": {
+    "name": "Devyn Bobby",
+    "position": "DB",
+    "team": "ARI",
+    "status": "Active",
+    "active": true
+  },
   "438": {
     "name": "Nick Hayden",
     "position": "DT",
@@ -60160,7 +60167,7 @@
   "13628": {
     "name": "Niles King",
     "position": "LB",
-    "team": null,
+    "team": "KC",
     "status": "Active",
     "active": true
   },
@@ -71864,7 +71871,7 @@
   "4390": {
     "name": "Matt Haack",
     "position": "P",
-    "team": null,
+    "team": "NE",
     "status": "Active",
     "active": true
   },
@@ -80341,7 +80348,7 @@
   "12968": {
     "name": "Jack Conley",
     "position": "OL",
-    "team": null,
+    "team": "NE",
     "status": "Active",
     "active": true
   },
