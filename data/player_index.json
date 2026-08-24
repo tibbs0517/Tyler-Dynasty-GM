@@ -18083,7 +18083,7 @@
   "13689": {
     "name": "Devean Deal",
     "position": "DE",
-    "team": null,
+    "team": "LAR",
     "status": "Active",
     "active": true
   },
@@ -33728,7 +33728,7 @@
   "6467": {
     "name": "Jonathan Harris",
     "position": "DT",
-    "team": null,
+    "team": "MIN",
     "status": "Active",
     "active": true
   },
@@ -46210,7 +46210,7 @@
     "name": "Zech McPhearson",
     "position": "CB",
     "team": "LAR",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "11595": {
@@ -63402,7 +63402,7 @@
     "name": "Keir Thomas",
     "position": "DE",
     "team": "LAR",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "4496": {
@@ -78409,7 +78409,7 @@
   "13806": {
     "name": "Matt Lauter",
     "position": "TE",
-    "team": null,
+    "team": "MIN",
     "status": "Active",
     "active": true
   },
