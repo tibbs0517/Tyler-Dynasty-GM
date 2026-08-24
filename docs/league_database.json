@@ -842,8 +842,7 @@
         "9229"
       ],
       "reserve": [
-        "12484",
-        "12536"
+        "12484"
       ],
       "roster_id": 4,
       "settings": {
@@ -85936,8 +85935,8 @@
     "11767": {
       "name": "Xavier Thomas",
       "position": "DE",
-      "team": null,
-      "status": "Active",
+      "team": "SF",
+      "status": "Inactive",
       "active": true
     },
     "13294": {
