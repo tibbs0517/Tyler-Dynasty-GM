@@ -751,7 +751,7 @@
   "9504": {
     "name": "Kayshon Boutte",
     "position": "WR",
-    "team": "NE",
+    "team": "HOU",
     "status": "Active",
     "active": true
   },
@@ -55670,6 +55670,13 @@
     "status": "Inactive",
     "active": false
   },
+  "14083": {
+    "name": "Jaheim Thomas",
+    "position": "LB",
+    "team": "MIA",
+    "status": "Active",
+    "active": true
+  },
   "161": {
     "name": "Wes Horton",
     "position": "DE",
@@ -57822,7 +57829,7 @@
   "12710": {
     "name": "Jaylen Reed",
     "position": "DB",
-    "team": "HOU",
+    "team": "NE",
     "status": "Active",
     "active": true
   },
@@ -77835,7 +77842,7 @@
   "13661": {
     "name": "Ethan Conner",
     "position": "TE",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -82917,7 +82924,7 @@
   "14064": {
     "name": "Roydell Williams",
     "position": "RB",
-    "team": null,
+    "team": "DET",
     "status": "Active",
     "active": true
   },

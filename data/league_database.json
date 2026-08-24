@@ -61,7 +61,6 @@
     },
     "avatar": null,
     "company_id": null,
-    "last_message_id": "1397627257329094656",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -110,20 +109,23 @@
     },
     "season": "2026",
     "season_type": "regular",
-    "shard": 470,
     "sport": "nfl",
-    "last_author_avatar": "f9e7524eedba85dee81ab6468d7714f2",
-    "last_author_display_name": "tylerhjensen",
-    "last_author_id": "429737370590400512",
+    "shard": 470,
+    "last_message_id": "1397690368543166464",
+    "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
+    "last_author_display_name": "HebrewsHeroes",
+    "last_author_id": "434689597088198656",
     "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1787582814108,
+    "last_message_time": 1787597860994,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1326711861202161664",
+    "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -149,8 +151,6 @@
       "BN"
     ],
     "group_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -2013,7 +2013,7 @@
     "9504": {
       "name": "Kayshon Boutte",
       "position": "WR",
-      "team": "NE",
+      "team": "HOU",
       "status": "Active",
       "active": true
     },
@@ -56932,6 +56932,13 @@
       "status": "Inactive",
       "active": false
     },
+    "14083": {
+      "name": "Jaheim Thomas",
+      "position": "LB",
+      "team": "MIA",
+      "status": "Active",
+      "active": true
+    },
     "161": {
       "name": "Wes Horton",
       "position": "DE",
@@ -59084,7 +59091,7 @@
     "12710": {
       "name": "Jaylen Reed",
       "position": "DB",
-      "team": "HOU",
+      "team": "NE",
       "status": "Active",
       "active": true
     },
@@ -79097,7 +79104,7 @@
     "13661": {
       "name": "Ethan Conner",
       "position": "TE",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -84179,7 +84186,7 @@
     "14064": {
       "name": "Roydell Williams",
       "position": "RB",
-      "team": null,
+      "team": "DET",
       "status": "Active",
       "active": true
     },
@@ -93436,7 +93443,7 @@
       "id": "13661",
       "name": "Ethan Conner",
       "position": "TE",
-      "team": null,
+      "team": "MIA",
       "status": "Active"
     },
     {
@@ -102998,7 +103005,7 @@
       "id": "14064",
       "name": "Roydell Williams",
       "position": "RB",
-      "team": null,
+      "team": "DET",
       "status": "Active"
     },
     {
