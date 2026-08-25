@@ -17761,7 +17761,7 @@
   "11150": {
     "name": "Quindell Johnson",
     "position": "DB",
-    "team": null,
+    "team": "WAS",
     "status": "Active",
     "active": true
   },
@@ -20036,7 +20036,7 @@
   "7646": {
     "name": "Boogie Basham",
     "position": "DE",
-    "team": null,
+    "team": "WAS",
     "status": "Active",
     "active": true
   },
@@ -39566,7 +39566,7 @@
   "10942": {
     "name": "Viliami Fehoko",
     "position": "DL",
-    "team": null,
+    "team": "SF",
     "status": "Active",
     "active": true
   },
@@ -40659,7 +40659,7 @@
     "name": "Drake Jackson",
     "position": "DL",
     "team": "WAS",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "13111": {
@@ -50087,7 +50087,7 @@
   "7805": {
     "name": "Joshuah Bledsoe",
     "position": "DB",
-    "team": null,
+    "team": "WAS",
     "status": "Active",
     "active": true
   },
@@ -72683,7 +72683,7 @@
   "12005": {
     "name": "Jack Browning",
     "position": "K/P",
-    "team": null,
+    "team": "ARI",
     "status": "Active",
     "active": true
   },
