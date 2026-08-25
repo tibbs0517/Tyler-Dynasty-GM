@@ -26728,7 +26728,7 @@
   "11884": {
     "name": "Ron Stone",
     "position": "DE",
-    "team": null,
+    "team": "DEN",
     "status": "Active",
     "active": true
   },
@@ -33609,7 +33609,7 @@
   "11986": {
     "name": "Antonio Grier",
     "position": "LB",
-    "team": null,
+    "team": "CHI",
     "status": "Active",
     "active": true
   },
@@ -76968,7 +76968,7 @@
     "name": "Nephi Sewell",
     "position": "LB",
     "team": "CHI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "13770": {
