@@ -12120,7 +12120,7 @@
     "name": "Deshawn McKnight",
     "position": "DL",
     "team": "TB",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "14035": {
@@ -12966,8 +12966,8 @@
   "10993": {
     "name": "Tre Hawkins",
     "position": "CB",
-    "team": null,
-    "status": "Inactive",
+    "team": "MIN",
+    "status": "Active",
     "active": true
   },
   "13516": {
@@ -28933,7 +28933,7 @@
   "13147": {
     "name": "Gus Hartwig",
     "position": "C",
-    "team": null,
+    "team": "DET",
     "status": "Active",
     "active": true
   },
@@ -39405,7 +39405,7 @@
   "11297": {
     "name": "Dyontae Johnson",
     "position": "LB",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
@@ -40707,7 +40707,7 @@
   "12979": {
     "name": "Josh Minkins",
     "position": "DB",
-    "team": null,
+    "team": "ARI",
     "status": "Active",
     "active": true
   },
@@ -47364,7 +47364,7 @@
   "11031": {
     "name": "Brandon Hill",
     "position": "DB",
-    "team": null,
+    "team": "PIT",
     "status": "Active",
     "active": true
   },
@@ -76415,6 +76415,13 @@
     "name": "Matt Pryor",
     "position": "T",
     "team": "ARI",
+    "status": "Active",
+    "active": true
+  },
+  "14085": {
+    "name": "Matthew Henry",
+    "position": "WR",
+    "team": "TB",
     "status": "Active",
     "active": true
   },

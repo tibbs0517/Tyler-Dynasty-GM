@@ -124,6 +124,11 @@
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -148,11 +153,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -13380,7 +13380,7 @@
       "name": "Deshawn McKnight",
       "position": "DL",
       "team": "TB",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "14035": {
@@ -14226,8 +14226,8 @@
     "10993": {
       "name": "Tre Hawkins",
       "position": "CB",
-      "team": null,
-      "status": "Inactive",
+      "team": "MIN",
+      "status": "Active",
       "active": true
     },
     "13516": {
@@ -30193,7 +30193,7 @@
     "13147": {
       "name": "Gus Hartwig",
       "position": "C",
-      "team": null,
+      "team": "DET",
       "status": "Active",
       "active": true
     },
@@ -40665,7 +40665,7 @@
     "11297": {
       "name": "Dyontae Johnson",
       "position": "LB",
-      "team": null,
+      "team": "TEN",
       "status": "Active",
       "active": true
     },
@@ -41967,7 +41967,7 @@
     "12979": {
       "name": "Josh Minkins",
       "position": "DB",
-      "team": null,
+      "team": "ARI",
       "status": "Active",
       "active": true
     },
@@ -48624,7 +48624,7 @@
     "11031": {
       "name": "Brandon Hill",
       "position": "DB",
-      "team": null,
+      "team": "PIT",
       "status": "Active",
       "active": true
     },
@@ -77678,6 +77678,13 @@
       "status": "Active",
       "active": true
     },
+    "14085": {
+      "name": "Matthew Henry",
+      "position": "WR",
+      "team": "TB",
+      "status": "Active",
+      "active": true
+    },
     "8579": {
       "name": "Brandon Peters",
       "position": "QB",
@@ -100512,6 +100519,13 @@
       "name": "Matthew Eaton",
       "position": "WR",
       "team": null,
+      "status": "Active"
+    },
+    {
+      "id": "14085",
+      "name": "Matthew Henry",
+      "position": "WR",
+      "team": "TB",
       "status": "Active"
     },
     {
