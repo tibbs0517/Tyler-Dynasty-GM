@@ -744,8 +744,8 @@
   "10926": {
     "name": "Marte Mapu",
     "position": "DB",
-    "team": null,
-    "status": "Active",
+    "team": "HOU",
+    "status": "Inactive",
     "active": true
   },
   "9504": {
@@ -3103,7 +3103,7 @@
   "14076": {
     "name": "Justin Jones",
     "position": "RB",
-    "team": null,
+    "team": "SEA",
     "status": "Active",
     "active": true
   },
@@ -53265,7 +53265,7 @@
   "13078": {
     "name": "Tysheem Johnson",
     "position": "DB",
-    "team": null,
+    "team": "SEA",
     "status": "Active",
     "active": true
   },
@@ -58040,7 +58040,7 @@
     "name": "Dylan Horton",
     "position": "DL",
     "team": "HOU",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3150": {
@@ -63520,7 +63520,7 @@
   "14054": {
     "name": "Derrick Graham",
     "position": "OL",
-    "team": null,
+    "team": "SEA",
     "status": "Active",
     "active": true
   },
@@ -67125,7 +67125,7 @@
   "11421": {
     "name": "Ryan Miller",
     "position": "WR",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -72019,7 +72019,7 @@
     "name": "Mason Richman",
     "position": "OL",
     "team": "SEA",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "2476": {
