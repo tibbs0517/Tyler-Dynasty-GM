@@ -717,7 +717,7 @@
     "id": "13328",
     "name": "Anthony Hankerson",
     "position": "RB",
-    "team": "SEA",
+    "team": null,
     "status": "Active"
   },
   {
@@ -1207,7 +1207,7 @@
     "id": "12256",
     "name": "Baylor Cupp",
     "position": "TE",
-    "team": "ARI",
+    "team": null,
     "status": "Active"
   },
   {
@@ -2138,7 +2138,7 @@
     "id": "12799",
     "name": "Bryson Green",
     "position": "WR",
-    "team": "ARI",
+    "team": null,
     "status": "Active"
   },
   {
@@ -7836,7 +7836,7 @@
     "id": "12479",
     "name": "Ja'Quinden Jackson",
     "position": "RB",
-    "team": "PHI",
+    "team": null,
     "status": "Active"
   },
   {
@@ -9264,7 +9264,7 @@
     "id": "13392",
     "name": "Jeff Caldwell",
     "position": "WR",
-    "team": "KC",
+    "team": null,
     "status": "Active"
   },
   {
@@ -10748,7 +10748,7 @@
     "id": "13923",
     "name": "Joshua Pitsenberger",
     "position": "RB",
-    "team": "HOU",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -10762,7 +10762,7 @@
     "id": "7050",
     "name": "Josiah Deguara",
     "position": "TE",
-    "team": "SF",
+    "team": null,
     "status": "Active"
   },
   {
@@ -11994,7 +11994,7 @@
     "id": "13708",
     "name": "Kobe Prentice",
     "position": "WR",
-    "team": "NE",
+    "team": null,
     "status": "Active"
   },
   {
@@ -12092,7 +12092,7 @@
     "id": "12954",
     "name": "Kye Robichaux",
     "position": "RB",
-    "team": "DET",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -14766,7 +14766,7 @@
     "id": "4234",
     "name": "Noah Brown",
     "position": "WR",
-    "team": "LV",
+    "team": null,
     "status": "Active"
   },
   {
@@ -17468,7 +17468,7 @@
     "id": "11598",
     "name": "Tanner McLachlan",
     "position": "TE",
-    "team": "SF",
+    "team": null,
     "status": "Inactive"
   },
   {
