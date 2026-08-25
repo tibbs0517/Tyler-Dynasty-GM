@@ -14092,6 +14092,19 @@
     "roster_id": null
   },
   {
+    "id": "4033",
+    "name": "David Njoku",
+    "position": "TE",
+    "team": "LAC",
+    "age": 30,
+    "years_exp": 9,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
     "id": "3554",
     "name": "David Reeves",
     "position": "TE",

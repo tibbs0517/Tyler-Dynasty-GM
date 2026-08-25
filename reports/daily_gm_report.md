@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-08-25 11:22:49
+Generated: 2026-08-25 12:38:33
 
 ---
 
@@ -9,7 +9,7 @@ Generated: 2026-08-25 11:22:49
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2814
+Available Players: 2815
 
 ---
 
@@ -17,7 +17,7 @@ Available Players: 2814
 
 Trades: 4
 Waiver Claims: 22
-Free Agent Moves: 46
+Free Agent Moves: 47
 
 ---
 
@@ -65,6 +65,7 @@ Players on Roster: 23
 
 ## Recently Dropped Players
 
+- David Njoku
 - Hunter Henry
 - Colby Parkinson
 - Jauan Jennings
@@ -79,7 +80,6 @@ Players on Roster: 23
 - MarShawn Lloyd
 - Troy Franklin
 - Michael Penix
-- Cooper Kupp
 
 ---
 
@@ -91,8 +91,8 @@ Players on Roster: 23
 - tylergratz: 9 moves
 - HoNeYmOOnBaBy: 9 moves
 - SammyA: 8 moves
+- AnthonyJania: 7 moves
 - theFalIeniD: 7 moves
-- AnthonyJania: 6 moves
 - jmikolay: 4 moves
 
 ---

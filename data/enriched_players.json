@@ -149665,8 +149665,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": true,
-    "roster_id": 1
+    "rostered": false,
+    "roster_id": null
   },
   "13974": {
     "id": "13974",

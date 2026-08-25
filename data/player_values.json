@@ -14924,20 +14924,6 @@
     "gm_score": 70
   },
   {
-    "id": "4033",
-    "name": "David Njoku",
-    "position": "TE",
-    "team": "LAC",
-    "age": 30,
-    "years_exp": 9,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 1,
-    "gm_score": 70
-  },
-  {
     "id": "12738",
     "name": "Phil Mafah",
     "position": "RB",
@@ -38800,6 +38786,20 @@
     "team": null,
     "age": 27,
     "years_exp": 4,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 50
+  },
+  {
+    "id": "4033",
+    "name": "David Njoku",
+    "position": "TE",
+    "team": "LAC",
+    "age": 30,
+    "years_exp": 9,
     "active": true,
     "injury_status": null,
     "bye_week": null,
