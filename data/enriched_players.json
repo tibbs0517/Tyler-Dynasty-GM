@@ -1385,7 +1385,7 @@
     "age": 26,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -21015,7 +21015,7 @@
     "age": 26,
     "years_exp": 2,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -84364,7 +84364,7 @@
     "age": 26,
     "years_exp": 2,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -87003,7 +87003,7 @@
     "age": 24,
     "years_exp": 2,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -94942,9 +94942,9 @@
     "id": "11038",
     "name": "Derek Parish",
     "position": "DL",
-    "team": null,
-    "age": 24,
-    "years_exp": 1,
+    "team": "HOU",
+    "age": 27,
+    "years_exp": 3,
     "active": true,
     "injury_status": null,
     "bye_week": null,
@@ -95947,7 +95947,7 @@
     "age": null,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -107790,7 +107790,7 @@
     "age": 26,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Out",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -110481,7 +110481,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -131086,7 +131086,7 @@
     "age": 28,
     "years_exp": 4,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -132373,7 +132373,7 @@
     "age": 25,
     "years_exp": 1,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -138262,7 +138262,7 @@
     "age": null,
     "years_exp": 0,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -142825,7 +142825,7 @@
     "age": 26,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
