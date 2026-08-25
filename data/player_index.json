@@ -45867,7 +45867,7 @@
     "name": "Bud Clark",
     "position": "DB",
     "team": "SEA",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3513": {
@@ -57095,7 +57095,7 @@
     "name": "Damone Clark",
     "position": "LB",
     "team": "DET",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "7075": {
@@ -59285,7 +59285,7 @@
   "2329": {
     "name": "D.J. Humphries",
     "position": "OL",
-    "team": null,
+    "team": "WAS",
     "status": "Active",
     "active": true
   },

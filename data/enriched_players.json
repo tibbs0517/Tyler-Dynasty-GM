@@ -27775,7 +27775,7 @@
     "age": 24,
     "years_exp": 2,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": true,
     "roster_id": 4
@@ -83987,7 +83987,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -85183,7 +85183,7 @@
     "age": 24,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Out",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -106035,7 +106035,7 @@
     "age": 26,
     "years_exp": 4,
     "active": true,
-    "injury_status": null,
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -110100,7 +110100,7 @@
     "id": "2329",
     "name": "D.J. Humphries",
     "position": "OL",
-    "team": null,
+    "team": "WAS",
     "age": 32,
     "years_exp": 11,
     "active": true,
@@ -113861,7 +113861,7 @@
     "age": 28,
     "years_exp": 4,
     "active": true,
-    "injury_status": "Out",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -133751,7 +133751,7 @@
     "age": 24,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Doubtful",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -150209,7 +150209,7 @@
     "age": null,
     "years_exp": 0,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -153407,7 +153407,7 @@
     "age": 31,
     "years_exp": 10,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
