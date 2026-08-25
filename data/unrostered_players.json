@@ -2733,8 +2733,8 @@
     "id": "13826",
     "name": "Caullin Lacy",
     "position": "WR",
-    "team": null,
-    "status": "Active"
+    "team": "NYJ",
+    "status": "Inactive"
   },
   {
     "id": "3447",
@@ -10258,7 +10258,7 @@
     "id": "11378",
     "name": "Jordan Mims",
     "position": "RB",
-    "team": null,
+    "team": "PHI",
     "status": "Active"
   },
   {
@@ -16460,8 +16460,8 @@
     "id": "13873",
     "name": "Sam Scott",
     "position": "RB",
-    "team": null,
-    "status": "Active"
+    "team": "NYJ",
+    "status": "Inactive"
   },
   {
     "id": "12134",

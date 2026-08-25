@@ -9879,8 +9879,8 @@
   "13826": {
     "name": "Caullin Lacy",
     "position": "WR",
-    "team": null,
-    "status": "Active",
+    "team": "NYJ",
+    "status": "Inactive",
     "active": true
   },
   "6904": {
@@ -41218,8 +41218,8 @@
   "13654": {
     "name": "Devon Marshall",
     "position": "CB",
-    "team": null,
-    "status": "Active",
+    "team": "JAX",
+    "status": "Inactive",
     "active": true
   },
   "4862": {
@@ -56058,8 +56058,8 @@
   "13951": {
     "name": "Nathan Voorhis",
     "position": "DE",
-    "team": null,
-    "status": "Active",
+    "team": "NYJ",
+    "status": "Inactive",
     "active": true
   },
   "11186": {
@@ -62890,7 +62890,7 @@
   "12345": {
     "name": "Jaylen Mahoney",
     "position": "DB",
-    "team": null,
+    "team": "PHI",
     "status": "Active",
     "active": true
   },
@@ -75798,7 +75798,7 @@
   "11378": {
     "name": "Jordan Mims",
     "position": "RB",
-    "team": null,
+    "team": "PHI",
     "status": "Active",
     "active": true
   },
@@ -80873,8 +80873,8 @@
   "13873": {
     "name": "Sam Scott",
     "position": "RB",
-    "team": null,
-    "status": "Active",
+    "team": "NYJ",
+    "status": "Inactive",
     "active": true
   },
   "12078": {
