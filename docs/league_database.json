@@ -12973,7 +12973,7 @@
     "8646": {
       "name": "Israel Antwine",
       "position": "DT",
-      "team": null,
+      "team": "DEN",
       "status": "Active",
       "active": true
     },
@@ -31026,7 +31026,7 @@
     "5914": {
       "name": "David Long",
       "position": "CB",
-      "team": null,
+      "team": "NO",
       "status": "Active",
       "active": true
     },
@@ -42905,7 +42905,7 @@
     "11903": {
       "name": "Sincere Haynesworth",
       "position": "OL",
-      "team": null,
+      "team": "BUF",
       "status": "Active",
       "active": true
     },
@@ -48120,7 +48120,7 @@
     "11808": {
       "name": "Jha'Quan Jackson",
       "position": "WR",
-      "team": null,
+      "team": "TB",
       "status": "Active",
       "active": true
     },
@@ -63247,7 +63247,7 @@
     "7973": {
       "name": "Foster Sarell",
       "position": "T",
-      "team": null,
+      "team": "DEN",
       "status": "Active",
       "active": true
     },
@@ -68406,7 +68406,7 @@
     "7050": {
       "name": "Josiah Deguara",
       "position": "TE",
-      "team": null,
+      "team": "NYG",
       "status": "Active",
       "active": true
     },
@@ -81223,7 +81223,7 @@
     "13708": {
       "name": "Kobe Prentice",
       "position": "WR",
-      "team": null,
+      "team": "NYG",
       "status": "Active",
       "active": true
     },
@@ -84940,7 +84940,7 @@
     "4661": {
       "name": "Michael Davis",
       "position": "CB",
-      "team": null,
+      "team": "NO",
       "status": "Active",
       "active": true
     },
@@ -96437,7 +96437,7 @@
       "id": "11808",
       "name": "Jha'Quan Jackson",
       "position": "WR",
-      "team": null,
+      "team": "TB",
       "status": "Active"
     },
     {
@@ -97599,7 +97599,7 @@
       "id": "7050",
       "name": "Josiah Deguara",
       "position": "TE",
-      "team": null,
+      "team": "NYG",
       "status": "Active"
     },
     {
@@ -98831,7 +98831,7 @@
       "id": "13708",
       "name": "Kobe Prentice",
       "position": "WR",
-      "team": null,
+      "team": "NYG",
       "status": "Active"
     },
     {
