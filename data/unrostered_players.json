@@ -3503,7 +3503,7 @@
     "id": "13844",
     "name": "Coleman Bennett",
     "position": "RB",
-    "team": null,
+    "team": "MIA",
     "status": "Active"
   },
   {
@@ -7234,7 +7234,7 @@
     "id": "5886",
     "name": "Hakeem Butler",
     "position": "TE",
-    "team": "DEN",
+    "team": null,
     "status": "Active"
   },
   {
@@ -9705,7 +9705,7 @@
     "id": "12777",
     "name": "Joaquin Davis",
     "position": "WR",
-    "team": "PIT",
+    "team": null,
     "status": "Active"
   },
   {
@@ -11077,7 +11077,7 @@
     "id": "14021",
     "name": "Kadarius Calloway",
     "position": "RB",
-    "team": "TB",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -12771,7 +12771,7 @@
     "id": "12803",
     "name": "Luke Grimm",
     "position": "WR",
-    "team": "LAC",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -15459,7 +15459,7 @@
     "id": "8255",
     "name": "Raheem Blackshear",
     "position": "RB",
-    "team": "DET",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -16474,7 +16474,7 @@
     "id": "13873",
     "name": "Sam Scott",
     "position": "RB",
-    "team": "NYJ",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -17370,7 +17370,7 @@
     "id": "11821",
     "name": "Tahj Washington",
     "position": "WR",
-    "team": "MIA",
+    "team": null,
     "status": "Active"
   },
   {

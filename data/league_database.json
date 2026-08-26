@@ -109,26 +109,21 @@
     },
     "season": "2026",
     "season_type": "regular",
-    "sport": "nfl",
-    "last_message_id": "1398064936038494208",
     "shard": 470,
+    "sport": "nfl",
+    "last_message_id": "1398363928823599104",
     "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
     "last_author_display_name": "HebrewsHeroes",
     "last_author_id": "434689597088198656",
     "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1787687164843,
+    "last_message_time": 1787758450278,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1326711861202161664",
+    "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -153,6 +148,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -8101,7 +8101,7 @@
     "11843": {
       "name": "Michael Barrett",
       "position": "LB",
-      "team": null,
+      "team": "BAL",
       "status": "Active",
       "active": true
     },
@@ -11266,7 +11266,7 @@
       "name": "Danny Pinter",
       "position": "G",
       "team": "BAL",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "3535": {
@@ -21975,7 +21975,7 @@
     "11905": {
       "name": "Dwight McGlothern",
       "position": "DB",
-      "team": "MIN",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -46685,7 +46685,7 @@
     "11750": {
       "name": "Dominique Hampton",
       "position": "CB",
-      "team": "TEN",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -48106,7 +48106,7 @@
     "11841": {
       "name": "Sanoussi Kane",
       "position": "DB",
-      "team": "TEN",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -48372,7 +48372,7 @@
     "12777": {
       "name": "Joaquin Davis",
       "position": "WR",
-      "team": "PIT",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -55344,7 +55344,7 @@
     "13844": {
       "name": "Coleman Bennett",
       "position": "RB",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -59964,7 +59964,7 @@
     "5886": {
       "name": "Hakeem Butler",
       "position": "TE",
-      "team": "DEN",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -60748,7 +60748,7 @@
     "12861": {
       "name": "Ethan Robinson",
       "position": "DB",
-      "team": "MIA",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -63058,7 +63058,7 @@
     "8480": {
       "name": "Jamaree Salyer",
       "position": "OL",
-      "team": "MIA",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -63247,7 +63247,7 @@
     "7973": {
       "name": "Foster Sarell",
       "position": "T",
-      "team": "WAS",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -66537,7 +66537,7 @@
     "11821": {
       "name": "Tahj Washington",
       "position": "WR",
-      "team": "MIA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -71843,7 +71843,7 @@
     "8255": {
       "name": "Raheem Blackshear",
       "position": "RB",
-      "team": "DET",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -72536,7 +72536,7 @@
     "12803": {
       "name": "Luke Grimm",
       "position": "WR",
-      "team": "LAC",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -75707,7 +75707,7 @@
     "14021": {
       "name": "Kadarius Calloway",
       "position": "RB",
-      "team": "TB",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -82140,7 +82140,7 @@
     "13873": {
       "name": "Sam Scott",
       "position": "RB",
-      "team": "NYJ",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -85941,7 +85941,7 @@
     "11767": {
       "name": "Xavier Thomas",
       "position": "DE",
-      "team": "SF",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -90340,7 +90340,7 @@
       "id": "13844",
       "name": "Coleman Bennett",
       "position": "RB",
-      "team": null,
+      "team": "MIA",
       "status": "Active"
     },
     {
@@ -94071,7 +94071,7 @@
       "id": "5886",
       "name": "Hakeem Butler",
       "position": "TE",
-      "team": "DEN",
+      "team": null,
       "status": "Active"
     },
     {
@@ -96542,7 +96542,7 @@
       "id": "12777",
       "name": "Joaquin Davis",
       "position": "WR",
-      "team": "PIT",
+      "team": null,
       "status": "Active"
     },
     {
@@ -97914,7 +97914,7 @@
       "id": "14021",
       "name": "Kadarius Calloway",
       "position": "RB",
-      "team": "TB",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -99608,7 +99608,7 @@
       "id": "12803",
       "name": "Luke Grimm",
       "position": "WR",
-      "team": "LAC",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -102296,7 +102296,7 @@
       "id": "8255",
       "name": "Raheem Blackshear",
       "position": "RB",
-      "team": "DET",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -103311,7 +103311,7 @@
       "id": "13873",
       "name": "Sam Scott",
       "position": "RB",
-      "team": "NYJ",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -104207,7 +104207,7 @@
       "id": "11821",
       "name": "Tahj Washington",
       "position": "WR",
-      "team": "MIA",
+      "team": null,
       "status": "Active"
     },
     {
