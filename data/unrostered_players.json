@@ -7836,8 +7836,8 @@
     "id": "12479",
     "name": "Ja'Quinden Jackson",
     "position": "RB",
-    "team": null,
-    "status": "Active"
+    "team": "PHI",
+    "status": "Inactive"
   },
   {
     "id": "11600",
@@ -9264,8 +9264,8 @@
     "id": "13392",
     "name": "Jeff Caldwell",
     "position": "WR",
-    "team": null,
-    "status": "Active"
+    "team": "KC",
+    "status": "Inactive"
   },
   {
     "id": "7319",
@@ -14277,7 +14277,7 @@
     "name": "Moliki Matavao",
     "position": "TE",
     "team": "NO",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "12852",
@@ -18694,7 +18694,7 @@
     "name": "Ty Chandler",
     "position": "RB",
     "team": "NO",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "8196",

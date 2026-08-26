@@ -12574,8 +12574,8 @@
     "11930": {
       "name": "Taki Taimani",
       "position": "DL",
-      "team": null,
-      "status": "Active",
+      "team": "MIN",
+      "status": "Inactive",
       "active": true
     },
     "4898": {
@@ -16214,8 +16214,8 @@
     "11589": {
       "name": "Trey Benson",
       "position": "RB",
-      "team": null,
-      "status": "Active",
+      "team": "ARI",
+      "status": "Inactive",
       "active": true
     },
     "4834": {
@@ -36059,8 +36059,8 @@
     "13392": {
       "name": "Jeff Caldwell",
       "position": "WR",
-      "team": null,
-      "status": "Active",
+      "team": "KC",
+      "status": "Inactive",
       "active": true
     },
     "563": {
@@ -46483,7 +46483,7 @@
       "name": "Moliki Matavao",
       "position": "TE",
       "team": "NO",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "1968": {
@@ -52922,8 +52922,8 @@
     "14072": {
       "name": "Daniel Rickert",
       "position": "DE",
-      "team": null,
-      "status": "Active",
+      "team": "LAR",
+      "status": "Inactive",
       "active": true
     },
     "12418": {
@@ -57955,8 +57955,8 @@
     "13613": {
       "name": "Tyreek Chappell",
       "position": "CB",
-      "team": null,
-      "status": "Active",
+      "team": "MIN",
+      "status": "Inactive",
       "active": true
     },
     "4422": {
@@ -61616,7 +61616,7 @@
     "8455": {
       "name": "Joshua Ezeudu",
       "position": "OL",
-      "team": "NYG",
+      "team": "KC",
       "status": "Active",
       "active": true
     },
@@ -62569,7 +62569,7 @@
       "name": "Ty Chandler",
       "position": "RB",
       "team": "NO",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "3066": {
@@ -63779,8 +63779,8 @@
     "12479": {
       "name": "Ja'Quinden Jackson",
       "position": "RB",
-      "team": null,
-      "status": "Active",
+      "team": "PHI",
+      "status": "Inactive",
       "active": true
     },
     "2327": {
@@ -94673,8 +94673,8 @@
       "id": "12479",
       "name": "Ja'Quinden Jackson",
       "position": "RB",
-      "team": null,
-      "status": "Active"
+      "team": "PHI",
+      "status": "Inactive"
     },
     {
       "id": "11600",
@@ -96101,8 +96101,8 @@
       "id": "13392",
       "name": "Jeff Caldwell",
       "position": "WR",
-      "team": null,
-      "status": "Active"
+      "team": "KC",
+      "status": "Inactive"
     },
     {
       "id": "7319",
@@ -101114,7 +101114,7 @@
       "name": "Moliki Matavao",
       "position": "TE",
       "team": "NO",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "12852",
@@ -105531,7 +105531,7 @@
       "name": "Ty Chandler",
       "position": "RB",
       "team": "NO",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "8196",
