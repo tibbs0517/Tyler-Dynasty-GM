@@ -20715,8 +20715,8 @@
   "11905": {
     "name": "Dwight McGlothern",
     "position": "DB",
-    "team": null,
-    "status": "Active",
+    "team": "MIN",
+    "status": "Inactive",
     "active": true
   },
   "11458": {
@@ -44319,8 +44319,8 @@
   "13854": {
     "name": "Malik Spencer",
     "position": "DB",
-    "team": null,
-    "status": "Active",
+    "team": "WAS",
+    "status": "Inactive",
     "active": true
   },
   "3702": {
@@ -45425,8 +45425,8 @@
   "11750": {
     "name": "Dominique Hampton",
     "position": "CB",
-    "team": null,
-    "status": "Active",
+    "team": "TEN",
+    "status": "Inactive",
     "active": true
   },
   "1798": {

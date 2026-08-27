@@ -57,10 +57,14 @@
       "daily_waivers_base": 4,
       "reserve_slots": 4,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 26
+      "daily_waivers_last_ran": 27
     },
     "avatar": null,
     "company_id": null,
+    "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 470,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -107,10 +111,6 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 470,
-    "sport": "nfl",
     "last_message_id": "1398363928823599104",
     "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
     "last_author_display_name": "HebrewsHeroes",
@@ -21975,8 +21975,8 @@
     "11905": {
       "name": "Dwight McGlothern",
       "position": "DB",
-      "team": null,
-      "status": "Active",
+      "team": "MIN",
+      "status": "Inactive",
       "active": true
     },
     "11458": {
@@ -45579,8 +45579,8 @@
     "13854": {
       "name": "Malik Spencer",
       "position": "DB",
-      "team": null,
-      "status": "Active",
+      "team": "WAS",
+      "status": "Inactive",
       "active": true
     },
     "3702": {
@@ -46685,8 +46685,8 @@
     "11750": {
       "name": "Dominique Hampton",
       "position": "CB",
-      "team": null,
-      "status": "Active",
+      "team": "TEN",
+      "status": "Inactive",
       "active": true
     },
     "1798": {
