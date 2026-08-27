@@ -61,10 +61,6 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
-    "shard": 470,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -111,17 +107,21 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1398363928823599104",
-    "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
-    "last_author_display_name": "HebrewsHeroes",
-    "last_author_id": "434689597088198656",
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 470,
+    "sport": "nfl",
+    "last_message_id": "1398846104761597952",
+    "last_author_avatar": "f9e7524eedba85dee81ab6468d7714f2",
+    "last_author_display_name": "tylerhjensen",
+    "last_author_id": "429737370590400512",
     "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1787758450278,
+    "last_message_time": 1787873409980,
     "last_pinned_message_id": null,
-    "draft_id": "1326711861202161664",
     "last_read_id": null,
+    "draft_id": "1326711861202161664",
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
     "roster_positions": [
@@ -148,9 +148,9 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -791,13 +791,13 @@
       "starters": [
         "4984",
         "9224",
-        "5850",
+        "12481",
         "9488",
         "5927",
         "2216",
         "12506",
         "12512",
-        "12481",
+        "11586",
         "4892"
       ],
       "taxi": null
@@ -4657,7 +4657,7 @@
     "12809": {
       "name": "Mac Dalena",
       "position": "WR",
-      "team": "BUF",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -7926,7 +7926,7 @@
     "12374": {
       "name": "Brenden Bates",
       "position": "TE",
-      "team": "CLE",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -12273,7 +12273,7 @@
     "14049": {
       "name": "Brandon Hayes",
       "position": "WR",
-      "team": "PHI",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -12917,7 +12917,7 @@
     "8847": {
       "name": "Kellen Diesch",
       "position": "OL",
-      "team": "KC",
+      "team": "SEA",
       "status": "Active",
       "active": true
     },
@@ -15948,7 +15948,7 @@
     "5882": {
       "name": "Taylor Rapp",
       "position": "DB",
-      "team": "DEN",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -16852,7 +16852,7 @@
       "name": "Calvin Austin",
       "position": "WR",
       "team": "NYG",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "7746": {
@@ -26602,7 +26602,7 @@
     "7562": {
       "name": "Tutu Atwell",
       "position": "WR",
-      "team": "MIA",
+      "team": "LAR",
       "status": "Active",
       "active": true
     },
@@ -30382,7 +30382,7 @@
     "13736": {
       "name": "Reid Williford",
       "position": "LB",
-      "team": "BAL",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -31761,7 +31761,7 @@
     "14056": {
       "name": "Kyre Duplessis",
       "position": "WR",
-      "team": "DEN",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -34639,7 +34639,7 @@
       "name": "Payton Turner",
       "position": "DE",
       "team": "DET",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "1724": {
@@ -41134,7 +41134,7 @@
     "11654": {
       "name": "Dante Miller",
       "position": "RB",
-      "team": "NYG",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -46048,7 +46048,7 @@
     "13259": {
       "name": "Joseph Vaughn",
       "position": "LB",
-      "team": "SEA",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -46181,7 +46181,7 @@
     "10444": {
       "name": "Cedric Tillman",
       "position": "WR",
-      "team": "CLE",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -56821,7 +56821,7 @@
     "12701": {
       "name": "Kobe King",
       "position": "LB",
-      "team": "NYJ",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -57318,7 +57318,7 @@
     "13951": {
       "name": "Nathan Voorhis",
       "position": "DE",
-      "team": "NYJ",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -60762,7 +60762,7 @@
     "8746": {
       "name": "Benton Whitley",
       "position": "DE",
-      "team": "CLE",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -65047,7 +65047,7 @@
       "name": "Victor Dimukeje",
       "position": "LB",
       "team": "SF",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "3801": {
@@ -66537,7 +66537,7 @@
     "11821": {
       "name": "Tahj Washington",
       "position": "WR",
-      "team": null,
+      "team": "PHI",
       "status": "Active",
       "active": true
     },
@@ -67615,7 +67615,7 @@
     "11020": {
       "name": "Eric Scott",
       "position": "DB",
-      "team": null,
+      "team": "DET",
       "status": "Active",
       "active": true
     },
@@ -68595,7 +68595,7 @@
     "4144": {
       "name": "Jonnu Smith",
       "position": "TE",
-      "team": null,
+      "team": "GB",
       "status": "Active",
       "active": true
     },
@@ -69009,7 +69009,7 @@
       "name": "Dennis Houston",
       "position": "WR",
       "team": "TB",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "13565": {
@@ -72326,7 +72326,7 @@
     "10918": {
       "name": "Mekhi Blackmon",
       "position": "CB",
-      "team": "IND",
+      "team": "CLE",
       "status": "Active",
       "active": true
     },
@@ -73509,7 +73509,7 @@
     "7813": {
       "name": "Shemar Jean-Charles",
       "position": "CB",
-      "team": "SEA",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -73936,7 +73936,7 @@
     "11569": {
       "name": "Jarquez Hunter",
       "position": "RB",
-      "team": "LAR",
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -74510,7 +74510,7 @@
     "5113": {
       "name": "Cedrick Wilson",
       "position": "WR",
-      "team": "DET",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -77171,7 +77171,7 @@
       "name": "Cole Turner",
       "position": "TE",
       "team": "MIA",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "10880": {
@@ -88450,7 +88450,7 @@
       "id": "14049",
       "name": "Brandon Hayes",
       "position": "WR",
-      "team": "PHI",
+      "team": null,
       "status": "Active"
     },
     {
@@ -88604,7 +88604,7 @@
       "id": "12374",
       "name": "Brenden Bates",
       "position": "TE",
-      "team": "CLE",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -89256,7 +89256,7 @@
       "name": "Calvin Austin",
       "position": "WR",
       "team": "NYG",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "8251",
@@ -89591,14 +89591,14 @@
       "id": "10444",
       "name": "Cedric Tillman",
       "position": "WR",
-      "team": "CLE",
+      "team": null,
       "status": "Active"
     },
     {
       "id": "5113",
       "name": "Cedrick Wilson",
       "position": "WR",
-      "team": "DET",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -90334,7 +90334,7 @@
       "name": "Cole Turner",
       "position": "TE",
       "team": "MIA",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "13844",
@@ -91187,7 +91187,7 @@
       "id": "11654",
       "name": "Dante Miller",
       "position": "RB",
-      "team": "NYG",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -92007,7 +92007,7 @@
       "name": "Dennis Houston",
       "position": "WR",
       "team": "TB",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "3727",
@@ -95814,7 +95814,7 @@
       "id": "11569",
       "name": "Jarquez Hunter",
       "position": "RB",
-      "team": "LAR",
+      "team": "MIA",
       "status": "Active"
     },
     {
@@ -97004,7 +97004,7 @@
       "id": "4144",
       "name": "Jonnu Smith",
       "position": "TE",
-      "team": null,
+      "team": "GB",
       "status": "Active"
     },
     {
@@ -99041,7 +99041,7 @@
       "id": "14056",
       "name": "Kyre Duplessis",
       "position": "WR",
-      "team": "DEN",
+      "team": null,
       "status": "Active"
     },
     {
@@ -99685,7 +99685,7 @@
       "id": "12809",
       "name": "Mac Dalena",
       "position": "WR",
-      "team": "BUF",
+      "team": null,
       "status": "Active"
     },
     {
@@ -104207,7 +104207,7 @@
       "id": "11821",
       "name": "Tahj Washington",
       "position": "WR",
-      "team": null,
+      "team": "PHI",
       "status": "Active"
     },
     {
@@ -105523,7 +105523,7 @@
       "id": "7562",
       "name": "Tutu Atwell",
       "position": "WR",
-      "team": "MIA",
+      "team": "LAR",
       "status": "Active"
     },
     {

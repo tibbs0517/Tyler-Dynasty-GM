@@ -1613,7 +1613,7 @@
     "id": "14049",
     "name": "Brandon Hayes",
     "position": "WR",
-    "team": "PHI",
+    "team": null,
     "status": "Active"
   },
   {
@@ -1767,7 +1767,7 @@
     "id": "12374",
     "name": "Brenden Bates",
     "position": "TE",
-    "team": "CLE",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -2419,7 +2419,7 @@
     "name": "Calvin Austin",
     "position": "WR",
     "team": "NYG",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "8251",
@@ -2754,14 +2754,14 @@
     "id": "10444",
     "name": "Cedric Tillman",
     "position": "WR",
-    "team": "CLE",
+    "team": null,
     "status": "Active"
   },
   {
     "id": "5113",
     "name": "Cedrick Wilson",
     "position": "WR",
-    "team": "DET",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -3497,7 +3497,7 @@
     "name": "Cole Turner",
     "position": "TE",
     "team": "MIA",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "13844",
@@ -4350,7 +4350,7 @@
     "id": "11654",
     "name": "Dante Miller",
     "position": "RB",
-    "team": "NYG",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -5170,7 +5170,7 @@
     "name": "Dennis Houston",
     "position": "WR",
     "team": "TB",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "3727",
@@ -8977,7 +8977,7 @@
     "id": "11569",
     "name": "Jarquez Hunter",
     "position": "RB",
-    "team": "LAR",
+    "team": "MIA",
     "status": "Active"
   },
   {
@@ -10167,7 +10167,7 @@
     "id": "4144",
     "name": "Jonnu Smith",
     "position": "TE",
-    "team": null,
+    "team": "GB",
     "status": "Active"
   },
   {
@@ -12204,7 +12204,7 @@
     "id": "14056",
     "name": "Kyre Duplessis",
     "position": "WR",
-    "team": "DEN",
+    "team": null,
     "status": "Active"
   },
   {
@@ -12848,7 +12848,7 @@
     "id": "12809",
     "name": "Mac Dalena",
     "position": "WR",
-    "team": "BUF",
+    "team": null,
     "status": "Active"
   },
   {
@@ -17370,7 +17370,7 @@
     "id": "11821",
     "name": "Tahj Washington",
     "position": "WR",
-    "team": null,
+    "team": "PHI",
     "status": "Active"
   },
   {
@@ -18686,7 +18686,7 @@
     "id": "7562",
     "name": "Tutu Atwell",
     "position": "WR",
-    "team": "MIA",
+    "team": "LAR",
     "status": "Active"
   },
   {
