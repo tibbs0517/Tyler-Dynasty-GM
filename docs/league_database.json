@@ -61,10 +61,6 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
-    "shard": 470,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -111,7 +107,12 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 470,
+    "sport": "nfl",
     "last_message_id": "1398961760429416448",
+    "draft_id": "1326711861202161664",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -120,13 +121,14 @@
     "last_message_text_map": null,
     "last_message_time": 1787900984440,
     "last_pinned_message_id": null,
-    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,8 +153,6 @@
       "BN",
       "BN"
     ],
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -797,7 +797,7 @@
         "2216",
         "12506",
         "12512",
-        "11586",
+        "6819",
         "4892"
       ],
       "taxi": null
@@ -42476,7 +42476,7 @@
     "13654": {
       "name": "Devon Marshall",
       "position": "CB",
-      "team": "JAX",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -61306,7 +61306,7 @@
     "12175": {
       "name": "James Ester",
       "position": "DT",
-      "team": "MIA",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -83930,7 +83930,7 @@
     "12659": {
       "name": "Chris Paul",
       "position": "LB",
-      "team": "SEA",
+      "team": null,
       "status": "Active",
       "active": true
     },

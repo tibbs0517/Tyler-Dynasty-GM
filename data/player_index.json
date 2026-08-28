@@ -41218,7 +41218,7 @@
   "13654": {
     "name": "Devon Marshall",
     "position": "CB",
-    "team": "JAX",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -60048,7 +60048,7 @@
   "12175": {
     "name": "James Ester",
     "position": "DT",
-    "team": "MIA",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -82672,7 +82672,7 @@
   "12659": {
     "name": "Chris Paul",
     "position": "LB",
-    "team": "SEA",
+    "team": null,
     "status": "Active",
     "active": true
   },
