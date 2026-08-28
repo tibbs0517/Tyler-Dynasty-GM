@@ -2345,6 +2345,13 @@
     "status": "Active"
   },
   {
+    "id": "8111",
+    "name": "Cade Otton",
+    "position": "TE",
+    "team": "TB",
+    "status": "Active"
+  },
+  {
     "id": "12285",
     "name": "Cade Peterson",
     "position": "QB",
@@ -7957,13 +7964,6 @@
     "position": "TE",
     "team": "CLE",
     "status": "Inactive"
-  },
-  {
-    "id": "13602",
-    "name": "Jack Strand",
-    "position": "QB",
-    "team": "ATL",
-    "status": "Active"
   },
   {
     "id": "13846",

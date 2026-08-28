@@ -1664,19 +1664,6 @@
     "roster_id": null
   },
   {
-    "id": "13602",
-    "name": "Jack Strand",
-    "position": "QB",
-    "team": "ATL",
-    "age": 22,
-    "years_exp": 0,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
     "id": "13802",
     "name": "Jacob Clark",
     "position": "QB",
@@ -4011,7 +3998,7 @@
     "age": 24,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -7950,7 +7937,7 @@
     "age": 22,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -8821,7 +8808,7 @@
     "age": 24,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -12734,7 +12721,7 @@
     "age": 26,
     "years_exp": 3,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -13013,6 +13000,19 @@
     "roster_id": null
   },
   {
+    "id": "8111",
+    "name": "Cade Otton",
+    "position": "TE",
+    "team": "TB",
+    "age": 27,
+    "years_exp": 4,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
     "id": "11599",
     "name": "Cade Stover",
     "position": "TE",
@@ -13202,7 +13202,7 @@
     "age": 23,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -24330,7 +24330,7 @@
     "age": 27,
     "years_exp": 4,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null

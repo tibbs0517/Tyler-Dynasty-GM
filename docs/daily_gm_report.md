@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-08-27 23:31:08
+Generated: 2026-08-28 08:45:29
 
 ---
 
@@ -16,8 +16,8 @@ Available Players: 2816
 ## League Activity
 
 Trades: 4
-Waiver Claims: 22
-Free Agent Moves: 47
+Waiver Claims: 23
+Free Agent Moves: 48
 
 ---
 
@@ -40,6 +40,7 @@ Players on Roster: 23
 
 ## Top Waiver Claims
 
+- Jack Strand → theFalIeniD
 - Jauan Jennings → tylergratz
 - Caleb Douglas → HebrewsHeroes
 - Elijah Sarratt → tylerhjensen
@@ -65,6 +66,7 @@ Players on Roster: 23
 
 ## Recently Dropped Players
 
+- Cade Otton
 - David Njoku
 - Hunter Henry
 - Colby Parkinson
@@ -79,7 +81,6 @@ Players on Roster: 23
 - James Conner
 - MarShawn Lloyd
 - Troy Franklin
-- Michael Penix
 
 ---
 
@@ -88,11 +89,11 @@ Players on Roster: 23
 - TheCreecher: 13 moves
 - HebrewsHeroes: 12 moves
 - tylerhjensen: 12 moves
+- HoNeYmOOnBaBy: 10 moves
 - tylergratz: 9 moves
-- HoNeYmOOnBaBy: 9 moves
+- theFalIeniD: 8 moves
 - SammyA: 8 moves
 - AnthonyJania: 7 moves
-- theFalIeniD: 7 moves
 - jmikolay: 4 moves
 
 ---
