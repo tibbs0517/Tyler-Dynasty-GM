@@ -409,7 +409,7 @@
     "id": "14082",
     "name": "Alex Tecza",
     "position": "RB",
-    "team": "PIT",
+    "team": null,
     "status": "Active"
   },
   {
@@ -1172,7 +1172,7 @@
     "id": "14080",
     "name": "Barika Kpeenu",
     "position": "RB",
-    "team": "TB",
+    "team": null,
     "status": "Active"
   },
   {
@@ -1305,7 +1305,7 @@
     "id": "13647",
     "name": "Ben Patterson",
     "position": "WR",
-    "team": "CLE",
+    "team": null,
     "status": "Active"
   },
   {
@@ -2285,7 +2285,7 @@
     "id": "12984",
     "name": "CJ Dippre",
     "position": "TE",
-    "team": "NE",
+    "team": null,
     "status": "Active"
   },
   {
@@ -2740,7 +2740,7 @@
     "id": "13826",
     "name": "Caullin Lacy",
     "position": "WR",
-    "team": "NYJ",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -3587,7 +3587,7 @@
     "id": "12776",
     "name": "Connor Bazelak",
     "position": "QB",
-    "team": "TB",
+    "team": null,
     "status": "Active"
   },
   {
@@ -3699,7 +3699,7 @@
     "id": "12491",
     "name": "Corey Kiner",
     "position": "RB",
-    "team": "ARI",
+    "team": "NE",
     "status": "Active"
   },
   {
@@ -3748,7 +3748,7 @@
     "id": "7541",
     "name": "Cornell Powell",
     "position": "WR",
-    "team": "PIT",
+    "team": null,
     "status": "Active"
   },
   {
@@ -5995,7 +5995,7 @@
     "id": "14068",
     "name": "Drew Biber",
     "position": "TE",
-    "team": "CLE",
+    "team": null,
     "status": "Active"
   },
   {
@@ -7640,7 +7640,7 @@
     "id": "11232",
     "name": "Isaiah Winstead",
     "position": "WR",
-    "team": "PIT",
+    "team": null,
     "status": "Active"
   },
   {
@@ -7962,7 +7962,7 @@
     "id": "7946",
     "name": "Jack Stoll",
     "position": "TE",
-    "team": "CLE",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -8214,7 +8214,7 @@
     "id": "11605",
     "name": "Jaheim Bell",
     "position": "TE",
-    "team": "PIT",
+    "team": null,
     "status": "Active"
   },
   {
@@ -8403,7 +8403,7 @@
     "id": "12935",
     "name": "Jakobie Keeney-James",
     "position": "WR",
-    "team": "PIT",
+    "team": null,
     "status": "Active"
   },
   {
@@ -9474,7 +9474,7 @@
     "id": "13129",
     "name": "Jermaine Terry",
     "position": "TE",
-    "team": "CLE",
+    "team": null,
     "status": "Active"
   },
   {
@@ -13786,7 +13786,7 @@
     "id": "5917",
     "name": "Mecole Hardman",
     "position": "WR",
-    "team": "BUF",
+    "team": null,
     "status": "Active"
   },
   {
@@ -14157,7 +14157,7 @@
     "id": "14044",
     "name": "Miles Davis",
     "position": "RB",
-    "team": "CAR",
+    "team": null,
     "status": "Active"
   },
   {
@@ -15074,7 +15074,7 @@
     "id": "6963",
     "name": "Patrick Taylor",
     "position": "RB",
-    "team": "SF",
+    "team": null,
     "status": "Inactive"
   },
   {
