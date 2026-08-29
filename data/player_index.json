@@ -23816,7 +23816,7 @@
   "5944": {
     "name": "Bobby Okereke",
     "position": "LB",
-    "team": null,
+    "team": "CAR",
     "status": "Active",
     "active": true
   },
@@ -30130,7 +30130,7 @@
   "11661": {
     "name": "Terrion Arnold",
     "position": "DB",
-    "team": null,
+    "team": "SEA",
     "status": "Active",
     "active": true
   },
@@ -61980,7 +61980,7 @@
   "12500": {
     "name": "Quinn Ewers",
     "position": "QB",
-    "team": "MIA",
+    "team": "JAX",
     "status": "Active",
     "active": true
   },
