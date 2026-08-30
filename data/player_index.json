@@ -6233,7 +6233,7 @@
     "name": "Branson Taylor",
     "position": "OL",
     "team": "LAC",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "5351": {
@@ -10293,7 +10293,7 @@
     "name": "Tyler Batty",
     "position": "DL",
     "team": "MIN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "2994": {
@@ -18378,7 +18378,7 @@
     "name": "Jeremy McNichols",
     "position": "RB",
     "team": "WAS",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "4135": {
@@ -19099,7 +19099,7 @@
     "name": "James Conner",
     "position": "RB",
     "team": "ARI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "1116": {
@@ -26421,7 +26421,7 @@
     "name": "Savion Williams",
     "position": "WR",
     "team": "GB",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "13680": {
@@ -41463,7 +41463,7 @@
   "11005": {
     "name": "Jarrett Patterson",
     "position": "OL",
-    "team": "HOU",
+    "team": "SF",
     "status": "Active",
     "active": true
   },
@@ -44361,7 +44361,7 @@
   "11812": {
     "name": "Walter Rouse",
     "position": "OL",
-    "team": "MIN",
+    "team": "NE",
     "status": "Active",
     "active": true
   },
@@ -51040,7 +51040,7 @@
     "name": "Jordyn Tyson",
     "position": "WR",
     "team": "NO",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "8437": {
@@ -51445,7 +51445,7 @@
   "11838": {
     "name": "Nate Thomas",
     "position": "OL",
-    "team": "DAL",
+    "team": "HOU",
     "status": "Active",
     "active": true
   },
@@ -61015,7 +61015,7 @@
     "name": "Dillon Gabriel",
     "position": "QB",
     "team": "CLE",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "5831": {
@@ -73503,7 +73503,7 @@
     "name": "Ja'Marcus Ingram",
     "position": "CB",
     "team": "HOU",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "13863": {
@@ -75491,7 +75491,7 @@
     "name": "Tank Dell",
     "position": "WR",
     "team": "HOU",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "5986": {
@@ -79705,7 +79705,7 @@
     "name": "Trey Amos",
     "position": "DB",
     "team": "WAS",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "10964": {

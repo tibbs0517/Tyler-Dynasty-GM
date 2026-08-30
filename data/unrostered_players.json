@@ -5674,7 +5674,7 @@
     "name": "Dillon Gabriel",
     "position": "QB",
     "team": "CLE",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "11580",
@@ -8733,7 +8733,7 @@
     "name": "James Conner",
     "position": "RB",
     "team": "ARI",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "2119",
@@ -9405,7 +9405,7 @@
     "name": "Jeremy McNichols",
     "position": "RB",
     "team": "WAS",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "12352",
@@ -16538,7 +16538,7 @@
     "name": "Savion Williams",
     "position": "WR",
     "team": "GB",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "8700",
