@@ -3712,7 +3712,7 @@
   "7873": {
     "name": "Jordan Meredith",
     "position": "OL",
-    "team": "LV",
+    "team": "NYJ",
     "status": "Active",
     "active": true
   },
@@ -24439,7 +24439,7 @@
   "12504": {
     "name": "Kaleb Johnson",
     "position": "RB",
-    "team": "PIT",
+    "team": "GB",
     "status": "Active",
     "active": true
   },
@@ -35926,8 +35926,8 @@
   "1574": {
     "name": "Jonathan Cooper",
     "position": "G",
-    "team": null,
-    "status": "Inactive",
+    "team": "DEN",
+    "status": "Active",
     "active": true
   },
   "6405": {
@@ -36270,7 +36270,7 @@
     "name": "Kyonte Hamilton",
     "position": "DL",
     "team": "HOU",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "8768": {
@@ -42639,7 +42639,7 @@
   "13013": {
     "name": "Mark Redman",
     "position": "TE",
-    "team": "LAR",
+    "team": "GB",
     "status": "Active",
     "active": true
   },
@@ -83078,7 +83078,7 @@
   "2227": {
     "name": "Aaron Donald",
     "position": "DT",
-    "team": null,
+    "team": "LAR",
     "status": "Active",
     "active": true
   },
