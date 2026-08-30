@@ -206,7 +206,7 @@
     "id": "11065",
     "name": "Adrian Martinez",
     "position": "QB",
-    "team": "SF",
+    "team": null,
     "status": "Active"
   },
   {
@@ -1067,7 +1067,7 @@
     "id": "11931",
     "name": "Austin Reed",
     "position": "QB",
-    "team": "BAL",
+    "team": null,
     "status": "Active"
   },
   {
@@ -1165,7 +1165,7 @@
     "id": "8157",
     "name": "Bailey Zappe",
     "position": "QB",
-    "team": "NYJ",
+    "team": null,
     "status": "Active"
   },
   {
@@ -1830,7 +1830,7 @@
     "id": "6037",
     "name": "Brett Rypien",
     "position": "QB",
-    "team": "HOU",
+    "team": null,
     "status": "Active"
   },
   {
@@ -2152,7 +2152,7 @@
     "id": "11748",
     "name": "Bub Means",
     "position": "WR",
-    "team": "NO",
+    "team": null,
     "status": "Active"
   },
   {
@@ -2369,7 +2369,7 @@
     "id": "12933",
     "name": "Caden Prieskorn",
     "position": "TE",
-    "team": "CAR",
+    "team": null,
     "status": "Active"
   },
   {
@@ -2649,7 +2649,7 @@
     "id": "11582",
     "name": "Carson Steele",
     "position": "RB",
-    "team": "PHI",
+    "team": null,
     "status": "Active"
   },
   {
@@ -3146,7 +3146,7 @@
     "id": "3269",
     "name": "Chris Moore",
     "position": "WR",
-    "team": "BAL",
+    "team": null,
     "status": "Active"
   },
   {
@@ -3510,7 +3510,7 @@
     "id": "13844",
     "name": "Coleman Bennett",
     "position": "RB",
-    "team": "MIA",
+    "team": null,
     "status": "Active"
   },
   {
@@ -3776,7 +3776,7 @@
     "id": "6659",
     "name": "Craig Reynolds",
     "position": "RB",
-    "team": "WAS",
+    "team": null,
     "status": "Active"
   },
   {
@@ -4175,7 +4175,7 @@
     "id": "13949",
     "name": "Damon Bankston",
     "position": "RB",
-    "team": "NYG",
+    "team": null,
     "status": "Active"
   },
   {
@@ -4224,7 +4224,7 @@
     "id": "7357",
     "name": "Dan Chisena",
     "position": "WR",
-    "team": "CAR",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -4238,7 +4238,7 @@
     "id": "13321",
     "name": "Dan Villari",
     "position": "TE",
-    "team": "LAR",
+    "team": null,
     "status": "Active"
   },
   {
@@ -4364,7 +4364,7 @@
     "id": "4992",
     "name": "Dante Pettis",
     "position": "WR",
-    "team": "BUF",
+    "team": null,
     "status": "Active"
   },
   {
@@ -5190,7 +5190,7 @@
     "id": "6849",
     "name": "Denzel Mims",
     "position": "WR",
-    "team": "DAL",
+    "team": null,
     "status": "Active"
   },
   {
@@ -5365,7 +5365,7 @@
     "id": "9505",
     "name": "Deuce Vaughn",
     "position": "RB",
-    "team": "HOU",
+    "team": null,
     "status": "Active"
   },
   {
@@ -5799,7 +5799,7 @@
     "id": "12515",
     "name": "Donovan Edwards",
     "position": "RB",
-    "team": "MIA",
+    "team": null,
     "status": "Active"
   },
   {
@@ -6345,7 +6345,7 @@
     "id": "11139",
     "name": "Elijah Cooks",
     "position": "WR",
-    "team": "CAR",
+    "team": null,
     "status": "Active"
   },
   {
@@ -6632,7 +6632,7 @@
     "id": "13661",
     "name": "Ethan Conner",
     "position": "TE",
-    "team": "MIA",
+    "team": null,
     "status": "Active"
   },
   {
@@ -7311,7 +7311,7 @@
     "id": "8123",
     "name": "Hassan Haskins",
     "position": "RB",
-    "team": "NE",
+    "team": null,
     "status": "Active"
   },
   {
@@ -7395,7 +7395,7 @@
     "id": "13217",
     "name": "Hunter Dekkers",
     "position": "QB",
-    "team": "NO",
+    "team": null,
     "status": "Active"
   },
   {
@@ -7416,7 +7416,7 @@
     "id": "7535",
     "name": "Hunter Long",
     "position": "TE",
-    "team": "JAX",
+    "team": "ARI",
     "status": "Active"
   },
   {
@@ -7570,7 +7570,7 @@
     "id": "6920",
     "name": "Isaiah Hodgins",
     "position": "WR",
-    "team": "NYG",
+    "team": null,
     "status": "Active"
   },
   {
@@ -7598,7 +7598,7 @@
     "id": "13074",
     "name": "Isaiah Neyor",
     "position": "WR",
-    "team": "GB",
+    "team": null,
     "status": "Active"
   },
   {
@@ -8011,7 +8011,7 @@
     "id": "13802",
     "name": "Jacob Clark",
     "position": "QB",
-    "team": "LV",
+    "team": null,
     "status": "Active"
   },
   {
@@ -8256,7 +8256,7 @@
     "id": "6111",
     "name": "Jake Browning",
     "position": "QB",
-    "team": "TB",
+    "team": null,
     "status": "Active"
   },
   {
@@ -8620,7 +8620,7 @@
     "id": "13403",
     "name": "Jam Miller",
     "position": "RB",
-    "team": "NE",
+    "team": null,
     "status": "Active"
   },
   {
@@ -9824,7 +9824,7 @@
     "id": "13428",
     "name": "Joey Aguilar",
     "position": "QB",
-    "team": "JAX",
+    "team": null,
     "status": "Active"
   },
   {
@@ -10146,7 +10146,7 @@
     "id": "7087",
     "name": "Jonathan Ward",
     "position": "RB",
-    "team": "BAL",
+    "team": null,
     "status": "Active"
   },
   {
@@ -10552,7 +10552,7 @@
     "id": "260",
     "name": "Josh Johnson",
     "position": "QB",
-    "team": "CIN",
+    "team": null,
     "status": "Active"
   },
   {
@@ -10755,14 +10755,14 @@
     "id": "12883",
     "name": "Joshua Simon",
     "position": "TE",
-    "team": "ATL",
+    "team": null,
     "status": "Active"
   },
   {
     "id": "7050",
     "name": "Josiah Deguara",
     "position": "TE",
-    "team": "NYG",
+    "team": null,
     "status": "Active"
   },
   {
@@ -11371,7 +11371,7 @@
     "id": "13973",
     "name": "Keelan Marion",
     "position": "WR",
-    "team": "ATL",
+    "team": null,
     "status": "Active"
   },
   {
@@ -11994,7 +11994,7 @@
     "id": "13708",
     "name": "Kobe Prentice",
     "position": "WR",
-    "team": "NYG",
+    "team": null,
     "status": "Active"
   },
   {
@@ -12134,7 +12134,7 @@
     "id": "12494",
     "name": "Kyle McCord",
     "position": "QB",
-    "team": "GB",
+    "team": "MIA",
     "status": "Active"
   },
   {
@@ -12176,7 +12176,7 @@
     "id": "7605",
     "name": "Kyle Trask",
     "position": "QB",
-    "team": "CAR",
+    "team": null,
     "status": "Active"
   },
   {
@@ -12463,7 +12463,7 @@
     "id": "13261",
     "name": "Layne Pryor",
     "position": "TE",
-    "team": "HOU",
+    "team": null,
     "status": "Active"
   },
   {
@@ -12582,7 +12582,7 @@
     "id": "13889",
     "name": "Levi Wentz",
     "position": "WR",
-    "team": "PIT",
+    "team": null,
     "status": "Active"
   },
   {
@@ -12687,7 +12687,7 @@
     "id": "14055",
     "name": "Louis Hansen",
     "position": "TE",
-    "team": "HOU",
+    "team": null,
     "status": "Active"
   },
   {
@@ -13247,7 +13247,7 @@
     "id": "13816",
     "name": "Mark Gronowski",
     "position": "QB",
-    "team": "MIA",
+    "team": null,
     "status": "Active"
   },
   {
@@ -14213,7 +14213,7 @@
     "id": "11068",
     "name": "Mitch Tinsley",
     "position": "WR",
-    "team": "CIN",
+    "team": null,
     "status": "Active"
   },
   {
@@ -14654,7 +14654,7 @@
     "id": "4464",
     "name": "Nick Mullens",
     "position": "QB",
-    "team": "JAX",
+    "team": null,
     "status": "Active"
   },
   {
@@ -14983,7 +14983,7 @@
     "id": "11384",
     "name": "Owen Wright",
     "position": "RB",
-    "team": "HOU",
+    "team": null,
     "status": "Active"
   },
   {
@@ -15046,7 +15046,7 @@
     "id": "13913",
     "name": "Patrick Gurd",
     "position": "TE",
-    "team": "LV",
+    "team": null,
     "status": "Active"
   },
   {
@@ -15361,7 +15361,7 @@
     "id": "12907",
     "name": "Quentin Skinner",
     "position": "WR",
-    "team": "BUF",
+    "team": null,
     "status": "Active"
   },
   {
@@ -15977,7 +15977,7 @@
     "id": "12972",
     "name": "Roc Taylor",
     "position": "WR",
-    "team": "CAR",
+    "team": null,
     "status": "Active"
   },
   {
@@ -16047,7 +16047,7 @@
     "id": "13810",
     "name": "Rohan Jones",
     "position": "TE",
-    "team": "LAR",
+    "team": null,
     "status": "Active"
   },
   {
@@ -16124,7 +16124,7 @@
     "id": "10221",
     "name": "Ronnie Bell",
     "position": "WR",
-    "team": "NO",
+    "team": null,
     "status": "Active"
   },
   {
@@ -16509,7 +16509,7 @@
     "id": "8235",
     "name": "Samori Toure",
     "position": "WR",
-    "team": "PHI",
+    "team": null,
     "status": "Active"
   },
   {
@@ -16754,7 +16754,7 @@
     "id": "8002",
     "name": "Shane Buechele",
     "position": "QB",
-    "team": "BUF",
+    "team": null,
     "status": "Active"
   },
   {
@@ -16789,7 +16789,7 @@
     "id": "8041",
     "name": "Shane Zylstra",
     "position": "TE",
-    "team": "BUF",
+    "team": null,
     "status": "Active"
   },
   {
@@ -17720,7 +17720,7 @@
     "id": "7565",
     "name": "Terrace Marshall",
     "position": "WR",
-    "team": "MIA",
+    "team": null,
     "status": "Active"
   },
   {
@@ -17839,7 +17839,7 @@
     "id": "12860",
     "name": "Theo Wease",
     "position": "WR",
-    "team": "MIA",
+    "team": null,
     "status": "Active"
   },
   {
@@ -18665,7 +18665,7 @@
     "id": "13003",
     "name": "Tru Edwards",
     "position": "WR",
-    "team": "LAR",
+    "team": null,
     "status": "Active"
   },
   {
@@ -19638,7 +19638,7 @@
     "id": "8799",
     "name": "Zaire Mitchell-Paden",
     "position": "TE",
-    "team": "NO",
+    "team": null,
     "status": "Active"
   },
   {
