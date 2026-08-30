@@ -256,7 +256,7 @@
     "name": "Drake Maye",
     "position": "QB",
     "team": "NE",
-    "age": 23,
+    "age": 24,
     "years_exp": 2,
     "active": true,
     "injury_status": null,
@@ -1551,20 +1551,6 @@
     "bye_week": null,
     "rostered": true,
     "roster_id": 5,
-    "gm_score": 90
-  },
-  {
-    "id": "9225",
-    "name": "Tank Bigsby",
-    "position": "RB",
-    "team": "PHI",
-    "age": 23,
-    "years_exp": 3,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 6,
     "gm_score": 90
   },
   {
@@ -3861,6 +3847,20 @@
     "bye_week": null,
     "rostered": false,
     "roster_id": null,
+    "gm_score": 80
+  },
+  {
+    "id": "9225",
+    "name": "Tank Bigsby",
+    "position": "RB",
+    "team": "PHI",
+    "age": 24,
+    "years_exp": 3,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 6,
     "gm_score": 80
   },
   {

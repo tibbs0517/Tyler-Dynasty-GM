@@ -20813,7 +20813,7 @@
   "10884": {
     "name": "Broderick Jones",
     "position": "OL",
-    "team": "PIT",
+    "team": "DAL",
     "status": "Active",
     "active": true
   },
@@ -54519,7 +54519,7 @@
     "name": "Matthew Caldwell",
     "position": "QB",
     "team": "LAR",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "8849": {
@@ -57277,7 +57277,7 @@
     "name": "Darren Hall",
     "position": "CB",
     "team": "ATL",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "4547": {
@@ -70800,7 +70800,7 @@
   "13730": {
     "name": "Diego Pounds",
     "position": "OT",
-    "team": "BAL",
+    "team": "KC",
     "status": "Active",
     "active": true
   },
