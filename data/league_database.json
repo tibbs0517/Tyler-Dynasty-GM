@@ -12523,7 +12523,7 @@
       "name": "DeaMonte Trayanum",
       "position": "RB",
       "team": "NYJ",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "11510": {
@@ -12845,7 +12845,7 @@
       "name": "Mykal Walker",
       "position": "LB",
       "team": "NYJ",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "12597": {
@@ -16786,7 +16786,7 @@
       "name": "Grant Calcaterra",
       "position": "TE",
       "team": "PHI",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "7791": {
@@ -31031,7 +31031,7 @@
       "name": "David Long",
       "position": "CB",
       "team": "NO",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "11663": {
@@ -37373,7 +37373,7 @@
       "name": "Keyron Crawford",
       "position": "DE",
       "team": "LV",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "1511": {
@@ -38618,7 +38618,7 @@
     "12811": {
       "name": "Esa Pole",
       "position": "OT",
-      "team": null,
+      "team": "WAS",
       "status": "Active",
       "active": true
     },
@@ -41447,7 +41447,7 @@
       "name": "Devin Neal",
       "position": "RB",
       "team": "NO",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "11707": {
@@ -42455,7 +42455,7 @@
       "name": "Sam Mustipher",
       "position": "OL",
       "team": "JAX",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "571": {
@@ -48643,7 +48643,7 @@
       "name": "Brittain Brown",
       "position": "RB",
       "team": "CHI",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "10865": {
@@ -51142,14 +51142,14 @@
       "name": "Coleman Owen",
       "position": "WR",
       "team": "IND",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "11062": {
       "name": "Ali Gaye",
       "position": "DE",
       "team": "HOU",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "13677": {
@@ -60333,7 +60333,7 @@
       "name": "Barry Wesley",
       "position": "OL",
       "team": "NO",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "2513": {
@@ -65646,7 +65646,7 @@
       "name": "D.J. Montgomery",
       "position": "WR",
       "team": "IND",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "5587": {
@@ -67431,7 +67431,7 @@
       "name": "Tre Brown",
       "position": "CB",
       "team": "NYJ",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "6261": {
@@ -70329,7 +70329,7 @@
       "name": "Michael Heldman",
       "position": "DE",
       "team": "NO",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "11944": {
@@ -88798,7 +88798,7 @@
       "name": "Brittain Brown",
       "position": "RB",
       "team": "CHI",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "7418",
@@ -90352,7 +90352,7 @@
       "name": "Coleman Owen",
       "position": "WR",
       "team": "IND",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "12551",
@@ -90688,7 +90688,7 @@
       "name": "D.J. Montgomery",
       "position": "WR",
       "team": "IND",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "11989",
@@ -91878,7 +91878,7 @@
       "name": "DeaMonte Trayanum",
       "position": "RB",
       "team": "NYJ",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "13315",
@@ -92305,7 +92305,7 @@
       "name": "Devin Neal",
       "position": "RB",
       "team": "NO",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "7396",
@@ -93964,7 +93964,7 @@
       "name": "Grant Calcaterra",
       "position": "TE",
       "team": "PHI",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "11024",

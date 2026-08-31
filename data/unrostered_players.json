@@ -1957,7 +1957,7 @@
     "name": "Brittain Brown",
     "position": "RB",
     "team": "CHI",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "7418",
@@ -3511,7 +3511,7 @@
     "name": "Coleman Owen",
     "position": "WR",
     "team": "IND",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "12551",
@@ -3847,7 +3847,7 @@
     "name": "D.J. Montgomery",
     "position": "WR",
     "team": "IND",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "11989",
@@ -5037,7 +5037,7 @@
     "name": "DeaMonte Trayanum",
     "position": "RB",
     "team": "NYJ",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "13315",
@@ -5464,7 +5464,7 @@
     "name": "Devin Neal",
     "position": "RB",
     "team": "NO",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "7396",
@@ -7123,7 +7123,7 @@
     "name": "Grant Calcaterra",
     "position": "TE",
     "team": "PHI",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "11024",
