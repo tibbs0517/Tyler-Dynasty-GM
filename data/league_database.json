@@ -57,15 +57,15 @@
       "daily_waivers_base": 4,
       "reserve_slots": 4,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 30
+      "daily_waivers_last_ran": 31
     },
     "avatar": null,
     "company_id": null,
     "sport": "nfl",
     "season_type": "regular",
     "season": "2026",
+    "last_message_id": "1400046716215947264",
     "shard": 470,
-    "last_message_id": "1399935371038486528",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -112,23 +112,18 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "draft_id": "1326711861202161664",
-    "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
-    "last_author_display_name": "HebrewsHeroes",
-    "last_author_id": "434689597088198656",
-    "last_author_is_bot": false,
+    "last_author_avatar": null,
+    "last_author_display_name": "sys",
+    "last_author_id": "166666666666666666",
+    "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1788133111299,
+    "last_message_time": 1788159658058,
     "last_pinned_message_id": null,
+    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -153,6 +148,11 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -751,6 +751,7 @@
       "player_map": null,
       "players": [
         "10213",
+        "11237",
         "11586",
         "11637",
         "11783",
@@ -762,6 +763,7 @@
         "13276",
         "13353",
         "13402",
+        "13533",
         "2216",
         "4892",
         "4984",
@@ -786,8 +788,8 @@
         "losses": 0,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 0,
-        "waiver_position": 7,
+        "waiver_budget_used": 50,
+        "waiver_position": 9,
         "wins": 0
       },
       "starters": [
@@ -825,6 +827,7 @@
         "11628",
         "11631",
         "11646",
+        "1166",
         "12484",
         "12498",
         "12499",
@@ -838,7 +841,6 @@
         "13293",
         "13294",
         "13337",
-        "13602",
         "7591",
         "9228",
         "9229"
@@ -914,7 +916,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 11,
-        "waiver_position": 9,
+        "waiver_position": 8,
         "wins": 0
       },
       "starters": [
@@ -1043,7 +1045,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 100,
-        "waiver_position": 8,
+        "waiver_position": 7,
         "wins": 0
       },
       "starters": [
@@ -55837,7 +55839,7 @@
       "name": "Scott Matlock",
       "position": "DT",
       "team": "LAC",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "5527": {
@@ -88015,13 +88017,6 @@
       "status": "Active"
     },
     {
-      "id": "13533",
-      "name": "Barion Brown",
-      "position": "WR",
-      "team": "NO",
-      "status": "Active"
-    },
-    {
       "id": "4744",
       "name": "Barrett Burns",
       "position": "TE",
@@ -94805,6 +94800,13 @@
       "status": "Inactive"
     },
     {
+      "id": "13602",
+      "name": "Jack Strand",
+      "position": "QB",
+      "team": "ATL",
+      "status": "Active"
+    },
+    {
       "id": "13846",
       "name": "Jack Velling",
       "position": "TE",
@@ -94914,13 +94916,6 @@
       "name": "Jacob Kibodi",
       "position": "RB",
       "team": null,
-      "status": "Active"
-    },
-    {
-      "id": "11237",
-      "name": "Jacob Saylors",
-      "position": "RB",
-      "team": "DET",
       "status": "Active"
     },
     {
@@ -98772,13 +98767,6 @@
       "position": "QB",
       "team": null,
       "status": "Inactive"
-    },
-    {
-      "id": "1166",
-      "name": "Kirk Cousins",
-      "position": "QB",
-      "team": "LV",
-      "status": "Active"
     },
     {
       "id": "7351",

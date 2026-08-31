@@ -1176,13 +1176,6 @@
     "status": "Active"
   },
   {
-    "id": "13533",
-    "name": "Barion Brown",
-    "position": "WR",
-    "team": "NO",
-    "status": "Active"
-  },
-  {
     "id": "4744",
     "name": "Barrett Burns",
     "position": "TE",
@@ -7966,6 +7959,13 @@
     "status": "Inactive"
   },
   {
+    "id": "13602",
+    "name": "Jack Strand",
+    "position": "QB",
+    "team": "ATL",
+    "status": "Active"
+  },
+  {
     "id": "13846",
     "name": "Jack Velling",
     "position": "TE",
@@ -8075,13 +8075,6 @@
     "name": "Jacob Kibodi",
     "position": "RB",
     "team": null,
-    "status": "Active"
-  },
-  {
-    "id": "11237",
-    "name": "Jacob Saylors",
-    "position": "RB",
-    "team": "DET",
     "status": "Active"
   },
   {
@@ -11933,13 +11926,6 @@
     "position": "QB",
     "team": null,
     "status": "Inactive"
-  },
-  {
-    "id": "1166",
-    "name": "Kirk Cousins",
-    "position": "QB",
-    "team": "LV",
-    "status": "Active"
   },
   {
     "id": "7351",

@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-08-31 03:13:19
+Generated: 2026-08-31 10:25:15
 
 ---
 
@@ -9,14 +9,14 @@ Generated: 2026-08-31 03:13:19
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2816
+Available Players: 2814
 
 ---
 
 ## League Activity
 
 Trades: 4
-Waiver Claims: 23
+Waiver Claims: 28
 Free Agent Moves: 48
 
 ---
@@ -40,6 +40,11 @@ Players on Roster: 23
 
 ## Top Waiver Claims
 
+- Justice Hill → tylerhjensen
+- Kirk Cousins → theFalIeniD
+- Malik Davis → tylerhjensen
+- Jacob Saylors → tylerhjensen
+- Barion Brown → tylerhjensen
 - Jack Strand → theFalIeniD
 - Jauan Jennings → tylergratz
 - Caleb Douglas → HebrewsHeroes
@@ -66,6 +71,7 @@ Players on Roster: 23
 
 ## Recently Dropped Players
 
+- Jack Strand
 - Cade Otton
 - David Njoku
 - Hunter Henry
@@ -80,18 +86,17 @@ Players on Roster: 23
 - Brenton Strange
 - James Conner
 - MarShawn Lloyd
-- Troy Franklin
 
 ---
 
 ## Most Active Managers
 
+- tylerhjensen: 16 moves
 - TheCreecher: 13 moves
 - HebrewsHeroes: 12 moves
-- tylerhjensen: 12 moves
 - HoNeYmOOnBaBy: 10 moves
+- theFalIeniD: 9 moves
 - tylergratz: 9 moves
-- theFalIeniD: 8 moves
 - SammyA: 8 moves
 - AnthonyJania: 7 moves
 - jmikolay: 4 moves
