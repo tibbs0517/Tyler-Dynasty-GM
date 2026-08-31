@@ -15004,7 +15004,7 @@
     "name": "Jimmy Holiday",
     "position": "WR",
     "team": "KC",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "6958": {
@@ -30011,7 +30011,7 @@
   "13635": {
     "name": "Avery Smith",
     "position": "CB",
-    "team": "LAC",
+    "team": "SEA",
     "status": "Active",
     "active": true
   },
@@ -58012,7 +58012,7 @@
     "name": "Christian Kirk",
     "position": "WR",
     "team": "SF",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3995": {
@@ -65123,7 +65123,7 @@
   "12801": {
     "name": "TeRah Edwards",
     "position": "DL",
-    "team": "LAC",
+    "team": "CAR",
     "status": "Active",
     "active": true
   },
