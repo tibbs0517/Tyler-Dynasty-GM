@@ -296,7 +296,7 @@
   "6923": {
     "name": "Geno Stone",
     "position": "DB",
-    "team": null,
+    "team": "BUF",
     "status": "Active",
     "active": true
   },
@@ -947,7 +947,7 @@
   "2330": {
     "name": "Shaq Thompson",
     "position": "LB",
-    "team": null,
+    "team": "BUF",
     "status": "Active",
     "active": true
   },
@@ -26840,7 +26840,7 @@
   "11824": {
     "name": "Travis Clayton",
     "position": "OT",
-    "team": null,
+    "team": "BUF",
     "status": "Active",
     "active": true
   },
@@ -31782,7 +31782,7 @@
   "12756": {
     "name": "Stephen Gosnell",
     "position": "WR",
-    "team": null,
+    "team": "BUF",
     "status": "Active",
     "active": true
   },
@@ -32230,7 +32230,7 @@
   "13696": {
     "name": "Ja'Mori Maclin",
     "position": "WR",
-    "team": null,
+    "team": "BUF",
     "status": "Active",
     "active": true
   },
@@ -36003,7 +36003,7 @@
   "12764": {
     "name": "Keonta Jenkins",
     "position": "LB",
-    "team": null,
+    "team": "BUF",
     "status": "Active",
     "active": true
   },
@@ -40280,7 +40280,7 @@
   "8002": {
     "name": "Shane Buechele",
     "position": "QB",
-    "team": null,
+    "team": "BUF",
     "status": "Active",
     "active": true
   },
@@ -40735,7 +40735,7 @@
   "12457": {
     "name": "Jaydon Blue",
     "position": "RB",
-    "team": null,
+    "team": "PHI",
     "status": "Active",
     "active": true
   },
@@ -49485,7 +49485,7 @@
   "11041": {
     "name": "Andre Jones",
     "position": "DE",
-    "team": null,
+    "team": "BUF",
     "status": "Active",
     "active": true
   },
@@ -54658,7 +54658,7 @@
   "11455": {
     "name": "Anthony Kendall",
     "position": "CB",
-    "team": null,
+    "team": "BUF",
     "status": "Active",
     "active": true
   },
@@ -61868,7 +61868,7 @@
   "11573": {
     "name": "Frank Gore",
     "position": "RB",
-    "team": null,
+    "team": "BUF",
     "status": "Active",
     "active": true
   },
@@ -62162,7 +62162,7 @@
   "5154": {
     "name": "Trent Sherfield",
     "position": "WR",
-    "team": null,
+    "team": "BUF",
     "status": "Active",
     "active": true
   },
@@ -68399,7 +68399,7 @@
   "12686": {
     "name": "Chase Lundt",
     "position": "OL",
-    "team": null,
+    "team": "BUF",
     "status": "Active",
     "active": true
   },
@@ -70359,7 +70359,7 @@
   "12380": {
     "name": "Te'Cory Couch",
     "position": "CB",
-    "team": null,
+    "team": "BUF",
     "status": "Active",
     "active": true
   },
@@ -70646,7 +70646,7 @@
   "6787": {
     "name": "Jedrick Wills",
     "position": "OT",
-    "team": null,
+    "team": "BUF",
     "status": "Active",
     "active": true
   },
@@ -72837,7 +72837,7 @@
   "13694": {
     "name": "Kani Walker",
     "position": "DB",
-    "team": null,
+    "team": "BUF",
     "status": "Active",
     "active": true
   },
@@ -74979,7 +74979,7 @@
   "5970": {
     "name": "Greg Dortch",
     "position": "WR",
-    "team": null,
+    "team": "BUF",
     "status": "Active",
     "active": true
   },

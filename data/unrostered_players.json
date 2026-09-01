@@ -6765,7 +6765,7 @@
     "id": "11573",
     "name": "Frank Gore",
     "position": "RB",
-    "team": null,
+    "team": "BUF",
     "status": "Active"
   },
   {
@@ -7150,7 +7150,7 @@
     "id": "5970",
     "name": "Greg Dortch",
     "position": "WR",
-    "team": null,
+    "team": "BUF",
     "status": "Active"
   },
   {
@@ -7822,7 +7822,7 @@
     "id": "13696",
     "name": "Ja'Mori Maclin",
     "position": "WR",
-    "team": null,
+    "team": "BUF",
     "status": "Active"
   },
   {
@@ -9180,7 +9180,7 @@
     "id": "12457",
     "name": "Jaydon Blue",
     "position": "RB",
-    "team": null,
+    "team": "PHI",
     "status": "Active"
   },
   {
@@ -16747,7 +16747,7 @@
     "id": "8002",
     "name": "Shane Buechele",
     "position": "QB",
-    "team": null,
+    "team": "BUF",
     "status": "Active"
   },
   {
@@ -17111,7 +17111,7 @@
     "id": "12756",
     "name": "Stephen Gosnell",
     "position": "WR",
-    "team": null,
+    "team": "BUF",
     "status": "Active"
   },
   {
@@ -18371,7 +18371,7 @@
     "id": "5154",
     "name": "Trent Sherfield",
     "position": "WR",
-    "team": null,
+    "team": "BUF",
     "status": "Active"
   },
   {
