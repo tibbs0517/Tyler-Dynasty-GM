@@ -61,10 +61,7 @@
     },
     "avatar": null,
     "company_id": null,
-    "shard": 470,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
+    "last_message_id": "1400046716215947264",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -111,8 +108,10 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1400046716215947264",
-    "draft_id": "1326711861202161664",
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "shard": 470,
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -122,6 +121,7 @@
     "last_message_time": 1788159658058,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1326711861202161664",
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
     "roster_positions": [
@@ -11017,7 +11017,7 @@
     "13704": {
       "name": "Riley Mahlman",
       "position": "OT",
-      "team": null,
+      "team": "ATL",
       "status": "Active",
       "active": true
     },
@@ -14741,7 +14741,7 @@
     "13846": {
       "name": "Jack Velling",
       "position": "TE",
-      "team": null,
+      "team": "ATL",
       "status": "Active",
       "active": true
     },
@@ -18423,7 +18423,7 @@
     "4443": {
       "name": "Pharaoh Brown",
       "position": "TE",
-      "team": null,
+      "team": "IND",
       "status": "Active",
       "active": true
     },
@@ -18598,7 +18598,7 @@
     "8523": {
       "name": "Nick Muse",
       "position": "TE",
-      "team": null,
+      "team": "ATL",
       "status": "Active",
       "active": true
     },
@@ -29357,7 +29357,7 @@
     "6882": {
       "name": "Darnay Holmes",
       "position": "CB",
-      "team": null,
+      "team": "ATL",
       "status": "Active",
       "active": true
     },
@@ -37085,7 +37085,7 @@
     "12460": {
       "name": "Antwane Wells",
       "position": "WR",
-      "team": null,
+      "team": "ATL",
       "status": "Active",
       "active": true
     },
@@ -41761,7 +41761,7 @@
     "8207": {
       "name": "Tyler Goodson",
       "position": "RB",
-      "team": null,
+      "team": "ATL",
       "status": "Active",
       "active": true
     },
@@ -43952,7 +43952,7 @@
     "13701": {
       "name": "Carlos Allen",
       "position": "DT",
-      "team": null,
+      "team": "ATL",
       "status": "Active",
       "active": true
     },
@@ -44162,7 +44162,7 @@
     "13595": {
       "name": "Cash Jones",
       "position": "RB",
-      "team": null,
+      "team": "ATL",
       "status": "Active",
       "active": true
     },
@@ -46717,7 +46717,7 @@
     "5757": {
       "name": "Josh Woods",
       "position": "LB",
-      "team": null,
+      "team": "ATL",
       "status": "Active",
       "active": true
     },
@@ -49405,7 +49405,7 @@
     "12603": {
       "name": "Cobee Bryant",
       "position": "DB",
-      "team": null,
+      "team": "ATL",
       "status": "Active",
       "active": true
     },
@@ -50147,7 +50147,7 @@
     "13703": {
       "name": "Kam Dewberry",
       "position": "OL",
-      "team": null,
+      "team": "ATL",
       "status": "Active",
       "active": true
     },
@@ -50875,7 +50875,7 @@
     "11474": {
       "name": "Dylan Drummond",
       "position": "WR",
-      "team": null,
+      "team": "ATL",
       "status": "Active",
       "active": true
     },
@@ -55026,7 +55026,7 @@
     "13343": {
       "name": "Vinny Anthony",
       "position": "WR",
-      "team": null,
+      "team": "ATL",
       "status": "Active",
       "active": true
     },
@@ -56636,7 +56636,7 @@
     "13700": {
       "name": "James Brockermeyer",
       "position": "C",
-      "team": null,
+      "team": "ATL",
       "status": "Active",
       "active": true
     },
@@ -65323,7 +65323,7 @@
     "7727": {
       "name": "Cameron Sample",
       "position": "DE",
-      "team": null,
+      "team": "ATL",
       "status": "Active",
       "active": true
     },
@@ -80037,7 +80037,7 @@
     "12826": {
       "name": "Ulysses Bentley",
       "position": "RB",
-      "team": null,
+      "team": "IND",
       "status": "Active",
       "active": true
     },
@@ -87740,7 +87740,7 @@
       "id": "12460",
       "name": "Antwane Wells",
       "position": "WR",
-      "team": null,
+      "team": "ATL",
       "status": "Active"
     },
     {
@@ -89567,7 +89567,7 @@
       "id": "13595",
       "name": "Cash Jones",
       "position": "RB",
-      "team": null,
+      "team": "ATL",
       "status": "Active"
     },
     {
@@ -92969,7 +92969,7 @@
       "id": "11474",
       "name": "Dylan Drummond",
       "position": "WR",
-      "team": null,
+      "team": "ATL",
       "status": "Active"
     },
     {
@@ -94810,7 +94810,7 @@
       "id": "13846",
       "name": "Jack Velling",
       "position": "TE",
-      "team": null,
+      "team": "ATL",
       "status": "Active"
     },
     {
@@ -101488,7 +101488,7 @@
       "id": "8523",
       "name": "Nick Muse",
       "position": "TE",
-      "team": null,
+      "team": "ATL",
       "status": "Active"
     },
     {
@@ -102006,7 +102006,7 @@
       "id": "4443",
       "name": "Pharaoh Brown",
       "position": "TE",
-      "team": null,
+      "team": "IND",
       "status": "Active"
     },
     {
@@ -105653,7 +105653,7 @@
       "id": "8207",
       "name": "Tyler Goodson",
       "position": "RB",
-      "team": null,
+      "team": "ATL",
       "status": "Active"
     },
     {
@@ -105912,7 +105912,7 @@
       "id": "12826",
       "name": "Ulysses Bentley",
       "position": "RB",
-      "team": null,
+      "team": "IND",
       "status": "Active"
     },
     {
@@ -105996,7 +105996,7 @@
       "id": "13343",
       "name": "Vinny Anthony",
       "position": "WR",
-      "team": null,
+      "team": "ATL",
       "status": "Active"
     },
     {
