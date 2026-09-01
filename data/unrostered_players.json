@@ -2880,7 +2880,7 @@
     "id": "10228",
     "name": "Charlie Jones",
     "position": "WR",
-    "team": null,
+    "team": "NYG",
     "status": "Active"
   },
   {
@@ -3874,8 +3874,8 @@
     "id": "13355",
     "name": "DJ Rogers",
     "position": "TE",
-    "team": null,
-    "status": "Active"
+    "team": "DAL",
+    "status": "Inactive"
   },
   {
     "id": "12973",
@@ -4791,7 +4791,7 @@
     "id": "13339",
     "name": "Davon Booth",
     "position": "RB",
-    "team": null,
+    "team": "IND",
     "status": "Active"
   },
   {
@@ -5050,7 +5050,7 @@
     "id": "14020",
     "name": "Dean Patterson",
     "position": "WR",
-    "team": null,
+    "team": "TB",
     "status": "Active"
   },
   {
@@ -5736,7 +5736,7 @@
     "id": "12732",
     "name": "Dominic Lovett",
     "position": "WR",
-    "team": null,
+    "team": "DET",
     "status": "Active"
   },
   {
@@ -6555,7 +6555,7 @@
     "id": "13316",
     "name": "Eric Rivers",
     "position": "WR",
-    "team": null,
+    "team": "TB",
     "status": "Active"
   },
   {
@@ -6877,7 +6877,7 @@
     "id": "12792",
     "name": "Garrett Greene",
     "position": "QB",
-    "team": null,
+    "team": "TB",
     "status": "Active"
   },
   {
@@ -10692,7 +10692,7 @@
     "id": "12787",
     "name": "Josh Williams",
     "position": "RB",
-    "team": null,
+    "team": "TB",
     "status": "Active"
   },
   {
@@ -12022,7 +12022,7 @@
     "id": "13749",
     "name": "Kole Wilson",
     "position": "WR",
-    "team": null,
+    "team": "CLE",
     "status": "Active"
   },
   {
@@ -15046,7 +15046,7 @@
     "id": "12901",
     "name": "Patrick Herbert",
     "position": "TE",
-    "team": null,
+    "team": "LAC",
     "status": "Active"
   },
   {
@@ -18315,7 +18315,7 @@
     "id": "13116",
     "name": "Tre Watson",
     "position": "TE",
-    "team": null,
+    "team": "MIA",
     "status": "Active"
   },
   {
@@ -18784,7 +18784,7 @@
     "id": "5133",
     "name": "Tyler Conklin",
     "position": "TE",
-    "team": null,
+    "team": "DET",
     "status": "Active"
   },
   {
@@ -19302,7 +19302,7 @@
     "id": "12788",
     "name": "Will Sheppard",
     "position": "WR",
-    "team": null,
+    "team": "MIA",
     "status": "Active"
   },
   {
