@@ -1385,7 +1385,7 @@
     "age": 26,
     "years_exp": 3,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -2243,7 +2243,7 @@
     "age": 28,
     "years_exp": 4,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -2629,7 +2629,7 @@
     "id": "11044",
     "name": "Nick Broeker",
     "position": "OL",
-    "team": null,
+    "team": "BUF",
     "age": 25,
     "years_exp": 3,
     "active": true,
@@ -7508,7 +7508,7 @@
     "age": 24,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -14086,7 +14086,7 @@
     "age": 27,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -15438,7 +15438,7 @@
     "age": 25,
     "years_exp": 2,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -22822,7 +22822,7 @@
     "age": null,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -28776,7 +28776,7 @@
     "age": 22,
     "years_exp": 0,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -30661,7 +30661,7 @@
     "age": 26,
     "years_exp": 5,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -34197,7 +34197,7 @@
     "age": 24,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -36132,7 +36132,7 @@
     "position": "WR",
     "team": "CIN",
     "age": 26,
-    "years_exp": 3,
+    "years_exp": 0,
     "active": true,
     "injury_status": null,
     "bye_week": null,
@@ -36303,7 +36303,7 @@
     "age": 24,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -37135,7 +37135,7 @@
     "age": 26,
     "years_exp": 5,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -38136,7 +38136,7 @@
     "age": 24,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -43141,7 +43141,7 @@
     "age": 27,
     "years_exp": 2,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -49810,7 +49810,7 @@
     "age": 27,
     "years_exp": 2,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -62082,7 +62082,7 @@
     "age": null,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -69423,7 +69423,7 @@
     "id": "13562",
     "name": "Keyshawn James-Newby",
     "position": "DE",
-    "team": null,
+    "team": "PHI",
     "age": 24,
     "years_exp": 0,
     "active": true,
@@ -69804,7 +69804,7 @@
     "age": 24,
     "years_exp": 2,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -75656,8 +75656,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": true,
-    "roster_id": 5
+    "rostered": false,
+    "roster_id": null
   },
   "7659": {
     "id": "7659",
@@ -76079,7 +76079,7 @@
     "id": "7039",
     "name": "Cody White",
     "position": "WR",
-    "team": "SEA",
+    "team": "LV",
     "age": 27,
     "years_exp": 6,
     "active": true,
@@ -77032,7 +77032,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -83450,7 +83450,7 @@
     "id": "13598",
     "name": "Mason Reiger",
     "position": "DE",
-    "team": null,
+    "team": "PHI",
     "age": 24,
     "years_exp": 0,
     "active": true,
@@ -94175,7 +94175,7 @@
     "id": "8129",
     "name": "Dameon Pierce",
     "position": "RB",
-    "team": null,
+    "team": "PHI",
     "age": 26,
     "years_exp": 4,
     "active": true,
@@ -103929,7 +103929,7 @@
     "age": 28,
     "years_exp": 4,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -104332,7 +104332,7 @@
     "age": 25,
     "years_exp": 2,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -106659,7 +106659,7 @@
     "age": 25,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -109950,8 +109950,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": false,
-    "roster_id": null
+    "rostered": true,
+    "roster_id": 5
   },
   "2319": {
     "id": "2319",
@@ -110559,7 +110559,7 @@
     "age": 23,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -113159,7 +113159,7 @@
     "age": 24,
     "years_exp": 2,
     "active": true,
-    "injury_status": null,
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -114572,7 +114572,7 @@
     "id": "11582",
     "name": "Carson Steele",
     "position": "RB",
-    "team": null,
+    "team": "PHI",
     "age": 23,
     "years_exp": 2,
     "active": true,
@@ -115226,7 +115226,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -122345,7 +122345,7 @@
   "12938": {
     "id": "12938",
     "name": "Jackson Meeks",
-    "position": "WR",
+    "position": "TE",
     "team": "DET",
     "age": 23,
     "years_exp": 1,
@@ -123611,7 +123611,7 @@
     "age": null,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -123845,7 +123845,7 @@
     "age": null,
     "years_exp": 0,
     "active": true,
-    "injury_status": null,
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -124625,7 +124625,7 @@
     "age": null,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -129067,7 +129067,7 @@
     "id": "12709",
     "name": "Myles Hinton",
     "position": "OT",
-    "team": null,
+    "team": "CIN",
     "age": 24,
     "years_exp": 1,
     "active": true,
@@ -130800,7 +130800,7 @@
     "age": 25,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -137677,7 +137677,7 @@
     "age": 26,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -142929,7 +142929,7 @@
     "age": 24,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -147453,7 +147453,7 @@
     "age": 25,
     "years_exp": 2,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -154876,7 +154876,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -157034,7 +157034,7 @@
     "age": 25,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null

@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-09-01 01:34:24
+Generated: 2026-09-01 07:09:37
 
 ---
 
@@ -16,7 +16,7 @@ Available Players: 2814
 ## League Activity
 
 Trades: 4
-Waiver Claims: 28
+Waiver Claims: 29
 Free Agent Moves: 48
 
 ---
@@ -40,6 +40,7 @@ Players on Roster: 23
 
 ## Top Waiver Claims
 
+- Zavion Thomas → tylergratz
 - Justice Hill → tylerhjensen
 - Kirk Cousins → theFalIeniD
 - Malik Davis → tylerhjensen
@@ -71,6 +72,7 @@ Players on Roster: 23
 
 ## Recently Dropped Players
 
+- Jaydon Blue
 - Jack Strand
 - Cade Otton
 - David Njoku
@@ -85,7 +87,6 @@ Players on Roster: 23
 - Geno Smith
 - Brenton Strange
 - James Conner
-- MarShawn Lloyd
 
 ---
 
@@ -94,9 +95,9 @@ Players on Roster: 23
 - tylerhjensen: 16 moves
 - TheCreecher: 13 moves
 - HebrewsHeroes: 12 moves
+- tylergratz: 10 moves
 - HoNeYmOOnBaBy: 10 moves
 - theFalIeniD: 9 moves
-- tylergratz: 9 moves
 - SammyA: 8 moves
 - AnthonyJania: 7 moves
 - jmikolay: 4 moves

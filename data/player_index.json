@@ -619,7 +619,7 @@
     "name": "JD Bertrand",
     "position": "LB",
     "team": "ATL",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "13064": {
@@ -1416,7 +1416,7 @@
   "11044": {
     "name": "Nick Broeker",
     "position": "OL",
-    "team": null,
+    "team": "BUF",
     "status": "Active",
     "active": true
   },
@@ -37382,7 +37382,7 @@
   "13562": {
     "name": "Keyshawn James-Newby",
     "position": "DE",
-    "team": null,
+    "team": "PHI",
     "status": "Active",
     "active": true
   },
@@ -40966,7 +40966,7 @@
   "7039": {
     "name": "Cody White",
     "position": "WR",
-    "team": "SEA",
+    "team": "LV",
     "status": "Active",
     "active": true
   },
@@ -44935,8 +44935,8 @@
   "13598": {
     "name": "Mason Reiger",
     "position": "DE",
-    "team": null,
-    "status": "Inactive",
+    "team": "PHI",
+    "status": "Active",
     "active": true
   },
   "7090": {
@@ -47834,7 +47834,7 @@
     "name": "Dont'e Thornton",
     "position": "WR",
     "team": "LV",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "2913": {
@@ -50710,7 +50710,7 @@
   "8129": {
     "name": "Dameon Pierce",
     "position": "RB",
-    "team": null,
+    "team": "PHI",
     "status": "Active",
     "active": true
   },
@@ -61693,7 +61693,7 @@
   "11582": {
     "name": "Carson Steele",
     "position": "RB",
-    "team": null,
+    "team": "PHI",
     "status": "Active",
     "active": true
   },
@@ -65878,7 +65878,7 @@
   },
   "12938": {
     "name": "Jackson Meeks",
-    "position": "WR",
+    "position": "TE",
     "team": "DET",
     "status": "Active",
     "active": true
@@ -69498,7 +69498,7 @@
   "12709": {
     "name": "Myles Hinton",
     "position": "OT",
-    "team": null,
+    "team": "CIN",
     "status": "Active",
     "active": true
   },

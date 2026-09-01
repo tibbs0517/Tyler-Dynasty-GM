@@ -2642,7 +2642,7 @@
     "id": "11582",
     "name": "Carson Steele",
     "position": "RB",
-    "team": null,
+    "team": "PHI",
     "status": "Active"
   },
   {
@@ -3384,7 +3384,7 @@
     "id": "7039",
     "name": "Cody White",
     "position": "WR",
-    "team": "SEA",
+    "team": "LV",
     "status": "Active"
   },
   {
@@ -4098,7 +4098,7 @@
     "id": "8129",
     "name": "Dameon Pierce",
     "position": "RB",
-    "team": null,
+    "team": "PHI",
     "status": "Active"
   },
   {
@@ -5807,7 +5807,7 @@
     "name": "Dont'e Thornton",
     "position": "WR",
     "team": "LV",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "12946",
@@ -7996,7 +7996,7 @@
   {
     "id": "12938",
     "name": "Jackson Meeks",
-    "position": "WR",
+    "position": "TE",
     "team": "DET",
     "status": "Active"
   },
@@ -9172,6 +9172,13 @@
   {
     "id": "13419",
     "name": "Jaydn Ott",
+    "position": "RB",
+    "team": null,
+    "status": "Active"
+  },
+  {
+    "id": "12457",
+    "name": "Jaydon Blue",
     "position": "RB",
     "team": null,
     "status": "Active"
@@ -19653,13 +19660,6 @@
     "name": "Zavier Scott",
     "position": "RB",
     "team": "MIN",
-    "status": "Active"
-  },
-  {
-    "id": "13411",
-    "name": "Zavion Thomas",
-    "position": "WR",
-    "team": "CHI",
     "status": "Active"
   },
   {
