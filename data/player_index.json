@@ -619,7 +619,7 @@
     "name": "JD Bertrand",
     "position": "LB",
     "team": "ATL",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "13064": {
@@ -3649,7 +3649,7 @@
   "10934": {
     "name": "Zach Harrison",
     "position": "DE",
-    "team": null,
+    "team": "ATL",
     "status": "Active",
     "active": true
   },
@@ -5833,7 +5833,7 @@
   "12819": {
     "name": "Kevin Knowles",
     "position": "DB",
-    "team": "KC",
+    "team": "TB",
     "status": "Active",
     "active": true
   },
@@ -9065,9 +9065,9 @@
     "active": true
   },
   "13795": {
-    "name": "VJ Anthony",
+    "name": "Vincent Anthony",
     "position": "DE",
-    "team": null,
+    "team": "SF",
     "status": "Active",
     "active": true
   },
@@ -21919,7 +21919,7 @@
   "13792": {
     "name": "Josh Thompson",
     "position": "G",
-    "team": null,
+    "team": "ATL",
     "status": "Active",
     "active": true
   },
@@ -22129,7 +22129,7 @@
   "5087": {
     "name": "JK Scott",
     "position": "P",
-    "team": null,
+    "team": "LAC",
     "status": "Active",
     "active": true
   },
@@ -26749,7 +26749,7 @@
   "6060": {
     "name": "Sean Murphy-Bunting",
     "position": "CB",
-    "team": null,
+    "team": "TB",
     "status": "Active",
     "active": true
   },
@@ -33182,7 +33182,7 @@
   "10972": {
     "name": "Terell Smith",
     "position": "DB",
-    "team": null,
+    "team": "WAS",
     "status": "Active",
     "active": true
   },
@@ -36704,7 +36704,7 @@
     "name": "Ben Sims",
     "position": "TE",
     "team": "MIA",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "12085": {
@@ -39139,7 +39139,7 @@
   "13737": {
     "name": "Silas Walters",
     "position": "DB",
-    "team": null,
+    "team": "TB",
     "status": "Active",
     "active": true
   },
@@ -45369,7 +45369,7 @@
   "6864": {
     "name": "Khalid Kareem",
     "position": "DE",
-    "team": null,
+    "team": "ATL",
     "status": "Active",
     "active": true
   },
@@ -46685,7 +46685,7 @@
   "11679": {
     "name": "Chris Braswell",
     "position": "LB",
-    "team": null,
+    "team": "HOU",
     "status": "Active",
     "active": true
   },
@@ -49205,7 +49205,7 @@
   "10986": {
     "name": "Jammie Robinson",
     "position": "DB",
-    "team": null,
+    "team": "ATL",
     "status": "Active",
     "active": true
   },
@@ -54168,7 +54168,7 @@
   "12984": {
     "name": "CJ Dippre",
     "position": "TE",
-    "team": null,
+    "team": "TB",
     "status": "Active",
     "active": true
   },
@@ -54413,7 +54413,7 @@
   "2130": {
     "name": "Kyle Van Noy",
     "position": "LB",
-    "team": null,
+    "team": "MIN",
     "status": "Active",
     "active": true
   },
@@ -62911,7 +62911,7 @@
   "13878": {
     "name": "Ka'ena De Cambra",
     "position": "C",
-    "team": null,
+    "team": "HOU",
     "status": "Active",
     "active": true
   },

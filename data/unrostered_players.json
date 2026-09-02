@@ -1313,7 +1313,7 @@
     "name": "Ben Sims",
     "position": "TE",
     "team": "MIA",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "11596",
@@ -2278,7 +2278,7 @@
     "id": "12984",
     "name": "CJ Dippre",
     "position": "TE",
-    "team": null,
+    "team": "TB",
     "status": "Active"
   },
   {
