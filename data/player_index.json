@@ -6855,7 +6855,7 @@
   "11489": {
     "name": "Kahlef Hailassie",
     "position": "CB",
-    "team": null,
+    "team": "MIN",
     "status": "Active",
     "active": true
   },
@@ -9060,7 +9060,7 @@
   "14024": {
     "name": "Bangally Kamara",
     "position": "LB",
-    "team": null,
+    "team": "MIN",
     "status": "Active",
     "active": true
   },
@@ -14940,7 +14940,7 @@
   "5519": {
     "name": "Tavierre Thomas",
     "position": "DB",
-    "team": null,
+    "team": "MIN",
     "status": "Active",
     "active": true
   },
@@ -24705,7 +24705,7 @@
   "11446": {
     "name": "Henry Byrd",
     "position": "G",
-    "team": null,
+    "team": "MIN",
     "status": "Active",
     "active": true
   },
@@ -45558,7 +45558,7 @@
   "13032": {
     "name": "Marshall Lang",
     "position": "TE",
-    "team": null,
+    "team": "MIN",
     "status": "Active",
     "active": true
   },
@@ -56184,8 +56184,8 @@
   "12391": {
     "name": "Kenny Dyson",
     "position": "LB",
-    "team": null,
-    "status": "Active",
+    "team": "MIN",
+    "status": "Inactive",
     "active": true
   },
   "12497": {
@@ -60937,8 +60937,8 @@
   "12072": {
     "name": "Jacob Roberts",
     "position": "LB",
-    "team": null,
-    "status": "Active",
+    "team": "MIN",
+    "status": "Inactive",
     "active": true
   },
   "5830": {
@@ -63233,7 +63233,7 @@
   "13614": {
     "name": "Cam'Ron Stewart",
     "position": "LB",
-    "team": null,
+    "team": "MIN",
     "status": "Active",
     "active": true
   },
@@ -69197,8 +69197,8 @@
   "13611": {
     "name": "Marcus Allen",
     "position": "CB",
-    "team": null,
-    "status": "Active",
+    "team": "MIN",
+    "status": "Inactive",
     "active": true
   },
   "2332": {
@@ -71059,7 +71059,7 @@
   "14038": {
     "name": "Trayvon Rudolph",
     "position": "WR",
-    "team": null,
+    "team": "MIN",
     "status": "Active",
     "active": true
   },
@@ -76967,8 +76967,8 @@
   "12740": {
     "name": "Jack Nelson",
     "position": "OT",
-    "team": null,
-    "status": "Inactive",
+    "team": "MIN",
+    "status": "Active",
     "active": true
   },
   "8328": {
