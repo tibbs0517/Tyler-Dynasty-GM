@@ -2082,7 +2082,7 @@
     "id": "11959",
     "name": "Bryce Oliver",
     "position": "WR",
-    "team": null,
+    "team": "CLE",
     "status": "Active"
   },
   {
@@ -2453,7 +2453,7 @@
     "id": "12906",
     "name": "Cam Camper",
     "position": "WR",
-    "team": "NYJ",
+    "team": null,
     "status": "Active"
   },
   {
@@ -3916,7 +3916,7 @@
     "id": "12892",
     "name": "Da'Quan Felton",
     "position": "WR",
-    "team": "NYJ",
+    "team": null,
     "status": "Active"
   },
   {
@@ -5085,7 +5085,7 @@
     "id": "6931",
     "name": "DeeJay Dallas",
     "position": "RB",
-    "team": null,
+    "team": "MIN",
     "status": "Active"
   },
   {
@@ -7262,7 +7262,7 @@
     "id": "13776",
     "name": "Hank Beatty",
     "position": "WR",
-    "team": "TEN",
+    "team": null,
     "status": "Active"
   },
   {
@@ -9747,7 +9747,7 @@
     "id": "11557",
     "name": "Joe Milton",
     "position": "QB",
-    "team": "DAL",
+    "team": null,
     "status": "Active"
   },
   {
@@ -11763,7 +11763,7 @@
     "id": "8200",
     "name": "Kevin Austin",
     "position": "WR",
-    "team": "NO",
+    "team": null,
     "status": "Active"
   },
   {
@@ -14710,7 +14710,7 @@
     "id": "3258",
     "name": "Nick Vannett",
     "position": "TE",
-    "team": null,
+    "team": "BAL",
     "status": "Active"
   },
   {
@@ -16005,7 +16005,7 @@
     "id": "14008",
     "name": "Rodney Hammond",
     "position": "RB",
-    "team": "DEN",
+    "team": null,
     "status": "Active"
   },
   {
@@ -17699,7 +17699,7 @@
     "id": "13780",
     "name": "Terion Stewart",
     "position": "RB",
-    "team": "KC",
+    "team": null,
     "status": "Active"
   },
   {
@@ -18595,7 +18595,7 @@
     "id": "12079",
     "name": "Treyton Welch",
     "position": "TE",
-    "team": "NO",
+    "team": null,
     "status": "Active"
   },
   {
@@ -19078,7 +19078,7 @@
     "id": "12826",
     "name": "Ulysses Bentley",
     "position": "RB",
-    "team": "IND",
+    "team": null,
     "status": "Active"
   },
   {
@@ -19428,7 +19428,7 @@
     "id": "12520",
     "name": "Xavier Restrepo",
     "position": "WR",
-    "team": null,
+    "team": "TEN",
     "status": "Active"
   },
   {
@@ -19470,7 +19470,7 @@
     "id": "11921",
     "name": "Xavier Weaver",
     "position": "WR",
-    "team": "ARI",
+    "team": null,
     "status": "Inactive"
   },
   {

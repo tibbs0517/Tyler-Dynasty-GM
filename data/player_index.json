@@ -4062,7 +4062,7 @@
   "11557": {
     "name": "Joe Milton",
     "position": "QB",
-    "team": "DAL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -4762,8 +4762,8 @@
   "13894": {
     "name": "Justin Pickett",
     "position": "G",
-    "team": null,
-    "status": "Active",
+    "team": "LV",
+    "status": "Inactive",
     "active": true
   },
   "12844": {
@@ -5672,7 +5672,7 @@
   "13751": {
     "name": "Michael Coats",
     "position": "CB",
-    "team": "CLE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -5791,7 +5791,7 @@
   "12155": {
     "name": "Nate Lynn",
     "position": "DL",
-    "team": "JAX",
+    "team": "NYJ",
     "status": "Active",
     "active": true
   },
@@ -13358,7 +13358,7 @@
   "11921": {
     "name": "Xavier Weaver",
     "position": "WR",
-    "team": "ARI",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -21464,7 +21464,7 @@
   "13612": {
     "name": "Scooby Williams",
     "position": "LB",
-    "team": "MIN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -21975,7 +21975,7 @@
   "13971": {
     "name": "Caden Fordham",
     "position": "LB",
-    "team": "TB",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -24474,7 +24474,7 @@
   "12079": {
     "name": "Treyton Welch",
     "position": "TE",
-    "team": "NO",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -26707,7 +26707,7 @@
   "11959": {
     "name": "Bryce Oliver",
     "position": "WR",
-    "team": null,
+    "team": "CLE",
     "status": "Active",
     "active": true
   },
@@ -29745,7 +29745,7 @@
   "12906": {
     "name": "Cam Camper",
     "position": "WR",
-    "team": "NYJ",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -31866,7 +31866,7 @@
   "6851": {
     "name": "Julian Okwara",
     "position": "LB",
-    "team": "CLE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -35478,7 +35478,7 @@
   "13780": {
     "name": "Terion Stewart",
     "position": "RB",
-    "team": "KC",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -37585,7 +37585,7 @@
   "10997": {
     "name": "Jerrick Reed",
     "position": "DB",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
@@ -40714,7 +40714,7 @@
   "12979": {
     "name": "Josh Minkins",
     "position": "DB",
-    "team": "ARI",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -40847,7 +40847,7 @@
   "12548": {
     "name": "Lenny Krieg",
     "position": "K",
-    "team": null,
+    "team": "GB",
     "status": "Active",
     "active": true
   },
@@ -43836,7 +43836,7 @@
   "13776": {
     "name": "Hank Beatty",
     "position": "WR",
-    "team": "TEN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -45628,7 +45628,7 @@
   "3258": {
     "name": "Nick Vannett",
     "position": "TE",
-    "team": null,
+    "team": "BAL",
     "status": "Active",
     "active": true
   },
@@ -47322,7 +47322,7 @@
   "14008": {
     "name": "Rodney Hammond",
     "position": "RB",
-    "team": "DEN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -48148,7 +48148,7 @@
   "12603": {
     "name": "Cobee Bryant",
     "position": "DB",
-    "team": "ATL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -49653,7 +49653,7 @@
   "13216": {
     "name": "Derrick Canteen",
     "position": "CB",
-    "team": "TEN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -50367,7 +50367,7 @@
   "13893": {
     "name": "Mani Powell",
     "position": "LB",
-    "team": "TEN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -50906,7 +50906,7 @@
   "14013": {
     "name": "Tyce Westland",
     "position": "DE",
-    "team": "DEN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -54462,7 +54462,7 @@
   "13054": {
     "name": "Junior Tafuna",
     "position": "DT",
-    "team": null,
+    "team": "HOU",
     "status": "Active",
     "active": true
   },
@@ -58613,7 +58613,7 @@
   "6931": {
     "name": "DeeJay Dallas",
     "position": "RB",
-    "team": null,
+    "team": "MIN",
     "status": "Active",
     "active": true
   },
@@ -62288,7 +62288,7 @@
   "12520": {
     "name": "Xavier Restrepo",
     "position": "WR",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
@@ -64066,7 +64066,7 @@
   "7727": {
     "name": "Cameron Sample",
     "position": "DE",
-    "team": "ATL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -67202,7 +67202,7 @@
   "11350": {
     "name": "Mohamoud Diabate",
     "position": "LB",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
@@ -70310,7 +70310,7 @@
   "8200": {
     "name": "Kevin Austin",
     "position": "WR",
-    "team": "NO",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -74762,7 +74762,7 @@
   "11019": {
     "name": "Erick Hallett",
     "position": "DB",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
@@ -75133,7 +75133,7 @@
   "12892": {
     "name": "Da'Quan Felton",
     "position": "WR",
-    "team": "NYJ",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -76820,7 +76820,7 @@
   "8506": {
     "name": "Nazeeh Johnson",
     "position": "DB",
-    "team": "TEN",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -78780,7 +78780,7 @@
   "12826": {
     "name": "Ulysses Bentley",
     "position": "RB",
-    "team": "IND",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -79725,7 +79725,7 @@
   "8298": {
     "name": "Mario Goodrich",
     "position": "DB",
-    "team": "TEN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -79984,7 +79984,7 @@
   "7880": {
     "name": "Jack Heflin",
     "position": "DT",
-    "team": "JAX",
+    "team": "NYJ",
     "status": "Active",
     "active": true
   },
@@ -83666,8 +83666,8 @@
   "10988": {
     "name": "Cameron Mitchell",
     "position": "DB",
-    "team": null,
-    "status": "Active",
+    "team": "IND",
+    "status": "Inactive",
     "active": true
   },
   "4494": {
