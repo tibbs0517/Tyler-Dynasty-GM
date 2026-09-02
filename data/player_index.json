@@ -4062,7 +4062,7 @@
   "11557": {
     "name": "Joe Milton",
     "position": "QB",
-    "team": null,
+    "team": "DAL",
     "status": "Active",
     "active": true
   },
@@ -12972,7 +12972,7 @@
   },
   "13516": {
     "name": "Max Bredeson",
-    "position": "TE",
+    "position": "RB",
     "team": "MIN",
     "status": "Active",
     "active": true
@@ -14946,7 +14946,7 @@
   },
   "11280": {
     "name": "Brady Russell",
-    "position": "TE",
+    "position": "RB",
     "team": "SEA",
     "status": "Active",
     "active": true
