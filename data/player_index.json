@@ -3733,7 +3733,7 @@
   "8296": {
     "name": "Kaiir Elam",
     "position": "DB",
-    "team": null,
+    "team": "LAC",
     "status": "Active",
     "active": true
   },
@@ -24474,7 +24474,7 @@
   "12079": {
     "name": "Treyton Welch",
     "position": "TE",
-    "team": null,
+    "team": "NO",
     "status": "Active",
     "active": true
   },
@@ -26434,7 +26434,7 @@
   "13680": {
     "name": "Bishop Fitzgerald",
     "position": "DB",
-    "team": null,
+    "team": "PIT",
     "status": "Active",
     "active": true
   },
@@ -52089,7 +52089,7 @@
   "11736": {
     "name": "Jordan Jefferson",
     "position": "DT",
-    "team": null,
+    "team": "LAC",
     "status": "Active",
     "active": true
   },
@@ -60783,7 +60783,7 @@
   "12860": {
     "name": "Theo Wease",
     "position": "WR",
-    "team": null,
+    "team": "LAC",
     "status": "Active",
     "active": true
   },
@@ -68252,7 +68252,7 @@
   "4959": {
     "name": "Scott Daly",
     "position": "LS",
-    "team": null,
+    "team": "GB",
     "status": "Active",
     "active": true
   },
@@ -69764,7 +69764,7 @@
   "5969": {
     "name": "Chuma Edoga",
     "position": "OT",
-    "team": null,
+    "team": "BAL",
     "status": "Active",
     "active": true
   },
@@ -70310,7 +70310,7 @@
   "8200": {
     "name": "Kevin Austin",
     "position": "WR",
-    "team": null,
+    "team": "NO",
     "status": "Active",
     "active": true
   },
@@ -72452,7 +72452,7 @@
   "8041": {
     "name": "Shane Zylstra",
     "position": "TE",
-    "team": null,
+    "team": "NE",
     "status": "Active",
     "active": true
   },
@@ -78143,7 +78143,7 @@
   "12267": {
     "name": "Qadir Ismail",
     "position": "WR",
-    "team": null,
+    "team": "CHI",
     "status": "Active",
     "active": true
   },
