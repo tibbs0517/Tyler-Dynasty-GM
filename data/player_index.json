@@ -1206,7 +1206,7 @@
   "8361": {
     "name": "Damarion Williams",
     "position": "DB",
-    "team": "TB",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -5672,7 +5672,7 @@
   "13751": {
     "name": "Michael Coats",
     "position": "CB",
-    "team": null,
+    "team": "CLE",
     "status": "Active",
     "active": true
   },
@@ -9865,7 +9865,7 @@
   "12356": {
     "name": "Jabari Small",
     "position": "RB",
-    "team": "DET",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -13379,7 +13379,7 @@
   "11173": {
     "name": "D'Shawn Jamison",
     "position": "CB",
-    "team": null,
+    "team": "ARI",
     "status": "Active",
     "active": true
   },
@@ -18181,7 +18181,7 @@
   "13632": {
     "name": "Devonte Ross",
     "position": "WR",
-    "team": "LAC",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -23249,7 +23249,7 @@
   "13606": {
     "name": "Jahmeer Carter",
     "position": "DL",
-    "team": "LAC",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -28828,7 +28828,7 @@
   "12575": {
     "name": "Seth McLaughlin",
     "position": "OL",
-    "team": "DET",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -31894,7 +31894,7 @@
   "11790": {
     "name": "Nathaniel Watson",
     "position": "LB",
-    "team": null,
+    "team": "CLE",
     "status": "Active",
     "active": true
   },
@@ -33434,7 +33434,7 @@
   "13839": {
     "name": "Chase Curtis",
     "position": "TE",
-    "team": "NYJ",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -37879,7 +37879,7 @@
   "13709": {
     "name": "Isaia Glass",
     "position": "OL",
-    "team": "CAR",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -42765,7 +42765,7 @@
   "13967": {
     "name": "Jimmy Kibble",
     "position": "WR",
-    "team": "NE",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -59075,7 +59075,7 @@
   "11469": {
     "name": "Barry Wesley",
     "position": "OL",
-    "team": "NO",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -62526,7 +62526,7 @@
   "12479": {
     "name": "Ja'Quinden Jackson",
     "position": "RB",
-    "team": "PHI",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -64822,7 +64822,7 @@
   "8016": {
     "name": "Max Pircher",
     "position": "OL",
-    "team": null,
+    "team": "HOU",
     "status": "Active",
     "active": true
   },
@@ -66565,7 +66565,7 @@
   "14069": {
     "name": "Connor Hulstein",
     "position": "TE",
-    "team": "NYJ",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -66691,7 +66691,7 @@
   "14073": {
     "name": "Eric Butler",
     "position": "DB",
-    "team": "NE",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -66894,7 +66894,7 @@
   "8702": {
     "name": "Jaylon Jones",
     "position": "CB",
-    "team": "CHI",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -67825,7 +67825,7 @@
   "13131": {
     "name": "Isas Waxter",
     "position": "DB",
-    "team": "LAC",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -69239,7 +69239,7 @@
   "12037": {
     "name": "Reddy Steward",
     "position": "CB",
-    "team": "WAS",
+    "team": "DAL",
     "status": "Active",
     "active": true
   },
@@ -74790,7 +74790,7 @@
   "8313": {
     "name": "JT Woods",
     "position": "DB",
-    "team": "NYG",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -75532,7 +75532,7 @@
   "11993": {
     "name": "Tyrek Funderburk",
     "position": "CB",
-    "team": "CAR",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -80180,7 +80180,7 @@
   "12797": {
     "name": "Ahmani Marshall",
     "position": "RB",
-    "team": null,
+    "team": "CAR",
     "status": "Active",
     "active": true
   },

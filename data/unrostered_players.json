@@ -241,7 +241,7 @@
     "id": "12797",
     "name": "Ahmani Marshall",
     "position": "RB",
-    "team": null,
+    "team": "CAR",
     "status": "Active"
   },
   {
@@ -2936,7 +2936,7 @@
     "id": "13839",
     "name": "Chase Curtis",
     "position": "TE",
-    "team": "NYJ",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -3601,7 +3601,7 @@
     "id": "14069",
     "name": "Connor Hulstein",
     "position": "TE",
-    "team": "NYJ",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -5582,7 +5582,7 @@
     "id": "13632",
     "name": "Devonte Ross",
     "position": "WR",
-    "team": "LAC",
+    "team": null,
     "status": "Active"
   },
   {
@@ -7836,7 +7836,7 @@
     "id": "12479",
     "name": "Ja'Quinden Jackson",
     "position": "RB",
-    "team": "PHI",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -7892,7 +7892,7 @@
     "id": "12356",
     "name": "Jabari Small",
     "position": "RB",
-    "team": "DET",
+    "team": null,
     "status": "Active"
   },
   {
@@ -9670,7 +9670,7 @@
     "id": "13967",
     "name": "Jimmy Kibble",
     "position": "WR",
-    "team": "NE",
+    "team": null,
     "status": "Inactive"
   },
   {
