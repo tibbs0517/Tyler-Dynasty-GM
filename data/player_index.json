@@ -16298,7 +16298,7 @@
   "12436": {
     "name": "Jamie Sheriff",
     "position": "LB",
-    "team": null,
+    "team": "LAR",
     "status": "Active",
     "active": true
   },
@@ -23669,7 +23669,7 @@
   "13028": {
     "name": "Elliott Davison",
     "position": "DB",
-    "team": null,
+    "team": "NE",
     "status": "Active",
     "active": true
   },
@@ -31208,7 +31208,7 @@
   "8170": {
     "name": "James Mitchell",
     "position": "TE",
-    "team": null,
+    "team": "DAL",
     "status": "Active",
     "active": true
   },
@@ -59831,7 +59831,7 @@
   "7649": {
     "name": "Dayo Odeyingbo",
     "position": "DE",
-    "team": null,
+    "team": "CHI",
     "status": "Active",
     "active": true
   },
@@ -63303,7 +63303,7 @@
   "12929": {
     "name": "Brant Banks",
     "position": "OT",
-    "team": null,
+    "team": "NYJ",
     "status": "Active",
     "active": true
   },
@@ -71206,7 +71206,7 @@
   "6867": {
     "name": "Malik Harrison",
     "position": "LB",
-    "team": null,
+    "team": "NYG",
     "status": "Active",
     "active": true
   },
