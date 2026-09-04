@@ -7478,7 +7478,7 @@
   "7653": {
     "name": "Azeez Ojulari",
     "position": "LB",
-    "team": null,
+    "team": "LV",
     "status": "Active",
     "active": true
   },
@@ -8234,7 +8234,7 @@
   "13400": {
     "name": "Justin Joly",
     "position": "TE",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -15654,7 +15654,7 @@
   "12089": {
     "name": "Julius Wood",
     "position": "DB",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -22122,7 +22122,7 @@
   "10221": {
     "name": "Ronnie Bell",
     "position": "WR",
-    "team": null,
+    "team": "LV",
     "status": "Active",
     "active": true
   },
@@ -32314,7 +32314,7 @@
   "11809": {
     "name": "Marcellas Dial",
     "position": "DB",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -37662,7 +37662,7 @@
   "11325": {
     "name": "Reese Taylor",
     "position": "CB",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -39076,7 +39076,7 @@
   "8443": {
     "name": "Evan Neal",
     "position": "OL",
-    "team": null,
+    "team": "LV",
     "status": "Active",
     "active": true
   },
@@ -51515,7 +51515,7 @@
   "12538": {
     "name": "Brady Cook",
     "position": "QB",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -67531,7 +67531,7 @@
   "8001": {
     "name": "Malik Herring",
     "position": "DE",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -67979,7 +67979,7 @@
   "11242": {
     "name": "Chukwuebuka Godrick",
     "position": "OL",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -69099,7 +69099,7 @@
   "1686": {
     "name": "Tony Jefferson",
     "position": "DB",
-    "team": null,
+    "team": "LAC",
     "status": "Active",
     "active": true
   },
@@ -75735,7 +75735,7 @@
   "11784": {
     "name": "Jarrett Kingston",
     "position": "OL",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },

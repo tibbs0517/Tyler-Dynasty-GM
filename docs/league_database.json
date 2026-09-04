@@ -61,10 +61,10 @@
     },
     "avatar": null,
     "company_id": null,
-    "shard": 470,
-    "season": "2026",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 470,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -118,12 +118,13 @@
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "draft_id": "1326711861202161664",
     "last_message_time": 1788246037913,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1326711861202161664",
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -150,7 +151,6 @@
     ],
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -8740,7 +8740,7 @@
     "7653": {
       "name": "Azeez Ojulari",
       "position": "LB",
-      "team": null,
+      "team": "LV",
       "status": "Active",
       "active": true
     },
@@ -9496,7 +9496,7 @@
     "13400": {
       "name": "Justin Joly",
       "position": "TE",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -16916,7 +16916,7 @@
     "12089": {
       "name": "Julius Wood",
       "position": "DB",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -23384,7 +23384,7 @@
     "10221": {
       "name": "Ronnie Bell",
       "position": "WR",
-      "team": null,
+      "team": "LV",
       "status": "Active",
       "active": true
     },
@@ -33576,7 +33576,7 @@
     "11809": {
       "name": "Marcellas Dial",
       "position": "DB",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -38924,7 +38924,7 @@
     "11325": {
       "name": "Reese Taylor",
       "position": "CB",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -40338,7 +40338,7 @@
     "8443": {
       "name": "Evan Neal",
       "position": "OL",
-      "team": null,
+      "team": "LV",
       "status": "Active",
       "active": true
     },
@@ -52777,7 +52777,7 @@
     "12538": {
       "name": "Brady Cook",
       "position": "QB",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -68793,7 +68793,7 @@
     "8001": {
       "name": "Malik Herring",
       "position": "DE",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -69241,7 +69241,7 @@
     "11242": {
       "name": "Chukwuebuka Godrick",
       "position": "OL",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -70361,7 +70361,7 @@
     "1686": {
       "name": "Tony Jefferson",
       "position": "DB",
-      "team": null,
+      "team": "LAC",
       "status": "Active",
       "active": true
     },
@@ -76997,7 +76997,7 @@
     "11784": {
       "name": "Jarrett Kingston",
       "position": "OL",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -88375,7 +88375,7 @@
       "id": "12538",
       "name": "Brady Cook",
       "position": "QB",
-      "team": null,
+      "team": "MIA",
       "status": "Active"
     },
     {
@@ -97755,7 +97755,7 @@
       "id": "13400",
       "name": "Justin Joly",
       "position": "TE",
-      "team": null,
+      "team": "MIA",
       "status": "Active"
     },
     {
@@ -102963,7 +102963,7 @@
       "id": "10221",
       "name": "Ronnie Bell",
       "position": "WR",
-      "team": null,
+      "team": "LV",
       "status": "Active"
     },
     {
