@@ -61,10 +61,11 @@
     },
     "avatar": null,
     "company_id": null,
+    "last_message_id": "1400409019591483392",
+    "sport": "nfl",
     "shard": 470,
     "season": "2026",
     "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -111,7 +112,6 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1400409019591483392",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -2153,7 +2153,7 @@
     "13558": {
       "name": "Tim Keenan",
       "position": "DT",
-      "team": "LAC",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -6787,7 +6787,7 @@
     "13195": {
       "name": "Jahfari Harvey",
       "position": "DE",
-      "team": "LV",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -12842,7 +12842,7 @@
     "7012": {
       "name": "Mykal Walker",
       "position": "LB",
-      "team": "NYJ",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -13367,7 +13367,7 @@
     "5888": {
       "name": "Amani Oruwariye",
       "position": "CB",
-      "team": "BAL",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -13549,7 +13549,7 @@
     "13604": {
       "name": "Sincere Brown",
       "position": "WR",
-      "team": "LAC",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -14417,7 +14417,7 @@
     "8507": {
       "name": "Marquis Hayes",
       "position": "OL",
-      "team": "NYJ",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -21802,7 +21802,7 @@
     "12946": {
       "name": "Dontae Fleming",
       "position": "WR",
-      "team": "MIN",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -31553,7 +31553,7 @@
     "13690": {
       "name": "Uso Seumalo",
       "position": "DT",
-      "team": "SEA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -41451,7 +41451,7 @@
     "12476": {
       "name": "Devin Neal",
       "position": "RB",
-      "team": "NO",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -41927,7 +41927,7 @@
     "8351": {
       "name": "Drake Jackson",
       "position": "DL",
-      "team": "WAS",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -45588,7 +45588,7 @@
     "13854": {
       "name": "Malik Spencer",
       "position": "DB",
-      "team": "WAS",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -45966,7 +45966,7 @@
     "13911": {
       "name": "Kamar Missouri",
       "position": "OL",
-      "team": "LV",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -46022,7 +46022,7 @@
     "11039": {
       "name": "Ryan Hayes",
       "position": "OL",
-      "team": "CAR",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -46694,7 +46694,7 @@
     "11750": {
       "name": "Dominique Hampton",
       "position": "CB",
-      "team": "TEN",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -48311,7 +48311,7 @@
     "6843": {
       "name": "Albert Okwuegbunam",
       "position": "TE",
-      "team": "LV",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -60456,7 +60456,7 @@
     "13227": {
       "name": "Mitch Van Vooren",
       "position": "WR",
-      "team": "DAL",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -62556,7 +62556,7 @@
     "13728": {
       "name": "Nick Dawkins",
       "position": "OL",
-      "team": "BAL",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -65055,7 +65055,7 @@
     "7788": {
       "name": "Victor Dimukeje",
       "position": "LB",
-      "team": "SF",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -66238,7 +66238,7 @@
     "13589": {
       "name": "Nadame Tucker",
       "position": "DE",
-      "team": "LAC",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -69136,7 +69136,7 @@
     "13926": {
       "name": "Ben Barten",
       "position": "DL",
-      "team": "NYG",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -70333,7 +70333,7 @@
     "13643": {
       "name": "Michael Heldman",
       "position": "DE",
-      "team": "NO",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -71558,7 +71558,7 @@
     "10948": {
       "name": "Carter Warren",
       "position": "OL",
-      "team": "MIA",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -71698,7 +71698,7 @@
     "13725": {
       "name": "Dominic Richardson",
       "position": "RB",
-      "team": "NYJ",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -81148,7 +81148,7 @@
     "13652": {
       "name": "Jalen Hunt",
       "position": "DL",
-      "team": "NE",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -87150,7 +87150,7 @@
       "id": "6843",
       "name": "Albert Okwuegbunam",
       "position": "TE",
-      "team": "LV",
+      "team": null,
       "status": "Active"
     },
     {
@@ -92309,7 +92309,7 @@
       "id": "12476",
       "name": "Devin Neal",
       "position": "RB",
-      "team": "NO",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -92589,7 +92589,7 @@
       "id": "13725",
       "name": "Dominic Richardson",
       "position": "RB",
-      "team": "NYJ",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -92659,7 +92659,7 @@
       "id": "12946",
       "name": "Dontae Fleming",
       "position": "WR",
-      "team": "MIN",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -101059,7 +101059,7 @@
       "id": "13227",
       "name": "Mitch Van Vooren",
       "position": "WR",
-      "team": "DAL",
+      "team": null,
       "status": "Active"
     },
     {
@@ -103782,7 +103782,7 @@
       "id": "13604",
       "name": "Sincere Brown",
       "position": "WR",
-      "team": "LAC",
+      "team": null,
       "status": "Inactive"
     },
     {

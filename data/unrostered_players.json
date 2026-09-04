@@ -304,7 +304,7 @@
     "id": "6843",
     "name": "Albert Okwuegbunam",
     "position": "TE",
-    "team": "LV",
+    "team": null,
     "status": "Active"
   },
   {
@@ -5463,7 +5463,7 @@
     "id": "12476",
     "name": "Devin Neal",
     "position": "RB",
-    "team": "NO",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -5743,7 +5743,7 @@
     "id": "13725",
     "name": "Dominic Richardson",
     "position": "RB",
-    "team": "NYJ",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -5813,7 +5813,7 @@
     "id": "12946",
     "name": "Dontae Fleming",
     "position": "WR",
-    "team": "MIN",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -14213,7 +14213,7 @@
     "id": "13227",
     "name": "Mitch Van Vooren",
     "position": "WR",
-    "team": "DAL",
+    "team": null,
     "status": "Active"
   },
   {
@@ -16936,7 +16936,7 @@
     "id": "13604",
     "name": "Sincere Brown",
     "position": "WR",
-    "team": "LAC",
+    "team": null,
     "status": "Inactive"
   },
   {
