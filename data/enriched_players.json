@@ -12821,7 +12821,7 @@
     "id": "11721",
     "name": "Bralen Trice",
     "position": "DE",
-    "team": null,
+    "team": "ATL",
     "age": 25,
     "years_exp": 2,
     "active": true,
@@ -144242,7 +144242,7 @@
     "age": 28,
     "years_exp": 4,
     "active": true,
-    "injury_status": "Out",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
