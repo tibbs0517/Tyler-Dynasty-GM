@@ -31584,7 +31584,7 @@
     "age": 25,
     "years_exp": 2,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -36316,7 +36316,7 @@
     "age": 24,
     "years_exp": 1,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -38214,7 +38214,7 @@
     "age": 30,
     "years_exp": 7,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -74505,7 +74505,7 @@
   "12530": {
     "id": "12530",
     "name": "Travis Hunter",
-    "position": "WR",
+    "position": "DB",
     "team": "JAX",
     "age": 23,
     "years_exp": 1,
@@ -81686,7 +81686,7 @@
     "age": 25,
     "years_exp": 0,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -92138,7 +92138,7 @@
     "age": 29,
     "years_exp": 4,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -113172,7 +113172,7 @@
     "age": 24,
     "years_exp": 2,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -129331,7 +129331,7 @@
     "age": 29,
     "years_exp": 8,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -141824,7 +141824,7 @@
     "age": 24,
     "years_exp": 0,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -154889,7 +154889,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null

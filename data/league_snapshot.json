@@ -4,7 +4,8 @@
     "status": "in_season",
     "metadata": {
       "auto_continue": "on",
-      "keeper_deadline": "0"
+      "keeper_deadline": "0",
+      "latest_league_winner_roster_id": "1"
     },
     "settings": {
       "best_ball": 0,
@@ -61,11 +62,6 @@
     },
     "avatar": null,
     "company_id": null,
-    "last_message_id": "1400409019591483392",
-    "sport": "nfl",
-    "shard": 470,
-    "season": "2026",
-    "season_type": "regular",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -112,6 +108,12 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 470,
+    "sport": "nfl",
+    "last_message_id": "1400409019591483392",
+    "draft_id": "1326711861202161664",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -120,7 +122,6 @@
     "last_message_text_map": null,
     "last_message_time": 1788246037913,
     "last_pinned_message_id": null,
-    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
@@ -1561,8 +1562,8 @@
   "nfl_state": {
     "week": 1,
     "leg": 1,
-    "season": "2026",
     "season_type": "regular",
+    "season": "2026",
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
