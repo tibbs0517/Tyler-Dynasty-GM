@@ -17005,7 +17005,7 @@
   "11823": {
     "name": "C.J. Hanson",
     "position": "OG",
-    "team": "KC",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -19553,7 +19553,7 @@
   "12643": {
     "name": "Kyle Kennard",
     "position": "DE",
-    "team": "LAC",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -20575,7 +20575,7 @@
   "6610": {
     "name": "Demetrius Flannigan-Fowles",
     "position": "LB",
-    "team": "BUF",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -43983,7 +43983,7 @@
   "13410": {
     "name": "Chase Roberts",
     "position": "WR",
-    "team": "LV",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -49611,7 +49611,7 @@
   "8413": {
     "name": "Chris Oladokun",
     "position": "QB",
-    "team": "KC",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -57640,7 +57640,7 @@
   "8924": {
     "name": "Thomas Odukoya",
     "position": "TE",
-    "team": null,
+    "team": "KC",
     "status": "Active",
     "active": true
   },
@@ -60937,7 +60937,7 @@
   "12072": {
     "name": "Jacob Roberts",
     "position": "LB",
-    "team": "MIN",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -69638,7 +69638,7 @@
   "5096": {
     "name": "Ray-Ray McCloud",
     "position": "WR",
-    "team": "CHI",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -76365,7 +76365,7 @@
   "13778": {
     "name": "EJ Smith",
     "position": "RB",
-    "team": "KC",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -83400,7 +83400,7 @@
   "12550": {
     "name": "T.J. Maguranyanga",
     "position": "DE",
-    "team": "WAS",
+    "team": null,
     "status": "Inactive",
     "active": true
   },

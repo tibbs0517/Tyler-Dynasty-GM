@@ -62,10 +62,10 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "shard": 470,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -113,6 +113,7 @@
       "st_ff": 1.0
     },
     "last_message_id": "1400409019591483392",
+    "draft_id": "1326711861202161664",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -122,7 +123,6 @@
     "last_message_time": 1788246037913,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1326711861202161664",
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
     "bracket_id": null,
@@ -18268,7 +18268,7 @@
     "11823": {
       "name": "C.J. Hanson",
       "position": "OG",
-      "team": "KC",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -20816,7 +20816,7 @@
     "12643": {
       "name": "Kyle Kennard",
       "position": "DE",
-      "team": "LAC",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -21838,7 +21838,7 @@
     "6610": {
       "name": "Demetrius Flannigan-Fowles",
       "position": "LB",
-      "team": "BUF",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -45246,7 +45246,7 @@
     "13410": {
       "name": "Chase Roberts",
       "position": "WR",
-      "team": "LV",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -50874,7 +50874,7 @@
     "8413": {
       "name": "Chris Oladokun",
       "position": "QB",
-      "team": "KC",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -58903,7 +58903,7 @@
     "8924": {
       "name": "Thomas Odukoya",
       "position": "TE",
-      "team": null,
+      "team": "KC",
       "status": "Active",
       "active": true
     },
@@ -62200,7 +62200,7 @@
     "12072": {
       "name": "Jacob Roberts",
       "position": "LB",
-      "team": "MIN",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -70901,7 +70901,7 @@
     "5096": {
       "name": "Ray-Ray McCloud",
       "position": "WR",
-      "team": "CHI",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -77628,7 +77628,7 @@
     "13778": {
       "name": "EJ Smith",
       "position": "RB",
-      "team": "KC",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -84663,7 +84663,7 @@
     "12550": {
       "name": "T.J. Maguranyanga",
       "position": "DE",
-      "team": "WAS",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -89825,7 +89825,7 @@
       "id": "13410",
       "name": "Chase Roberts",
       "position": "WR",
-      "team": "LV",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -90000,7 +90000,7 @@
       "id": "8413",
       "name": "Chris Oladokun",
       "position": "QB",
-      "team": "KC",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -93066,7 +93066,7 @@
       "id": "13778",
       "name": "EJ Smith",
       "position": "RB",
-      "team": "KC",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -102467,7 +102467,7 @@
       "id": "5096",
       "name": "Ray-Ray McCloud",
       "position": "WR",
-      "team": "CHI",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -104721,7 +104721,7 @@
       "id": "8924",
       "name": "Thomas Odukoya",
       "position": "TE",
-      "team": null,
+      "team": "KC",
       "status": "Active"
     },
     {

@@ -2978,7 +2978,7 @@
     "id": "13410",
     "name": "Chase Roberts",
     "position": "WR",
-    "team": "LV",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -3153,7 +3153,7 @@
     "id": "8413",
     "name": "Chris Oladokun",
     "position": "QB",
-    "team": "KC",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -6219,7 +6219,7 @@
     "id": "13778",
     "name": "EJ Smith",
     "position": "RB",
-    "team": "KC",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -15620,7 +15620,7 @@
     "id": "5096",
     "name": "Ray-Ray McCloud",
     "position": "WR",
-    "team": "CHI",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -17874,7 +17874,7 @@
     "id": "8924",
     "name": "Thomas Odukoya",
     "position": "TE",
-    "team": null,
+    "team": "KC",
     "status": "Active"
   },
   {
