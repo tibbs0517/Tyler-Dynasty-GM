@@ -5343,6 +5343,19 @@
     "roster_id": null
   },
   {
+    "id": "8181",
+    "name": "Connor Heyward",
+    "position": "RB",
+    "team": "LV",
+    "age": 27,
+    "years_exp": 4,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
     "id": "2923",
     "name": "Connor Neighbors",
     "position": "RB",
@@ -13773,19 +13786,6 @@
     "team": null,
     "age": 27,
     "years_exp": 2,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
-    "id": "8181",
-    "name": "Connor Heyward",
-    "position": "TE",
-    "team": "LV",
-    "age": 27,
-    "years_exp": 4,
     "active": true,
     "injury_status": null,
     "bye_week": null,

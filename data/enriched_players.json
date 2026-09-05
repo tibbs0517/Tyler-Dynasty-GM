@@ -31709,7 +31709,7 @@
   "11703": {
     "id": "11703",
     "name": "Jalyx Hunt",
-    "position": "DE",
+    "position": "DL",
     "team": "PHI",
     "age": 25,
     "years_exp": 2,
@@ -90638,7 +90638,7 @@
   "8181": {
     "id": "8181",
     "name": "Connor Heyward",
-    "position": "TE",
+    "position": "RB",
     "team": "LV",
     "age": 27,
     "years_exp": 4,
@@ -131216,7 +131216,7 @@
     "age": 27,
     "years_exp": 6,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -148709,7 +148709,7 @@
   "8265": {
     "id": "8265",
     "name": "Travon Walker",
-    "position": "LB",
+    "position": "DL",
     "team": "JAX",
     "age": 25,
     "years_exp": 4,
