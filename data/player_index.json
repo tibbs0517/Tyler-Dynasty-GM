@@ -29682,7 +29682,7 @@
   "10224": {
     "name": "Brayden Willis",
     "position": "TE",
-    "team": "SF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -46223,7 +46223,7 @@
   "7717": {
     "name": "Zech McPhearson",
     "position": "CB",
-    "team": "LAR",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -51690,7 +51690,7 @@
   "12911": {
     "name": "Keivie Rose",
     "position": "DL",
-    "team": "JAX",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -56184,7 +56184,7 @@
   "12391": {
     "name": "Kenny Dyson",
     "position": "LB",
-    "team": "MIN",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -75413,7 +75413,7 @@
   "13687": {
     "name": "Marvin Jones",
     "position": "DE",
-    "team": "SEA",
+    "team": null,
     "status": "Active",
     "active": true
   },
