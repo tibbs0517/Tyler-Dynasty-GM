@@ -14695,7 +14695,7 @@
   "5882": {
     "name": "Taylor Rapp",
     "position": "DB",
-    "team": null,
+    "team": "DEN",
     "status": "Active",
     "active": true
   },
@@ -21975,7 +21975,7 @@
   "13971": {
     "name": "Caden Fordham",
     "position": "LB",
-    "team": null,
+    "team": "TB",
     "status": "Active",
     "active": true
   },
@@ -22878,7 +22878,7 @@
   "11798": {
     "name": "Zion Logue",
     "position": "DL",
-    "team": null,
+    "team": "CLE",
     "status": "Active",
     "active": true
   },
@@ -33588,7 +33588,7 @@
   "5044": {
     "name": "Isaiah Oliver",
     "position": "CB",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
@@ -67594,7 +67594,7 @@
   "6853": {
     "name": "Van Jefferson",
     "position": "WR",
-    "team": null,
+    "team": "WAS",
     "status": "Active",
     "active": true
   },
