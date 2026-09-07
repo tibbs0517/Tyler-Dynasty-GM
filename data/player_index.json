@@ -891,7 +891,7 @@
   "13558": {
     "name": "Tim Keenan",
     "position": "DT",
-    "team": null,
+    "team": "LV",
     "status": "Active",
     "active": true
   },
@@ -9865,7 +9865,7 @@
   "12356": {
     "name": "Jabari Small",
     "position": "RB",
-    "team": null,
+    "team": "DET",
     "status": "Active",
     "active": true
   },
@@ -28828,7 +28828,7 @@
   "12575": {
     "name": "Seth McLaughlin",
     "position": "OL",
-    "team": null,
+    "team": "DET",
     "status": "Active",
     "active": true
   },
@@ -67825,7 +67825,7 @@
   "13131": {
     "name": "Isas Waxter",
     "position": "DB",
-    "team": null,
+    "team": "LAC",
     "status": "Active",
     "active": true
   },
@@ -73845,7 +73845,7 @@
   "7344": {
     "name": "Jonah Williams",
     "position": "DE",
-    "team": null,
+    "team": "NO",
     "status": "Active",
     "active": true
   },
@@ -78829,7 +78829,7 @@
   "3295": {
     "name": "Dean Lowry",
     "position": "DE",
-    "team": null,
+    "team": "NYG",
     "status": "Active",
     "active": true
   },
@@ -81783,7 +81783,7 @@
   "13913": {
     "name": "Patrick Gurd",
     "position": "TE",
-    "team": null,
+    "team": "LV",
     "status": "Active",
     "active": true
   },
