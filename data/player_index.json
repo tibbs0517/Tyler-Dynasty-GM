@@ -1816,7 +1816,7 @@
     "name": "VJ Payne",
     "position": "DB",
     "team": "NYJ",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3837": {
@@ -3993,7 +3993,7 @@
     "name": "Kenneth Grant",
     "position": "DL",
     "team": "MIA",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "11218": {
@@ -18503,7 +18503,7 @@
   "10983": {
     "name": "Sean Clifford",
     "position": "QB",
-    "team": "SF",
+    "team": "CIN",
     "status": "Active",
     "active": true
   },
@@ -19768,7 +19768,7 @@
     "active": true
   },
   "11243": {
-    "name": "David Ebuka Agoha",
+    "name": "David Agoha",
     "position": "DL",
     "team": "DEN",
     "status": "Active",
@@ -22865,7 +22865,7 @@
     "name": "Caleb Lohner",
     "position": "TE",
     "team": "DEN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "12393": {
@@ -27247,7 +27247,7 @@
     "name": "Irv Charles",
     "position": "WR",
     "team": "SEA",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "13258": {
@@ -34681,7 +34681,7 @@
     "name": "Anez Cooper",
     "position": "G",
     "team": "NYJ",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "12960": {
@@ -46105,7 +46105,7 @@
     "name": "Austen Pleasants",
     "position": "OL",
     "team": "SF",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "13486": {
@@ -53882,7 +53882,7 @@
     "name": "Frank Crum",
     "position": "OT",
     "team": "DEN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "689": {
@@ -60105,7 +60105,7 @@
     "name": "Jaylan Ford",
     "position": "LB",
     "team": "NO",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "10925": {
@@ -75624,7 +75624,7 @@
     "name": "Justin Dedich",
     "position": "OL",
     "team": "LAR",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "11886": {
@@ -77969,7 +77969,7 @@
     "name": "Keagen Trost",
     "position": "OL",
     "team": "LAR",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "13093": {

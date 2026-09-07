@@ -2391,7 +2391,7 @@
     "name": "Caleb Lohner",
     "position": "TE",
     "team": "DEN",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "7176",
@@ -7487,7 +7487,7 @@
     "name": "Irv Charles",
     "position": "WR",
     "team": "SEA",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "6126",
@@ -16600,7 +16600,7 @@
     "id": "10983",
     "name": "Sean Clifford",
     "position": "QB",
-    "team": "SF",
+    "team": "CIN",
     "status": "Active"
   },
   {
