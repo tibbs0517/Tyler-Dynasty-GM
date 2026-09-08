@@ -62,11 +62,10 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "shard": 470,
-    "last_message_id": "1400409019591483392",
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -113,19 +112,24 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "draft_id": "1326711861202161664",
-    "last_author_avatar": null,
-    "last_author_display_name": "sys",
-    "last_author_id": "166666666666666666",
-    "last_author_is_bot": true,
+    "last_message_id": "1403055335014469632",
+    "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
+    "last_author_display_name": "HebrewsHeroes",
+    "last_author_id": "434689597088198656",
+    "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1788246037913,
+    "last_message_time": 1788876969948,
     "last_pinned_message_id": null,
-    "last_read_id": null,
+    "draft_id": "1326711861202161664",
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "last_read_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -150,10 +154,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -2007,7 +2007,7 @@
     "10926": {
       "name": "Marte Mapu",
       "position": "DB",
-      "team": "HOU",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -5381,7 +5381,7 @@
     "11054": {
       "name": "Travis Bell",
       "position": "DL",
-      "team": "CLE",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -5745,7 +5745,7 @@
     "6005": {
       "name": "Kevin Givens",
       "position": "DT",
-      "team": "HOU",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -8118,7 +8118,7 @@
     "11489": {
       "name": "Kahlef Hailassie",
       "position": "CB",
-      "team": "MIN",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -8251,7 +8251,7 @@
     "6045": {
       "name": "Gary Jennings",
       "position": "WR",
-      "team": "LAC",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -9252,7 +9252,7 @@
     "13866": {
       "name": "Luke Basso",
       "position": "LS",
-      "team": "DEN",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -9525,7 +9525,7 @@
     "11757": {
       "name": "Edefuan Ulofoshio",
       "position": "LB",
-      "team": "CLE",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -11574,7 +11574,7 @@
       "active": true
     },
     "8505": {
-      "name": "AJ Arcuri",
+      "name": "A.J. Arcuri",
       "position": "OT",
       "team": "BAL",
       "status": "Active",
@@ -20697,7 +20697,7 @@
     "13816": {
       "name": "Mark Gronowski",
       "position": "QB",
-      "team": null,
+      "team": "HOU",
       "status": "Active",
       "active": true
     },
@@ -21313,7 +21313,7 @@
     "12897": {
       "name": "Nathan Carter",
       "position": "RB",
-      "team": "KC",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -22314,7 +22314,7 @@
     "13807": {
       "name": "Gary Smith",
       "position": "DT",
-      "team": "LV",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -29223,7 +29223,7 @@
     "13896": {
       "name": "Devin Lafayette",
       "position": "DB",
-      "team": "LV",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -38848,14 +38848,14 @@
     "10997": {
       "name": "Jerrick Reed",
       "position": "DB",
-      "team": "TEN",
+      "team": null,
       "status": "Active",
       "active": true
     },
     "12164": {
       "name": "Curtis Jacobs",
       "position": "LB",
-      "team": "WAS",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -42789,7 +42789,7 @@
     "12862": {
       "name": "Josh Priebe",
       "position": "OL",
-      "team": "MIA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -44917,7 +44917,7 @@
     "12796": {
       "name": "Roman Parodie",
       "position": "CB",
-      "team": "TB",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -51147,7 +51147,7 @@
     "12829": {
       "name": "Coleman Owen",
       "position": "WR",
-      "team": "IND",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -52932,7 +52932,7 @@
     "14072": {
       "name": "Daniel Rickert",
       "position": "DE",
-      "team": "LAR",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -54556,7 +54556,7 @@
     "8477": {
       "name": "Matt Waletzko",
       "position": "OL",
-      "team": "KC",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -57447,8 +57447,8 @@
     "12391": {
       "name": "Kenny Dyson",
       "position": "LB",
-      "team": null,
-      "status": "Inactive",
+      "team": "MIN",
+      "status": "Active",
       "active": true
     },
     "12497": {
@@ -58700,7 +58700,7 @@
     "13120": {
       "name": "Jacoby Jones",
       "position": "WR",
-      "team": "WAS",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -58742,7 +58742,7 @@
     "12210": {
       "name": "Cole Burgess",
       "position": "WR",
-      "team": "PIT",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -59400,7 +59400,7 @@
     "12865": {
       "name": "AJ Henning",
       "position": "WR",
-      "team": "MIA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -60800,7 +60800,7 @@
     "14078": {
       "name": "Xavier Williams",
       "position": "DB",
-      "team": "TB",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -63257,7 +63257,7 @@
     "7973": {
       "name": "Foster Sarell",
       "position": "T",
-      "team": "HOU",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -64734,7 +64734,7 @@
     "8202": {
       "name": "Michael Woods",
       "position": "WR",
-      "team": "DEN",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -68374,7 +68374,7 @@
     "13870": {
       "name": "Quentin Moore",
       "position": "TE",
-      "team": "WAS",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -69410,7 +69410,7 @@
     "11851": {
       "name": "Carter Bradley",
       "position": "QB",
-      "team": "JAX",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -71076,7 +71076,7 @@
     "12883": {
       "name": "Joshua Simon",
       "position": "TE",
-      "team": "WAS",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -71636,7 +71636,7 @@
     "13071": {
       "name": "Marques Cox",
       "position": "OT",
-      "team": "MIA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -77075,7 +77075,7 @@
     "6149": {
       "name": "Darius Slayton",
       "position": "WR",
-      "team": "NYG",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -80309,7 +80309,7 @@
     "12319": {
       "name": "Elijah Chatman",
       "position": "DT",
-      "team": "CLE",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -80666,7 +80666,7 @@
     "12094": {
       "name": "Alex Johnson",
       "position": "CB",
-      "team": "LAR",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -86892,7 +86892,7 @@
       "id": "12865",
       "name": "AJ Henning",
       "position": "WR",
-      "team": "MIA",
+      "team": null,
       "status": "Active"
     },
     {
@@ -89524,7 +89524,7 @@
       "id": "11851",
       "name": "Carter Bradley",
       "position": "QB",
-      "team": "JAX",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -90280,7 +90280,7 @@
       "id": "12210",
       "name": "Cole Burgess",
       "position": "WR",
-      "team": "PIT",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -90357,7 +90357,7 @@
       "id": "12829",
       "name": "Coleman Owen",
       "position": "WR",
-      "team": "IND",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -91323,7 +91323,7 @@
       "id": "6149",
       "name": "Darius Slayton",
       "position": "WR",
-      "team": "NYG",
+      "team": null,
       "status": "Active"
     },
     {
@@ -93787,7 +93787,7 @@
       "id": "6045",
       "name": "Gary Jennings",
       "position": "WR",
-      "team": "LAC",
+      "team": null,
       "status": "Active"
     },
     {
@@ -94942,7 +94942,7 @@
       "id": "13120",
       "name": "Jacoby Jones",
       "position": "WR",
-      "team": "WAS",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -97602,7 +97602,7 @@
       "id": "12883",
       "name": "Joshua Simon",
       "position": "TE",
-      "team": "WAS",
+      "team": null,
       "status": "Active"
     },
     {
@@ -100087,7 +100087,7 @@
       "id": "13816",
       "name": "Mark Gronowski",
       "position": "QB",
-      "team": null,
+      "team": "HOU",
       "status": "Active"
     },
     {
@@ -100850,7 +100850,7 @@
       "id": "8202",
       "name": "Michael Woods",
       "position": "WR",
-      "team": "DEN",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -101326,7 +101326,7 @@
       "id": "12897",
       "name": "Nathan Carter",
       "position": "RB",
-      "team": "KC",
+      "team": null,
       "status": "Active"
     },
     {
@@ -102194,7 +102194,7 @@
       "id": "13870",
       "name": "Quentin Moore",
       "position": "TE",
-      "team": "WAS",
+      "team": null,
       "status": "Inactive"
     },
     {

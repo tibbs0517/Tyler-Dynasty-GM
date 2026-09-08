@@ -45,7 +45,7 @@
     "id": "12865",
     "name": "AJ Henning",
     "position": "WR",
-    "team": "MIA",
+    "team": null,
     "status": "Active"
   },
   {
@@ -2677,7 +2677,7 @@
     "id": "11851",
     "name": "Carter Bradley",
     "position": "QB",
-    "team": "JAX",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -3433,7 +3433,7 @@
     "id": "12210",
     "name": "Cole Burgess",
     "position": "WR",
-    "team": "PIT",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -3510,7 +3510,7 @@
     "id": "12829",
     "name": "Coleman Owen",
     "position": "WR",
-    "team": "IND",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -4476,7 +4476,7 @@
     "id": "6149",
     "name": "Darius Slayton",
     "position": "WR",
-    "team": "NYG",
+    "team": null,
     "status": "Active"
   },
   {
@@ -6940,7 +6940,7 @@
     "id": "6045",
     "name": "Gary Jennings",
     "position": "WR",
-    "team": "LAC",
+    "team": null,
     "status": "Active"
   },
   {
@@ -8095,7 +8095,7 @@
     "id": "13120",
     "name": "Jacoby Jones",
     "position": "WR",
-    "team": "WAS",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -10755,7 +10755,7 @@
     "id": "12883",
     "name": "Joshua Simon",
     "position": "TE",
-    "team": "WAS",
+    "team": null,
     "status": "Active"
   },
   {
@@ -13240,7 +13240,7 @@
     "id": "13816",
     "name": "Mark Gronowski",
     "position": "QB",
-    "team": null,
+    "team": "HOU",
     "status": "Active"
   },
   {
@@ -14003,7 +14003,7 @@
     "id": "8202",
     "name": "Michael Woods",
     "position": "WR",
-    "team": "DEN",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -14479,7 +14479,7 @@
     "id": "12897",
     "name": "Nathan Carter",
     "position": "RB",
-    "team": "KC",
+    "team": null,
     "status": "Active"
   },
   {
@@ -15347,7 +15347,7 @@
     "id": "13870",
     "name": "Quentin Moore",
     "position": "TE",
-    "team": "WAS",
+    "team": null,
     "status": "Inactive"
   },
   {
