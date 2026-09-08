@@ -121,15 +121,10 @@
     "last_message_text_map": null,
     "last_message_time": 1788876969948,
     "last_pinned_message_id": null,
+    "last_read_id": null,
     "draft_id": "1326711861202161664",
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
-    "last_read_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -154,6 +149,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -2967,7 +2967,7 @@
       "name": "Cade Mays",
       "position": "OL",
       "team": "DET",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "10940": {
@@ -5304,8 +5304,8 @@
     "13148": {
       "name": "Aaron Smith",
       "position": "LB",
-      "team": null,
-      "status": "Active",
+      "team": "SEA",
+      "status": "Inactive",
       "active": true
     },
     "12579": {
@@ -5745,7 +5745,7 @@
     "6005": {
       "name": "Kevin Givens",
       "position": "DT",
-      "team": null,
+      "team": "SF",
       "status": "Active",
       "active": true
     },
@@ -7880,7 +7880,7 @@
     "13957": {
       "name": "Kenny Fletcher",
       "position": "TE",
-      "team": null,
+      "team": "IND",
       "status": "Active",
       "active": true
     },
@@ -8140,7 +8140,7 @@
       "name": "Collin Oliver",
       "position": "DE",
       "team": "GB",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "13805": {
@@ -17904,8 +17904,8 @@
     "13964": {
       "name": "Myles Montgomery",
       "position": "RB",
-      "team": null,
-      "status": "Active",
+      "team": "NE",
+      "status": "Inactive",
       "active": true
     },
     "12282": {
@@ -26297,8 +26297,8 @@
     "13757": {
       "name": "Kelvin Gilliam",
       "position": "DT",
-      "team": null,
-      "status": "Active",
+      "team": "DAL",
+      "status": "Inactive",
       "active": true
     },
     "6363": {
@@ -27292,7 +27292,7 @@
       "name": "Devin Moore",
       "position": "CB",
       "team": "DAL",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "7998": {
@@ -30729,7 +30729,7 @@
       "name": "Marcus Bryant",
       "position": "OL",
       "team": "NE",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "2998": {
@@ -42747,8 +42747,8 @@
     "12983": {
       "name": "Brock Lampe",
       "position": "FB",
-      "team": null,
-      "status": "Active",
+      "team": "SEA",
+      "status": "Inactive",
       "active": true
     },
     "13961": {
@@ -51701,7 +51701,7 @@
       "name": "Marist Liufau",
       "position": "LB",
       "team": "DAL",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "781": {
@@ -53248,7 +53248,7 @@
       "name": "DeShon Elliott",
       "position": "DB",
       "team": "PIT",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "7958": {
@@ -62180,7 +62180,7 @@
       "name": "Korie Black",
       "position": "CB",
       "team": "NYG",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "1314": {
@@ -63257,7 +63257,7 @@
     "7973": {
       "name": "Foster Sarell",
       "position": "T",
-      "team": null,
+      "team": "SF",
       "status": "Active",
       "active": true
     },
@@ -63313,8 +63313,8 @@
     "12747": {
       "name": "Power Echols",
       "position": "LB",
-      "team": null,
-      "status": "Active",
+      "team": "SEA",
+      "status": "Inactive",
       "active": true
     },
     "11788": {
@@ -64944,7 +64944,7 @@
     "13774": {
       "name": "Josh Gesky",
       "position": "G",
-      "team": "DET",
+      "team": "GB",
       "status": "Active",
       "active": true
     },
@@ -66239,7 +66239,7 @@
     "13589": {
       "name": "Nadame Tucker",
       "position": "DE",
-      "team": null,
+      "team": "CLE",
       "status": "Active",
       "active": true
     },
@@ -71538,7 +71538,7 @@
     "11748": {
       "name": "Bub Means",
       "position": "WR",
-      "team": null,
+      "team": "CLE",
       "status": "Active",
       "active": true
     },
@@ -79008,7 +79008,7 @@
       "name": "Jack Driscoll",
       "position": "T",
       "team": "PIT",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "11277": {
@@ -82561,7 +82561,7 @@
       "active": true
     },
     "11068": {
-      "name": "Mitch Tinsley",
+      "name": "Mitchell Tinsley",
       "position": "WR",
       "team": "HOU",
       "status": "Active",
@@ -85825,8 +85825,8 @@
     "13035": {
       "name": "Amari Kight",
       "position": "OT",
-      "team": null,
-      "status": "Active",
+      "team": "SEA",
+      "status": "Inactive",
       "active": true
     },
     "6143": {
@@ -88992,7 +88992,7 @@
       "id": "11748",
       "name": "Bub Means",
       "position": "WR",
-      "team": null,
+      "team": "CLE",
       "status": "Active"
     },
     {
@@ -98477,7 +98477,7 @@
       "id": "13957",
       "name": "Kenny Fletcher",
       "position": "TE",
-      "team": null,
+      "team": "IND",
       "status": "Active"
     },
     {
@@ -101050,13 +101050,6 @@
       "status": "Active"
     },
     {
-      "id": "11068",
-      "name": "Mitch Tinsley",
-      "position": "WR",
-      "team": "HOU",
-      "status": "Active"
-    },
-    {
       "id": "13227",
       "name": "Mitch Van Vooren",
       "position": "WR",
@@ -101075,6 +101068,13 @@
       "name": "Mitchell Paige",
       "position": "WR",
       "team": null,
+      "status": "Active"
+    },
+    {
+      "id": "11068",
+      "name": "Mitchell Tinsley",
+      "position": "WR",
+      "team": "HOU",
       "status": "Active"
     },
     {
@@ -101207,8 +101207,8 @@
       "id": "13964",
       "name": "Myles Montgomery",
       "position": "RB",
-      "team": null,
-      "status": "Active"
+      "team": "NE",
+      "status": "Inactive"
     },
     {
       "id": "13075",
