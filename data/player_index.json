@@ -10206,7 +10206,7 @@
     "active": true
   },
   "13977": {
-    "name": "Devonta Smith",
+    "name": "DeVonta Smith",
     "position": "CB",
     "team": "CAR",
     "status": "Active",
@@ -14401,7 +14401,7 @@
   "13559": {
     "name": "Gavin Gerhardt",
     "position": "OL",
-    "team": "MIN",
+    "team": "HOU",
     "status": "Active",
     "active": true
   },
@@ -21941,7 +21941,7 @@
     "name": "Jakorian Bennett",
     "position": "DB",
     "team": "PHI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "5344": {
@@ -23235,8 +23235,8 @@
   "12102": {
     "name": "Andre' Sam",
     "position": "DB",
-    "team": null,
-    "status": "Active",
+    "team": "PHI",
+    "status": "Inactive",
     "active": true
   },
   "7418": {
@@ -52958,7 +52958,7 @@
     "name": "Ben Yurosek",
     "position": "TE",
     "team": "MIN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "13209": {
