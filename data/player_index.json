@@ -13400,7 +13400,7 @@
   "10924": {
     "name": "Zacch Pickens",
     "position": "DL",
-    "team": null,
+    "team": "ATL",
     "status": "Active",
     "active": true
   },
@@ -17279,7 +17279,7 @@
     "name": "Tony Fields",
     "position": "LB",
     "team": "CHI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "7875": {
@@ -28269,7 +28269,7 @@
     "name": "Tyler Smith",
     "position": "OL",
     "team": "DAL",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "11178": {
@@ -29990,7 +29990,7 @@
   "2333": {
     "name": "Laken Tomlinson",
     "position": "OL",
-    "team": null,
+    "team": "DAL",
     "status": "Active",
     "active": true
   },
