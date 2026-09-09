@@ -2082,7 +2082,7 @@
     "id": "11959",
     "name": "Bryce Oliver",
     "position": "WR",
-    "team": "CLE",
+    "team": null,
     "status": "Active"
   },
   {
@@ -15424,7 +15424,7 @@
     "id": "13430",
     "name": "RJ Maryland",
     "position": "TE",
-    "team": "GB",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -18470,7 +18470,7 @@
     "name": "Trevor Etienne",
     "position": "RB",
     "team": "CAR",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "2838",
