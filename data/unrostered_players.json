@@ -4168,7 +4168,7 @@
     "id": "13949",
     "name": "Damon Bankston",
     "position": "RB",
-    "team": null,
+    "team": "GB",
     "status": "Active"
   },
   {
@@ -4715,7 +4715,7 @@
     "name": "David Sills",
     "position": "WR",
     "team": "TB",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "12421",
@@ -12204,7 +12204,7 @@
     "id": "13208",
     "name": "Kyrese Rowan",
     "position": "WR",
-    "team": null,
+    "team": "NO",
     "status": "Active"
   },
   {

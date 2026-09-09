@@ -6289,7 +6289,7 @@
     "name": "Ja'Sir Taylor",
     "position": "DB",
     "team": "CIN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "11370": {
@@ -6855,7 +6855,7 @@
   "11489": {
     "name": "Kahlef Hailassie",
     "position": "CB",
-    "team": null,
+    "team": "GB",
     "status": "Active",
     "active": true
   },
@@ -26631,7 +26631,7 @@
     "name": "Joshua Williams",
     "position": "CB",
     "team": "TEN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "5772": {
@@ -35010,7 +35010,7 @@
     "name": "Dorian Mausi",
     "position": "LB",
     "team": "TEN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "6219": {
@@ -41324,7 +41324,7 @@
     "name": "Brian Parker",
     "position": "OT",
     "team": "CIN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "8112": {
@@ -45439,7 +45439,7 @@
   "11750": {
     "name": "Dominique Hampton",
     "position": "CB",
-    "team": null,
+    "team": "TEN",
     "status": "Inactive",
     "active": true
   },
@@ -58607,7 +58607,7 @@
     "name": "David Sills",
     "position": "WR",
     "team": "TB",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3425": {
@@ -69309,7 +69309,7 @@
   "13208": {
     "name": "Kyrese Rowan",
     "position": "WR",
-    "team": null,
+    "team": "NO",
     "status": "Active",
     "active": true
   },
@@ -74146,8 +74146,8 @@
   "11185": {
     "name": "Kendell Brooks",
     "position": "DB",
-    "team": null,
-    "status": "Active",
+    "team": "TEN",
+    "status": "Inactive",
     "active": true
   },
   "5230": {
@@ -82938,7 +82938,7 @@
   "13949": {
     "name": "Damon Bankston",
     "position": "RB",
-    "team": null,
+    "team": "GB",
     "status": "Active",
     "active": true
   },
@@ -84121,7 +84121,7 @@
   "11395": {
     "name": "Keidron Smith",
     "position": "DB",
-    "team": null,
+    "team": "CHI",
     "status": "Active",
     "active": true
   },
@@ -84864,7 +84864,7 @@
     "name": "Josh Hayes",
     "position": "CB",
     "team": "TB",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "2438": {
