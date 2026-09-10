@@ -1619,7 +1619,7 @@
     "age": 28,
     "years_exp": 6,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -7651,7 +7651,7 @@
     "age": 27,
     "years_exp": 3,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -8340,7 +8340,7 @@
     "age": 26,
     "years_exp": 5,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -11590,7 +11590,7 @@
     "age": 30,
     "years_exp": 8,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -15646,7 +15646,7 @@
     "age": 22,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -26942,7 +26942,7 @@
     "team": null,
     "age": 48,
     "years_exp": 0,
-    "active": true,
+    "active": false,
     "injury_status": null,
     "bye_week": null,
     "rostered": false,
@@ -28100,7 +28100,7 @@
     "age": 30,
     "years_exp": 9,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": true,
     "roster_id": 6
@@ -30505,7 +30505,7 @@
     "age": 25,
     "years_exp": 3,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -46742,7 +46742,7 @@
     "age": 28,
     "years_exp": 6,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -70597,7 +70597,7 @@
     "age": 23,
     "years_exp": 0,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -71308,7 +71308,7 @@
     "id": "12685",
     "name": "Bryce Cabeldue",
     "position": "OT",
-    "team": null,
+    "team": "LV",
     "age": 25,
     "years_exp": 1,
     "active": true,
@@ -76876,7 +76876,7 @@
     "age": 31,
     "years_exp": 9,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -89382,7 +89382,7 @@
     "age": 22,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -89499,7 +89499,7 @@
     "age": 24,
     "years_exp": 2,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -104618,7 +104618,7 @@
     "age": 27,
     "years_exp": 4,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -117783,7 +117783,7 @@
     "id": "11052",
     "name": "Jaylon Jones",
     "position": "DB",
-    "team": null,
+    "team": "TEN",
     "age": 24,
     "years_exp": 3,
     "active": true,
@@ -123832,7 +123832,7 @@
     "age": 25,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": true,
     "roster_id": 2
@@ -125717,7 +125717,7 @@
     "age": 28,
     "years_exp": 4,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -132958,7 +132958,7 @@
     "age": 24,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Out",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -136182,7 +136182,7 @@
     "age": 28,
     "years_exp": 7,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -140351,7 +140351,7 @@
     "id": "11481",
     "name": "Natrone Brooks",
     "position": "CB",
-    "team": null,
+    "team": "DET",
     "age": 26,
     "years_exp": 3,
     "active": true,
@@ -152445,7 +152445,7 @@
     "age": 22,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null

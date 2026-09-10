@@ -14508,7 +14508,7 @@
     "position": "FB",
     "team": null,
     "status": "Active",
-    "active": true
+    "active": false
   },
   "11507": {
     "name": "D'Angelo Mandell",
@@ -38397,7 +38397,7 @@
   "12685": {
     "name": "Bryce Cabeldue",
     "position": "OT",
-    "team": null,
+    "team": "LV",
     "status": "Active",
     "active": true
   },
@@ -63422,7 +63422,7 @@
   "11052": {
     "name": "Jaylon Jones",
     "position": "DB",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
@@ -75574,7 +75574,7 @@
   "11481": {
     "name": "Natrone Brooks",
     "position": "CB",
-    "team": null,
+    "team": "DET",
     "status": "Active",
     "active": true
   },
