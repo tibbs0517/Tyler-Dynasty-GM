@@ -62,6 +62,11 @@
     },
     "avatar": null,
     "company_id": null,
+    "last_message_id": "1403768500241100800",
+    "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 470,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -108,20 +113,15 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
-    "shard": 470,
-    "last_message_id": "1403616445560107008",
-    "draft_id": "1326711861202161664",
     "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
     "last_author_display_name": "HebrewsHeroes",
     "last_author_id": "434689597088198656",
     "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1789010747856,
+    "last_message_time": 1789047000522,
     "last_pinned_message_id": null,
+    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
@@ -149,9 +149,9 @@
       "BN",
       "BN"
     ],
-    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -10665,7 +10665,7 @@
       "position": "WR",
       "team": null,
       "status": "Active",
-      "active": false
+      "active": true
     },
     "10977": {
       "name": "Jordan McFadden",
@@ -21807,7 +21807,7 @@
     "12946": {
       "name": "Dontae Fleming",
       "position": "WR",
-      "team": null,
+      "team": "MIN",
       "status": "Inactive",
       "active": true
     },
@@ -23474,7 +23474,7 @@
       "name": "Trey Moore",
       "position": "LB",
       "team": "MIA",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "577": {
@@ -27246,7 +27246,7 @@
     "12748": {
       "name": "Major Burns",
       "position": "DB",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -29067,7 +29067,7 @@
       "name": "Michael Jurgens",
       "position": "OL",
       "team": "MIN",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "4748": {
@@ -31691,7 +31691,7 @@
     "13934": {
       "name": "Rodney McGraw",
       "position": "DL",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -57346,7 +57346,7 @@
     "11186": {
       "name": "Carlos Washington",
       "position": "RB",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -57458,8 +57458,8 @@
     "12391": {
       "name": "Kenny Dyson",
       "position": "LB",
-      "team": null,
-      "status": "Active",
+      "team": "MIN",
+      "status": "Inactive",
       "active": true
     },
     "12497": {
@@ -62211,7 +62211,7 @@
     "12072": {
       "name": "Jacob Roberts",
       "position": "LB",
-      "team": null,
+      "team": "MIN",
       "status": "Inactive",
       "active": true
     },
@@ -73460,7 +73460,7 @@
     "6798": {
       "name": "Jalen Reagor",
       "position": "WR",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -73957,7 +73957,7 @@
     "11569": {
       "name": "Jarquez Hunter",
       "position": "RB",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -78794,7 +78794,7 @@
     "12069": {
       "name": "Gottlieb Ayedze",
       "position": "T",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -89479,7 +89479,7 @@
       "id": "11186",
       "name": "Carlos Washington",
       "position": "RB",
-      "team": null,
+      "team": "MIA",
       "status": "Active"
     },
     {
@@ -92671,7 +92671,7 @@
       "id": "12946",
       "name": "Dontae Fleming",
       "position": "WR",
-      "team": null,
+      "team": "MIN",
       "status": "Inactive"
     },
     {
@@ -95352,7 +95352,7 @@
       "id": "6798",
       "name": "Jalen Reagor",
       "position": "WR",
-      "team": null,
+      "team": "MIA",
       "status": "Active"
     },
     {
@@ -95828,7 +95828,7 @@
       "id": "11569",
       "name": "Jarquez Hunter",
       "position": "RB",
-      "team": null,
+      "team": "MIA",
       "status": "Active"
     },
     {
@@ -102968,6 +102968,13 @@
       "id": "4955",
       "name": "Ronald Jones",
       "position": "RB",
+      "team": null,
+      "status": "Active"
+    },
+    {
+      "id": "7601",
+      "name": "Rondale Moore",
+      "position": "WR",
       "team": null,
       "status": "Active"
     },

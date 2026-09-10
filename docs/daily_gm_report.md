@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-09-10 10:28:43
+Generated: 2026-09-10 14:45:20
 
 ---
 
@@ -9,7 +9,7 @@ Generated: 2026-09-10 10:28:43
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2814
+Available Players: 2815
 
 ---
 

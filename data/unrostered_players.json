@@ -2621,7 +2621,7 @@
     "id": "11186",
     "name": "Carlos Washington",
     "position": "RB",
-    "team": null,
+    "team": "MIA",
     "status": "Active"
   },
   {
@@ -5813,7 +5813,7 @@
     "id": "12946",
     "name": "Dontae Fleming",
     "position": "WR",
-    "team": null,
+    "team": "MIN",
     "status": "Inactive"
   },
   {
@@ -8494,7 +8494,7 @@
     "id": "6798",
     "name": "Jalen Reagor",
     "position": "WR",
-    "team": null,
+    "team": "MIA",
     "status": "Active"
   },
   {
@@ -8970,7 +8970,7 @@
     "id": "11569",
     "name": "Jarquez Hunter",
     "position": "RB",
-    "team": null,
+    "team": "MIA",
     "status": "Active"
   },
   {
@@ -16110,6 +16110,13 @@
     "id": "4955",
     "name": "Ronald Jones",
     "position": "RB",
+    "team": null,
+    "status": "Active"
+  },
+  {
+    "id": "7601",
+    "name": "Rondale Moore",
+    "position": "WR",
     "team": null,
     "status": "Active"
   },

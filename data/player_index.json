@@ -9398,7 +9398,7 @@
     "position": "WR",
     "team": null,
     "status": "Active",
-    "active": false
+    "active": true
   },
   "10977": {
     "name": "Jordan McFadden",
@@ -20540,7 +20540,7 @@
   "12946": {
     "name": "Dontae Fleming",
     "position": "WR",
-    "team": null,
+    "team": "MIN",
     "status": "Inactive",
     "active": true
   },
@@ -22207,7 +22207,7 @@
     "name": "Trey Moore",
     "position": "LB",
     "team": "MIA",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "577": {
@@ -25979,7 +25979,7 @@
   "12748": {
     "name": "Major Burns",
     "position": "DB",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -27800,7 +27800,7 @@
     "name": "Michael Jurgens",
     "position": "OL",
     "team": "MIN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "4748": {
@@ -30424,7 +30424,7 @@
   "13934": {
     "name": "Rodney McGraw",
     "position": "DL",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -56079,7 +56079,7 @@
   "11186": {
     "name": "Carlos Washington",
     "position": "RB",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -56191,8 +56191,8 @@
   "12391": {
     "name": "Kenny Dyson",
     "position": "LB",
-    "team": null,
-    "status": "Active",
+    "team": "MIN",
+    "status": "Inactive",
     "active": true
   },
   "12497": {
@@ -60944,7 +60944,7 @@
   "12072": {
     "name": "Jacob Roberts",
     "position": "LB",
-    "team": null,
+    "team": "MIN",
     "status": "Inactive",
     "active": true
   },
@@ -72193,7 +72193,7 @@
   "6798": {
     "name": "Jalen Reagor",
     "position": "WR",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -72690,7 +72690,7 @@
   "11569": {
     "name": "Jarquez Hunter",
     "position": "RB",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -77527,7 +77527,7 @@
   "12069": {
     "name": "Gottlieb Ayedze",
     "position": "T",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
