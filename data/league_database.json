@@ -7325,7 +7325,7 @@
       "name": "Zach Durfee",
       "position": "DE",
       "team": "JAX",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "1266": {
@@ -8255,7 +8255,7 @@
     "6045": {
       "name": "Gary Jennings",
       "position": "WR",
-      "team": null,
+      "team": "LAC",
       "status": "Active",
       "active": true
     },
@@ -9578,7 +9578,7 @@
     "11972": {
       "name": "Isaiah Iton",
       "position": "DL",
-      "team": "NE",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -9957,7 +9957,7 @@
       "name": "Patrick Mekari",
       "position": "OL",
       "team": "JAX",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "4625": {
@@ -14969,7 +14969,7 @@
       "name": "Will Mallory",
       "position": "TE",
       "team": "IND",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "12153": {
@@ -15773,7 +15773,7 @@
     "14086": {
       "name": "Terrelle Smith",
       "position": "FB",
-      "team": "WAS",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -19686,7 +19686,7 @@
     "13202": {
       "name": "Dalevon Campbell",
       "position": "WR",
-      "team": "LAC",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -20071,7 +20071,7 @@
     "12941": {
       "name": "Bryson Nesbit",
       "position": "TE",
-      "team": "MIN",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -21315,9 +21315,9 @@
       "active": true
     },
     "12897": {
-      "name": "Nathan Carter",
+      "name": "Nate Carter",
       "position": "RB",
-      "team": null,
+      "team": "KC",
       "status": "Active",
       "active": true
     },
@@ -21989,7 +21989,7 @@
     "11905": {
       "name": "Dwight McGlothern",
       "position": "DB",
-      "team": "MIN",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -29381,7 +29381,7 @@
     "8143": {
       "name": "Jerome Ford",
       "position": "RB",
-      "team": "WAS",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -29409,7 +29409,7 @@
     "11468": {
       "name": "Kilian Zierer",
       "position": "T",
-      "team": null,
+      "team": "JAX",
       "status": "Active",
       "active": true
     },
@@ -34064,7 +34064,7 @@
     "11860": {
       "name": "Beanie Bishop",
       "position": "CB",
-      "team": "CHI",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -35562,7 +35562,7 @@
     "8833": {
       "name": "Dallis Flowers",
       "position": "CB",
-      "team": "CHI",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -39664,7 +39664,7 @@
     "12685": {
       "name": "Bryce Cabeldue",
       "position": "OT",
-      "team": "SEA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -43962,7 +43962,7 @@
     "13701": {
       "name": "Carlos Allen",
       "position": "DT",
-      "team": "ATL",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -48715,7 +48715,7 @@
     "11036": {
       "name": "Anthony Johnson",
       "position": "DB",
-      "team": null,
+      "team": "CHI",
       "status": "Active",
       "active": true
     },
@@ -55652,7 +55652,7 @@
     "6876": {
       "name": "A.J. Green",
       "position": "CB",
-      "team": "MIA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -56254,7 +56254,7 @@
     "6965": {
       "name": "Jonathan Garvin",
       "position": "LB",
-      "team": "CHI",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -60914,7 +60914,7 @@
       "active": true
     },
     "13784": {
-      "name": "Cameron Ball",
+      "name": "Cam Ball",
       "position": "DT",
       "team": "IND",
       "status": "Active",
@@ -66348,7 +66348,7 @@
     "11194": {
       "name": "Keshawn Banks",
       "position": "LB",
-      "team": "ATL",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -69029,7 +69029,7 @@
     "8801": {
       "name": "Dennis Houston",
       "position": "WR",
-      "team": "TB",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -69099,7 +69099,7 @@
     "13131": {
       "name": "Isas Waxter",
       "position": "DB",
-      "team": "LAC",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -69555,7 +69555,7 @@
       "name": "Carter Runyon",
       "position": "TE",
       "team": "LV",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "8512": {
@@ -73892,7 +73892,7 @@
       "active": false
     },
     "12594": {
-      "name": "JT Tuimoloau",
+      "name": "Jaylahn Tuimoloau",
       "position": "DL",
       "team": "IND",
       "status": "Active",
@@ -74790,7 +74790,7 @@
     "13863": {
       "name": "Murvin Kenion",
       "position": "DB",
-      "team": "GB",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -75119,7 +75119,7 @@
     "7344": {
       "name": "Jonah Williams",
       "position": "DE",
-      "team": "NO",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -79620,7 +79620,7 @@
     "12637": {
       "name": "Ruben Hyppolite",
       "position": "LB",
-      "team": "CHI",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -88996,7 +88996,7 @@
       "id": "12941",
       "name": "Bryson Nesbit",
       "position": "TE",
-      "team": "MIN",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -89543,7 +89543,7 @@
       "name": "Carter Runyon",
       "position": "TE",
       "team": "LV",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "7735",
@@ -90865,7 +90865,7 @@
       "id": "13202",
       "name": "Dalevon Campbell",
       "position": "WR",
-      "team": "LAC",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -92027,7 +92027,7 @@
       "id": "8801",
       "name": "Dennis Houston",
       "position": "WR",
-      "team": "TB",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -93798,7 +93798,7 @@
       "id": "6045",
       "name": "Gary Jennings",
       "position": "WR",
-      "team": null,
+      "team": "LAC",
       "status": "Active"
     },
     {
@@ -96367,7 +96367,7 @@
       "id": "8143",
       "name": "Jerome Ford",
       "position": "RB",
-      "team": "WAS",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -101285,6 +101285,13 @@
       "status": "Active"
     },
     {
+      "id": "12897",
+      "name": "Nate Carter",
+      "position": "RB",
+      "team": "KC",
+      "status": "Active"
+    },
+    {
       "id": "4803",
       "name": "Nate Iese",
       "position": "TE",
@@ -101332,13 +101339,6 @@
       "position": "TE",
       "team": null,
       "status": "Inactive"
-    },
-    {
-      "id": "12897",
-      "name": "Nathan Carter",
-      "position": "RB",
-      "team": null,
-      "status": "Active"
     },
     {
       "id": "7466",
@@ -106154,7 +106154,7 @@
       "name": "Will Mallory",
       "position": "TE",
       "team": "IND",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "13662",

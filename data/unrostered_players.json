@@ -2138,7 +2138,7 @@
     "id": "12941",
     "name": "Bryson Nesbit",
     "position": "TE",
-    "team": "MIN",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -2685,7 +2685,7 @@
     "name": "Carter Runyon",
     "position": "TE",
     "team": "LV",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "7735",
@@ -4007,7 +4007,7 @@
     "id": "13202",
     "name": "Dalevon Campbell",
     "position": "WR",
-    "team": "LAC",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -5169,7 +5169,7 @@
     "id": "8801",
     "name": "Dennis Houston",
     "position": "WR",
-    "team": "TB",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -6940,7 +6940,7 @@
     "id": "6045",
     "name": "Gary Jennings",
     "position": "WR",
-    "team": null,
+    "team": "LAC",
     "status": "Active"
   },
   {
@@ -9509,7 +9509,7 @@
     "id": "8143",
     "name": "Jerome Ford",
     "position": "RB",
-    "team": "WAS",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -14427,6 +14427,13 @@
     "status": "Active"
   },
   {
+    "id": "12897",
+    "name": "Nate Carter",
+    "position": "RB",
+    "team": "KC",
+    "status": "Active"
+  },
+  {
     "id": "4803",
     "name": "Nate Iese",
     "position": "TE",
@@ -14474,13 +14481,6 @@
     "position": "TE",
     "team": null,
     "status": "Inactive"
-  },
-  {
-    "id": "12897",
-    "name": "Nathan Carter",
-    "position": "RB",
-    "team": null,
-    "status": "Active"
   },
   {
     "id": "7466",
@@ -19296,7 +19296,7 @@
     "name": "Will Mallory",
     "position": "TE",
     "team": "IND",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "13662",
