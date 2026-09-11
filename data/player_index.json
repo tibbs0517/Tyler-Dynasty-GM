@@ -14149,7 +14149,7 @@
   "1932": {
     "name": "DaQuan Jones",
     "position": "DT",
-    "team": null,
+    "team": "NE",
     "status": "Active",
     "active": true
   },
@@ -29963,7 +29963,7 @@
     "name": "A.J. Brown",
     "position": "WR",
     "team": "NE",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "374": {
@@ -57710,7 +57710,7 @@
   "11306": {
     "name": "Xavier Gipson",
     "position": "WR",
-    "team": null,
+    "team": "PHI",
     "status": "Active",
     "active": true
   },
@@ -79509,7 +79509,7 @@
     "name": "Danny Gray",
     "position": "WR",
     "team": "PHI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "4138": {

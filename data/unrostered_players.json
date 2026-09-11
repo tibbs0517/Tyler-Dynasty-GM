@@ -4344,7 +4344,7 @@
     "name": "Danny Gray",
     "position": "WR",
     "team": "PHI",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "11654",
@@ -19372,7 +19372,7 @@
     "id": "11306",
     "name": "Xavier Gipson",
     "position": "WR",
-    "team": null,
+    "team": "PHI",
     "status": "Active"
   },
   {
