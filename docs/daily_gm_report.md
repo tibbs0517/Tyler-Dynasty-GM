@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-09-11 02:42:58
+Generated: 2026-09-11 07:43:01
 
 ---
 
@@ -9,14 +9,14 @@ Generated: 2026-09-11 02:42:58
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2815
+Available Players: 2814
 
 ---
 
 ## League Activity
 
 Trades: 4
-Waiver Claims: 29
+Waiver Claims: 31
 Free Agent Moves: 48
 
 ---
@@ -40,6 +40,8 @@ Players on Roster: 23
 
 ## Top Waiver Claims
 
+- Juwan Johnson → TheCreecher
+- Michael Mayer → TheCreecher
 - Zavion Thomas → tylergratz
 - Justice Hill → tylerhjensen
 - Kirk Cousins → theFalIeniD
@@ -93,7 +95,7 @@ Players on Roster: 23
 ## Most Active Managers
 
 - tylerhjensen: 16 moves
-- TheCreecher: 13 moves
+- TheCreecher: 15 moves
 - HebrewsHeroes: 12 moves
 - tylergratz: 10 moves
 - HoNeYmOOnBaBy: 10 moves
