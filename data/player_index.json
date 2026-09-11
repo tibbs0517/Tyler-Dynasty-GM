@@ -9830,7 +9830,7 @@
   "11795": {
     "name": "Jaden Crumedy",
     "position": "DT",
-    "team": "GB",
+    "team": "HOU",
     "status": "Active",
     "active": true
   },
@@ -32531,7 +32531,7 @@
   "10987": {
     "name": "Atonio Mafi",
     "position": "OL",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
@@ -55625,7 +55625,7 @@
     "name": "Kayden McDonald",
     "position": "DL",
     "team": "HOU",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "4220": {
@@ -79509,7 +79509,7 @@
     "name": "Danny Gray",
     "position": "WR",
     "team": "PHI",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "4138": {
