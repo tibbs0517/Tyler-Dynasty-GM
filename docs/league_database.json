@@ -110,9 +110,9 @@
     },
     "season": "2026",
     "season_type": "regular",
+    "shard": 470,
     "sport": "nfl",
     "last_message_id": "1404033843509342216",
-    "shard": 470,
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -125,6 +125,8 @@
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "group_id": null,
     "roster_positions": [
       "QB",
@@ -150,8 +152,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -33801,7 +33801,7 @@
     "10987": {
       "name": "Atonio Mafi",
       "position": "OL",
-      "team": "LV",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -34088,7 +34088,7 @@
     "6964": {
       "name": "Sean McKeon",
       "position": "TE",
-      "team": "IND",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -37973,7 +37973,7 @@
     "11082": {
       "name": "Ben Sims",
       "position": "TE",
-      "team": "MIA",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -50713,7 +50713,7 @@
     "13118": {
       "name": "Melvin Smith",
       "position": "DB",
-      "team": "TEN",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -82612,7 +82612,7 @@
     "13917": {
       "name": "Marlen Sewell",
       "position": "DB",
-      "team": "CHI",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -88173,7 +88173,7 @@
       "id": "11082",
       "name": "Ben Sims",
       "position": "TE",
-      "team": "MIA",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -103482,7 +103482,7 @@
       "id": "6964",
       "name": "Sean McKeon",
       "position": "TE",
-      "team": "IND",
+      "team": null,
       "status": "Inactive"
     },
     {

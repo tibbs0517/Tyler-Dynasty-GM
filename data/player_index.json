@@ -32531,7 +32531,7 @@
   "10987": {
     "name": "Atonio Mafi",
     "position": "OL",
-    "team": "LV",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -32818,7 +32818,7 @@
   "6964": {
     "name": "Sean McKeon",
     "position": "TE",
-    "team": "IND",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -36703,7 +36703,7 @@
   "11082": {
     "name": "Ben Sims",
     "position": "TE",
-    "team": "MIA",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -49443,7 +49443,7 @@
   "13118": {
     "name": "Melvin Smith",
     "position": "DB",
-    "team": "TEN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -81342,7 +81342,7 @@
   "13917": {
     "name": "Marlen Sewell",
     "position": "DB",
-    "team": "CHI",
+    "team": null,
     "status": "Active",
     "active": true
   },

@@ -1312,7 +1312,7 @@
     "id": "11082",
     "name": "Ben Sims",
     "position": "TE",
-    "team": "MIA",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -16621,7 +16621,7 @@
     "id": "6964",
     "name": "Sean McKeon",
     "position": "TE",
-    "team": "IND",
+    "team": null,
     "status": "Inactive"
   },
   {
