@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-09-11 22:10:37
+Generated: 2026-09-12 00:51:22
 
 ---
 
@@ -9,7 +9,7 @@ Generated: 2026-09-11 22:10:37
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2814
+Available Players: 2817
 
 ---
 
@@ -17,7 +17,7 @@ Available Players: 2814
 
 Trades: 4
 Waiver Claims: 31
-Free Agent Moves: 48
+Free Agent Moves: 51
 
 ---
 
@@ -74,6 +74,9 @@ Players on Roster: 23
 
 ## Recently Dropped Players
 
+- Kareem Hunt
+- Jaleel McLaughlin
+- Chimere Dike
 - Jaydon Blue
 - Jack Strand
 - Cade Otton
@@ -86,9 +89,6 @@ Players on Roster: 23
 - Alvin Kamara
 - Isaiah Davis
 - Trevor Etienne
-- Geno Smith
-- Brenton Strange
-- James Conner
 
 ---
 
@@ -103,6 +103,7 @@ Players on Roster: 23
 - SammyA: 8 moves
 - AnthonyJania: 7 moves
 - jmikolay: 4 moves
+- jaredgratz: 3 moves
 
 ---
 

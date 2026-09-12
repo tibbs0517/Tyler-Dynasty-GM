@@ -3010,6 +3010,13 @@
     "status": "Active"
   },
   {
+    "id": "12540",
+    "name": "Chimere Dike",
+    "position": "WR",
+    "team": "TEN",
+    "status": "Active"
+  },
+  {
     "id": "12100",
     "name": "Chris Autman-Bell",
     "position": "WR",
@@ -8407,6 +8414,13 @@
     "status": "Active"
   },
   {
+    "id": "11439",
+    "name": "Jaleel McLaughlin",
+    "position": "RB",
+    "team": "CLE",
+    "status": "Active"
+  },
+  {
     "id": "5005",
     "name": "Jaleel Scott",
     "position": "WR",
@@ -11240,6 +11254,13 @@
     "position": "RB",
     "team": null,
     "status": "Inactive"
+  },
+  {
+    "id": "4098",
+    "name": "Kareem Hunt",
+    "position": "RB",
+    "team": null,
+    "status": "Active"
   },
   {
     "id": "4364",

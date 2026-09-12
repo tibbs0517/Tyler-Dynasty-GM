@@ -62,6 +62,11 @@
     },
     "avatar": null,
     "company_id": null,
+    "last_message_id": "1404291244342902784",
+    "sport": "nfl",
+    "shard": 470,
+    "season": "2026",
+    "season_type": "regular",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -108,26 +113,19 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 470,
-    "sport": "nfl",
-    "last_message_id": "1404033843509342216",
+    "draft_id": "1326711861202161664",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1789110263281,
+    "last_message_time": 1789171632423,
     "last_pinned_message_id": null,
-    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
     "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -152,6 +150,8 @@
       "BN",
       "BN"
     ],
+    "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -685,20 +685,17 @@
       "owner_id": "334388238179381248",
       "player_map": null,
       "players": [
-        "11439",
         "11619",
         "11647",
         "12483",
         "12490",
         "12522",
         "12526",
-        "12540",
         "13272",
         "13286",
         "13346",
         "13417",
         "1479",
-        "4098",
         "4866",
         "6804",
         "6904",
@@ -713,7 +710,8 @@
         "9997"
       ],
       "reserve": [
-        "11619"
+        "11619",
+        "8205"
       ],
       "roster_id": 2,
       "settings": {
@@ -736,7 +734,7 @@
         "8130",
         "12490",
         "8167",
-        "6804"
+        "12522"
       ],
       "taxi": null
     },

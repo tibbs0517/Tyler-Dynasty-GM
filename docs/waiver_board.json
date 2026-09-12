@@ -7293,6 +7293,19 @@
     "roster_id": null
   },
   {
+    "id": "11439",
+    "name": "Jaleel McLaughlin",
+    "position": "RB",
+    "team": "CLE",
+    "age": 25,
+    "years_exp": 3,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
     "id": "12218",
     "name": "Jalen Jackson",
     "position": "RB",
@@ -8378,6 +8391,19 @@
     "team": null,
     "age": 25,
     "years_exp": 3,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
+    "id": "4098",
+    "name": "Kareem Hunt",
+    "position": "RB",
+    "team": null,
+    "age": 30,
+    "years_exp": 9,
     "active": true,
     "injury_status": null,
     "bye_week": null,
@@ -22438,6 +22464,19 @@
     "roster_id": null
   },
   {
+    "id": "12540",
+    "name": "Chimere Dike",
+    "position": "WR",
+    "team": "TEN",
+    "age": 24,
+    "years_exp": 1,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
     "id": "12100",
     "name": "Chris Autman-Bell",
     "position": "WR",
@@ -24574,7 +24613,7 @@
     "name": "Devin Duvernay",
     "position": "WR",
     "team": "ARI",
-    "age": 28,
+    "age": 29,
     "years_exp": 6,
     "active": true,
     "injury_status": null,
@@ -28136,7 +28175,7 @@
     "name": "Jimmy Horn",
     "position": "WR",
     "team": "CAR",
-    "age": 23,
+    "age": 24,
     "years_exp": 1,
     "active": true,
     "injury_status": null,
