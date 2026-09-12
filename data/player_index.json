@@ -16627,7 +16627,7 @@
   "11633": {
     "name": "Jamari Thrash",
     "position": "WR",
-    "team": "CLE",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -20001,7 +20001,7 @@
   "7599": {
     "name": "Jermar Jefferson",
     "position": "RB",
-    "team": "MIN",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -22731,7 +22731,7 @@
   "12895": {
     "name": "Malik Verdon",
     "position": "DB",
-    "team": "ATL",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -27617,7 +27617,7 @@
   "12741": {
     "name": "Garrett Dellinger",
     "position": "OG",
-    "team": "TEN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -46265,7 +46265,7 @@
   "13575": {
     "name": "Tyre West",
     "position": "DT",
-    "team": "DET",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -59299,7 +59299,7 @@
   "2329": {
     "name": "D.J. Humphries",
     "position": "OL",
-    "team": "WAS",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -62323,7 +62323,7 @@
   "8204": {
     "name": "Bo Melton",
     "position": "WR",
-    "team": "GB",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -75476,7 +75476,7 @@
   "7661": {
     "name": "Levi Onwuzurike",
     "position": "DE",
-    "team": "DET",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -81055,7 +81055,7 @@
   "13752": {
     "name": "Tyreak Sapp",
     "position": "DE",
-    "team": "CLE",
+    "team": null,
     "status": "Active",
     "active": true
   },

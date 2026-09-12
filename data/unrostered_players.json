@@ -1480,7 +1480,7 @@
     "id": "8204",
     "name": "Bo Melton",
     "position": "WR",
-    "team": "GB",
+    "team": null,
     "status": "Active"
   },
   {
@@ -8697,7 +8697,7 @@
     "id": "11633",
     "name": "Jamari Thrash",
     "position": "WR",
-    "team": "CLE",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -9495,7 +9495,7 @@
     "id": "7599",
     "name": "Jermar Jefferson",
     "position": "RB",
-    "team": "MIN",
+    "team": null,
     "status": "Inactive"
   },
   {
