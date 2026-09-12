@@ -430,7 +430,7 @@
     "name": "Cameron Williams",
     "position": "OL",
     "team": "ATL",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "6751": {
@@ -3461,7 +3461,7 @@
     "name": "Audric Estime",
     "position": "RB",
     "team": "NO",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "12584": {
@@ -18301,7 +18301,7 @@
     "name": "Eli Stowers",
     "position": "TE",
     "team": "PHI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "11618": {
@@ -27415,7 +27415,7 @@
     "name": "Tim Patrick",
     "position": "WR",
     "team": "NYJ",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "1639": {
@@ -60622,7 +60622,7 @@
   "12607": {
     "name": "Jamon Johnson",
     "position": "LB",
-    "team": null,
+    "team": "BAL",
     "status": "Active",
     "active": true
   },
@@ -62323,7 +62323,7 @@
   "8204": {
     "name": "Bo Melton",
     "position": "WR",
-    "team": null,
+    "team": "GB",
     "status": "Active",
     "active": true
   },
@@ -75476,7 +75476,7 @@
   "7661": {
     "name": "Levi Onwuzurike",
     "position": "DE",
-    "team": null,
+    "team": "DET",
     "status": "Active",
     "active": true
   },

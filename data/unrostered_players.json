@@ -977,7 +977,7 @@
     "name": "Audric Estime",
     "position": "RB",
     "team": "NO",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "8215",
@@ -1480,7 +1480,7 @@
     "id": "8204",
     "name": "Bo Melton",
     "position": "WR",
-    "team": null,
+    "team": "GB",
     "status": "Active"
   },
   {
@@ -17952,7 +17952,7 @@
     "name": "Tim Patrick",
     "position": "WR",
     "team": "NYJ",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "2595",

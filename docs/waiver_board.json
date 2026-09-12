@@ -982,7 +982,7 @@
     "age": 32,
     "years_exp": 9,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -8522,7 +8522,7 @@
     "age": 28,
     "years_exp": 5,
     "active": true,
-    "injury_status": "Doubtful",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -21297,7 +21297,7 @@
     "id": "8204",
     "name": "Bo Melton",
     "position": "WR",
-    "team": null,
+    "team": "GB",
     "age": 27,
     "years_exp": 4,
     "active": true,
@@ -35133,7 +35133,7 @@
     "age": 32,
     "years_exp": 9,
     "active": true,
-    "injury_status": "Out",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
