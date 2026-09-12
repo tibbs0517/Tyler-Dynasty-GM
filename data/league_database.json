@@ -62,10 +62,9 @@
     },
     "avatar": null,
     "company_id": null,
-    "shard": 470,
-    "season": "2026",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -113,6 +112,7 @@
       "st_ff": 1.0
     },
     "last_message_id": "1404291244342902784",
+    "shard": 470,
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -125,11 +125,6 @@
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
-    "group_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -154,6 +149,11 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -10491,7 +10491,7 @@
     "13310": {
       "name": "Miller Moss",
       "position": "QB",
-      "team": null,
+      "team": "CHI",
       "status": "Active",
       "active": true
     },
@@ -72246,7 +72246,7 @@
       "name": "Malik Davis",
       "position": "RB",
       "team": "DAL",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "3110": {
@@ -99829,7 +99829,7 @@
       "name": "Malik Davis",
       "position": "RB",
       "team": "DAL",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "5169",
@@ -101053,7 +101053,7 @@
       "id": "13310",
       "name": "Miller Moss",
       "position": "QB",
-      "team": null,
+      "team": "CHI",
       "status": "Active"
     },
     {

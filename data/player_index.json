@@ -9221,7 +9221,7 @@
   "13310": {
     "name": "Miller Moss",
     "position": "QB",
-    "team": null,
+    "team": "CHI",
     "status": "Active",
     "active": true
   },
@@ -70976,7 +70976,7 @@
     "name": "Malik Davis",
     "position": "RB",
     "team": "DAL",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3110": {
