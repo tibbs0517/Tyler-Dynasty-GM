@@ -2968,6 +2968,20 @@
     "gm_score": 80
   },
   {
+    "id": "13424",
+    "name": "Seth McGowan",
+    "position": "RB",
+    "team": "IND",
+    "age": 24,
+    "years_exp": 0,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 6,
+    "gm_score": 80
+  },
+  {
     "id": "7465",
     "name": "Nick Tiano",
     "position": "QB",
@@ -25304,20 +25318,6 @@
     "team": null,
     "age": 27,
     "years_exp": 5,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 60
-  },
-  {
-    "id": "13424",
-    "name": "Seth McGowan",
-    "position": "RB",
-    "team": "IND",
-    "age": 24,
-    "years_exp": 0,
     "active": true,
     "injury_status": null,
     "bye_week": null,

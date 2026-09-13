@@ -58,7 +58,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 4,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 12
+      "daily_waivers_last_ran": 13
     },
     "avatar": null,
     "company_id": null,
@@ -112,14 +112,14 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1404593523675725824",
-    "last_author_avatar": "5465a43bf96c8b16dc460cbf1b67e29c",
-    "last_author_display_name": "AnthonyJania",
-    "last_author_id": "353394136252092416",
-    "last_author_is_bot": false,
+    "last_message_id": "1404758765701451776",
+    "last_author_avatar": null,
+    "last_author_display_name": "sys",
+    "last_author_id": "166666666666666666",
+    "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1789243701432,
+    "last_message_time": 1789283098200,
     "last_pinned_message_id": null,
     "draft_id": "1326711861202161664",
     "last_read_id": null,
@@ -127,9 +127,6 @@
     "previous_league_id": "1228352285197746179",
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -154,6 +151,9 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -788,7 +788,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 7,
+        "waiver_position": 6,
         "wins": 0
       },
       "starters": [
@@ -855,7 +855,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 8,
+        "waiver_position": 7,
         "wins": 0
       },
       "starters": [
@@ -915,7 +915,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 9,
+        "waiver_position": 8,
         "wins": 0
       },
       "starters": [
@@ -950,6 +950,7 @@
         "11632",
         "12495",
         "13414",
+        "13424",
         "2133",
         "3294",
         "3321",
@@ -979,7 +980,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 4,
+        "waiver_position": 10,
         "wins": 0
       },
       "starters": [
@@ -1045,7 +1046,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 6,
+        "waiver_position": 5,
         "wins": 0
       },
       "starters": [
@@ -1185,7 +1186,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 5,
+        "waiver_position": 4,
         "wins": 0
       },
       "starters": [
@@ -1250,7 +1251,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 0
       },
       "starters": [

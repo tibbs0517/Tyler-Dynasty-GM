@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-09-13 02:50:50
+Generated: 2026-09-13 07:56:56
 
 ---
 
@@ -9,14 +9,14 @@ Generated: 2026-09-13 02:50:50
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2817
+Available Players: 2816
 
 ---
 
 ## League Activity
 
 Trades: 4
-Waiver Claims: 31
+Waiver Claims: 32
 Free Agent Moves: 51
 
 ---
@@ -40,6 +40,7 @@ Players on Roster: 23
 
 ## Top Waiver Claims
 
+- Seth McGowan → SammyA
 - Juwan Johnson → TheCreecher
 - Michael Mayer → TheCreecher
 - Zavion Thomas → tylergratz
@@ -99,8 +100,8 @@ Players on Roster: 23
 - HebrewsHeroes: 12 moves
 - tylergratz: 10 moves
 - HoNeYmOOnBaBy: 10 moves
+- SammyA: 9 moves
 - theFalIeniD: 9 moves
-- SammyA: 8 moves
 - AnthonyJania: 7 moves
 - jmikolay: 4 moves
 - jaredgratz: 3 moves
