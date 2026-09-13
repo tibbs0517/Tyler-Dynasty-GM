@@ -4671,7 +4671,7 @@
   "13727": {
     "name": "Lardarius Webb",
     "position": "DB",
-    "team": "BAL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -30257,7 +30257,7 @@
     "name": "Myles Garrett",
     "position": "DE",
     "team": "LAR",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "6725": {
@@ -84121,7 +84121,7 @@
   "11395": {
     "name": "Keidron Smith",
     "position": "DB",
-    "team": "CHI",
+    "team": null,
     "status": "Active",
     "active": true
   },
