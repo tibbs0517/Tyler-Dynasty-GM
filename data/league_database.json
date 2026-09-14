@@ -62,10 +62,10 @@
     },
     "avatar": null,
     "company_id": null,
-    "shard": 470,
-    "season": "2026",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 470,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -241,7 +241,7 @@
       "user_id": "334195495809318912"
     },
     {
-      "avatar": "e0e297039387e91aa676f7893bb674f2",
+      "avatar": "fec5e739d20e3468342d3021a07bfeb4",
       "display_name": "jaredgratz",
       "is_bot": false,
       "is_owner": false,
