@@ -62,10 +62,10 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "shard": 470,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -14308,7 +14308,7 @@
     "12908": {
       "name": "Chandler Brayboy",
       "position": "WR",
-      "team": null,
+      "team": "NE",
       "status": "Active",
       "active": true
     },
@@ -42757,7 +42757,7 @@
       "name": "Brock Lampe",
       "position": "FB",
       "team": "SEA",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "13961": {
@@ -46914,7 +46914,7 @@
     "14032": {
       "name": "Xavier Holmes",
       "position": "DL",
-      "team": null,
+      "team": "NE",
       "status": "Active",
       "active": true
     },
@@ -71778,7 +71778,7 @@
     "12920": {
       "name": "Dean Clark",
       "position": "DB",
-      "team": null,
+      "team": "NYJ",
       "status": "Active",
       "active": true
     },
@@ -75124,7 +75124,7 @@
     "7344": {
       "name": "Jonah Williams",
       "position": "DE",
-      "team": null,
+      "team": "NO",
       "status": "Active",
       "active": true
     },
@@ -89687,7 +89687,7 @@
       "id": "12908",
       "name": "Chandler Brayboy",
       "position": "WR",
-      "team": null,
+      "team": "NE",
       "status": "Active"
     },
     {
