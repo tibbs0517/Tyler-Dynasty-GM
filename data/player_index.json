@@ -1416,7 +1416,7 @@
   "11044": {
     "name": "Nick Broeker",
     "position": "OL",
-    "team": "BUF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -23669,7 +23669,7 @@
   "13028": {
     "name": "Elliott Davison",
     "position": "DB",
-    "team": "NE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -24320,7 +24320,7 @@
   "5938": {
     "name": "Lil'Jordan Humphrey",
     "position": "WR",
-    "team": "DEN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -31880,7 +31880,7 @@
   "12888": {
     "name": "Dalen Cambre",
     "position": "WR",
-    "team": "NYG",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -49443,7 +49443,7 @@
   "13118": {
     "name": "Melvin Smith",
     "position": "DB",
-    "team": null,
+    "team": "KC",
     "status": "Active",
     "active": true
   },
@@ -60335,7 +60335,7 @@
   "8123": {
     "name": "Hassan Haskins",
     "position": "RB",
-    "team": "NE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -68259,7 +68259,7 @@
   "4959": {
     "name": "Scott Daly",
     "position": "LS",
-    "team": "GB",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -70408,7 +70408,7 @@
   "13107": {
     "name": "Johnathan Edwards",
     "position": "DB",
-    "team": "IND",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -79242,7 +79242,7 @@
   "11713": {
     "name": "McKinnley Jackson",
     "position": "DL",
-    "team": null,
+    "team": "SF",
     "status": "Active",
     "active": true
   },
@@ -83330,7 +83330,7 @@
   "13735": {
     "name": "Dominic DeLuca",
     "position": "LB",
-    "team": "BAL",
+    "team": null,
     "status": "Active",
     "active": true
   },

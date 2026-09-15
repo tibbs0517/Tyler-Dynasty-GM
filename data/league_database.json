@@ -9,6 +9,7 @@
     },
     "settings": {
       "best_ball": 0,
+      "last_report": 1,
       "waiver_budget": 100,
       "disable_adds": 0,
       "capacity_override": 0,
@@ -113,17 +114,17 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1405586910621032448",
+    "last_message_id": "1405666386532986880",
     "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
     "last_author_display_name": "HebrewsHeroes",
     "last_author_id": "434689597088198656",
     "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1789480543336,
+    "last_message_time": 1789499491870,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1326711861202161664",
+    "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
     "roster_positions": [
@@ -150,9 +151,9 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -1010,7 +1011,8 @@
         "9509"
       ],
       "reserve": [
-        "6768"
+        "6768",
+        "9506"
       ],
       "roster_id": 6,
       "settings": {
@@ -1034,7 +1036,7 @@
         "11632",
         "8144",
         "2133",
-        "7553",
+        "8131",
         "5967",
         "5045",
         "3294"
@@ -1100,16 +1102,16 @@
         "wins": 1
       },
       "starters": [
-        "11564",
+        "6770",
         "9221",
         "8155",
         "7564",
         "7547",
         "5846",
-        "9484",
-        "11583",
-        "11581",
-        "6770"
+        "10236",
+        "4199",
+        "13301",
+        "8183"
       ],
       "taxi": null
     },
@@ -2759,7 +2761,7 @@
     "11044": {
       "name": "Nick Broeker",
       "position": "OL",
-      "team": "BUF",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -25012,7 +25014,7 @@
     "13028": {
       "name": "Elliott Davison",
       "position": "DB",
-      "team": "NE",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -25663,7 +25665,7 @@
     "5938": {
       "name": "Lil'Jordan Humphrey",
       "position": "WR",
-      "team": "DEN",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -33223,7 +33225,7 @@
     "12888": {
       "name": "Dalen Cambre",
       "position": "WR",
-      "team": "NYG",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -50786,7 +50788,7 @@
     "13118": {
       "name": "Melvin Smith",
       "position": "DB",
-      "team": null,
+      "team": "KC",
       "status": "Active",
       "active": true
     },
@@ -61678,7 +61680,7 @@
     "8123": {
       "name": "Hassan Haskins",
       "position": "RB",
-      "team": "NE",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -69602,7 +69604,7 @@
     "4959": {
       "name": "Scott Daly",
       "position": "LS",
-      "team": "GB",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -71751,7 +71753,7 @@
     "13107": {
       "name": "Johnathan Edwards",
       "position": "DB",
-      "team": "IND",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -80585,7 +80587,7 @@
     "11713": {
       "name": "McKinnley Jackson",
       "position": "DL",
-      "team": null,
+      "team": "SF",
       "status": "Active",
       "active": true
     },
@@ -84673,7 +84675,7 @@
     "13735": {
       "name": "Dominic DeLuca",
       "position": "LB",
-      "team": "BAL",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -90941,7 +90943,7 @@
       "id": "12888",
       "name": "Dalen Cambre",
       "position": "WR",
-      "team": "NYG",
+      "team": null,
       "status": "Active"
     },
     {
@@ -94245,7 +94247,7 @@
       "id": "8123",
       "name": "Hassan Haskins",
       "position": "RB",
-      "team": "NE",
+      "team": null,
       "status": "Active"
     },
     {
@@ -99565,7 +99567,7 @@
       "id": "5938",
       "name": "Lil'Jordan Humphrey",
       "position": "WR",
-      "team": "DEN",
+      "team": null,
       "status": "Active"
     },
     {

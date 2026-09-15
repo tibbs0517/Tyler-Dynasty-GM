@@ -4007,7 +4007,7 @@
     "id": "12888",
     "name": "Dalen Cambre",
     "position": "WR",
-    "team": "NYG",
+    "team": null,
     "status": "Active"
   },
   {
@@ -7311,7 +7311,7 @@
     "id": "8123",
     "name": "Hassan Haskins",
     "position": "RB",
-    "team": "NE",
+    "team": null,
     "status": "Active"
   },
   {
@@ -12631,7 +12631,7 @@
     "id": "5938",
     "name": "Lil'Jordan Humphrey",
     "position": "WR",
-    "team": "DEN",
+    "team": null,
     "status": "Active"
   },
   {
