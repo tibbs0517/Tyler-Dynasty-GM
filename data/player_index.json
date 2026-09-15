@@ -13246,7 +13246,7 @@
   "8818": {
     "name": "Obinna Eze",
     "position": "T",
-    "team": null,
+    "team": "CLE",
     "status": "Active",
     "active": true
   },
@@ -23669,7 +23669,7 @@
   "13028": {
     "name": "Elliott Davison",
     "position": "DB",
-    "team": null,
+    "team": "NE",
     "status": "Active",
     "active": true
   },
@@ -27617,7 +27617,7 @@
   "12741": {
     "name": "Garrett Dellinger",
     "position": "OG",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
@@ -52033,7 +52033,7 @@
   "10223": {
     "name": "Eric Gray",
     "position": "RB",
-    "team": null,
+    "team": "CLE",
     "status": "Active",
     "active": true
   },
@@ -55141,7 +55141,7 @@
   "13101": {
     "name": "Gage Larvadain",
     "position": "WR",
-    "team": null,
+    "team": "BAL",
     "status": "Active",
     "active": true
   },
@@ -56220,7 +56220,7 @@
     "name": "Dylan Sampson",
     "position": "RB",
     "team": "CLE",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3020": {
@@ -61273,7 +61273,7 @@
   "10908": {
     "name": "BJ Ojulari",
     "position": "DE",
-    "team": null,
+    "team": "JAX",
     "status": "Active",
     "active": true
   },
@@ -67160,7 +67160,7 @@
   "7050": {
     "name": "Josiah Deguara",
     "position": "TE",
-    "team": null,
+    "team": "PHI",
     "status": "Active",
     "active": true
   },
@@ -67832,7 +67832,7 @@
   "13131": {
     "name": "Isas Waxter",
     "position": "DB",
-    "team": null,
+    "team": "LAC",
     "status": "Active",
     "active": true
   },
@@ -69897,7 +69897,7 @@
   "3200": {
     "name": "Sterling Shepard",
     "position": "WR",
-    "team": null,
+    "team": "NYJ",
     "status": "Active",
     "active": true
   },
@@ -76779,7 +76779,7 @@
     "name": "KeAndre Lambert-Smith",
     "position": "WR",
     "team": "LAC",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "428": {
@@ -76995,7 +76995,7 @@
   "13748": {
     "name": "Wes Pahl",
     "position": "P",
-    "team": null,
+    "team": "CLE",
     "status": "Active",
     "active": true
   },
@@ -77142,7 +77142,7 @@
   "12780": {
     "name": "Xavier Truss",
     "position": "OT",
-    "team": null,
+    "team": "CLE",
     "status": "Active",
     "active": true
   },
@@ -81265,7 +81265,7 @@
   "6960": {
     "name": "Tyler Johnson",
     "position": "WR",
-    "team": null,
+    "team": "NYJ",
     "status": "Active",
     "active": true
   },

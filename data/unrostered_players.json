@@ -6548,7 +6548,7 @@
     "id": "10223",
     "name": "Eric Gray",
     "position": "RB",
-    "team": null,
+    "team": "CLE",
     "status": "Active"
   },
   {
@@ -6835,7 +6835,7 @@
     "id": "13101",
     "name": "Gage Larvadain",
     "position": "WR",
-    "team": null,
+    "team": "BAL",
     "status": "Active"
   },
   {
@@ -10776,7 +10776,7 @@
     "id": "7050",
     "name": "Josiah Deguara",
     "position": "TE",
-    "team": null,
+    "team": "PHI",
     "status": "Active"
   },
   {
@@ -11337,7 +11337,7 @@
     "name": "KeAndre Lambert-Smith",
     "position": "WR",
     "team": "LAC",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "4708",
@@ -17167,7 +17167,7 @@
     "id": "3200",
     "name": "Sterling Shepard",
     "position": "WR",
-    "team": null,
+    "team": "NYJ",
     "status": "Active"
   },
   {
@@ -18882,7 +18882,7 @@
     "id": "6960",
     "name": "Tyler Johnson",
     "position": "WR",
-    "team": null,
+    "team": "NYJ",
     "status": "Active"
   },
   {
