@@ -63,6 +63,10 @@
     },
     "avatar": null,
     "company_id": null,
+    "shard": 470,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -109,21 +113,17 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 470,
-    "sport": "nfl",
-    "last_message_id": "1405001627957551104",
-    "last_author_avatar": "ca62063676344cfcedb556ee2a79ad72",
-    "draft_id": "1326711861202161664",
-    "last_author_display_name": "TheCreecher",
-    "last_author_id": "472188020636774400",
+    "last_message_id": "1405586910621032448",
+    "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
+    "last_author_display_name": "HebrewsHeroes",
+    "last_author_id": "434689597088198656",
     "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1789341001083,
+    "last_message_time": 1789480543336,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1326711861202161664",
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
     "roster_positions": [
@@ -653,7 +653,9 @@
         "9226",
         "9487"
       ],
-      "reserve": null,
+      "reserve": [
+        "13288"
+      ],
       "roster_id": 1,
       "settings": {
         "fpts": 104,
@@ -674,11 +676,11 @@
         "4034",
         "9226",
         "8137",
-        "11620",
+        "2449",
         "9487",
         "11603",
         "8228",
-        "7021",
+        "7594",
         "11563"
       ],
       "taxi": null
@@ -792,6 +794,7 @@
         "9502"
       ],
       "reserve": [
+        "13276",
         "13353",
         "5850",
         "9502"
@@ -1150,7 +1153,8 @@
         "96"
       ],
       "reserve": [
-        "12529"
+        "12529",
+        "4943"
       ],
       "roster_id": 8,
       "settings": {
@@ -1168,7 +1172,7 @@
         "wins": 0
       },
       "starters": [
-        "4943",
+        "96",
         "7611",
         "5892",
         "12514",
@@ -1177,7 +1181,7 @@
         "12518",
         "6806",
         "7588",
-        "96"
+        "0"
       ],
       "taxi": null
     },
@@ -3197,7 +3201,7 @@
       "name": "Henry To'oTo'o",
       "position": "LB",
       "team": "HOU",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "8609": {
@@ -33224,7 +33228,7 @@
       "active": true
     },
     "10966": {
-      "name": "Robert Beal",
+      "name": "Rob Beal",
       "position": "LB",
       "team": "MIA",
       "status": "Active",
@@ -41843,7 +41847,7 @@
     "8207": {
       "name": "Tyler Goodson",
       "position": "RB",
-      "team": "ATL",
+      "team": "DAL",
       "status": "Active",
       "active": true
     },
@@ -42823,7 +42827,7 @@
     "12983": {
       "name": "Brock Lampe",
       "position": "FB",
-      "team": "SEA",
+      "team": "BUF",
       "status": "Active",
       "active": true
     },
@@ -105763,7 +105767,7 @@
       "id": "8207",
       "name": "Tyler Goodson",
       "position": "RB",
-      "team": "ATL",
+      "team": "DAL",
       "status": "Active"
     },
     {

@@ -1858,7 +1858,7 @@
     "name": "Henry To'oTo'o",
     "position": "LB",
     "team": "HOU",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "8609": {
@@ -31885,7 +31885,7 @@
     "active": true
   },
   "10966": {
-    "name": "Robert Beal",
+    "name": "Rob Beal",
     "position": "LB",
     "team": "MIA",
     "status": "Active",
@@ -40504,7 +40504,7 @@
   "8207": {
     "name": "Tyler Goodson",
     "position": "RB",
-    "team": "ATL",
+    "team": "DAL",
     "status": "Active",
     "active": true
   },
@@ -41484,7 +41484,7 @@
   "12983": {
     "name": "Brock Lampe",
     "position": "FB",
-    "team": "SEA",
+    "team": "BUF",
     "status": "Active",
     "active": true
   },
