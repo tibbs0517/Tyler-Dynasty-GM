@@ -59,7 +59,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 4,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 14
+      "daily_waivers_last_ran": 15
     },
     "avatar": null,
     "company_id": null,
@@ -111,10 +111,11 @@
     },
     "season": "2026",
     "season_type": "regular",
+    "shard": 470,
     "sport": "nfl",
     "last_message_id": "1405001627957551104",
-    "shard": 470,
     "last_author_avatar": "ca62063676344cfcedb556ee2a79ad72",
+    "draft_id": "1326711861202161664",
     "last_author_display_name": "TheCreecher",
     "last_author_id": "472188020636774400",
     "last_author_is_bot": false,
@@ -122,15 +123,9 @@
     "last_message_text_map": null,
     "last_message_time": 1789341001083,
     "last_pinned_message_id": null,
-    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -155,6 +150,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -934,7 +934,9 @@
         "9756"
       ],
       "reserve": [
-        "11638"
+        "11638",
+        "12469",
+        "5849"
       ],
       "roster_id": 5,
       "settings": {
@@ -1301,7 +1303,9 @@
       ],
       "reserve": [
         "11604",
-        "13349"
+        "13281",
+        "13349",
+        "5859"
       ],
       "roster_id": 10,
       "settings": {
@@ -1322,7 +1326,7 @@
         "11566",
         "12527",
         "3198",
-        "5859",
+        "11635",
         "7569",
         "8146",
         "9482",
