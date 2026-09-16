@@ -3761,7 +3761,7 @@
   "8473": {
     "name": "Eric Johnson",
     "position": "DT",
-    "team": null,
+    "team": "GB",
     "status": "Active",
     "active": true
   },
@@ -12133,7 +12133,7 @@
   "12771": {
     "name": "Jaden Robinson",
     "position": "CB",
-    "team": null,
+    "team": "NYG",
     "status": "Active",
     "active": true
   },
@@ -22305,13 +22305,13 @@
     "name": "Jordan Mason",
     "position": "RB",
     "team": "MIN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "12884": {
     "name": "Quincy Skinner",
     "position": "WR",
-    "team": null,
+    "team": "GB",
     "status": "Active",
     "active": true
   },
@@ -28114,8 +28114,8 @@
   "8143": {
     "name": "Jerome Ford",
     "position": "RB",
-    "team": null,
-    "status": "Inactive",
+    "team": "MIN",
+    "status": "Active",
     "active": true
   },
   "6645": {
@@ -31880,7 +31880,7 @@
   "12888": {
     "name": "Dalen Cambre",
     "position": "WR",
-    "team": null,
+    "team": "NYG",
     "status": "Active",
     "active": true
   },
