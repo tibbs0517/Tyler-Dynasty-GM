@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-09-16 17:54:47
+Generated: 2026-09-16 20:48:11
 
 ---
 
@@ -9,7 +9,7 @@ Generated: 2026-09-16 17:54:47
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2811
+Available Players: 2812
 
 ---
 
@@ -17,7 +17,7 @@ Available Players: 2811
 
 Trades: 0
 Waiver Claims: 0
-Free Agent Moves: 1
+Free Agent Moves: 2
 
 ---
 
@@ -42,12 +42,14 @@ No trades.
 
 ## Recently Dropped Players
 
+- Kendrick Bourne
 - Jalen Nailor
 
 ---
 
 ## Most Active Managers
 
+- TheCreecher: 1 moves
 - HebrewsHeroes: 1 moves
 
 ---

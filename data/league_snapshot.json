@@ -114,16 +114,16 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1405918542808784896",
-    "draft_id": "1326711861202161664",
+    "last_message_id": "1406035288110780416",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1789559610611,
+    "last_message_time": 1789587444859,
     "last_pinned_message_id": null,
+    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
@@ -654,7 +654,9 @@
         "9226",
         "9487"
       ],
-      "reserve": null,
+      "reserve": [
+        "8408"
+      ],
       "roster_id": 1,
       "settings": {
         "fpts": 104,
@@ -1294,7 +1296,6 @@
         "13405",
         "3198",
         "4017",
-        "4454",
         "5859",
         "6130",
         "6790",
@@ -1307,7 +1308,6 @@
         "9758"
       ],
       "reserve": [
-        "11604",
         "13281",
         "13349",
         "5859"
@@ -1334,7 +1334,7 @@
         "11635",
         "7569",
         "8146",
-        "9482",
+        "11604",
         "6790",
         "12519",
         "6797"
@@ -1642,9 +1642,9 @@
   ],
   "nfl_state": {
     "week": 2,
-    "leg": 2,
-    "season": "2026",
     "season_type": "regular",
+    "season": "2026",
+    "leg": 2,
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",

@@ -8362,7 +8362,7 @@
     "name": "Jake Tonges",
     "position": "TE",
     "team": "SF",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "2569",
@@ -11543,6 +11543,13 @@
     "status": "Active"
   },
   {
+    "id": "4454",
+    "name": "Kendrick Bourne",
+    "position": "WR",
+    "team": "ARI",
+    "status": "Active"
+  },
+  {
     "id": "3052",
     "name": "Kendrick Ings",
     "position": "WR",
@@ -11903,7 +11910,7 @@
     "id": "7608",
     "name": "Khalil Herbert",
     "position": "RB",
-    "team": null,
+    "team": "ATL",
     "status": "Active"
   },
   {

@@ -114,16 +114,16 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1405918542808784896",
-    "draft_id": "1326711861202161664",
+    "last_message_id": "1406035288110780416",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1789559610611,
+    "last_message_time": 1789587444859,
     "last_pinned_message_id": null,
+    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
@@ -654,7 +654,9 @@
         "9226",
         "9487"
       ],
-      "reserve": null,
+      "reserve": [
+        "8408"
+      ],
       "roster_id": 1,
       "settings": {
         "fpts": 104,
@@ -1294,7 +1296,6 @@
         "13405",
         "3198",
         "4017",
-        "4454",
         "5859",
         "6130",
         "6790",
@@ -1307,7 +1308,6 @@
         "9758"
       ],
       "reserve": [
-        "11604",
         "13281",
         "13349",
         "5859"
@@ -1334,7 +1334,7 @@
         "11635",
         "7569",
         "8146",
-        "9482",
+        "11604",
         "6790",
         "12519",
         "6797"
@@ -2012,7 +2012,7 @@
       "name": "Kyle Louis",
       "position": "LB",
       "team": "MIA",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "13525": {
@@ -3769,7 +3769,7 @@
       "name": "Jake Tonges",
       "position": "TE",
       "team": "SF",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "3453": {
@@ -7584,7 +7584,7 @@
       "name": "Da'Shawn Hand",
       "position": "DT",
       "team": "ATL",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "12890": {
@@ -8626,7 +8626,7 @@
     "7608": {
       "name": "Khalil Herbert",
       "position": "RB",
-      "team": null,
+      "team": "ATL",
       "status": "Active",
       "active": true
     },
@@ -9970,7 +9970,7 @@
     "8785": {
       "name": "Cal Adomitis",
       "position": "LS",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -10461,7 +10461,7 @@
       "name": "Cooper McDonald",
       "position": "LB",
       "team": "KC",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "6977": {
@@ -13449,7 +13449,7 @@
     "5888": {
       "name": "Amani Oruwariye",
       "position": "CB",
-      "team": null,
+      "team": "BAL",
       "status": "Active",
       "active": true
     },
@@ -30908,7 +30908,7 @@
       "name": "De'Zhaun Stribling",
       "position": "WR",
       "team": "SF",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "13241": {
@@ -36340,7 +36340,7 @@
       "name": "Jordan Magee",
       "position": "LB",
       "team": "WAS",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "3026": {
@@ -38929,7 +38929,7 @@
     "10997": {
       "name": "Jerrick Reed",
       "position": "DB",
-      "team": null,
+      "team": "ARI",
       "status": "Active",
       "active": true
     },
@@ -42009,8 +42009,8 @@
     "8351": {
       "name": "Drake Jackson",
       "position": "DL",
-      "team": null,
-      "status": "Inactive",
+      "team": "ATL",
+      "status": "Active",
       "active": true
     },
     "13111": {
@@ -53986,8 +53986,8 @@
     "12948": {
       "name": "Austin Keys",
       "position": "LB",
-      "team": null,
-      "status": "Inactive",
+      "team": "WAS",
+      "status": "Active",
       "active": true
     },
     "1553": {
@@ -57683,7 +57683,7 @@
       "name": "Kitan Crawford",
       "position": "DB",
       "team": "ARI",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "13959": {
@@ -70422,8 +70422,8 @@
     "13643": {
       "name": "Michael Heldman",
       "position": "DE",
-      "team": null,
-      "status": "Inactive",
+      "team": "KC",
+      "status": "Active",
       "active": true
     },
     "11944": {
@@ -71052,7 +71052,7 @@
     "11440": {
       "name": "Art Green",
       "position": "CB",
-      "team": null,
+      "team": "ARI",
       "status": "Active",
       "active": true
     },
@@ -76764,7 +76764,7 @@
     "13687": {
       "name": "Marvin Jones",
       "position": "DE",
-      "team": null,
+      "team": "WAS",
       "status": "Active",
       "active": true
     },
@@ -95297,7 +95297,7 @@
       "name": "Jake Tonges",
       "position": "TE",
       "team": "SF",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "2569",
@@ -98478,6 +98478,13 @@
       "status": "Active"
     },
     {
+      "id": "4454",
+      "name": "Kendrick Bourne",
+      "position": "WR",
+      "team": "ARI",
+      "status": "Active"
+    },
+    {
       "id": "3052",
       "name": "Kendrick Ings",
       "position": "WR",
@@ -98838,7 +98845,7 @@
       "id": "7608",
       "name": "Khalil Herbert",
       "position": "RB",
-      "team": null,
+      "team": "ATL",
       "status": "Active"
     },
     {

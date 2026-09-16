@@ -4505,7 +4505,7 @@
     "age": 27,
     "years_exp": 4,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -8340,7 +8340,7 @@
     "age": 26,
     "years_exp": 5,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -10680,7 +10680,7 @@
     "age": 29,
     "years_exp": 8,
     "active": true,
-    "injury_status": "Doubtful",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": true,
     "roster_id": 8
@@ -13280,7 +13280,7 @@
     "age": 27,
     "years_exp": 5,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -13523,7 +13523,7 @@
     "id": "7608",
     "name": "Khalil Herbert",
     "position": "RB",
-    "team": null,
+    "team": "ATL",
     "age": 28,
     "years_exp": 5,
     "active": true,
@@ -16019,7 +16019,7 @@
     "id": "8785",
     "name": "Cal Adomitis",
     "position": "LS",
-    "team": null,
+    "team": "MIA",
     "age": 28,
     "years_exp": 4,
     "active": true,
@@ -16777,7 +16777,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": true,
     "roster_id": 8
@@ -16933,7 +16933,7 @@
     "age": 25,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -17752,7 +17752,7 @@
     "age": 27,
     "years_exp": 6,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": true,
     "roster_id": 10
@@ -22480,7 +22480,7 @@
     "id": "5888",
     "name": "Amani Oruwariye",
     "position": "CB",
-    "team": null,
+    "team": "BAL",
     "age": 30,
     "years_exp": 7,
     "active": true,
@@ -24330,7 +24330,7 @@
     "age": 25,
     "years_exp": 3,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -24356,7 +24356,7 @@
     "age": 26,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -37187,7 +37187,7 @@
     "age": 27,
     "years_exp": 6,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -37785,7 +37785,7 @@
     "age": 29,
     "years_exp": 7,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": true,
     "roster_id": 8
@@ -41425,7 +41425,7 @@
     "age": 27,
     "years_exp": 4,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": true,
     "roster_id": 1
@@ -43466,7 +43466,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -47275,7 +47275,7 @@
     "age": 23,
     "years_exp": 2,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -47795,7 +47795,7 @@
     "age": 25,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": true,
     "roster_id": 9
@@ -54906,7 +54906,7 @@
     "age": 23,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Doubtful",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": true,
     "roster_id": 2
@@ -58455,7 +58455,7 @@
     "age": 25,
     "years_exp": 2,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -59391,7 +59391,7 @@
     "age": 24,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -61523,7 +61523,7 @@
     "age": 29,
     "years_exp": 8,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -69800,7 +69800,7 @@
     "id": "10997",
     "name": "Jerrick Reed",
     "position": "DB",
-    "team": null,
+    "team": "ARI",
     "age": 26,
     "years_exp": 3,
     "active": true,
@@ -75520,7 +75520,7 @@
     "id": "8351",
     "name": "Drake Jackson",
     "position": "DL",
-    "team": null,
+    "team": "ATL",
     "age": 25,
     "years_exp": 4,
     "active": true,
@@ -77916,7 +77916,7 @@
     "age": 29,
     "years_exp": 6,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": true,
     "roster_id": 7
@@ -85729,7 +85729,7 @@
     "age": 29,
     "years_exp": 7,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -89746,7 +89746,7 @@
     "age": 31,
     "years_exp": 8,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -95882,7 +95882,7 @@
     "age": 22,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -97763,7 +97763,7 @@
     "id": "12948",
     "name": "Austin Keys",
     "position": "LB",
-    "team": null,
+    "team": "WAS",
     "age": 24,
     "years_exp": 1,
     "active": true,
@@ -100939,7 +100939,7 @@
     "age": 24,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": true,
     "roster_id": 10
@@ -108299,8 +108299,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": true,
-    "roster_id": 10
+    "rostered": false,
+    "roster_id": null
   },
   "13581": {
     "id": "13581",
@@ -111131,7 +111131,7 @@
     "age": 26,
     "years_exp": 5,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -113536,7 +113536,7 @@
     "age": 29,
     "years_exp": 8,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -114537,7 +114537,7 @@
     "age": 29,
     "years_exp": 6,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -115265,7 +115265,7 @@
     "age": 25,
     "years_exp": 2,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -115382,7 +115382,7 @@
     "age": 23,
     "years_exp": 2,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -120504,7 +120504,7 @@
     "age": 27,
     "years_exp": 6,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -123754,7 +123754,7 @@
     "age": 22,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -125665,7 +125665,7 @@
     "age": 22,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Doubtful",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": true,
     "roster_id": 4
@@ -128287,7 +128287,7 @@
     "id": "13643",
     "name": "Michael Heldman",
     "position": "DE",
-    "team": null,
+    "team": "KC",
     "age": 23,
     "years_exp": 0,
     "active": true,
@@ -129457,7 +129457,7 @@
     "id": "11440",
     "name": "Art Green",
     "position": "CB",
-    "team": null,
+    "team": "ARI",
     "age": 26,
     "years_exp": 3,
     "active": true,
@@ -133231,7 +133231,7 @@
     "age": 25,
     "years_exp": 2,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -138457,7 +138457,7 @@
     "age": 28,
     "years_exp": 5,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -140065,7 +140065,7 @@
     "id": "13687",
     "name": "Marvin Jones",
     "position": "DE",
-    "team": null,
+    "team": "WAS",
     "age": 22,
     "years_exp": 0,
     "active": true,
@@ -142851,7 +142851,7 @@
     "age": 26,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -146699,7 +146699,7 @@
     "age": 27,
     "years_exp": 4,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -151197,7 +151197,7 @@
     "age": 28,
     "years_exp": 6,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": true,
     "roster_id": 3
@@ -158022,7 +158022,7 @@
     "age": 22,
     "years_exp": 0,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null

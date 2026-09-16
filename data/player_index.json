@@ -668,7 +668,7 @@
     "name": "Kyle Louis",
     "position": "LB",
     "team": "MIA",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "13525": {
@@ -2425,7 +2425,7 @@
     "name": "Jake Tonges",
     "position": "TE",
     "team": "SF",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3453": {
@@ -6240,7 +6240,7 @@
     "name": "Da'Shawn Hand",
     "position": "DT",
     "team": "ATL",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "12890": {
@@ -7282,7 +7282,7 @@
   "7608": {
     "name": "Khalil Herbert",
     "position": "RB",
-    "team": null,
+    "team": "ATL",
     "status": "Active",
     "active": true
   },
@@ -8626,7 +8626,7 @@
   "8785": {
     "name": "Cal Adomitis",
     "position": "LS",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -9117,7 +9117,7 @@
     "name": "Cooper McDonald",
     "position": "LB",
     "team": "KC",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "6977": {
@@ -12105,7 +12105,7 @@
   "5888": {
     "name": "Amani Oruwariye",
     "position": "CB",
-    "team": null,
+    "team": "BAL",
     "status": "Active",
     "active": true
   },
@@ -29564,7 +29564,7 @@
     "name": "De'Zhaun Stribling",
     "position": "WR",
     "team": "SF",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "13241": {
@@ -34996,7 +34996,7 @@
     "name": "Jordan Magee",
     "position": "LB",
     "team": "WAS",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3026": {
@@ -37585,7 +37585,7 @@
   "10997": {
     "name": "Jerrick Reed",
     "position": "DB",
-    "team": null,
+    "team": "ARI",
     "status": "Active",
     "active": true
   },
@@ -40665,8 +40665,8 @@
   "8351": {
     "name": "Drake Jackson",
     "position": "DL",
-    "team": null,
-    "status": "Inactive",
+    "team": "ATL",
+    "status": "Active",
     "active": true
   },
   "13111": {
@@ -52642,8 +52642,8 @@
   "12948": {
     "name": "Austin Keys",
     "position": "LB",
-    "team": null,
-    "status": "Inactive",
+    "team": "WAS",
+    "status": "Active",
     "active": true
   },
   "1553": {
@@ -56339,7 +56339,7 @@
     "name": "Kitan Crawford",
     "position": "DB",
     "team": "ARI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "13959": {
@@ -69078,8 +69078,8 @@
   "13643": {
     "name": "Michael Heldman",
     "position": "DE",
-    "team": null,
-    "status": "Inactive",
+    "team": "KC",
+    "status": "Active",
     "active": true
   },
   "11944": {
@@ -69708,7 +69708,7 @@
   "11440": {
     "name": "Art Green",
     "position": "CB",
-    "team": null,
+    "team": "ARI",
     "status": "Active",
     "active": true
   },
@@ -75420,7 +75420,7 @@
   "13687": {
     "name": "Marvin Jones",
     "position": "DE",
-    "team": null,
+    "team": "WAS",
     "status": "Active",
     "active": true
   },
