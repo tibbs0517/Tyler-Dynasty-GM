@@ -3111,7 +3111,7 @@
     "id": "13674",
     "name": "Chris Hilton",
     "position": "WR",
-    "team": "GB",
+    "team": null,
     "status": "Active"
   },
   {
@@ -7465,7 +7465,7 @@
     "id": "7559",
     "name": "Ihmir Smith-Marsette",
     "position": "WR",
-    "team": "ARI",
+    "team": null,
     "status": "Active"
   },
   {
@@ -7668,7 +7668,7 @@
     "id": "9227",
     "name": "Israel Abanikanda",
     "position": "RB",
-    "team": "DAL",
+    "team": null,
     "status": "Active"
   },
   {
@@ -9670,7 +9670,7 @@
     "id": "12523",
     "name": "Jimmy Horn",
     "position": "WR",
-    "team": "CAR",
+    "team": null,
     "status": "Active"
   },
   {
@@ -16761,7 +16761,7 @@
     "id": "8041",
     "name": "Shane Zylstra",
     "position": "TE",
-    "team": "NE",
+    "team": null,
     "status": "Active"
   },
   {

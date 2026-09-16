@@ -3289,12 +3289,12 @@
       "creator": "434689597088198656",
       "transaction_id": "1405918542687129600",
       "adds": null,
-      "drops": {
-        "8180": 7
-      },
       "consenter_ids": [
         7
       ],
+      "drops": {
+        "8180": 7
+      },
       "roster_ids": [
         7
       ],
