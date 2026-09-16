@@ -7969,8 +7969,8 @@
     "id": "7946",
     "name": "Jack Stoll",
     "position": "TE",
-    "team": null,
-    "status": "Inactive"
+    "team": "SF",
+    "status": "Active"
   },
   {
     "id": "13602",
@@ -12638,7 +12638,7 @@
     "id": "5938",
     "name": "Lil'Jordan Humphrey",
     "position": "WR",
-    "team": null,
+    "team": "DEN",
     "status": "Active"
   },
   {
@@ -13387,7 +13387,7 @@
     "id": "5086",
     "name": "Marquez Valdes-Scantling",
     "position": "WR",
-    "team": null,
+    "team": "LAC",
     "status": "Active"
   },
   {

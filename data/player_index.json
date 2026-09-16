@@ -24320,7 +24320,7 @@
   "5938": {
     "name": "Lil'Jordan Humphrey",
     "position": "WR",
-    "team": null,
+    "team": "DEN",
     "status": "Active",
     "active": true
   },
@@ -29367,8 +29367,8 @@
   "7946": {
     "name": "Jack Stoll",
     "position": "TE",
-    "team": null,
-    "status": "Inactive",
+    "team": "SF",
+    "status": "Active",
     "active": true
   },
   "669": {
@@ -50521,7 +50521,7 @@
   "12872": {
     "name": "John Saunders",
     "position": "DB",
-    "team": null,
+    "team": "NYJ",
     "status": "Active",
     "active": true
   },
@@ -77065,7 +77065,7 @@
   "5086": {
     "name": "Marquez Valdes-Scantling",
     "position": "WR",
-    "team": null,
+    "team": "LAC",
     "status": "Active",
     "active": true
   },
