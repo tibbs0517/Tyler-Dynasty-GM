@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-09-16 07:07:35
+Generated: 2026-09-16 13:02:34
 
 ---
 
@@ -9,15 +9,15 @@ Generated: 2026-09-16 07:07:35
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2817
+Available Players: 2811
 
 ---
 
 ## League Activity
 
-Trades: 4
-Waiver Claims: 32
-Free Agent Moves: 51
+Trades: 0
+Waiver Claims: 0
+Free Agent Moves: 1
 
 ---
 
@@ -31,80 +31,24 @@ Players on Roster: 23
 
 ## Recent Trades
 
-- HebrewsHeroes ↔ HoNeYmOOnBaBy
-- tylerhjensen ↔ theFalIeniD
-- AnthonyJania ↔ theFalIeniD
-- HebrewsHeroes ↔ TheCreecher
+No trades.
 
 ---
 
 ## Top Waiver Claims
 
-- Seth McGowan → SammyA
-- Juwan Johnson → TheCreecher
-- Michael Mayer → TheCreecher
-- Zavion Thomas → tylergratz
-- Justice Hill → tylerhjensen
-- Kirk Cousins → theFalIeniD
-- Malik Davis → tylerhjensen
-- Jacob Saylors → tylerhjensen
-- Barion Brown → tylerhjensen
-- Jack Strand → theFalIeniD
-- Jauan Jennings → tylergratz
-- Caleb Douglas → HebrewsHeroes
-- Elijah Sarratt → tylerhjensen
-- Pat Bryant → HebrewsHeroes
-- Kayshon Boutte → tylergratz
-- MarShawn Lloyd → HebrewsHeroes
-- Jaydon Blue → tylergratz
-- T.J. Hockenson → tylergratz
-- Roman Wilson → tylerhjensen
-- Cyrus Allen → HebrewsHeroes
-- Michael Penix → jmikolay
-- Michael Penix → theFalIeniD
-- Isaac TeSlaa → tylergratz
-- Kaelon Black → SammyA
-- J.J. McCarthy → SammyA
-- J.J. McCarthy → jmikolay
-- Jalen Nailor → HebrewsHeroes
-- Deshaun Watson → TheCreecher
-- Geno Smith → HebrewsHeroes
-- Jalen Tolbert → AnthonyJania
 
 ---
 
 ## Recently Dropped Players
 
-- Kareem Hunt
-- Jaleel McLaughlin
-- Chimere Dike
-- Jaydon Blue
-- Jack Strand
-- Cade Otton
-- David Njoku
-- Hunter Henry
-- Colby Parkinson
-- Jauan Jennings
-- Roman Wilson
-- Elijah Sarratt
-- Alvin Kamara
-- Isaiah Davis
-- Trevor Etienne
+- Jalen Nailor
 
 ---
 
 ## Most Active Managers
 
-- tylerhjensen: 16 moves
-- TheCreecher: 15 moves
-- HebrewsHeroes: 12 moves
-- tylergratz: 10 moves
-- HoNeYmOOnBaBy: 10 moves
-- SammyA: 9 moves
-- theFalIeniD: 9 moves
-- AnthonyJania: 7 moves
-- jmikolay: 4 moves
-- jaredgratz: 3 moves
+- HebrewsHeroes: 1 moves
 
 ---
 

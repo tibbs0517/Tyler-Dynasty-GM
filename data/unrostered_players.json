@@ -497,13 +497,6 @@
     "status": "Active"
   },
   {
-    "id": "4035",
-    "name": "Alvin Kamara",
-    "position": "RB",
-    "team": "NO",
-    "status": "Active"
-  },
-  {
     "id": "12928",
     "name": "Amar Johnson",
     "position": "RB",
@@ -1173,6 +1166,13 @@
     "name": "Barika Kpeenu",
     "position": "RB",
     "team": null,
+    "status": "Active"
+  },
+  {
+    "id": "13533",
+    "name": "Barion Brown",
+    "position": "WR",
+    "team": "NO",
     "status": "Active"
   },
   {
@@ -2665,13 +2665,6 @@
     "position": "TE",
     "team": "IND",
     "status": "Inactive"
-  },
-  {
-    "id": "3161",
-    "name": "Carson Wentz",
-    "position": "QB",
-    "team": "MIN",
-    "status": "Active"
   },
   {
     "id": "7624",
@@ -5383,13 +5376,6 @@
     "status": "Active"
   },
   {
-    "id": "11834",
-    "name": "Devaughn Vele",
-    "position": "WR",
-    "team": "NO",
-    "status": "Active"
-  },
-  {
     "id": "8253",
     "name": "Deven Thompkins",
     "position": "WR",
@@ -5492,13 +5478,6 @@
     "name": "Devin Ross",
     "position": "WR",
     "team": null,
-    "status": "Active"
-  },
-  {
-    "id": "6130",
-    "name": "Devin Singletary",
-    "position": "RB",
-    "team": "NYG",
     "status": "Active"
   },
   {
@@ -5856,13 +5835,6 @@
     "name": "Dontay Demus",
     "position": "WR",
     "team": null,
-    "status": "Active"
-  },
-  {
-    "id": "9486",
-    "name": "Dontayvion Wicks",
-    "position": "WR",
-    "team": "PHI",
     "status": "Active"
   },
   {
@@ -8092,6 +8064,13 @@
     "status": "Active"
   },
   {
+    "id": "11237",
+    "name": "Jacob Saylors",
+    "position": "RB",
+    "team": "DET",
+    "status": "Active"
+  },
+  {
     "id": "12278",
     "name": "Jacob Sirmon",
     "position": "QB",
@@ -8509,6 +8488,13 @@
     "name": "Jalen Moss",
     "position": "WR",
     "team": null,
+    "status": "Active"
+  },
+  {
+    "id": "8180",
+    "name": "Jalen Nailor",
+    "position": "WR",
+    "team": "LV",
     "status": "Active"
   },
   {
@@ -11207,13 +11193,6 @@
     "status": "Active"
   },
   {
-    "id": "3634",
-    "name": "Kalif Raymond",
-    "position": "WR",
-    "team": "CHI",
-    "status": "Active"
-  },
-  {
     "id": "6832",
     "name": "Kalija Lipscomb",
     "position": "WR",
@@ -11557,24 +11536,10 @@
     "status": "Active"
   },
   {
-    "id": "9757",
-    "name": "Kendre Miller",
-    "position": "RB",
-    "team": "NO",
-    "status": "Active"
-  },
-  {
     "id": "8783",
     "name": "Kendric Pryor",
     "position": "WR",
     "team": null,
-    "status": "Active"
-  },
-  {
-    "id": "4454",
-    "name": "Kendrick Bourne",
-    "position": "WR",
-    "team": "ARI",
     "status": "Active"
   },
   {
@@ -15481,13 +15446,6 @@
     "name": "Raheem Mostert",
     "position": "RB",
     "team": null,
-    "status": "Active"
-  },
-  {
-    "id": "12472",
-    "name": "Raheim Sanders",
-    "position": "RB",
-    "team": "CLE",
     "status": "Active"
   },
   {
