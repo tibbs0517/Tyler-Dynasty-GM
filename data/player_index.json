@@ -10900,7 +10900,7 @@
   },
   "11273": {
     "name": "Ben VanSumeren",
-    "position": "LB",
+    "position": "RB",
     "team": "KC",
     "status": "Active",
     "active": true
@@ -35716,7 +35716,7 @@
   "12054": {
     "name": "Jimmy Ciarlo",
     "position": "LB",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
@@ -46531,7 +46531,7 @@
   "6811": {
     "name": "Kenneth Murray",
     "position": "LB",
-    "team": null,
+    "team": "HOU",
     "status": "Active",
     "active": true
   },
