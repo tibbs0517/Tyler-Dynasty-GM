@@ -6110,19 +6110,6 @@
     "roster_id": null
   },
   {
-    "id": "13347",
-    "name": "Demond Claiborne",
-    "position": "RB",
-    "team": "MIN",
-    "age": 22,
-    "years_exp": 0,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
     "id": "10870",
     "name": "Deneric Prince",
     "position": "RB",
@@ -10679,6 +10666,19 @@
     "team": null,
     "age": 30,
     "years_exp": 8,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
+    "id": "13424",
+    "name": "Seth McGowan",
+    "position": "RB",
+    "team": "IND",
+    "age": 24,
+    "years_exp": 0,
     "active": true,
     "injury_status": null,
     "bye_week": null,
@@ -29497,6 +29497,19 @@
     "roster_id": null
   },
   {
+    "id": "3634",
+    "name": "Kalif Raymond",
+    "position": "WR",
+    "team": "CHI",
+    "age": 32,
+    "years_exp": 10,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
     "id": "6832",
     "name": "Kalija Lipscomb",
     "position": "WR",
@@ -33182,19 +33195,6 @@
     "team": null,
     "age": 28,
     "years_exp": 7,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
-    "id": "7571",
-    "name": "Rashod Bateman",
-    "position": "WR",
-    "team": "BAL",
-    "age": 26,
-    "years_exp": 5,
     "active": true,
     "injury_status": null,
     "bye_week": null,

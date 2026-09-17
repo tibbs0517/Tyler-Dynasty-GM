@@ -19561,8 +19561,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": false,
-    "roster_id": null
+    "rostered": true,
+    "roster_id": 7
   },
   "48": {
     "id": "48",
@@ -22837,8 +22837,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": true,
-    "roster_id": 7
+    "rostered": false,
+    "roster_id": null
   },
   "8563": {
     "id": "8563",
@@ -49929,8 +49929,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": true,
-    "roster_id": 6
+    "rostered": false,
+    "roster_id": null
   },
   "11391": {
     "id": "11391",
@@ -106219,8 +106219,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": false,
-    "roster_id": null
+    "rostered": true,
+    "roster_id": 5
   },
   "8783": {
     "id": "8783",
@@ -130757,7 +130757,7 @@
     "id": "13107",
     "name": "Johnathan Edwards",
     "position": "DB",
-    "team": null,
+    "team": "IND",
     "age": 24,
     "years_exp": 1,
     "active": true,
@@ -134114,6 +134114,19 @@
     "team": "ATL",
     "age": 26,
     "years_exp": 3,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  "14088": {
+    "id": "14088",
+    "name": "Maceo Beard",
+    "position": "DB",
+    "team": "MIN",
+    "age": 26,
+    "years_exp": 0,
     "active": true,
     "injury_status": null,
     "bye_week": null,

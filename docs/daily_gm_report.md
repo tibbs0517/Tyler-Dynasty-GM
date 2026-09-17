@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-09-17 03:07:25
+Generated: 2026-09-17 09:07:45
 
 ---
 
@@ -16,8 +16,8 @@ Available Players: 2812
 ## League Activity
 
 Trades: 0
-Waiver Claims: 0
-Free Agent Moves: 2
+Waiver Claims: 2
+Free Agent Moves: 3
 
 ---
 
@@ -25,7 +25,7 @@ Free Agent Moves: 2
 
 Username: tylergratz
 Roster ID: 5
-Players on Roster: 23
+Players on Roster: 24
 
 ---
 
@@ -37,11 +37,15 @@ No trades.
 
 ## Top Waiver Claims
 
+- Demond Claiborne → HebrewsHeroes
+- Rashod Bateman → tylergratz
 
 ---
 
 ## Recently Dropped Players
 
+- Kalif Raymond
+- Seth McGowan
 - Kendrick Bourne
 - Jalen Nailor
 
@@ -49,8 +53,10 @@ No trades.
 
 ## Most Active Managers
 
+- HebrewsHeroes: 2 moves
+- SammyA: 1 moves
 - TheCreecher: 1 moves
-- HebrewsHeroes: 1 moves
+- tylergratz: 1 moves
 
 ---
 

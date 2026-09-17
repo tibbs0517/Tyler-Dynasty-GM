@@ -5159,13 +5159,6 @@
     "status": "Active"
   },
   {
-    "id": "13347",
-    "name": "Demond Claiborne",
-    "position": "RB",
-    "team": "MIN",
-    "status": "Active"
-  },
-  {
     "id": "10870",
     "name": "Deneric Prince",
     "position": "RB",
@@ -11193,6 +11186,13 @@
     "status": "Active"
   },
   {
+    "id": "3634",
+    "name": "Kalif Raymond",
+    "position": "WR",
+    "team": "CHI",
+    "status": "Active"
+  },
+  {
     "id": "6832",
     "name": "Kalija Lipscomb",
     "position": "WR",
@@ -15575,13 +15575,6 @@
     "status": "Active"
   },
   {
-    "id": "7571",
-    "name": "Rashod Bateman",
-    "position": "WR",
-    "team": "BAL",
-    "status": "Active"
-  },
-  {
     "id": "12760",
     "name": "Rashod Owens",
     "position": "WR",
@@ -16685,6 +16678,13 @@
     "name": "Seth Henigan",
     "position": "QB",
     "team": null,
+    "status": "Active"
+  },
+  {
+    "id": "13424",
+    "name": "Seth McGowan",
+    "position": "RB",
+    "team": "IND",
     "status": "Active"
   },
   {

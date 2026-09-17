@@ -67665,7 +67665,7 @@
     "name": "Ja'Kobi Lane",
     "position": "WR",
     "team": "BAL",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "11537": {
@@ -70408,7 +70408,7 @@
   "13107": {
     "name": "Johnathan Edwards",
     "position": "DB",
-    "team": null,
+    "team": "IND",
     "status": "Active",
     "active": true
   },
@@ -72215,6 +72215,13 @@
     "name": "Matthew Bergeron",
     "position": "OL",
     "team": "ATL",
+    "status": "Active",
+    "active": true
+  },
+  "14088": {
+    "name": "Maceo Beard",
+    "position": "DB",
+    "team": "MIN",
     "status": "Active",
     "active": true
   },

@@ -1344,6 +1344,20 @@
     "gm_score": 90
   },
   {
+    "id": "13347",
+    "name": "Demond Claiborne",
+    "position": "RB",
+    "team": "MIN",
+    "age": 22,
+    "years_exp": 0,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 7,
+    "gm_score": 90
+  },
+  {
     "id": "11576",
     "name": "Braelon Allen",
     "position": "RB",
@@ -1845,6 +1859,20 @@
     "bye_week": null,
     "rostered": true,
     "roster_id": 7,
+    "gm_score": 85
+  },
+  {
+    "id": "7571",
+    "name": "Rashod Bateman",
+    "position": "WR",
+    "team": "BAL",
+    "age": 26,
+    "years_exp": 5,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 5,
     "gm_score": 85
   },
   {
@@ -2965,20 +2993,6 @@
     "bye_week": null,
     "rostered": false,
     "roster_id": null,
-    "gm_score": 80
-  },
-  {
-    "id": "13424",
-    "name": "Seth McGowan",
-    "position": "RB",
-    "team": "IND",
-    "age": 24,
-    "years_exp": 0,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 6,
     "gm_score": 80
   },
   {
@@ -7711,20 +7725,6 @@
     "bye_week": null,
     "rostered": false,
     "roster_id": null,
-    "gm_score": 73
-  },
-  {
-    "id": "3634",
-    "name": "Kalif Raymond",
-    "position": "WR",
-    "team": "CHI",
-    "age": 32,
-    "years_exp": 10,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 7,
     "gm_score": 73
   },
   {
@@ -14020,20 +14020,6 @@
     "team": null,
     "age": 23,
     "years_exp": 1,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 70
-  },
-  {
-    "id": "13347",
-    "name": "Demond Claiborne",
-    "position": "RB",
-    "team": "MIN",
-    "age": 22,
-    "years_exp": 0,
     "active": true,
     "injury_status": null,
     "bye_week": null,
@@ -20538,20 +20524,6 @@
     "gm_score": 65
   },
   {
-    "id": "7571",
-    "name": "Rashod Bateman",
-    "position": "WR",
-    "team": "BAL",
-    "age": 26,
-    "years_exp": 5,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 65
-  },
-  {
     "id": "8783",
     "name": "Kendric Pryor",
     "position": "WR",
@@ -25416,6 +25388,20 @@
     "team": null,
     "age": 27,
     "years_exp": 5,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 60
+  },
+  {
+    "id": "13424",
+    "name": "Seth McGowan",
+    "position": "RB",
+    "team": "IND",
+    "age": 24,
+    "years_exp": 0,
     "active": true,
     "injury_status": null,
     "bye_week": null,
@@ -31030,6 +31016,20 @@
     "team": "NYG",
     "age": 30,
     "years_exp": 8,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 53
+  },
+  {
+    "id": "3634",
+    "name": "Kalif Raymond",
+    "position": "WR",
+    "team": "CHI",
+    "age": 32,
+    "years_exp": 10,
     "active": true,
     "injury_status": null,
     "bye_week": null,
