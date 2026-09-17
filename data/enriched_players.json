@@ -136093,8 +136093,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": true,
-    "roster_id": 3
+    "rostered": false,
+    "roster_id": null
   },
   "13862": {
     "id": "13862",
@@ -142656,7 +142656,7 @@
     "age": 33,
     "years_exp": 10,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null

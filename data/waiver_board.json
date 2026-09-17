@@ -33709,6 +33709,19 @@
     "roster_id": null
   },
   {
+    "id": "11783",
+    "name": "Ryan Flournoy",
+    "position": "WR",
+    "team": "DAL",
+    "age": 26,
+    "years_exp": 2,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
     "id": "2093",
     "name": "Ryan Grant",
     "position": "WR",

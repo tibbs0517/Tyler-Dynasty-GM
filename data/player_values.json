@@ -1960,20 +1960,6 @@
     "gm_score": 85
   },
   {
-    "id": "11783",
-    "name": "Ryan Flournoy",
-    "position": "WR",
-    "team": "DAL",
-    "age": 26,
-    "years_exp": 2,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 3,
-    "gm_score": 85
-  },
-  {
     "id": "9502",
     "name": "Tank Dell",
     "position": "WR",
@@ -22251,6 +22237,20 @@
     "position": "WR",
     "team": null,
     "age": 28,
+    "years_exp": 2,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 65
+  },
+  {
+    "id": "11783",
+    "name": "Ryan Flournoy",
+    "position": "WR",
+    "team": "DAL",
+    "age": 26,
     "years_exp": 2,
     "active": true,
     "injury_status": null,
