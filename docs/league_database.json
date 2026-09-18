@@ -127,11 +127,6 @@
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -156,6 +151,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -6110,7 +6110,7 @@
     "12844": {
       "name": "Ricky Barber",
       "position": "DT",
-      "team": "WAS",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -16393,7 +16393,7 @@
     "13749": {
       "name": "Kole Wilson",
       "position": "WR",
-      "team": "CLE",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -20775,7 +20775,7 @@
     "13816": {
       "name": "Mark Gronowski",
       "position": "QB",
-      "team": "HOU",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -36168,7 +36168,7 @@
     "13882": {
       "name": "Ryan Schernecke",
       "position": "OL",
-      "team": "NYG",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -80065,7 +80065,7 @@
     "13966": {
       "name": "Jacob Rizy",
       "position": "OL",
-      "team": "NE",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -98961,7 +98961,7 @@
       "id": "13749",
       "name": "Kole Wilson",
       "position": "WR",
-      "team": "CLE",
+      "team": null,
       "status": "Active"
     },
     {
@@ -100179,7 +100179,7 @@
       "id": "13816",
       "name": "Mark Gronowski",
       "position": "QB",
-      "team": "HOU",
+      "team": null,
       "status": "Active"
     },
     {

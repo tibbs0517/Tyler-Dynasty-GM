@@ -4769,7 +4769,7 @@
   "12844": {
     "name": "Ricky Barber",
     "position": "DT",
-    "team": "WAS",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -15052,7 +15052,7 @@
   "13749": {
     "name": "Kole Wilson",
     "position": "WR",
-    "team": "CLE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -19434,7 +19434,7 @@
   "13816": {
     "name": "Mark Gronowski",
     "position": "QB",
-    "team": "HOU",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -34827,7 +34827,7 @@
   "13882": {
     "name": "Ryan Schernecke",
     "position": "OL",
-    "team": "NYG",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -78724,7 +78724,7 @@
   "13966": {
     "name": "Jacob Rizy",
     "position": "OL",
-    "team": "NE",
+    "team": null,
     "status": "Active",
     "active": true
   },
