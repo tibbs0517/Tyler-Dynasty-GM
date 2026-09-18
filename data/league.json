@@ -59,10 +59,14 @@
     "daily_waivers_base": 4,
     "reserve_slots": 4,
     "reserve_allow_cov": 1,
-    "daily_waivers_last_ran": 17
+    "daily_waivers_last_ran": 18
   },
   "avatar": null,
   "company_id": null,
+  "sport": "nfl",
+  "season_type": "regular",
+  "season": "2026",
+  "last_message_id": "1406291746169552896",
   "scoring_settings": {
     "sack": 1.0,
     "fgm_40_49": 4.0,
@@ -109,11 +113,7 @@
     "pts_allow_7_13": 4.0,
     "st_ff": 1.0
   },
-  "season": "2026",
-  "season_type": "regular",
   "shard": 470,
-  "sport": "nfl",
-  "last_message_id": "1406291746169552896",
   "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
   "last_author_display_name": "HebrewsHeroes",
   "last_author_id": "434689597088198656",
