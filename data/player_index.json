@@ -16445,7 +16445,7 @@
   "13872": {
     "name": "Jaxson Moi",
     "position": "DT",
-    "team": null,
+    "team": "LAR",
     "status": "Active",
     "active": true
   },
@@ -64263,7 +64263,7 @@
     "name": "Paulson Adebo",
     "position": "CB",
     "team": "NYG",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "4927": {
@@ -76814,7 +76814,7 @@
     "name": "Zach Wood",
     "position": "LS",
     "team": "NO",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "4096": {
@@ -79961,7 +79961,7 @@
     "active": true
   },
   "8926": {
-    "name": "Xavier Newman",
+    "name": "Xavier Newman-Johnson",
     "position": "OL",
     "team": "NE",
     "status": "Active",
@@ -84128,7 +84128,7 @@
   "11395": {
     "name": "Keidron Smith",
     "position": "DB",
-    "team": null,
+    "team": "CHI",
     "status": "Active",
     "active": true
   },
