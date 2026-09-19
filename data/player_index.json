@@ -4769,7 +4769,7 @@
   "12844": {
     "name": "Ricky Barber",
     "position": "DT",
-    "team": null,
+    "team": "WAS",
     "status": "Active",
     "active": true
   },
@@ -43312,7 +43312,7 @@
     "name": "Ronnie Harrison",
     "position": "DB",
     "team": "MIA",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3617": {
@@ -45538,7 +45538,7 @@
     "name": "T.J. Tampa",
     "position": "DB",
     "team": "BAL",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3502": {
