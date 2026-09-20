@@ -1181,9 +1181,9 @@
         "8148",
         "10222",
         "12518",
-        "6806",
+        "4037",
         "7588",
-        "0"
+        "1373"
       ],
       "taxi": null
     },
@@ -1647,9 +1647,9 @@
   ],
   "nfl_state": {
     "week": 2,
-    "season_type": "regular",
-    "season": "2026",
     "leg": 2,
+    "season": "2026",
+    "season_type": "regular",
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
