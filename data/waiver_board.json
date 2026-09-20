@@ -5161,19 +5161,6 @@
     "roster_id": null
   },
   {
-    "id": "11370",
-    "name": "Chris Brooks",
-    "position": "RB",
-    "team": "GB",
-    "age": 26,
-    "years_exp": 3,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
     "id": "4273",
     "name": "Chris Carson",
     "position": "RB",
@@ -17777,19 +17764,6 @@
     "team": null,
     "age": null,
     "years_exp": 5,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
-    "id": "4993",
-    "name": "Mike Gesicki",
-    "position": "TE",
-    "team": "CIN",
-    "age": 30,
-    "years_exp": 8,
     "active": true,
     "injury_status": null,
     "bye_week": null,
@@ -33592,19 +33566,6 @@
     "roster_id": null
   },
   {
-    "id": "11630",
-    "name": "Roman Wilson",
-    "position": "WR",
-    "team": "PIT",
-    "age": 25,
-    "years_exp": 2,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
     "id": "6394",
     "name": "Romell Guerrier",
     "position": "WR",
@@ -36315,19 +36276,6 @@
     "team": "BAL",
     "age": 25,
     "years_exp": 1,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
-    "id": "10218",
-    "name": "Xavier Hutchinson",
-    "position": "WR",
-    "team": "HOU",
-    "age": 26,
-    "years_exp": 3,
     "active": true,
     "injury_status": null,
     "bye_week": null,

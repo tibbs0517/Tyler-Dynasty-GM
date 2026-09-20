@@ -3045,13 +3045,6 @@
     "status": "Inactive"
   },
   {
-    "id": "11370",
-    "name": "Chris Brooks",
-    "position": "RB",
-    "team": "GB",
-    "status": "Active"
-  },
-  {
     "id": "3486",
     "name": "Chris Brown",
     "position": "WR",
@@ -14070,13 +14063,6 @@
     "status": "Active"
   },
   {
-    "id": "4993",
-    "name": "Mike Gesicki",
-    "position": "TE",
-    "team": "CIN",
-    "status": "Active"
-  },
-  {
     "id": "1559",
     "name": "Mike Glennon",
     "position": "QB",
@@ -16034,13 +16020,6 @@
     "name": "Roman Hemby",
     "position": "RB",
     "team": "LV",
-    "status": "Active"
-  },
-  {
-    "id": "11630",
-    "name": "Roman Wilson",
-    "position": "WR",
-    "team": "PIT",
     "status": "Active"
   },
   {
@@ -19380,13 +19359,6 @@
     "name": "Xavier Guillory",
     "position": "WR",
     "team": "BAL",
-    "status": "Active"
-  },
-  {
-    "id": "10218",
-    "name": "Xavier Hutchinson",
-    "position": "WR",
-    "team": "HOU",
     "status": "Active"
   },
   {

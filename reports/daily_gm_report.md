@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-09-20 05:39:51
+Generated: 2026-09-20 10:31:10
 
 ---
 
@@ -9,14 +9,14 @@ Generated: 2026-09-20 05:39:51
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2813
+Available Players: 2809
 
 ---
 
 ## League Activity
 
 Trades: 0
-Waiver Claims: 2
+Waiver Claims: 8
 Free Agent Moves: 4
 
 ---
@@ -25,7 +25,7 @@ Free Agent Moves: 4
 
 Username: tylergratz
 Roster ID: 5
-Players on Roster: 24
+Players on Roster: 25
 
 ---
 
@@ -37,6 +37,12 @@ No trades.
 
 ## Top Waiver Claims
 
+- Roman Wilson → AnthonyJania
+- Xavier Hutchinson → AnthonyJania
+- Demarcus Robinson → tylerhjensen
+- Roman Wilson → tylerhjensen
+- Mike Gesicki → TheCreecher
+- Chris Brooks → tylergratz
 - Demond Claiborne → HebrewsHeroes
 - Rashod Bateman → tylergratz
 
@@ -54,11 +60,12 @@ No trades.
 
 ## Most Active Managers
 
+- tylerhjensen: 3 moves
+- AnthonyJania: 2 moves
+- TheCreecher: 2 moves
+- tylergratz: 2 moves
 - HebrewsHeroes: 2 moves
-- tylerhjensen: 1 moves
 - SammyA: 1 moves
-- TheCreecher: 1 moves
-- tylergratz: 1 moves
 
 ---
 

@@ -728,6 +728,20 @@
     "gm_score": 93
   },
   {
+    "id": "11630",
+    "name": "Roman Wilson",
+    "position": "WR",
+    "team": "PIT",
+    "age": 25,
+    "years_exp": 2,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 3,
+    "gm_score": 93
+  },
+  {
     "id": "8137",
     "name": "George Pickens",
     "position": "WR",
@@ -1876,6 +1890,20 @@
     "gm_score": 85
   },
   {
+    "id": "10218",
+    "name": "Xavier Hutchinson",
+    "position": "WR",
+    "team": "HOU",
+    "age": 26,
+    "years_exp": 3,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 1,
+    "gm_score": 85
+  },
+  {
     "id": "8121",
     "name": "Romeo Doubs",
     "position": "WR",
@@ -2251,6 +2279,20 @@
     "bye_week": null,
     "rostered": false,
     "roster_id": null,
+    "gm_score": 80
+  },
+  {
+    "id": "11370",
+    "name": "Chris Brooks",
+    "position": "RB",
+    "team": "GB",
+    "age": 26,
+    "years_exp": 3,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 5,
     "gm_score": 80
   },
   {
@@ -8666,20 +8708,6 @@
     "gm_score": 73
   },
   {
-    "id": "11630",
-    "name": "Roman Wilson",
-    "position": "WR",
-    "team": "PIT",
-    "age": 25,
-    "years_exp": 2,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 73
-  },
-  {
     "id": "11504",
     "name": "Jose Barbon",
     "position": "WR",
@@ -14347,6 +14375,20 @@
     "bye_week": null,
     "rostered": false,
     "roster_id": null,
+    "gm_score": 70
+  },
+  {
+    "id": "4993",
+    "name": "Mike Gesicki",
+    "position": "TE",
+    "team": "CIN",
+    "age": 30,
+    "years_exp": 8,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 10,
     "gm_score": 70
   },
   {
@@ -20650,20 +20692,6 @@
     "gm_score": 65
   },
   {
-    "id": "10218",
-    "name": "Xavier Hutchinson",
-    "position": "WR",
-    "team": "HOU",
-    "age": 26,
-    "years_exp": 3,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 65
-  },
-  {
     "id": "12169",
     "name": "Reggie Brown",
     "position": "WR",
@@ -24001,20 +24029,6 @@
     "position": "RB",
     "team": null,
     "age": 24,
-    "years_exp": 3,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 60
-  },
-  {
-    "id": "11370",
-    "name": "Chris Brooks",
-    "position": "RB",
-    "team": "GB",
-    "age": 26,
     "years_exp": 3,
     "active": true,
     "injury_status": null,
@@ -35538,20 +35552,6 @@
     "team": null,
     "age": 29,
     "years_exp": 5,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 50
-  },
-  {
-    "id": "4993",
-    "name": "Mike Gesicki",
-    "position": "TE",
-    "team": "CIN",
-    "age": 30,
-    "years_exp": 8,
     "active": true,
     "injury_status": null,
     "bye_week": null,
