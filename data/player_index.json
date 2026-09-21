@@ -14100,7 +14100,7 @@
   "10981": {
     "name": "Colby Sorsdal",
     "position": "OL",
-    "team": null,
+    "team": "ATL",
     "status": "Active",
     "active": true
   },
@@ -49499,7 +49499,7 @@
   "11041": {
     "name": "Andre Jones",
     "position": "DE",
-    "team": "BUF",
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -52782,7 +52782,7 @@
   "3388": {
     "name": "Jalen Mills",
     "position": "CB",
-    "team": null,
+    "team": "DET",
     "status": "Active",
     "active": true
   },
