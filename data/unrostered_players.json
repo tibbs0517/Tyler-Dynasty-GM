@@ -2888,7 +2888,7 @@
     "name": "Charlie Kolar",
     "position": "TE",
     "team": "LAC",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "6932",
@@ -4687,7 +4687,7 @@
     "name": "David Njoku",
     "position": "TE",
     "team": "LAC",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "4775",
@@ -19491,7 +19491,7 @@
     "id": "1339",
     "name": "Zach Ertz",
     "position": "TE",
-    "team": null,
+    "team": "PHI",
     "status": "Active"
   },
   {

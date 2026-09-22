@@ -14856,7 +14856,7 @@
   "1339": {
     "name": "Zach Ertz",
     "position": "TE",
-    "team": null,
+    "team": "PHI",
     "status": "Active",
     "active": true
   },
@@ -69765,7 +69765,7 @@
     "name": "Charlie Kolar",
     "position": "TE",
     "team": "LAC",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "5969": {
@@ -80615,7 +80615,7 @@
     "name": "David Njoku",
     "position": "TE",
     "team": "LAC",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "13974": {
