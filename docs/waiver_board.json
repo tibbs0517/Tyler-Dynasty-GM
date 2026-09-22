@@ -10446,7 +10446,7 @@
     "age": 27,
     "years_exp": 4,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -23689,7 +23689,7 @@
     "id": "6149",
     "name": "Darius Slayton",
     "position": "WR",
-    "team": null,
+    "team": "IND",
     "age": 29,
     "years_exp": 7,
     "active": true,
