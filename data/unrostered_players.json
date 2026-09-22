@@ -1767,8 +1767,8 @@
     "id": "12374",
     "name": "Brenden Bates",
     "position": "TE",
-    "team": null,
-    "status": "Inactive"
+    "team": "JAX",
+    "status": "Active"
   },
   {
     "id": "7858",
@@ -7311,7 +7311,7 @@
     "id": "12389",
     "name": "Hayden Rucci",
     "position": "TE",
-    "team": "JAX",
+    "team": "LAC",
     "status": "Active"
   },
   {
@@ -7458,7 +7458,7 @@
     "id": "7559",
     "name": "Ihmir Smith-Marsette",
     "position": "WR",
-    "team": null,
+    "team": "CAR",
     "status": "Active"
   },
   {
@@ -7542,7 +7542,7 @@
     "id": "6920",
     "name": "Isaiah Hodgins",
     "position": "WR",
-    "team": null,
+    "team": "PIT",
     "status": "Active"
   },
   {
@@ -8949,7 +8949,7 @@
     "id": "7537",
     "name": "Jaret Patterson",
     "position": "RB",
-    "team": null,
+    "team": "MIN",
     "status": "Active"
   },
   {
@@ -16845,7 +16845,7 @@
     "id": "11257",
     "name": "Shedrick Jackson",
     "position": "WR",
-    "team": null,
+    "team": "BAL",
     "status": "Active"
   },
   {
@@ -17405,7 +17405,7 @@
     "id": "8849",
     "name": "Tanner Conner",
     "position": "TE",
-    "team": null,
+    "team": "NE",
     "status": "Active"
   },
   {

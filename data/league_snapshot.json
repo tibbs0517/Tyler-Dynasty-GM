@@ -64,11 +64,10 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
-    "last_message_id": "1408175373966929920",
     "shard": 470,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -115,6 +114,8 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
+    "last_message_id": "1408175373966929920",
+    "draft_id": "1326711861202161664",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -124,12 +125,11 @@
     "last_message_time": 1790097681089,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1326711861202161664",
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
     "bracket_id": null,
-    "bracket_overrides_id": null,
     "group_id": null,
+    "bracket_overrides_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "roster_positions": [
@@ -1238,7 +1238,8 @@
         "9753"
       ],
       "reserve": [
-        "11559",
+        "12489",
+        "13275",
         "9753"
       ],
       "roster_id": 9,
@@ -1263,7 +1264,7 @@
         "6786",
         "6794",
         "8112",
-        "5022",
+        "1466",
         "6801",
         "9500",
         "7523"
@@ -1334,16 +1335,16 @@
         "wins": 2
       },
       "starters": [
-        "11566",
+        "6797",
         "12527",
         "3198",
         "11635",
         "7526",
         "8146",
-        "9482",
+        "11604",
         "6790",
         "12519",
-        "6797"
+        "9758"
       ],
       "taxi": null
     }
@@ -1649,8 +1650,8 @@
   "nfl_state": {
     "week": 3,
     "leg": 3,
-    "season_type": "regular",
     "season": "2026",
+    "season_type": "regular",
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",

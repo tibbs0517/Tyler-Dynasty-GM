@@ -4552,7 +4552,7 @@
   "7974": {
     "name": "Nick McCloud",
     "position": "CB",
-    "team": null,
+    "team": "CHI",
     "status": "Active",
     "active": true
   },
@@ -6666,8 +6666,8 @@
   "12374": {
     "name": "Brenden Bates",
     "position": "TE",
-    "team": null,
-    "status": "Inactive",
+    "team": "JAX",
+    "status": "Active",
     "active": true
   },
   "5645": {
@@ -12638,7 +12638,7 @@
     "name": "Mike Onwenu",
     "position": "OL",
     "team": "NE",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3094": {
@@ -13351,7 +13351,7 @@
   "7268": {
     "name": "Krys Barnes",
     "position": "LB",
-    "team": null,
+    "team": "CLE",
     "status": "Active",
     "active": true
   },
@@ -13456,7 +13456,7 @@
   "1202": {
     "name": "Johnny Hekker",
     "position": "P",
-    "team": null,
+    "team": "MIN",
     "status": "Active",
     "active": true
   },
@@ -16648,7 +16648,7 @@
   "12282": {
     "name": "C.J. Ravenell",
     "position": "DL",
-    "team": null,
+    "team": "NYG",
     "status": "Active",
     "active": true
   },
@@ -26434,7 +26434,7 @@
   "13680": {
     "name": "Bishop Fitzgerald",
     "position": "DB",
-    "team": "PIT",
+    "team": "DET",
     "status": "Active",
     "active": true
   },
@@ -35247,7 +35247,7 @@
   "6920": {
     "name": "Isaiah Hodgins",
     "position": "WR",
-    "team": null,
+    "team": "PIT",
     "status": "Active",
     "active": true
   },
@@ -35689,7 +35689,7 @@
     "name": "Avonte Maddox",
     "position": "CB",
     "team": "DET",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "5632": {
@@ -39419,7 +39419,7 @@
   "14023": {
     "name": "Jaden Keller",
     "position": "LB",
-    "team": null,
+    "team": "NYJ",
     "status": "Active",
     "active": true
   },
@@ -39706,7 +39706,7 @@
   "10990": {
     "name": "Darius Rush",
     "position": "DB",
-    "team": null,
+    "team": "PIT",
     "status": "Active",
     "active": true
   },
@@ -48533,7 +48533,7 @@
   "11257": {
     "name": "Shedrick Jackson",
     "position": "WR",
-    "team": null,
+    "team": "BAL",
     "status": "Active",
     "active": true
   },
@@ -54539,7 +54539,7 @@
   "8849": {
     "name": "Tanner Conner",
     "position": "TE",
-    "team": null,
+    "team": "NE",
     "status": "Active",
     "active": true
   },
@@ -64871,7 +64871,7 @@
   "12389": {
     "name": "Hayden Rucci",
     "position": "TE",
-    "team": "JAX",
+    "team": "LAC",
     "status": "Active",
     "active": true
   },
@@ -65452,7 +65452,7 @@
   "7537": {
     "name": "Jaret Patterson",
     "position": "RB",
-    "team": null,
+    "team": "MIN",
     "status": "Active",
     "active": true
   },
@@ -68259,7 +68259,7 @@
   "4959": {
     "name": "Scott Daly",
     "position": "LS",
-    "team": "NO",
+    "team": "CHI",
     "status": "Active",
     "active": true
   },
@@ -70149,7 +70149,7 @@
   "7559": {
     "name": "Ihmir Smith-Marsette",
     "position": "WR",
-    "team": null,
+    "team": "CAR",
     "status": "Active",
     "active": true
   },
@@ -75708,7 +75708,7 @@
     "name": "Micheal Clemons",
     "position": "DL",
     "team": "IND",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "2123": {
