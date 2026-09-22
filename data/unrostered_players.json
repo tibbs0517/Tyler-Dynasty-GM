@@ -2667,6 +2667,13 @@
     "status": "Inactive"
   },
   {
+    "id": "3161",
+    "name": "Carson Wentz",
+    "position": "QB",
+    "team": "MIN",
+    "status": "Active"
+  },
+  {
     "id": "7624",
     "name": "Carson Williams",
     "position": "TE",
@@ -19253,7 +19260,7 @@
     "id": "9999",
     "name": "Will Levis",
     "position": "QB",
-    "team": null,
+    "team": "NYJ",
     "status": "Active"
   },
   {

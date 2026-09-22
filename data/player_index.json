@@ -4650,7 +4650,7 @@
   "11281": {
     "name": "Liam Anderson",
     "position": "LB",
-    "team": "MIA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -20023,7 +20023,7 @@
     "name": "A.J. Terrell",
     "position": "CB",
     "team": "ATL",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "7113": {
@@ -20099,7 +20099,7 @@
   "9999": {
     "name": "Will Levis",
     "position": "QB",
-    "team": null,
+    "team": "NYJ",
     "status": "Active",
     "active": true
   },
@@ -24264,7 +24264,7 @@
   "12695": {
     "name": "Robert Longerbeam",
     "position": "DB",
-    "team": "PHI",
+    "team": "ATL",
     "status": "Active",
     "active": true
   },
@@ -34827,7 +34827,7 @@
   "13882": {
     "name": "Ryan Schernecke",
     "position": "OL",
-    "team": null,
+    "team": "NYG",
     "status": "Active",
     "active": true
   },
@@ -55386,7 +55386,7 @@
   "13700": {
     "name": "James Brockermeyer",
     "position": "C",
-    "team": "ATL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -62869,7 +62869,7 @@
   "4427": {
     "name": "Kenny Moore",
     "position": "CB",
-    "team": null,
+    "team": "PHI",
     "status": "Active",
     "active": true
   },
@@ -85276,7 +85276,7 @@
   "12754": {
     "name": "Drew Moss",
     "position": "OL",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },

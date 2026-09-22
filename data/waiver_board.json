@@ -611,6 +611,19 @@
     "roster_id": null
   },
   {
+    "id": "3161",
+    "name": "Carson Wentz",
+    "position": "QB",
+    "team": "MIN",
+    "age": 33,
+    "years_exp": 10,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
     "id": "11851",
     "name": "Carter Bradley",
     "position": "QB",
@@ -3933,7 +3946,7 @@
     "age": 26,
     "years_exp": 3,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -3994,7 +4007,7 @@
     "id": "9999",
     "name": "Will Levis",
     "position": "QB",
-    "team": null,
+    "team": "NYJ",
     "age": 27,
     "years_exp": 3,
     "active": true,
@@ -20872,7 +20885,7 @@
     "age": 24,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null

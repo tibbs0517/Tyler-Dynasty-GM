@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-09-22 15:22:54
+Generated: 2026-09-22 19:31:04
 
 ---
 
@@ -9,7 +9,7 @@ Generated: 2026-09-22 15:22:54
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2809
+Available Players: 2810
 
 ---
 
@@ -17,7 +17,7 @@ Available Players: 2809
 
 Trades: 0
 Waiver Claims: 8
-Free Agent Moves: 4
+Free Agent Moves: 5
 
 ---
 
@@ -50,6 +50,7 @@ No trades.
 
 ## Recently Dropped Players
 
+- Carson Wentz
 - Ryan Flournoy
 - Kalif Raymond
 - Seth McGowan
@@ -60,7 +61,7 @@ No trades.
 
 ## Most Active Managers
 
-- tylerhjensen: 3 moves
+- tylerhjensen: 4 moves
 - AnthonyJania: 2 moves
 - TheCreecher: 2 moves
 - tylergratz: 2 moves

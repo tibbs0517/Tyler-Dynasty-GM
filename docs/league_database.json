@@ -9,7 +9,7 @@
     },
     "settings": {
       "best_ball": 0,
-      "last_report": 1,
+      "last_report": 2,
       "waiver_budget": 100,
       "disable_adds": 0,
       "capacity_override": 0,
@@ -64,10 +64,11 @@
     },
     "avatar": null,
     "company_id": null,
-    "shard": 470,
-    "season": "2026",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "last_message_id": "1408175373966929920",
+    "shard": 470,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -114,19 +115,23 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1408112797203615744",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790082761626,
+    "last_message_time": 1790097681089,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "draft_id": "1326711861202161664",
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,11 +156,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -784,7 +784,6 @@
         "13353",
         "13402",
         "2216",
-        "3161",
         "4892",
         "4984",
         "5850",
@@ -6001,7 +6000,7 @@
     "11281": {
       "name": "Liam Anderson",
       "position": "LB",
-      "team": "MIA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -21374,7 +21373,7 @@
       "name": "A.J. Terrell",
       "position": "CB",
       "team": "ATL",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "7113": {
@@ -21450,7 +21449,7 @@
     "9999": {
       "name": "Will Levis",
       "position": "QB",
-      "team": null,
+      "team": "NYJ",
       "status": "Active",
       "active": true
     },
@@ -25615,7 +25614,7 @@
     "12695": {
       "name": "Robert Longerbeam",
       "position": "DB",
-      "team": "PHI",
+      "team": "ATL",
       "status": "Active",
       "active": true
     },
@@ -36178,7 +36177,7 @@
     "13882": {
       "name": "Ryan Schernecke",
       "position": "OL",
-      "team": null,
+      "team": "NYG",
       "status": "Active",
       "active": true
     },
@@ -56737,7 +56736,7 @@
     "13700": {
       "name": "James Brockermeyer",
       "position": "C",
-      "team": "ATL",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -64220,7 +64219,7 @@
     "4427": {
       "name": "Kenny Moore",
       "position": "CB",
-      "team": null,
+      "team": "PHI",
       "status": "Active",
       "active": true
     },
@@ -86627,7 +86626,7 @@
     "12754": {
       "name": "Drew Moss",
       "position": "OL",
-      "team": null,
+      "team": "TEN",
       "status": "Active",
       "active": true
     },
@@ -89614,6 +89613,13 @@
       "position": "TE",
       "team": "IND",
       "status": "Inactive"
+    },
+    {
+      "id": "3161",
+      "name": "Carson Wentz",
+      "position": "QB",
+      "team": "MIN",
+      "status": "Active"
     },
     {
       "id": "7624",
@@ -106202,7 +106208,7 @@
       "id": "9999",
       "name": "Will Levis",
       "position": "QB",
-      "team": null,
+      "team": "NYJ",
       "status": "Active"
     },
     {
