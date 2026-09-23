@@ -592,7 +592,7 @@
     "name": "Andrei Iosivas",
     "position": "WR",
     "team": "CIN",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "12863",
@@ -12918,8 +12918,8 @@
     "id": "14058",
     "name": "Malick Meiga",
     "position": "WR",
-    "team": null,
-    "status": "Inactive"
+    "team": "SEA",
+    "status": "Active"
   },
   {
     "id": "13329",
@@ -16097,7 +16097,7 @@
     "name": "Ronnie Rivers",
     "position": "RB",
     "team": "LAR",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "2553",

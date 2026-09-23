@@ -897,11 +897,11 @@
         "12507",
         "13287",
         "10229",
-        "11631",
-        "11628",
-        "12517",
-        "12501",
         "11646",
+        "12501",
+        "12517",
+        "11631",
+        "11625",
         "9228"
       ],
       "taxi": null
@@ -1159,7 +1159,9 @@
         "9480",
         "96"
       ],
-      "reserve": null,
+      "reserve": [
+        "8142"
+      ],
       "roster_id": 8,
       "settings": {
         "fpts": 171,
@@ -1177,11 +1179,11 @@
       },
       "starters": [
         "96",
-        "7611",
+        "12529",
         "5892",
         "12514",
         "8148",
-        "10222",
+        "5872",
         "12518",
         "4037",
         "7588",
@@ -6002,7 +6004,7 @@
     "11281": {
       "name": "Liam Anderson",
       "position": "LB",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -9978,7 +9980,7 @@
     "8785": {
       "name": "Cal Adomitis",
       "position": "LS",
-      "team": "MIA",
+      "team": "NO",
       "status": "Active",
       "active": true
     },
@@ -15425,7 +15427,7 @@
       "name": "C.J. West",
       "position": "DT",
       "team": "SF",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "1305": {
@@ -29950,7 +29952,7 @@
       "name": "Andrei Iosivas",
       "position": "WR",
       "team": "CIN",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "12177": {
@@ -31643,7 +31645,7 @@
     "13690": {
       "name": "Uso Seumalo",
       "position": "DT",
-      "team": null,
+      "team": "SEA",
       "status": "Active",
       "active": true
     },
@@ -33835,7 +33837,7 @@
       "name": "Alec Pierce",
       "position": "WR",
       "team": "IND",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "621": {
@@ -35094,7 +35096,7 @@
     "6467": {
       "name": "Jonathan Harris",
       "position": "DT",
-      "team": null,
+      "team": "MIN",
       "status": "Active",
       "active": true
     },
@@ -40925,7 +40927,7 @@
     "10942": {
       "name": "Viliami Fehoko",
       "position": "DL",
-      "team": null,
+      "team": "SF",
       "status": "Active",
       "active": true
     },
@@ -51615,7 +51617,7 @@
       "name": "Anthony Bradford",
       "position": "OL",
       "team": "SEA",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "1184": {
@@ -52762,8 +52764,8 @@
     "14058": {
       "name": "Malick Meiga",
       "position": "WR",
-      "team": null,
-      "status": "Inactive",
+      "team": "SEA",
+      "status": "Active",
       "active": true
     },
     "8458": {
@@ -54890,7 +54892,7 @@
     "3560": {
       "name": "Austin Johnson",
       "position": "DT",
-      "team": null,
+      "team": "BUF",
       "status": "Active",
       "active": true
     },
@@ -55766,7 +55768,7 @@
       "name": "Ronnie Rivers",
       "position": "RB",
       "team": "LAR",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "2130": {
@@ -73209,7 +73211,7 @@
     "13877": {
       "name": "Maximus Pulley",
       "position": "DB",
-      "team": "PHI",
+      "team": "LAR",
       "status": "Active",
       "active": true
     },
@@ -84584,7 +84586,7 @@
     "7014": {
       "name": "Joe Bachie",
       "position": "LB",
-      "team": null,
+      "team": "DET",
       "status": "Active",
       "active": true
     },
@@ -87542,7 +87544,7 @@
       "name": "Andrei Iosivas",
       "position": "WR",
       "team": "CIN",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "12863",
@@ -99868,8 +99870,8 @@
       "id": "14058",
       "name": "Malick Meiga",
       "position": "WR",
-      "team": null,
-      "status": "Inactive"
+      "team": "SEA",
+      "status": "Active"
     },
     {
       "id": "13329",
@@ -103047,7 +103049,7 @@
       "name": "Ronnie Rivers",
       "position": "RB",
       "team": "LAR",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "2553",
