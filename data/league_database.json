@@ -64,6 +64,7 @@
     },
     "avatar": null,
     "company_id": null,
+    "last_message_id": "1408480548585795584",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -112,22 +113,25 @@
     },
     "season": "2026",
     "season_type": "regular",
-    "shard": 470,
     "sport": "nfl",
-    "last_message_id": "1408475875652952064",
-    "draft_id": "1326711861202161664",
-    "last_author_avatar": "e36a6748fbd53ab64ceb5f669bc6e27c",
-    "last_author_display_name": "SammyA",
-    "last_author_id": "429817971473403904",
+    "shard": 470,
+    "last_author_avatar": "ca62063676344cfcedb556ee2a79ad72",
+    "last_author_display_name": "TheCreecher",
+    "last_author_id": "472188020636774400",
     "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790169326278,
+    "last_message_time": 1790170440390,
     "last_pinned_message_id": null,
+    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -152,10 +156,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -674,7 +674,7 @@
         "wins": 0
       },
       "starters": [
-        "11560",
+        "5870",
         "4034",
         "9226",
         "8137",
@@ -4014,7 +4014,7 @@
     "6476": {
       "name": "D'Angelo Ross",
       "position": "DB",
-      "team": null,
+      "team": "CLE",
       "status": "Active",
       "active": true
     },
@@ -4812,7 +4812,7 @@
     "11579": {
       "name": "Audric Estime",
       "position": "RB",
-      "team": "NO",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -8235,7 +8235,7 @@
     "13805": {
       "name": "E.J. Williams",
       "position": "WR",
-      "team": "CAR",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -8340,7 +8340,7 @@
     "6045": {
       "name": "Gary Jennings",
       "position": "WR",
-      "team": "LAC",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -9040,7 +9040,7 @@
     "7853": {
       "name": "Naquan Jones",
       "position": "DT",
-      "team": "MIN",
+      "team": "SF",
       "status": "Active",
       "active": true
     },
@@ -9846,7 +9846,7 @@
       "name": "Will Johnson",
       "position": "DB",
       "team": "ARI",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "8905": {
@@ -12666,7 +12666,7 @@
     "11930": {
       "name": "Taki Taimani",
       "position": "DL",
-      "team": "MIN",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -27436,7 +27436,7 @@
     "8157": {
       "name": "Bailey Zappe",
       "position": "QB",
-      "team": "NYJ",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -28760,7 +28760,7 @@
       "name": "Kelvin Banks",
       "position": "OL",
       "team": "NO",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "4351": {
@@ -29053,7 +29053,7 @@
     "12909": {
       "name": "Eli Pancol",
       "position": "WR",
-      "team": null,
+      "team": "IND",
       "status": "Active",
       "active": true
     },
@@ -36529,7 +36529,7 @@
     "11717": {
       "name": "Elijah Jones",
       "position": "DB",
-      "team": "NYG",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -37068,7 +37068,7 @@
     "12054": {
       "name": "Jimmy Ciarlo",
       "position": "LB",
-      "team": "TEN",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -43508,7 +43508,7 @@
     "12071": {
       "name": "Gabe Hall",
       "position": "DT",
-      "team": "PHI",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -45195,7 +45195,7 @@
     "14041": {
       "name": "Anderson Castle",
       "position": "RB",
-      "team": "IND",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -46687,7 +46687,7 @@
       "name": "Dell Pettus",
       "position": "DB",
       "team": "NE",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "2558": {
@@ -48499,7 +48499,7 @@
     "12384": {
       "name": "Kingsley Eguakun",
       "position": "OL",
-      "team": "NYG",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -57453,7 +57453,7 @@
       "name": "Jonathon Brooks",
       "position": "RB",
       "team": "CAR",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "13710": {
@@ -57606,7 +57606,7 @@
     "13857": {
       "name": "Bryce Phillips",
       "position": "DB",
-      "team": "MIN",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -58047,7 +58047,7 @@
     "12737": {
       "name": "Jay Toia",
       "position": "DT",
-      "team": null,
+      "team": "ARI",
       "status": "Active",
       "active": true
     },
@@ -58580,7 +58580,7 @@
       "name": "Kyler Gordon",
       "position": "DB",
       "team": "CHI",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "635": {
@@ -60721,7 +60721,7 @@
     "12057": {
       "name": "Maema Njongmeta",
       "position": "LB",
-      "team": null,
+      "team": "CAR",
       "status": "Active",
       "active": true
     },
@@ -62052,7 +62052,7 @@
       "name": "Noah Sewell",
       "position": "LB",
       "team": "CHI",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "3767": {
@@ -64893,7 +64893,7 @@
     "13715": {
       "name": "Beau Gardner",
       "position": "LS",
-      "team": "CHI",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -72418,7 +72418,7 @@
     "14038": {
       "name": "Trayvon Rudolph",
       "position": "WR",
-      "team": "MIN",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -73139,7 +73139,7 @@
     "11891": {
       "name": "Kyle Hergel",
       "position": "OL",
-      "team": "CHI",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -73602,7 +73602,7 @@
       "name": "Shemar Turner",
       "position": "DE",
       "team": "CHI",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "7351": {
@@ -84584,7 +84584,7 @@
     "7014": {
       "name": "Joe Bachie",
       "position": "LB",
-      "team": "DET",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -87499,7 +87499,7 @@
       "id": "14041",
       "name": "Anderson Castle",
       "position": "RB",
-      "team": "IND",
+      "team": null,
       "status": "Active"
     },
     {
@@ -87919,7 +87919,7 @@
       "id": "11579",
       "name": "Audric Estime",
       "position": "RB",
-      "team": "NO",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -88108,7 +88108,7 @@
       "id": "8157",
       "name": "Bailey Zappe",
       "position": "QB",
-      "team": "NYJ",
+      "team": null,
       "status": "Active"
     },
     {
@@ -93134,7 +93134,7 @@
       "id": "13805",
       "name": "E.J. Williams",
       "position": "WR",
-      "team": "CAR",
+      "team": null,
       "status": "Active"
     },
     {
@@ -93211,7 +93211,7 @@
       "id": "12909",
       "name": "Eli Pancol",
       "position": "WR",
-      "team": null,
+      "team": "IND",
       "status": "Active"
     },
     {
@@ -93862,7 +93862,7 @@
       "id": "6045",
       "name": "Gary Jennings",
       "position": "WR",
-      "team": "LAC",
+      "team": null,
       "status": "Active"
     },
     {
@@ -105181,7 +105181,7 @@
       "id": "14038",
       "name": "Trayvon Rudolph",
       "position": "WR",
-      "team": "MIN",
+      "team": null,
       "status": "Active"
     },
     {

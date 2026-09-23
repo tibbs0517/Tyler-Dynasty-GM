@@ -549,7 +549,7 @@
     "id": "14041",
     "name": "Anderson Castle",
     "position": "RB",
-    "team": "IND",
+    "team": null,
     "status": "Active"
   },
   {
@@ -969,7 +969,7 @@
     "id": "11579",
     "name": "Audric Estime",
     "position": "RB",
-    "team": "NO",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -1158,7 +1158,7 @@
     "id": "8157",
     "name": "Bailey Zappe",
     "position": "QB",
-    "team": "NYJ",
+    "team": null,
     "status": "Active"
   },
   {
@@ -6184,7 +6184,7 @@
     "id": "13805",
     "name": "E.J. Williams",
     "position": "WR",
-    "team": "CAR",
+    "team": null,
     "status": "Active"
   },
   {
@@ -6261,7 +6261,7 @@
     "id": "12909",
     "name": "Eli Pancol",
     "position": "WR",
-    "team": null,
+    "team": "IND",
     "status": "Active"
   },
   {
@@ -6912,7 +6912,7 @@
     "id": "6045",
     "name": "Gary Jennings",
     "position": "WR",
-    "team": "LAC",
+    "team": null,
     "status": "Active"
   },
   {
@@ -18231,7 +18231,7 @@
     "id": "14038",
     "name": "Trayvon Rudolph",
     "position": "WR",
-    "team": "MIN",
+    "team": null,
     "status": "Active"
   },
   {
