@@ -56,19 +56,14 @@
       "trade_review_days": 0,
       "bench_lock": 0,
       "offseason_adds": 1,
-      "leg": 2,
+      "leg": 3,
       "daily_waivers_base": 4,
       "reserve_slots": 4,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 22
+      "daily_waivers_last_ran": 23
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
-    "last_message_id": "1408175373966929920",
-    "shard": 470,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -115,18 +110,24 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_author_avatar": null,
-    "last_author_display_name": "sys",
-    "last_author_id": "166666666666666666",
-    "last_author_is_bot": true,
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 470,
+    "sport": "nfl",
+    "last_message_id": "1408475875652952064",
+    "draft_id": "1326711861202161664",
+    "last_author_avatar": "e36a6748fbd53ab64ceb5f669bc6e27c",
+    "last_author_display_name": "SammyA",
+    "last_author_id": "429817971473403904",
+    "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790097681089,
+    "last_message_time": 1790169326278,
     "last_pinned_message_id": null,
-    "draft_id": "1326711861202161664",
-    "league_id": "1326711861197938688",
     "last_read_id": null,
+    "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,7 +152,6 @@
       "BN",
       "BN"
     ],
-    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
     "loser_bracket_id": null,
@@ -787,6 +787,7 @@
         "4892",
         "4984",
         "5850",
+        "5854",
         "5927",
         "6819",
         "8110",
@@ -813,7 +814,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 16,
-        "waiver_position": 8,
+        "waiver_position": 10,
         "wins": 1
       },
       "starters": [
@@ -821,12 +822,12 @@
         "9224",
         "12481",
         "9488",
-        "5927",
         "2216",
+        "10213",
         "12506",
         "12512",
-        "11834",
-        "4892"
+        "8110",
+        "5854"
       ],
       "taxi": null
     },
@@ -945,8 +946,7 @@
       "reserve": [
         "11638",
         "12469",
-        "12508",
-        "7049"
+        "12508"
       ],
       "roster_id": 5,
       "settings": {
@@ -960,7 +960,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 2
       },
       "starters": [
@@ -1017,7 +1017,7 @@
         "9509"
       ],
       "reserve": [
-        "6768"
+        "3321"
       ],
       "roster_id": 6,
       "settings": {
@@ -1088,6 +1088,7 @@
         "9511"
       ],
       "reserve": [
+        "11583",
         "6803"
       ],
       "roster_id": 7,
@@ -1331,7 +1332,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 4,
-        "waiver_position": 9,
+        "waiver_position": 8,
         "wins": 2
       },
       "starters": [
@@ -92931,13 +92932,6 @@
       "name": "Drew Estrada",
       "position": "WR",
       "team": null,
-      "status": "Active"
-    },
-    {
-      "id": "5854",
-      "name": "Drew Lock",
-      "position": "QB",
-      "team": "SEA",
       "status": "Active"
     },
     {
