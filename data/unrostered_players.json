@@ -900,7 +900,7 @@
     "name": "Arian Smith",
     "position": "WR",
     "team": "NYJ",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "8665",
@@ -1557,7 +1557,7 @@
     "id": "2197",
     "name": "Brandin Cooks",
     "position": "WR",
-    "team": null,
+    "team": "SF",
     "status": "Active"
   },
   {
@@ -3349,7 +3349,7 @@
     "id": "13834",
     "name": "Cody Hardy",
     "position": "TE",
-    "team": null,
+    "team": "NYJ",
     "status": "Active"
   },
   {

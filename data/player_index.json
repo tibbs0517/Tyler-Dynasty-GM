@@ -7989,7 +7989,7 @@
   "13866": {
     "name": "Luke Basso",
     "position": "LS",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -8395,7 +8395,7 @@
   "2197": {
     "name": "Brandin Cooks",
     "position": "WR",
-    "team": null,
+    "team": "SF",
     "status": "Active",
     "active": true
   },
@@ -21423,7 +21423,7 @@
     "name": "Marcelino McCrary-Ball",
     "position": "LB",
     "team": "NYJ",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "10896": {
@@ -21828,7 +21828,7 @@
   "7833": {
     "name": "Isaiahh Loudermilk",
     "position": "DE",
-    "team": null,
+    "team": "NYJ",
     "status": "Active",
     "active": true
   },
@@ -47001,7 +47001,7 @@
     "name": "Arian Smith",
     "position": "WR",
     "team": "NYJ",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "13717": {
@@ -56653,7 +56653,7 @@
   "13834": {
     "name": "Cody Hardy",
     "position": "TE",
-    "team": null,
+    "team": "NYJ",
     "status": "Active",
     "active": true
   },
@@ -64914,7 +64914,7 @@
     "name": "David Onyemata",
     "position": "DT",
     "team": "NYJ",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3691": {

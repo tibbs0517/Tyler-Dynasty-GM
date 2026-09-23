@@ -64,10 +64,6 @@
     },
     "avatar": null,
     "company_id": null,
-    "shard": 470,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -114,6 +110,10 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 470,
+    "sport": "nfl",
     "last_message_id": "1408175373966929920",
     "draft_id": "1326711861202161664",
     "last_author_avatar": null,
@@ -128,10 +128,7 @@
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
     "bracket_id": null,
-    "group_id": null,
     "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -156,6 +153,9 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -9340,7 +9340,7 @@
     "13866": {
       "name": "Luke Basso",
       "position": "LS",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -9746,7 +9746,7 @@
     "2197": {
       "name": "Brandin Cooks",
       "position": "WR",
-      "team": null,
+      "team": "SF",
       "status": "Active",
       "active": true
     },
@@ -22774,7 +22774,7 @@
       "name": "Marcelino McCrary-Ball",
       "position": "LB",
       "team": "NYJ",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "10896": {
@@ -23179,7 +23179,7 @@
     "7833": {
       "name": "Isaiahh Loudermilk",
       "position": "DE",
-      "team": null,
+      "team": "NYJ",
       "status": "Active",
       "active": true
     },
@@ -48352,7 +48352,7 @@
       "name": "Arian Smith",
       "position": "WR",
       "team": "NYJ",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "13717": {
@@ -58004,7 +58004,7 @@
     "13834": {
       "name": "Cody Hardy",
       "position": "TE",
-      "team": null,
+      "team": "NYJ",
       "status": "Active",
       "active": true
     },
@@ -66265,7 +66265,7 @@
       "name": "David Onyemata",
       "position": "DT",
       "team": "NYJ",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "3691": {
@@ -87849,7 +87849,7 @@
       "name": "Arian Smith",
       "position": "WR",
       "team": "NYJ",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "8665",
@@ -88506,7 +88506,7 @@
       "id": "2197",
       "name": "Brandin Cooks",
       "position": "WR",
-      "team": null,
+      "team": "SF",
       "status": "Active"
     },
     {
@@ -90298,7 +90298,7 @@
       "id": "13834",
       "name": "Cody Hardy",
       "position": "TE",
-      "team": null,
+      "team": "NYJ",
       "status": "Active"
     },
     {
