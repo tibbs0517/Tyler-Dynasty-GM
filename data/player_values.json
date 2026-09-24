@@ -448,6 +448,20 @@
     "gm_score": 95
   },
   {
+    "id": "2306",
+    "name": "Jameis Winston",
+    "position": "QB",
+    "team": "NYG",
+    "age": 32,
+    "years_exp": 11,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 5,
+    "gm_score": 95
+  },
+  {
     "id": "8161",
     "name": "Malik Willis",
     "position": "QB",
@@ -1537,20 +1551,6 @@
     "bye_week": null,
     "rostered": true,
     "roster_id": 5,
-    "gm_score": 90
-  },
-  {
-    "id": "13288",
-    "name": "Nicholas Singleton",
-    "position": "RB",
-    "team": "TEN",
-    "age": 22,
-    "years_exp": 0,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 1,
     "gm_score": 90
   },
   {
@@ -3217,20 +3217,6 @@
     "bye_week": null,
     "rostered": false,
     "roster_id": null,
-    "gm_score": 80
-  },
-  {
-    "id": "10219",
-    "name": "Chris Rodriguez",
-    "position": "RB",
-    "team": "JAX",
-    "age": 26,
-    "years_exp": 3,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 5,
     "gm_score": 80
   },
   {
@@ -5810,20 +5796,6 @@
     "gm_score": 75
   },
   {
-    "id": "2306",
-    "name": "Jameis Winston",
-    "position": "QB",
-    "team": "NYG",
-    "age": 32,
-    "years_exp": 11,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 75
-  },
-  {
     "id": "3410",
     "name": "Jake Coker",
     "position": "QB",
@@ -7753,6 +7725,20 @@
     "bye_week": null,
     "rostered": false,
     "roster_id": null,
+    "gm_score": 73
+  },
+  {
+    "id": "3634",
+    "name": "Kalif Raymond",
+    "position": "WR",
+    "team": "CHI",
+    "age": 32,
+    "years_exp": 10,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 7,
     "gm_score": 73
   },
   {
@@ -14742,6 +14728,20 @@
     "gm_score": 70
   },
   {
+    "id": "13288",
+    "name": "Nicholas Singleton",
+    "position": "RB",
+    "team": "TEN",
+    "age": 22,
+    "years_exp": 0,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 70
+  },
+  {
     "id": "11580",
     "name": "Dillon Johnson",
     "position": "RB",
@@ -15005,6 +15005,20 @@
     "bye_week": null,
     "rostered": false,
     "roster_id": null,
+    "gm_score": 70
+  },
+  {
+    "id": "5001",
+    "name": "Dalton Schultz",
+    "position": "TE",
+    "team": "HOU",
+    "age": 30,
+    "years_exp": 8,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 1,
     "gm_score": 70
   },
   {
@@ -25984,6 +25998,20 @@
     "gm_score": 60
   },
   {
+    "id": "10219",
+    "name": "Chris Rodriguez",
+    "position": "RB",
+    "team": "JAX",
+    "age": 26,
+    "years_exp": 3,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 60
+  },
+  {
     "id": "5271",
     "name": "Buddy Howell",
     "position": "RB",
@@ -31030,20 +31058,6 @@
     "team": "NYG",
     "age": 30,
     "years_exp": 8,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 53
-  },
-  {
-    "id": "3634",
-    "name": "Kalif Raymond",
-    "position": "WR",
-    "team": "CHI",
-    "age": 32,
-    "years_exp": 10,
     "active": true,
     "injury_status": null,
     "bye_week": null,
@@ -38716,20 +38730,6 @@
     "team": null,
     "age": 28,
     "years_exp": 7,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 50
-  },
-  {
-    "id": "5001",
-    "name": "Dalton Schultz",
-    "position": "TE",
-    "team": "HOU",
-    "age": 30,
-    "years_exp": 8,
     "active": true,
     "injury_status": null,
     "bye_week": null,

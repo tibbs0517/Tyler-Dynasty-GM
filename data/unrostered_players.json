@@ -3171,6 +3171,13 @@
     "status": "Active"
   },
   {
+    "id": "10219",
+    "name": "Chris Rodriguez",
+    "position": "RB",
+    "team": "JAX",
+    "status": "Active"
+  },
+  {
     "id": "7175",
     "name": "Chris Rowland",
     "position": "WR",
@@ -4057,13 +4064,6 @@
     "name": "Dalton Schoen",
     "position": "WR",
     "team": null,
-    "status": "Active"
-  },
-  {
-    "id": "5001",
-    "name": "Dalton Schultz",
-    "position": "TE",
-    "team": "HOU",
     "status": "Active"
   },
   {
@@ -8687,13 +8687,6 @@
     "status": "Active"
   },
   {
-    "id": "2306",
-    "name": "Jameis Winston",
-    "position": "QB",
-    "team": "NYG",
-    "status": "Active"
-  },
-  {
     "id": "3078",
     "name": "Jamel Johnson",
     "position": "WR",
@@ -11176,13 +11169,6 @@
     "name": "Kalif Phillips",
     "position": "RB",
     "team": null,
-    "status": "Active"
-  },
-  {
-    "id": "3634",
-    "name": "Kalif Raymond",
-    "position": "WR",
-    "team": "CHI",
     "status": "Active"
   },
   {
@@ -14529,6 +14515,13 @@
     "name": "Nic Shimonek",
     "position": "QB",
     "team": null,
+    "status": "Active"
+  },
+  {
+    "id": "13288",
+    "name": "Nicholas Singleton",
+    "position": "RB",
+    "team": "TEN",
     "status": "Active"
   },
   {

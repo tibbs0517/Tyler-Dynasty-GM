@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-09-24 05:48:26
+Generated: 2026-09-24 11:00:27
 
 ---
 
@@ -9,15 +9,15 @@ Generated: 2026-09-24 05:48:26
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2809
+Available Players: 2808
 
 ---
 
 ## League Activity
 
 Trades: 0
-Waiver Claims: 11
-Free Agent Moves: 5
+Waiver Claims: 5
+Free Agent Moves: 0
 
 ---
 
@@ -37,39 +37,26 @@ No trades.
 
 ## Top Waiver Claims
 
-- Dalton Schultz → tylerhjensen
-- Drew Lock → tylerhjensen
-- Drew Lock → tylergratz
-- Roman Wilson → AnthonyJania
-- Xavier Hutchinson → AnthonyJania
-- Demarcus Robinson → tylerhjensen
-- Roman Wilson → tylerhjensen
-- Mike Gesicki → TheCreecher
-- Chris Brooks → tylergratz
-- Demond Claiborne → HebrewsHeroes
-- Rashod Bateman → tylergratz
+- Eli Heidenreich → HebrewsHeroes
+- Jacob Cowing → HebrewsHeroes
+- Dalton Schultz → AnthonyJania
+- Jameis Winston → tylergratz
+- Kalif Raymond → HebrewsHeroes
 
 ---
 
 ## Recently Dropped Players
 
-- Carson Wentz
-- Ryan Flournoy
-- Kalif Raymond
-- Seth McGowan
-- Kendrick Bourne
-- Jalen Nailor
+- Nicholas Singleton
+- Chris Rodriguez
 
 ---
 
 ## Most Active Managers
 
-- tylerhjensen: 6 moves
-- tylergratz: 3 moves
-- AnthonyJania: 2 moves
-- TheCreecher: 2 moves
-- HebrewsHeroes: 2 moves
-- SammyA: 1 moves
+- HebrewsHeroes: 3 moves
+- AnthonyJania: 1 moves
+- tylergratz: 1 moves
 
 ---
 

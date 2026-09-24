@@ -60,11 +60,9 @@
       "daily_waivers_base": 4,
       "reserve_slots": 4,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 23
+      "daily_waivers_last_ran": 24
     },
     "avatar": null,
-    "company_id": null,
-    "last_message_id": "1408480548585795584",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -113,25 +111,23 @@
     },
     "season": "2026",
     "season_type": "regular",
-    "sport": "nfl",
     "shard": 470,
-    "last_author_avatar": "ca62063676344cfcedb556ee2a79ad72",
-    "last_author_display_name": "TheCreecher",
-    "last_author_id": "472188020636774400",
-    "last_author_is_bot": false,
+    "sport": "nfl",
+    "last_message_id": "1408745061771902976",
+    "company_id": null,
+    "draft_id": "1326711861202161664",
+    "last_author_avatar": null,
+    "last_author_display_name": "sys",
+    "last_author_id": "166666666666666666",
+    "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790170440390,
+    "last_message_time": 1790233505245,
     "last_pinned_message_id": null,
-    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -156,6 +152,10 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -636,13 +636,13 @@
         "11563",
         "11603",
         "11620",
-        "13288",
         "13311",
         "13317",
         "13330",
         "2449",
         "3257",
         "4034",
+        "5001",
         "5870",
         "7021",
         "7594",
@@ -670,7 +670,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 7,
+        "waiver_position": 9,
         "wins": 0
       },
       "starters": [
@@ -814,7 +814,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 16,
-        "waiver_position": 10,
+        "waiver_position": 7,
         "wins": 1
       },
       "starters": [
@@ -917,7 +917,6 @@
       "owner_id": "472427763857354752",
       "player_map": null,
       "players": [
-        "10219",
         "10859",
         "11370",
         "11584",
@@ -931,6 +930,7 @@
         "13285",
         "13305",
         "13411",
+        "2306",
         "3163",
         "4217",
         "4983",
@@ -960,7 +960,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 9,
+        "waiver_position": 10,
         "wins": 2
       },
       "starters": [
@@ -1073,6 +1073,7 @@
         "13301",
         "13347",
         "13413",
+        "3634",
         "4199",
         "5846",
         "6770",
@@ -1100,8 +1101,8 @@
         "ppts_decimal": 72,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 28,
-        "waiver_position": 6,
+        "waiver_budget_used": 29,
+        "waiver_position": 8,
         "wins": 2
       },
       "starters": [
@@ -1332,7 +1333,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 4,
-        "waiver_position": 8,
+        "waiver_position": 6,
         "wins": 2
       },
       "starters": [
@@ -90128,6 +90129,13 @@
       "status": "Active"
     },
     {
+      "id": "10219",
+      "name": "Chris Rodriguez",
+      "position": "RB",
+      "team": "JAX",
+      "status": "Active"
+    },
+    {
       "id": "7175",
       "name": "Chris Rowland",
       "position": "WR",
@@ -91014,13 +91022,6 @@
       "name": "Dalton Schoen",
       "position": "WR",
       "team": null,
-      "status": "Active"
-    },
-    {
-      "id": "5001",
-      "name": "Dalton Schultz",
-      "position": "TE",
-      "team": "HOU",
       "status": "Active"
     },
     {
@@ -95644,13 +95645,6 @@
       "status": "Active"
     },
     {
-      "id": "2306",
-      "name": "Jameis Winston",
-      "position": "QB",
-      "team": "NYG",
-      "status": "Active"
-    },
-    {
       "id": "3078",
       "name": "Jamel Johnson",
       "position": "WR",
@@ -98133,13 +98127,6 @@
       "name": "Kalif Phillips",
       "position": "RB",
       "team": null,
-      "status": "Active"
-    },
-    {
-      "id": "3634",
-      "name": "Kalif Raymond",
-      "position": "WR",
-      "team": "CHI",
       "status": "Active"
     },
     {
@@ -101486,6 +101473,13 @@
       "name": "Nic Shimonek",
       "position": "QB",
       "team": null,
+      "status": "Active"
+    },
+    {
+      "id": "13288",
+      "name": "Nicholas Singleton",
+      "position": "RB",
+      "team": "TEN",
       "status": "Active"
     },
     {
