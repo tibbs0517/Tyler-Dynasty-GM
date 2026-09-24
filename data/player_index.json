@@ -33274,7 +33274,7 @@
     "name": "Jaxson Dart",
     "position": "QB",
     "team": "NYG",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "4966": {
@@ -45019,7 +45019,7 @@
   "7830": {
     "name": "Shaun Wade",
     "position": "CB",
-    "team": null,
+    "team": "PHI",
     "status": "Active",
     "active": true
   },
@@ -63541,7 +63541,7 @@
   "13715": {
     "name": "Beau Gardner",
     "position": "LS",
-    "team": null,
+    "team": "CHI",
     "status": "Active",
     "active": true
   },
