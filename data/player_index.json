@@ -11678,7 +11678,7 @@
   "6946": {
     "name": "Myles Bryant",
     "position": "DB",
-    "team": "CLE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -54847,7 +54847,7 @@
   "12763": {
     "name": "Jakob Robinson",
     "position": "CB",
-    "team": "SF",
+    "team": null,
     "status": "Active",
     "active": true
   },
