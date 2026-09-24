@@ -64,6 +64,7 @@
     },
     "avatar": null,
     "company_id": null,
+    "last_message_id": "1408480548585795584",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -112,9 +113,8 @@
     },
     "season": "2026",
     "season_type": "regular",
-    "shard": 470,
     "sport": "nfl",
-    "last_message_id": "1408480548585795584",
+    "shard": 470,
     "last_author_avatar": "ca62063676344cfcedb556ee2a79ad72",
     "last_author_display_name": "TheCreecher",
     "last_author_id": "472188020636774400",
@@ -1016,9 +1016,7 @@
         "9506",
         "9509"
       ],
-      "reserve": [
-        "3321"
-      ],
+      "reserve": null,
       "roster_id": 6,
       "settings": {
         "fpts": 259,

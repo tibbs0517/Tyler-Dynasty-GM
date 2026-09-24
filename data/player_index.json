@@ -59516,7 +59516,7 @@
   "8746": {
     "name": "Benton Whitley",
     "position": "DE",
-    "team": null,
+    "team": "NE",
     "status": "Active",
     "active": true
   },
@@ -69331,6 +69331,13 @@
     "name": "Austin Calitro",
     "position": "LB",
     "team": null,
+    "status": "Active",
+    "active": true
+  },
+  "14089": {
+    "name": "Spencer Triplett",
+    "position": "LS",
+    "team": "LAC",
     "status": "Active",
     "active": true
   },
