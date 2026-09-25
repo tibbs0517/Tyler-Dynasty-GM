@@ -63,10 +63,12 @@
       "daily_waivers_last_ran": 25
     },
     "avatar": null,
+    "company_id": null,
     "sport": "nfl",
     "season_type": "regular",
     "season": "2026",
     "shard": 470,
+    "last_message_id": "1409221192967045120",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -113,8 +115,6 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "company_id": null,
-    "last_message_id": "1409221192967045120",
     "last_author_avatar": "e36a6748fbd53ab64ceb5f669bc6e27c",
     "last_author_display_name": "SammyA",
     "last_author_id": "429817971473403904",
@@ -123,10 +123,13 @@
     "last_message_text_map": null,
     "last_message_time": 1790347023771,
     "last_pinned_message_id": null,
-    "draft_id": "1326711861202161664",
     "last_read_id": null,
+    "draft_id": "1326711861202161664",
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,9 +154,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -1088,6 +1088,7 @@
       ],
       "reserve": [
         "11583",
+        "13296",
         "6803"
       ],
       "roster_id": 7,
@@ -9343,7 +9344,7 @@
     "13866": {
       "name": "Luke Basso",
       "position": "LS",
-      "team": "MIA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -13473,7 +13474,7 @@
     "13676": {
       "name": "Deshawn McKnight",
       "position": "DL",
-      "team": "TB",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -40675,8 +40676,8 @@
     "11829": {
       "name": "Solomon Byrd",
       "position": "DE",
-      "team": null,
-      "status": "Active",
+      "team": "HOU",
+      "status": "Inactive",
       "active": true
     },
     "7735": {
@@ -57349,7 +57350,7 @@
     "6290": {
       "name": "Scotty Miller",
       "position": "WR",
-      "team": "CHI",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -70691,7 +70692,7 @@
     "14089": {
       "name": "Spencer Triplett",
       "position": "LS",
-      "team": "LAC",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -103503,7 +103504,7 @@
       "id": "6290",
       "name": "Scotty Miller",
       "position": "WR",
-      "team": "CHI",
+      "team": null,
       "status": "Active"
     },
     {

@@ -14836,7 +14836,7 @@
     "id": "13866",
     "name": "Luke Basso",
     "position": "LS",
-    "team": "MIA",
+    "team": null,
     "age": 23,
     "years_exp": 0,
     "active": true,
@@ -14879,7 +14879,7 @@
     "age": 23,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -15646,7 +15646,7 @@
     "age": 22,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -22506,7 +22506,7 @@
     "id": "13676",
     "name": "Deshawn McKnight",
     "position": "DL",
-    "team": "TB",
+    "team": null,
     "age": 23,
     "years_exp": 0,
     "active": true,
@@ -22926,7 +22926,7 @@
     "age": 27,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -27606,7 +27606,7 @@
     "age": 27,
     "years_exp": 4,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -32416,7 +32416,7 @@
     "age": 26,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -40346,7 +40346,7 @@
     "age": 27,
     "years_exp": 5,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Doubtful",
     "bye_week": null,
     "rostered": true,
     "roster_id": 10
@@ -41880,7 +41880,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -42088,7 +42088,7 @@
     "age": 23,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": true,
     "roster_id": 7
@@ -44337,7 +44337,7 @@
     "age": 32,
     "years_exp": 9,
     "active": true,
-    "injury_status": "Doubtful",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -48848,7 +48848,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -52865,7 +52865,7 @@
     "age": 25,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Doubtful",
     "bye_week": null,
     "rostered": true,
     "roster_id": 2
@@ -73024,7 +73024,7 @@
     "id": "11829",
     "name": "Solomon Byrd",
     "position": "DE",
-    "team": null,
+    "team": "HOU",
     "age": 26,
     "years_exp": 2,
     "active": true,
@@ -78514,7 +78514,7 @@
     "age": 21,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -79866,7 +79866,7 @@
     "age": 31,
     "years_exp": 8,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Doubtful",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -80750,7 +80750,7 @@
     "age": 26,
     "years_exp": 5,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -86860,7 +86860,7 @@
     "age": 24,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -97923,7 +97923,7 @@
     "age": 25,
     "years_exp": 2,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -99054,7 +99054,7 @@
     "age": 27,
     "years_exp": 5,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": true,
     "roster_id": 2
@@ -100510,7 +100510,7 @@
     "age": 27,
     "years_exp": 5,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -103990,7 +103990,7 @@
     "id": "6290",
     "name": "Scotty Miller",
     "position": "WR",
-    "team": "CHI",
+    "team": null,
     "age": 29,
     "years_exp": 7,
     "active": true,
@@ -104514,7 +104514,7 @@
     "age": 30,
     "years_exp": 7,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -107517,7 +107517,7 @@
     "age": 31,
     "years_exp": 9,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": true,
     "roster_id": 7
@@ -114628,7 +114628,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -118346,7 +118346,7 @@
     "age": 29,
     "years_exp": 8,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -121427,7 +121427,7 @@
     "age": 31,
     "years_exp": 7,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -128070,7 +128070,7 @@
     "age": 27,
     "years_exp": 5,
     "active": true,
-    "injury_status": "Doubtful",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -128768,7 +128768,7 @@
     "id": "14089",
     "name": "Spencer Triplett",
     "position": "LS",
-    "team": "LAC",
+    "team": null,
     "age": null,
     "years_exp": 0,
     "active": true,
@@ -130423,7 +130423,7 @@
     "age": 28,
     "years_exp": 7,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Doubtful",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -142591,7 +142591,7 @@
     "age": 27,
     "years_exp": 4,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Doubtful",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -148064,7 +148064,7 @@
     "age": 23,
     "years_exp": 2,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Doubtful",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -154642,7 +154642,7 @@
     "age": 29,
     "years_exp": 7,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null

@@ -7989,7 +7989,7 @@
   "13866": {
     "name": "Luke Basso",
     "position": "LS",
-    "team": "MIA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -12119,7 +12119,7 @@
   "13676": {
     "name": "Deshawn McKnight",
     "position": "DL",
-    "team": "TB",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -39321,8 +39321,8 @@
   "11829": {
     "name": "Solomon Byrd",
     "position": "DE",
-    "team": null,
-    "status": "Active",
+    "team": "HOU",
+    "status": "Inactive",
     "active": true
   },
   "7735": {
@@ -55995,7 +55995,7 @@
   "6290": {
     "name": "Scotty Miller",
     "position": "WR",
-    "team": "CHI",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -69337,7 +69337,7 @@
   "14089": {
     "name": "Spencer Triplett",
     "position": "LS",
-    "team": "LAC",
+    "team": null,
     "status": "Active",
     "active": true
   },
