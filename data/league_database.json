@@ -1114,8 +1114,8 @@
         "7547",
         "5846",
         "9484",
-        "4199",
         "10236",
+        "4199",
         "8183"
       ],
       "taxi": null
@@ -24038,7 +24038,7 @@
       "name": "Rico Dowdle",
       "position": "RB",
       "team": "PIT",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "10878": {
