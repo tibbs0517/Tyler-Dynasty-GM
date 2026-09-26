@@ -8457,7 +8457,7 @@
     "age": 28,
     "years_exp": 5,
     "active": true,
-    "injury_status": "Doubtful",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -24950,7 +24950,7 @@
     "id": "12946",
     "name": "Dontae Fleming",
     "position": "WR",
-    "team": "MIN",
+    "team": null,
     "age": 24,
     "years_exp": 1,
     "active": true,

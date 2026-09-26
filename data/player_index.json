@@ -16445,7 +16445,7 @@
   "13872": {
     "name": "Jaxson Moi",
     "position": "DT",
-    "team": "LAR",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -20540,7 +20540,7 @@
   "12946": {
     "name": "Dontae Fleming",
     "position": "WR",
-    "team": "MIN",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -56191,7 +56191,7 @@
   "12391": {
     "name": "Kenny Dyson",
     "position": "LB",
-    "team": "MIN",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -60944,7 +60944,7 @@
   "12072": {
     "name": "Jacob Roberts",
     "position": "LB",
-    "team": "MIN",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -62057,7 +62057,7 @@
   "12747": {
     "name": "Power Echols",
     "position": "LB",
-    "team": "SEA",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -69204,7 +69204,7 @@
   "13611": {
     "name": "Marcus Allen",
     "position": "CB",
-    "team": "MIN",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -70513,7 +70513,7 @@
   "12920": {
     "name": "Dean Clark",
     "position": "DB",
-    "team": "NYJ",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -84583,7 +84583,7 @@
   "13035": {
     "name": "Amari Kight",
     "position": "OT",
-    "team": "SEA",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
