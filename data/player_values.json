@@ -1414,6 +1414,20 @@
     "gm_score": 90
   },
   {
+    "id": "13423",
+    "name": "Eli Heidenreich",
+    "position": "RB",
+    "team": "PIT",
+    "age": 23,
+    "years_exp": 0,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 7,
+    "gm_score": 90
+  },
+  {
     "id": "13286",
     "name": "Jadarian Price",
     "position": "RB",
@@ -14244,20 +14258,6 @@
     "team": null,
     "age": 23,
     "years_exp": 2,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 70
-  },
-  {
-    "id": "13423",
-    "name": "Eli Heidenreich",
-    "position": "RB",
-    "team": "PIT",
-    "age": 23,
-    "years_exp": 0,
     "active": true,
     "injury_status": null,
     "bye_week": null,

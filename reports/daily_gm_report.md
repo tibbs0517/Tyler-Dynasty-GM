@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-09-26 03:13:46
+Generated: 2026-09-26 09:01:00
 
 ---
 
@@ -9,14 +9,14 @@ Generated: 2026-09-26 03:13:46
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2808
+Available Players: 2807
 
 ---
 
 ## League Activity
 
 Trades: 0
-Waiver Claims: 5
+Waiver Claims: 7
 Free Agent Moves: 0
 
 ---
@@ -38,6 +38,7 @@ No trades.
 ## Top Waiver Claims
 
 - Eli Heidenreich → HebrewsHeroes
+- Nicholas Singleton → HebrewsHeroes
 - Jacob Cowing → HebrewsHeroes
 - Dalton Schultz → AnthonyJania
 - Jameis Winston → tylergratz
@@ -54,7 +55,7 @@ No trades.
 
 ## Most Active Managers
 
-- HebrewsHeroes: 3 moves
+- HebrewsHeroes: 5 moves
 - AnthonyJania: 1 moves
 - tylergratz: 1 moves
 
