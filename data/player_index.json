@@ -248,7 +248,7 @@
     "name": "Jake Hummel",
     "position": "LB",
     "team": "HOU",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "13221": {
@@ -12344,7 +12344,7 @@
     "name": "Claudin Cherelus",
     "position": "LB",
     "team": "CAR",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "4848": {
@@ -15158,7 +15158,7 @@
     "name": "Demarcus Robinson",
     "position": "WR",
     "team": "SF",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3330": {
@@ -29990,7 +29990,7 @@
   "2333": {
     "name": "Laken Tomlinson",
     "position": "OL",
-    "team": "DAL",
+    "team": "GB",
     "status": "Active",
     "active": true
   },
@@ -30642,7 +30642,7 @@
     "name": "Gennings Dunker",
     "position": "OT",
     "team": "PIT",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "8240": {
@@ -35759,7 +35759,7 @@
     "name": "P.J. Locke",
     "position": "DB",
     "team": "DAL",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3699": {
@@ -56276,7 +56276,7 @@
     "name": "Trey Pipkins",
     "position": "T",
     "team": "LAC",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "207": {
@@ -67553,7 +67553,7 @@
     "name": "Jonah Coleman",
     "position": "RB",
     "team": "DEN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "11168": {
@@ -71305,7 +71305,7 @@
     "name": "Thomas Harper",
     "position": "DB",
     "team": "DET",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "7532": {
