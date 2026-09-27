@@ -24239,7 +24239,7 @@
     "age": 32,
     "years_exp": 10,
     "active": true,
-    "injury_status": "Doubtful",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -31646,7 +31646,7 @@
     "name": "Mason Tipton",
     "position": "WR",
     "team": "NO",
-    "age": 25,
+    "age": 26,
     "years_exp": 2,
     "active": true,
     "injury_status": "PUP",
