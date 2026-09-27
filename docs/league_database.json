@@ -60,12 +60,11 @@
       "daily_waivers_base": 4,
       "reserve_slots": 4,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 26
+      "daily_waivers_last_ran": 27
     },
     "avatar": null,
-    "shard": 470,
-    "season": "2026",
-    "season_type": "regular",
+    "company_id": null,
+    "last_message_id": "1409832283023646720",
     "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
@@ -113,25 +112,24 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1409740185343655936",
-    "company_id": null,
-    "last_author_avatar": "08b3e806fb4faceb3cedc0acb752e9cf",
-    "last_author_display_name": "HoNeYmOOnBaBy",
-    "last_author_id": "430171068452319232",
-    "last_author_is_bot": false,
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 470,
+    "draft_id": "1326711861202161664",
+    "last_author_avatar": null,
+    "last_author_display_name": "sys",
+    "last_author_id": "166666666666666666",
+    "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790470761194,
+    "last_message_time": 1790492718991,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1326711861202161664",
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -156,6 +154,8 @@
       "BN",
       "BN"
     ],
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -632,6 +632,7 @@
       "player_map": null,
       "players": [
         "10218",
+        "11256",
         "11560",
         "11563",
         "11603",
@@ -639,6 +640,7 @@
         "13311",
         "13317",
         "13330",
+        "1737",
         "2449",
         "3257",
         "4034",
@@ -672,7 +674,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 8,
+        "waiver_position": 10,
         "wins": 0
       },
       "starters": [
@@ -962,7 +964,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 9,
+        "waiver_position": 8,
         "wins": 2
       },
       "starters": [
@@ -1106,7 +1108,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 29,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 2
       },
       "starters": [
@@ -1245,8 +1247,7 @@
         "9753"
       ],
       "reserve": [
-        "12489",
-        "13275",
+        "5022",
         "9753"
       ],
       "roster_id": 9,
@@ -89672,13 +89673,6 @@
       "status": "Active"
     },
     {
-      "id": "1737",
-      "name": "Case Keenum",
-      "position": "QB",
-      "team": "CHI",
-      "status": "Active"
-    },
-    {
       "id": "11848",
       "name": "Casey Bauman",
       "position": "QB",
@@ -105986,13 +105980,6 @@
       "name": "Tyshaun James",
       "position": "WR",
       "team": null,
-      "status": "Active"
-    },
-    {
-      "id": "11256",
-      "name": "Tyson Bagent",
-      "position": "QB",
-      "team": "CHI",
       "status": "Active"
     },
     {
