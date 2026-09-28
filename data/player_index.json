@@ -9214,8 +9214,8 @@
   "13431": {
     "name": "Miles Kitselman",
     "position": "TE",
-    "team": null,
-    "status": "Inactive",
+    "team": "DET",
+    "status": "Active",
     "active": true
   },
   "13310": {
@@ -11678,7 +11678,7 @@
   "6946": {
     "name": "Myles Bryant",
     "position": "DB",
-    "team": null,
+    "team": "CLE",
     "status": "Active",
     "active": true
   },
@@ -13645,7 +13645,7 @@
   "3303": {
     "name": "Matthew Judon",
     "position": "LB",
-    "team": null,
+    "team": "SF",
     "status": "Active",
     "active": true
   },
@@ -38531,7 +38531,7 @@
     "name": "De'Von Achane",
     "position": "RB",
     "team": "MIA",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "5536": {
@@ -45853,7 +45853,7 @@
     "name": "Zach Bako-Bewele",
     "position": "OL",
     "team": "GB",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "6636": {
@@ -71983,7 +71983,7 @@
   "9490": {
     "name": "Tyler Scott",
     "position": "WR",
-    "team": null,
+    "team": "LV",
     "status": "Active",
     "active": true
   },
@@ -73894,7 +73894,7 @@
   "6796": {
     "name": "Mekhi Becton",
     "position": "OT",
-    "team": null,
+    "team": "GB",
     "status": "Active",
     "active": true
   },

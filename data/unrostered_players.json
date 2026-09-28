@@ -14108,8 +14108,8 @@
     "id": "13431",
     "name": "Miles Kitselman",
     "position": "TE",
-    "team": null,
-    "status": "Inactive"
+    "team": "DET",
+    "status": "Active"
   },
   {
     "id": "6151",
@@ -18889,7 +18889,7 @@
     "id": "9490",
     "name": "Tyler Scott",
     "position": "WR",
-    "team": null,
+    "team": "LV",
     "status": "Active"
   },
   {
