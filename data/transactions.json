@@ -3706,6 +3706,62 @@
   ],
   "3": [
     {
+      "status": "failed",
+      "type": "waiver",
+      "metadata": {
+        "notes": "Unfortunately, your roster will have too many players after this transaction."
+      },
+      "created": 1790524388680,
+      "settings": {
+        "seq": 1,
+        "waiver_bid": 0
+      },
+      "leg": 3,
+      "draft_picks": [],
+      "creator": "434689597088198656",
+      "transaction_id": "1409965115322667008",
+      "adds": {
+        "6826": 7
+      },
+      "consenter_ids": [
+        7
+      ],
+      "drops": null,
+      "roster_ids": [
+        7
+      ],
+      "status_updated": 1790579130052,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "waiver",
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      },
+      "created": 1790524334469,
+      "settings": {
+        "seq": 0,
+        "waiver_bid": 0
+      },
+      "leg": 3,
+      "draft_picks": [],
+      "creator": "434689597088198656",
+      "transaction_id": "1409964887949520896",
+      "adds": {
+        "1339": 7
+      },
+      "consenter_ids": [
+        7
+      ],
+      "drops": null,
+      "roster_ids": [
+        7
+      ],
+      "status_updated": 1790579130052,
+      "waiver_budget": []
+    },
+    {
       "status": "complete",
       "type": "waiver",
       "metadata": {

@@ -53,7 +53,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 10,
+      "waiver_position": 9,
       "wins": 0
     },
     "starters": [
@@ -455,6 +455,7 @@
       "13296",
       "13301",
       "13347",
+      "1339",
       "13413",
       "13423",
       "3634",
@@ -488,7 +489,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 29,
-      "waiver_position": 9,
+      "waiver_position": 10,
       "wins": 2
     },
     "starters": [

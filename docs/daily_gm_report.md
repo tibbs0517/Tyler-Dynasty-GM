@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-09-28 03:18:32
+Generated: 2026-09-28 10:27:30
 
 ---
 
@@ -9,14 +9,14 @@ Generated: 2026-09-28 03:18:32
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2805
+Available Players: 2804
 
 ---
 
 ## League Activity
 
 Trades: 0
-Waiver Claims: 9
+Waiver Claims: 11
 Free Agent Moves: 0
 
 ---
@@ -37,6 +37,8 @@ No trades.
 
 ## Top Waiver Claims
 
+- Cole Kmet → HebrewsHeroes
+- Zach Ertz → HebrewsHeroes
 - Case Keenum → AnthonyJania
 - Tyson Bagent → AnthonyJania
 - Eli Heidenreich → HebrewsHeroes
@@ -57,7 +59,7 @@ No trades.
 
 ## Most Active Managers
 
-- HebrewsHeroes: 5 moves
+- HebrewsHeroes: 7 moves
 - AnthonyJania: 3 moves
 - tylergratz: 1 moves
 
