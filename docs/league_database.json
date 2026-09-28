@@ -64,6 +64,10 @@
     },
     "avatar": null,
     "company_id": null,
+    "shard": 470,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -110,21 +114,17 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
-    "shard": 470,
-    "last_message_id": "1410194717517389824",
+    "last_message_id": "1410307349972836352",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790579130108,
-    "draft_id": "1326711861202161664",
+    "last_message_time": 1790605983779,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1326711861202161664",
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
     "bracket_id": null,
@@ -317,7 +317,7 @@
         "mascot_message_emotion_leg_13": "dancing",
         "mascot_message_emotion_leg_8": "victory",
         "mention_pn": "on",
-        "team_name": "My Achilles Heel"
+        "team_name": "Fire Sale"
       },
       "settings": null,
       "user_id": "353394136252092416"
@@ -35901,7 +35901,7 @@
     "11565": {
       "name": "J.J. McCarthy",
       "position": "QB",
-      "team": "MIN",
+      "team": "NYG",
       "status": "Active",
       "active": true
     },
@@ -48781,8 +48781,8 @@
     "6862": {
       "name": "Saahdiq Charles",
       "position": "T",
-      "team": null,
-      "status": "Inactive",
+      "team": "CAR",
+      "status": "Active",
       "active": true
     },
     "5968": {
