@@ -2662,7 +2662,7 @@
   "6476": {
     "name": "D'Angelo Ross",
     "position": "DB",
-    "team": "CLE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -3761,7 +3761,7 @@
   "8473": {
     "name": "Eric Johnson",
     "position": "DT",
-    "team": "GB",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -4839,7 +4839,7 @@
   "12937": {
     "name": "Keith Cooper",
     "position": "DL",
-    "team": "MIA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -22122,7 +22122,7 @@
   "10221": {
     "name": "Ronnie Bell",
     "position": "WR",
-    "team": "LV",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -23305,7 +23305,7 @@
   "10215": {
     "name": "Jake Haener",
     "position": "QB",
-    "team": "NYG",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -36829,7 +36829,7 @@
   "5842": {
     "name": "Clelin Ferrell",
     "position": "DE",
-    "team": "MIA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -61070,7 +61070,7 @@
   "11251": {
     "name": "Shaka Heyward",
     "position": "LB",
-    "team": "CIN",
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -75588,7 +75588,7 @@
   "11481": {
     "name": "Natrone Brooks",
     "position": "CB",
-    "team": "DET",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -81321,7 +81321,7 @@
   "11068": {
     "name": "Mitchell Tinsley",
     "position": "WR",
-    "team": "HOU",
+    "team": "CIN",
     "status": "Active",
     "active": true
   },
@@ -82420,7 +82420,7 @@
   "12103": {
     "name": "Jordan Miller",
     "position": "DT",
-    "team": "MIA",
+    "team": null,
     "status": "Active",
     "active": true
   },

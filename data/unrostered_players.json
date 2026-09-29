@@ -8256,7 +8256,7 @@
     "id": "10215",
     "name": "Jake Haener",
     "position": "QB",
-    "team": "NYG",
+    "team": null,
     "status": "Active"
   },
   {
@@ -14178,7 +14178,7 @@
     "id": "11068",
     "name": "Mitchell Tinsley",
     "position": "WR",
-    "team": "HOU",
+    "team": "CIN",
     "status": "Active"
   },
   {
@@ -16061,7 +16061,7 @@
     "id": "10221",
     "name": "Ronnie Bell",
     "position": "WR",
-    "team": "LV",
+    "team": null,
     "status": "Active"
   },
   {

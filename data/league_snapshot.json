@@ -9,7 +9,7 @@
     },
     "settings": {
       "best_ball": 0,
-      "last_report": 2,
+      "last_report": 3,
       "waiver_budget": 100,
       "disable_adds": 0,
       "capacity_override": 0,
@@ -64,11 +64,10 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "shard": 470,
-    "last_message_id": "1410498102128844800",
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -115,23 +114,20 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
-    "last_author_display_name": "HebrewsHeroes",
-    "last_author_id": "434689597088198656",
-    "last_author_is_bot": false,
+    "last_message_id": "1410693386200965120",
+    "last_author_avatar": null,
+    "last_author_display_name": "sys",
+    "last_author_id": "166666666666666666",
+    "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790651462636,
+    "last_message_time": 1790698021987,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1326711861202161664",
+    "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -156,6 +152,10 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -660,7 +660,8 @@
       "reserve": [
         "11560",
         "7021",
-        "8408"
+        "8408",
+        "9226"
       ],
       "roster_id": 1,
       "settings": {
@@ -680,13 +681,13 @@
       "starters": [
         "5870",
         "4034",
-        "9226",
+        "7594",
         "8137",
         "2449",
         "9487",
         "5001",
         "8228",
-        "7594",
+        "11620",
         "11563"
       ],
       "taxi": null
@@ -973,7 +974,7 @@
         "11584",
         "7525",
         "4983",
-        "7571",
+        "9756",
         "10859",
         "12533",
         "4217",
@@ -1020,7 +1021,9 @@
         "9506",
         "9509"
       ],
-      "reserve": null,
+      "reserve": [
+        "11565"
+      ],
       "roster_id": 6,
       "settings": {
         "fpts": 421,
@@ -1037,16 +1040,16 @@
         "wins": 2
       },
       "starters": [
-        "4046",
-        "9509",
+        "421",
+        "5967",
         "8150",
         "11632",
-        "8144",
-        "2133",
-        "5012",
-        "5967",
         "10232",
-        "3294"
+        "2133",
+        "7553",
+        "9509",
+        "8144",
+        "4046"
       ],
       "taxi": null
     },
