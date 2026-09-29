@@ -1018,7 +1018,7 @@
     "id": "4663",
     "name": "Austin Ekeler",
     "position": "RB",
-    "team": null,
+    "team": "WAS",
     "status": "Active"
   },
   {
@@ -4371,7 +4371,7 @@
     "id": "4718",
     "name": "Dare Ogunbowale",
     "position": "RB",
-    "team": "LV",
+    "team": "HOU",
     "status": "Active"
   },
   {
@@ -5449,8 +5449,8 @@
     "id": "12476",
     "name": "Devin Neal",
     "position": "RB",
-    "team": null,
-    "status": "Inactive"
+    "team": "MIN",
+    "status": "Active"
   },
   {
     "id": "7396",
@@ -9838,7 +9838,7 @@
     "id": "8500",
     "name": "John FitzPatrick",
     "position": "TE",
-    "team": null,
+    "team": "CLE",
     "status": "Active"
   },
   {
@@ -18553,7 +18553,7 @@
     "id": "13862",
     "name": "Treyvhon Saunders",
     "position": "WR",
-    "team": null,
+    "team": "HOU",
     "status": "Active"
   },
   {
