@@ -1830,7 +1830,7 @@
     "id": "6037",
     "name": "Brett Rypien",
     "position": "QB",
-    "team": null,
+    "team": "TB",
     "status": "Active"
   },
   {
@@ -3043,6 +3043,13 @@
     "position": "TE",
     "team": null,
     "status": "Inactive"
+  },
+  {
+    "id": "11370",
+    "name": "Chris Brooks",
+    "position": "RB",
+    "team": "GB",
+    "status": "Active"
   },
   {
     "id": "3486",
@@ -4357,7 +4364,7 @@
     "id": "4992",
     "name": "Dante Pettis",
     "position": "WR",
-    "team": null,
+    "team": "SF",
     "status": "Active"
   },
   {
@@ -6234,6 +6241,13 @@
     "name": "Eldridge Massington",
     "position": "WR",
     "team": "NO",
+    "status": "Active"
+  },
+  {
+    "id": "13423",
+    "name": "Eli Heidenreich",
+    "position": "RB",
+    "team": "PIT",
     "status": "Active"
   },
   {
@@ -10588,7 +10602,7 @@
     "name": "Josh Oliver",
     "position": "TE",
     "team": "MIN",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "7452",
@@ -15179,7 +15193,7 @@
     "id": "2334",
     "name": "Phillip Dorsett",
     "position": "WR",
-    "team": null,
+    "team": "LV",
     "status": "Active"
   },
   {

@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-09-29 21:14:12
+Generated: 2026-09-30 00:59:37
 
 ---
 
@@ -9,7 +9,7 @@ Generated: 2026-09-29 21:14:12
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2804
+Available Players: 2806
 
 ---
 
@@ -17,7 +17,7 @@ Available Players: 2804
 
 Trades: 0
 Waiver Claims: 11
-Free Agent Moves: 0
+Free Agent Moves: 2
 
 ---
 
@@ -25,7 +25,7 @@ Free Agent Moves: 0
 
 Username: tylergratz
 Roster ID: 5
-Players on Roster: 25
+Players on Roster: 24
 
 ---
 
@@ -52,6 +52,8 @@ No trades.
 
 ## Recently Dropped Players
 
+- Chris Brooks
+- Eli Heidenreich
 - Nicholas Singleton
 - Chris Rodriguez
 
@@ -59,9 +61,9 @@ No trades.
 
 ## Most Active Managers
 
-- HebrewsHeroes: 7 moves
+- HebrewsHeroes: 8 moves
 - AnthonyJania: 3 moves
-- tylergratz: 1 moves
+- tylergratz: 2 moves
 
 ---
 
