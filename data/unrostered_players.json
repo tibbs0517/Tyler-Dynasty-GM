@@ -5992,6 +5992,13 @@
     "status": "Active"
   },
   {
+    "id": "5854",
+    "name": "Drew Lock",
+    "position": "QB",
+    "team": "SEA",
+    "status": "Active"
+  },
+  {
     "id": "4396",
     "name": "Drew Morgan",
     "position": "WR",
@@ -7522,13 +7529,6 @@
     "name": "Isaiah Coulter",
     "position": "WR",
     "team": null,
-    "status": "Active"
-  },
-  {
-    "id": "11571",
-    "name": "Isaiah Davis",
-    "position": "RB",
-    "team": "NYJ",
     "status": "Active"
   },
   {
@@ -9202,13 +9202,6 @@
     "name": "Jaylen Smith",
     "position": "WR",
     "team": null,
-    "status": "Active"
-  },
-  {
-    "id": "11643",
-    "name": "Jaylen Wright",
-    "position": "RB",
-    "team": "MIA",
     "status": "Active"
   },
   {
@@ -13122,13 +13115,6 @@
     "name": "Marcus Major",
     "position": "RB",
     "team": null,
-    "status": "Active"
-  },
-  {
-    "id": "2307",
-    "name": "Marcus Mariota",
-    "position": "QB",
-    "team": "WAS",
     "status": "Active"
   },
   {
@@ -19478,6 +19464,13 @@
     "name": "Zach Davidson",
     "position": "TE",
     "team": null,
+    "status": "Active"
+  },
+  {
+    "id": "1339",
+    "name": "Zach Ertz",
+    "position": "TE",
+    "team": "PHI",
     "status": "Active"
   },
   {

@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-09-30 06:32:48
+Generated: 2026-09-30 13:17:28
 
 ---
 
@@ -9,14 +9,14 @@ Generated: 2026-09-30 06:32:48
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2807
+Available Players: 2806
 
 ---
 
 ## League Activity
 
 Trades: 0
-Waiver Claims: 11
+Waiver Claims: 16
 Free Agent Moves: 2
 
 ---
@@ -37,6 +37,10 @@ No trades.
 
 ## Top Waiver Claims
 
+- Marcus Mariota → tylerhjensen
+- Isaiah Davis → HebrewsHeroes
+- Konata Mumpfield → HebrewsHeroes
+- Jaylen Wright → HebrewsHeroes
 - Cole Kmet → HebrewsHeroes
 - Zach Ertz → HebrewsHeroes
 - Case Keenum → AnthonyJania
@@ -52,8 +56,10 @@ No trades.
 
 ## Recently Dropped Players
 
+- Drew Lock
 - Chris Brooks
 - Eli Heidenreich
+- Zach Ertz
 - Nicholas Singleton
 - Chris Rodriguez
 
@@ -61,9 +67,10 @@ No trades.
 
 ## Most Active Managers
 
-- HebrewsHeroes: 8 moves
+- HebrewsHeroes: 12 moves
 - AnthonyJania: 3 moves
 - tylergratz: 2 moves
+- tylerhjensen: 1 moves
 
 ---
 
