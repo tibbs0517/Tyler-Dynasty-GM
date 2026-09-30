@@ -2704,7 +2704,7 @@
   "12971": {
     "name": "Ke'Shawn Williams",
     "position": "WR",
-    "team": null,
+    "team": "CIN",
     "status": "Active",
     "active": true
   },
@@ -32035,7 +32035,7 @@
     "name": "Jonathan Bullard",
     "position": "DE",
     "team": "DAL",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "7379": {
@@ -39441,7 +39441,7 @@
     "name": "Jalen Thompson",
     "position": "DB",
     "team": "DAL",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "7621": {
@@ -42156,7 +42156,7 @@
   "12071": {
     "name": "Gabe Hall",
     "position": "DT",
-    "team": null,
+    "team": "PHI",
     "status": "Active",
     "active": true
   },
@@ -44235,7 +44235,7 @@
   "13697": {
     "name": "Da'Metrius Weatherspoon",
     "position": "OL",
-    "team": null,
+    "team": "NE",
     "status": "Active",
     "active": true
   },
@@ -49765,7 +49765,7 @@
   "7222": {
     "name": "Myles Adams",
     "position": "DT",
-    "team": null,
+    "team": "LAC",
     "status": "Active",
     "active": true
   },
@@ -57479,7 +57479,7 @@
   "3217": {
     "name": "Jihad Ward",
     "position": "DE",
-    "team": "MIN",
+    "team": "NYG",
     "status": "Active",
     "active": true
   },
@@ -75553,8 +75553,8 @@
   "11993": {
     "name": "Tyrek Funderburk",
     "position": "CB",
-    "team": null,
-    "status": "Inactive",
+    "team": "DAL",
+    "status": "Active",
     "active": true
   },
   "11456": {
