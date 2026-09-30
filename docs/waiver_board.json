@@ -5512,6 +5512,19 @@
     "roster_id": null
   },
   {
+    "id": "14026",
+    "name": "DJ Herman",
+    "position": "RB",
+    "team": "MIA",
+    "age": 24,
+    "years_exp": 0,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
     "id": "11857",
     "name": "Daijun Edwards",
     "position": "RB",
@@ -31597,7 +31610,7 @@
     "age": 33,
     "years_exp": 11,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null

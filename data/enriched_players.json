@@ -38326,7 +38326,7 @@
   "14026": {
     "id": "14026",
     "name": "DJ Herman",
-    "position": "LB",
+    "position": "RB",
     "team": "MIA",
     "age": 24,
     "years_exp": 0,
@@ -117904,7 +117904,7 @@
     "age": 33,
     "years_exp": 11,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
