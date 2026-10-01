@@ -29192,7 +29192,7 @@
   "12923": {
     "name": "Jordan Clark",
     "position": "DB",
-    "team": null,
+    "team": "NYJ",
     "status": "Active",
     "active": true
   },
@@ -52425,7 +52425,7 @@
   "11058": {
     "name": "Blake Grupe",
     "position": "K",
-    "team": null,
+    "team": "NYJ",
     "status": "Active",
     "active": true
   },
@@ -59369,7 +59369,7 @@
   "12057": {
     "name": "Maema Njongmeta",
     "position": "LB",
-    "team": null,
+    "team": "CAR",
     "status": "Active",
     "active": true
   },
@@ -76442,7 +76442,7 @@
   "5363": {
     "name": "Matt Pryor",
     "position": "T",
-    "team": "ARI",
+    "team": "NE",
     "status": "Active",
     "active": true
   },

@@ -64,11 +64,10 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
-    "last_message_id": "1411281762293727232",
     "shard": 470,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -115,7 +114,7 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "draft_id": "1326711861202161664",
+    "last_message_id": "1411281762293727232",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -123,13 +122,16 @@
     "last_message_attachment": null,
     "last_message_text_map": null,
     "last_message_time": 1790838301779,
+    "draft_id": "1326711861202161664",
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -154,8 +156,6 @@
       "BN",
       "BN"
     ],
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -30556,7 +30556,7 @@
     "12923": {
       "name": "Jordan Clark",
       "position": "DB",
-      "team": null,
+      "team": "NYJ",
       "status": "Active",
       "active": true
     },
@@ -53789,7 +53789,7 @@
     "11058": {
       "name": "Blake Grupe",
       "position": "K",
-      "team": null,
+      "team": "NYJ",
       "status": "Active",
       "active": true
     },
@@ -60733,7 +60733,7 @@
     "12057": {
       "name": "Maema Njongmeta",
       "position": "LB",
-      "team": null,
+      "team": "CAR",
       "status": "Active",
       "active": true
     },
@@ -77806,7 +77806,7 @@
     "5363": {
       "name": "Matt Pryor",
       "position": "T",
-      "team": "ARI",
+      "team": "NE",
       "status": "Active",
       "active": true
     },
