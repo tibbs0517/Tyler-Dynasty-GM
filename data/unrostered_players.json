@@ -10776,7 +10776,7 @@
     "id": "12151",
     "name": "Julian Hicks",
     "position": "WR",
-    "team": "SEA",
+    "team": null,
     "status": "Active"
   },
   {
@@ -12967,7 +12967,7 @@
     "id": "5781",
     "name": "Malik Turner",
     "position": "WR",
-    "team": null,
+    "team": "SF",
     "status": "Active"
   },
   {
@@ -16803,7 +16803,7 @@
     "id": "11257",
     "name": "Shedrick Jackson",
     "position": "WR",
-    "team": "BAL",
+    "team": null,
     "status": "Active"
   },
   {

@@ -678,7 +678,7 @@
         "wins": 1
       },
       "starters": [
-        "5870",
+        "11563",
         "4034",
         "7594",
         "8137",
@@ -687,7 +687,7 @@
         "5001",
         "8228",
         "11620",
-        "11563"
+        "5870"
       ],
       "taxi": null
     },
@@ -13707,7 +13707,7 @@
     "11305": {
       "name": "Claudin Cherelus",
       "position": "LB",
-      "team": "CAR",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -17543,7 +17543,7 @@
     "5781": {
       "name": "Malik Turner",
       "position": "WR",
-      "team": null,
+      "team": "SF",
       "status": "Active",
       "active": true
     },
@@ -23612,7 +23612,7 @@
     "12041": {
       "name": "Carl Jones",
       "position": "DL",
-      "team": "BAL",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -38450,7 +38450,7 @@
       "active": true
     },
     "7666": {
-      "name": "Jevon Holland",
+      "name": "Jev\u00f3n Holland",
       "position": "DB",
       "team": "NYG",
       "status": "Active",
@@ -41616,7 +41616,7 @@
     "4371": {
       "name": "Josh Tupou",
       "position": "DT",
-      "team": "NYG",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -44766,7 +44766,7 @@
     "12151": {
       "name": "Julian Hicks",
       "position": "WR",
-      "team": "SEA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -49897,7 +49897,7 @@
     "11257": {
       "name": "Shedrick Jackson",
       "position": "WR",
-      "team": "BAL",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -51885,7 +51885,7 @@
     "12872": {
       "name": "John Saunders",
       "position": "DB",
-      "team": "NYJ",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -71002,7 +71002,7 @@
     "11108": {
       "name": "Anfernee Orji",
       "position": "LB",
-      "team": null,
+      "team": "PHI",
       "status": "Active",
       "active": true
     },
@@ -76952,7 +76952,7 @@
     "11481": {
       "name": "Natrone Brooks",
       "position": "CB",
-      "team": null,
+      "team": "MIN",
       "status": "Active",
       "active": true
     },
@@ -79466,7 +79466,7 @@
       "name": "Zach Charbonnet",
       "position": "RB",
       "team": "SEA",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "7226": {
@@ -82867,7 +82867,7 @@
     "8795": {
       "name": "D'Anthony Bell",
       "position": "DB",
-      "team": "SEA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -97745,7 +97745,7 @@
       "id": "12151",
       "name": "Julian Hicks",
       "position": "WR",
-      "team": "SEA",
+      "team": null,
       "status": "Active"
     },
     {
@@ -99936,7 +99936,7 @@
       "id": "5781",
       "name": "Malik Turner",
       "position": "WR",
-      "team": null,
+      "team": "SF",
       "status": "Active"
     },
     {
@@ -103772,7 +103772,7 @@
       "id": "11257",
       "name": "Shedrick Jackson",
       "position": "WR",
-      "team": "BAL",
+      "team": null,
       "status": "Active"
     },
     {
