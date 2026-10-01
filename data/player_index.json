@@ -35156,7 +35156,7 @@
   "13829": {
     "name": "David Blay",
     "position": "DT",
-    "team": null,
+    "team": "GB",
     "status": "Active",
     "active": true
   },
@@ -49891,8 +49891,8 @@
   "12829": {
     "name": "Coleman Owen",
     "position": "WR",
-    "team": null,
-    "status": "Inactive",
+    "team": "GB",
+    "status": "Active",
     "active": true
   },
   "11062": {

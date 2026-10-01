@@ -1325,8 +1325,8 @@
         "9758"
       ],
       "reserve": [
-        "11566",
         "13281",
+        "13345",
         "13349",
         "5859"
       ],
@@ -1350,7 +1350,7 @@
         "12527",
         "3198",
         "11635",
-        "7526",
+        "7569",
         "8146",
         "11604",
         "6790",
@@ -36518,7 +36518,7 @@
     "13829": {
       "name": "David Blay",
       "position": "DT",
-      "team": null,
+      "team": "GB",
       "status": "Active",
       "active": true
     },
@@ -51253,8 +51253,8 @@
     "12829": {
       "name": "Coleman Owen",
       "position": "WR",
-      "team": null,
-      "status": "Inactive",
+      "team": "GB",
+      "status": "Active",
       "active": true
     },
     "11062": {
@@ -90491,8 +90491,8 @@
       "id": "12829",
       "name": "Coleman Owen",
       "position": "WR",
-      "team": null,
-      "status": "Inactive"
+      "team": "GB",
+      "status": "Active"
     },
     {
       "id": "12551",
