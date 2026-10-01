@@ -84522,8 +84522,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": true,
-    "roster_id": 5
+    "rostered": false,
+    "roster_id": null
   },
   "8675": {
     "id": "8675",
@@ -93401,8 +93401,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": false,
-    "roster_id": null
+    "rostered": true,
+    "roster_id": 8
   },
   "2024": {
     "id": "2024",
@@ -105283,8 +105283,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": false,
-    "roster_id": null
+    "rostered": true,
+    "roster_id": 5
   },
   "12737": {
     "id": "12737",
@@ -107799,7 +107799,7 @@
     "id": "10913",
     "name": "Joey Porter",
     "position": "DB",
-    "team": "PIT",
+    "team": "DAL",
     "age": 26,
     "years_exp": 3,
     "active": true,
@@ -109976,8 +109976,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": true,
-    "roster_id": 5
+    "rostered": false,
+    "roster_id": null
   },
   "2319": {
     "id": "2319",
@@ -142047,8 +142047,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": false,
-    "roster_id": null
+    "rostered": true,
+    "roster_id": 5
   },
   "2422": {
     "id": "2422",
@@ -151563,8 +151563,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": false,
-    "roster_id": null
+    "rostered": true,
+    "roster_id": 5
   },
   "11889": {
     "id": "11889",

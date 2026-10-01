@@ -182,6 +182,20 @@
     "gm_score": 100
   },
   {
+    "id": "13425",
+    "name": "Jalon Daniels",
+    "position": "QB",
+    "team": "TB",
+    "age": 23,
+    "years_exp": 0,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 5,
+    "gm_score": 100
+  },
+  {
     "id": "11560",
     "name": "Caleb Williams",
     "position": "QB",
@@ -440,20 +454,6 @@
     "team": "DET",
     "age": 31,
     "years_exp": 10,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 5,
-    "gm_score": 95
-  },
-  {
-    "id": "2306",
-    "name": "Jameis Winston",
-    "position": "QB",
-    "team": "NYG",
-    "age": 32,
-    "years_exp": 11,
     "active": true,
     "injury_status": null,
     "bye_week": null,
@@ -1008,6 +1008,20 @@
     "gm_score": 93
   },
   {
+    "id": "12718",
+    "name": "Konata Mumpfield",
+    "position": "WR",
+    "team": "LAR",
+    "age": 23,
+    "years_exp": 1,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 8,
+    "gm_score": 93
+  },
+  {
     "id": "13281",
     "name": "Jordyn Tyson",
     "position": "WR",
@@ -1117,20 +1131,6 @@
     "bye_week": null,
     "rostered": true,
     "roster_id": 4,
-    "gm_score": 93
-  },
-  {
-    "id": "13411",
-    "name": "Zavion Thomas",
-    "position": "WR",
-    "team": "CHI",
-    "age": 22,
-    "years_exp": 0,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 5,
     "gm_score": 93
   },
   {
@@ -3878,20 +3878,6 @@
     "gm_score": 80
   },
   {
-    "id": "13425",
-    "name": "Jalon Daniels",
-    "position": "QB",
-    "team": "TB",
-    "age": 23,
-    "years_exp": 0,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 80
-  },
-  {
     "id": "12472",
     "name": "Raheim Sanders",
     "position": "RB",
@@ -5830,6 +5816,20 @@
     "team": null,
     "age": null,
     "years_exp": 0,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 75
+  },
+  {
+    "id": "2306",
+    "name": "Jameis Winston",
+    "position": "QB",
+    "team": "NYG",
+    "age": 32,
+    "years_exp": 11,
     "active": true,
     "injury_status": null,
     "bye_week": null,
@@ -10962,20 +10962,6 @@
     "gm_score": 73
   },
   {
-    "id": "12718",
-    "name": "Konata Mumpfield",
-    "position": "WR",
-    "team": "LAR",
-    "age": 23,
-    "years_exp": 1,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 73
-  },
-  {
     "id": "7109",
     "name": "Malcolm Perry",
     "position": "WR",
@@ -11710,6 +11696,20 @@
     "team": null,
     "age": 25,
     "years_exp": 1,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 73
+  },
+  {
+    "id": "13411",
+    "name": "Zavion Thomas",
+    "position": "WR",
+    "team": "CHI",
+    "age": 22,
+    "years_exp": 0,
     "active": true,
     "injury_status": null,
     "bye_week": null,
@@ -15033,6 +15033,20 @@
     "bye_week": null,
     "rostered": false,
     "roster_id": null,
+    "gm_score": 70
+  },
+  {
+    "id": "7002",
+    "name": "Juwan Johnson",
+    "position": "TE",
+    "team": "NO",
+    "age": 30,
+    "years_exp": 6,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 5,
     "gm_score": 70
   },
   {
@@ -23559,6 +23573,20 @@
     "bye_week": null,
     "rostered": true,
     "roster_id": 9,
+    "gm_score": 62
+  },
+  {
+    "id": "2505",
+    "name": "Darren Waller",
+    "position": "TE",
+    "team": "CAR",
+    "age": 34,
+    "years_exp": 11,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 5,
     "gm_score": 62
   },
   {
@@ -38906,20 +38934,6 @@
     "gm_score": 50
   },
   {
-    "id": "7002",
-    "name": "Juwan Johnson",
-    "position": "TE",
-    "team": "NO",
-    "age": 30,
-    "years_exp": 6,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 50
-  },
-  {
     "id": "8885",
     "name": "Tucker Fisk",
     "position": "TE",
@@ -42482,20 +42496,6 @@
     "team": null,
     "age": 31,
     "years_exp": 9,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 42
-  },
-  {
-    "id": "2505",
-    "name": "Darren Waller",
-    "position": "TE",
-    "team": "CAR",
-    "age": 34,
-    "years_exp": 11,
     "active": true,
     "injury_status": null,
     "bye_week": null,

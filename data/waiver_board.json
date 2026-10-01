@@ -1885,12 +1885,12 @@
     "roster_id": null
   },
   {
-    "id": "13425",
-    "name": "Jalon Daniels",
+    "id": "2306",
+    "name": "Jameis Winston",
     "position": "QB",
-    "team": "TB",
-    "age": 23,
-    "years_exp": 0,
+    "team": "NYG",
+    "age": 32,
+    "years_exp": 11,
     "active": true,
     "injury_status": null,
     "bye_week": null,
@@ -14014,19 +14014,6 @@
     "roster_id": null
   },
   {
-    "id": "2505",
-    "name": "Darren Waller",
-    "position": "TE",
-    "team": "CAR",
-    "age": 34,
-    "years_exp": 11,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
     "id": "12357",
     "name": "David Martin-Robinson",
     "position": "TE",
@@ -16672,19 +16659,6 @@
     "team": null,
     "age": 33,
     "years_exp": 10,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
-    "id": "7002",
-    "name": "Juwan Johnson",
-    "position": "TE",
-    "team": "NO",
-    "age": 30,
-    "years_exp": 6,
     "active": true,
     "injury_status": null,
     "bye_week": null,
@@ -30303,19 +30277,6 @@
     "roster_id": null
   },
   {
-    "id": "12718",
-    "name": "Konata Mumpfield",
-    "position": "WR",
-    "team": "LAR",
-    "age": 23,
-    "years_exp": 1,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
     "id": "5210",
     "name": "Korey Robertson",
     "position": "WR",
@@ -36418,6 +36379,19 @@
     "position": "WR",
     "team": null,
     "age": 25,
+    "years_exp": 0,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
+    "id": "13411",
+    "name": "Zavion Thomas",
+    "position": "WR",
+    "team": "CHI",
+    "age": 22,
     "years_exp": 0,
     "active": true,
     "injury_status": null,

@@ -4571,13 +4571,6 @@
     "status": "Injured Reserve"
   },
   {
-    "id": "2505",
-    "name": "Darren Waller",
-    "position": "TE",
-    "team": "CAR",
-    "status": "Active"
-  },
-  {
     "id": "4676",
     "name": "Darreus Rogers",
     "position": "WR",
@@ -8603,13 +8596,6 @@
     "status": "Active"
   },
   {
-    "id": "13425",
-    "name": "Jalon Daniels",
-    "position": "QB",
-    "team": "TB",
-    "status": "Active"
-  },
-  {
     "id": "13403",
     "name": "Jam Miller",
     "position": "RB",
@@ -8691,6 +8677,13 @@
     "name": "Jamarius Way",
     "position": "WR",
     "team": null,
+    "status": "Active"
+  },
+  {
+    "id": "2306",
+    "name": "Jameis Winston",
+    "position": "QB",
+    "team": "NYG",
     "status": "Active"
   },
   {
@@ -10990,13 +10983,6 @@
     "status": "Active"
   },
   {
-    "id": "7002",
-    "name": "Juwan Johnson",
-    "position": "TE",
-    "team": "NO",
-    "status": "Active"
-  },
-  {
     "id": "6223",
     "name": "Juwann Winfree",
     "position": "WR",
@@ -12002,13 +11988,6 @@
     "name": "Kole Wilson",
     "position": "WR",
     "team": null,
-    "status": "Active"
-  },
-  {
-    "id": "12718",
-    "name": "Konata Mumpfield",
-    "position": "WR",
-    "team": "LAR",
     "status": "Active"
   },
   {
@@ -19603,6 +19582,13 @@
     "id": "11299",
     "name": "Zavier Scott",
     "position": "RB",
+    "team": "CHI",
+    "status": "Active"
+  },
+  {
+    "id": "13411",
+    "name": "Zavion Thomas",
+    "position": "WR",
     "team": "CHI",
     "status": "Active"
   },

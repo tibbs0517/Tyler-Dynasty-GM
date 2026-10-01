@@ -60,14 +60,14 @@
       "daily_waivers_base": 4,
       "reserve_slots": 4,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 30
+      "daily_waivers_last_ran": 1
     },
     "avatar": null,
     "company_id": null,
-    "last_message_id": "1410921847939182592",
     "sport": "nfl",
     "season_type": "regular",
     "season": "2026",
+    "last_message_id": "1411281762293727232",
     "shard": 470,
     "scoring_settings": {
       "sack": 1.0,
@@ -115,19 +115,21 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
+    "draft_id": "1326711861202161664",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
-    "draft_id": "1326711861202161664",
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1790752491510,
+    "last_message_time": 1790838301779,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
     "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -152,8 +154,6 @@
       "BN",
       "BN"
     ],
-    "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -674,7 +674,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 8,
+        "waiver_position": 6,
         "wins": 1
       },
       "starters": [
@@ -818,7 +818,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 16,
-        "waiver_position": 9,
+        "waiver_position": 7,
         "wins": 1
       },
       "starters": [
@@ -893,7 +893,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 3,
+        "waiver_position": 2,
         "wins": 1
       },
       "starters": [
@@ -932,13 +932,14 @@
         "12535",
         "13285",
         "13305",
-        "13411",
-        "2306",
+        "13425",
+        "2505",
         "3163",
         "4217",
         "4983",
         "5844",
         "5849",
+        "7002",
         "7049",
         "7525",
         "7571",
@@ -963,7 +964,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 7,
+        "waiver_position": 10,
         "wins": 2
       },
       "starters": [
@@ -1034,7 +1035,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 5,
+        "waiver_position": 4,
         "wins": 2
       },
       "starters": [
@@ -1111,7 +1112,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 40,
-        "waiver_position": 10,
+        "waiver_position": 8,
         "wins": 2
       },
       "starters": [
@@ -1149,6 +1150,7 @@
         "12514",
         "12518",
         "12529",
+        "12718",
         "13269",
         "13274",
         "13320",
@@ -1183,7 +1185,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 2,
+        "waiver_position": 9,
         "wins": 1
       },
       "starters": [
@@ -1265,7 +1267,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 5,
-        "waiver_position": 4,
+        "waiver_position": 3,
         "wins": 2
       },
       "starters": [
@@ -1342,7 +1344,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 4,
-        "waiver_position": 6,
+        "waiver_position": 5,
         "wins": 3
       },
       "starters": [
@@ -59408,7 +59410,7 @@
     "10913": {
       "name": "Joey Porter",
       "position": "DB",
-      "team": "PIT",
+      "team": "DAL",
       "status": "Active",
       "active": true
     },
@@ -91538,13 +91540,6 @@
       "status": "Injured Reserve"
     },
     {
-      "id": "2505",
-      "name": "Darren Waller",
-      "position": "TE",
-      "team": "CAR",
-      "status": "Active"
-    },
-    {
       "id": "4676",
       "name": "Darreus Rogers",
       "position": "WR",
@@ -95570,13 +95565,6 @@
       "status": "Active"
     },
     {
-      "id": "13425",
-      "name": "Jalon Daniels",
-      "position": "QB",
-      "team": "TB",
-      "status": "Active"
-    },
-    {
       "id": "13403",
       "name": "Jam Miller",
       "position": "RB",
@@ -95658,6 +95646,13 @@
       "name": "Jamarius Way",
       "position": "WR",
       "team": null,
+      "status": "Active"
+    },
+    {
+      "id": "2306",
+      "name": "Jameis Winston",
+      "position": "QB",
+      "team": "NYG",
       "status": "Active"
     },
     {
@@ -97957,13 +97952,6 @@
       "status": "Active"
     },
     {
-      "id": "7002",
-      "name": "Juwan Johnson",
-      "position": "TE",
-      "team": "NO",
-      "status": "Active"
-    },
-    {
       "id": "6223",
       "name": "Juwann Winfree",
       "position": "WR",
@@ -98969,13 +98957,6 @@
       "name": "Kole Wilson",
       "position": "WR",
       "team": null,
-      "status": "Active"
-    },
-    {
-      "id": "12718",
-      "name": "Konata Mumpfield",
-      "position": "WR",
-      "team": "LAR",
       "status": "Active"
     },
     {
@@ -106570,6 +106551,13 @@
       "id": "11299",
       "name": "Zavier Scott",
       "position": "RB",
+      "team": "CHI",
+      "status": "Active"
+    },
+    {
+      "id": "13411",
+      "name": "Zavion Thomas",
+      "position": "WR",
       "team": "CHI",
       "status": "Active"
     },
