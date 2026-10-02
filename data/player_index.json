@@ -22248,7 +22248,7 @@
   "12041": {
     "name": "Carl Jones",
     "position": "DL",
-    "team": null,
+    "team": "BAL",
     "status": "Active",
     "active": true
   },
@@ -40252,7 +40252,7 @@
   "4371": {
     "name": "Josh Tupou",
     "position": "DT",
-    "team": null,
+    "team": "NYG",
     "status": "Active",
     "active": true
   },
@@ -69772,7 +69772,7 @@
     "name": "Charlie Kolar",
     "position": "TE",
     "team": "LAC",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "5969": {
@@ -80075,7 +80075,7 @@
   "11151": {
     "name": "Tanner Ingle",
     "position": "DB",
-    "team": null,
+    "team": "LAR",
     "status": "Active",
     "active": true
   },
