@@ -22039,7 +22039,7 @@
     "name": "Terrance Ferguson",
     "position": "TE",
     "team": "LAR",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "5727": {
@@ -47147,7 +47147,7 @@
   "12384": {
     "name": "Kingsley Eguakun",
     "position": "OL",
-    "team": null,
+    "team": "ARI",
     "status": "Active",
     "active": true
   },
@@ -69008,8 +69008,8 @@
   "7692": {
     "name": "Kendrick Green",
     "position": "C",
-    "team": null,
-    "status": "Inactive",
+    "team": "NYG",
+    "status": "Active",
     "active": true
   },
   "14012": {
