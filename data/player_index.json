@@ -5887,7 +5887,7 @@
     "active": true
   },
   "11436": {
-    "name": "P.J. Mustipher",
+    "name": "PJ Mustipher",
     "position": "NT",
     "team": "NYG",
     "status": "Active",
@@ -12315,7 +12315,7 @@
   "5773": {
     "name": "KhaDarel Hodge",
     "position": "WR",
-    "team": "SF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -60622,7 +60622,7 @@
   "12607": {
     "name": "Jamon Johnson",
     "position": "LB",
-    "team": "BAL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -75434,7 +75434,7 @@
   "13687": {
     "name": "Marvin Jones",
     "position": "DE",
-    "team": "WAS",
+    "team": null,
     "status": "Active",
     "active": true
   },

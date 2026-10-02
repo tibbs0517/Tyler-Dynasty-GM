@@ -64,6 +64,7 @@
     },
     "avatar": null,
     "company_id": null,
+    "last_message_id": "1411556865615179776",
     "shard": 470,
     "season": "2026",
     "season_type": "regular",
@@ -114,24 +115,18 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1411556865615179776",
     "last_author_avatar": "0177a8ebbcc103218eac1238fc1a5492",
     "last_author_display_name": "theFalIeniD",
     "last_author_id": "798719789433487360",
     "last_author_is_bot": false,
+    "draft_id": "1326711861202161664",
     "last_message_attachment": null,
     "last_message_text_map": null,
     "last_message_time": 1790903891522,
     "last_pinned_message_id": null,
-    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
-    "group_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -156,6 +151,11 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -658,6 +658,7 @@
         "9487"
       ],
       "reserve": [
+        "11560",
         "7021",
         "8408",
         "9226"
@@ -7251,7 +7252,7 @@
       "active": true
     },
     "11436": {
-      "name": "P.J. Mustipher",
+      "name": "PJ Mustipher",
       "position": "NT",
       "team": "NYG",
       "status": "Active",
@@ -13679,7 +13680,7 @@
     "5773": {
       "name": "KhaDarel Hodge",
       "position": "WR",
-      "team": "SF",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -61986,7 +61987,7 @@
     "12607": {
       "name": "Jamon Johnson",
       "position": "LB",
-      "team": "BAL",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -76798,7 +76799,7 @@
     "13687": {
       "name": "Marvin Jones",
       "position": "DE",
-      "team": "WAS",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -98809,7 +98810,7 @@
       "id": "5773",
       "name": "KhaDarel Hodge",
       "position": "WR",
-      "team": "SF",
+      "team": null,
       "status": "Active"
     },
     {
