@@ -971,10 +971,10 @@
         "3163",
         "8138",
         "11584",
-        "7525",
+        "11610",
         "4983",
         "9756",
-        "10859",
+        "7002",
         "12533",
         "4217",
         "5849"
@@ -36443,7 +36443,7 @@
     "8287": {
       "name": "David Ojabo",
       "position": "DL",
-      "team": null,
+      "team": "NO",
       "status": "Active",
       "active": true
     },
@@ -54700,7 +54700,7 @@
       "name": "Travis Etienne",
       "position": "RB",
       "team": "NO",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "12217": {
@@ -80165,7 +80165,7 @@
     "12826": {
       "name": "Ulysses Bentley",
       "position": "RB",
-      "team": null,
+      "team": "NO",
       "status": "Active",
       "active": true
     },
@@ -105977,7 +105977,7 @@
       "id": "12826",
       "name": "Ulysses Bentley",
       "position": "RB",
-      "team": null,
+      "team": "NO",
       "status": "Active"
     },
     {
