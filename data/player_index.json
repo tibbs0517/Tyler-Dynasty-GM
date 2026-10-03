@@ -24320,7 +24320,7 @@
   "5938": {
     "name": "Lil'Jordan Humphrey",
     "position": "WR",
-    "team": null,
+    "team": "DEN",
     "status": "Active",
     "active": true
   },
@@ -36067,7 +36067,7 @@
     "name": "Braxton Jones",
     "position": "OL",
     "team": "CHI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "6935": {
@@ -43109,7 +43109,7 @@
     "name": "Jovaughn Gwyn",
     "position": "OL",
     "team": "BAL",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "12225": {
@@ -53483,7 +53483,7 @@
     "name": "Ethan Pocic",
     "position": "OL",
     "team": "BAL",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "1161": {
