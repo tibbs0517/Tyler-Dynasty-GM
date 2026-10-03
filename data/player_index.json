@@ -32329,7 +32329,7 @@
     "name": "Jadarian Price",
     "position": "RB",
     "team": "SEA",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "4357": {
@@ -61694,7 +61694,7 @@
     "name": "Xavier Legette",
     "position": "WR",
     "team": "CAR",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "4146": {
@@ -70185,7 +70185,7 @@
     "name": "Warren Brinson",
     "position": "DL",
     "team": "GB",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "994": {
