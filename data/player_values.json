@@ -214,7 +214,7 @@
     "name": "C.J. Stroud",
     "position": "QB",
     "team": "HOU",
-    "age": 24,
+    "age": 25,
     "years_exp": 3,
     "active": true,
     "injury_status": null,
@@ -14364,20 +14364,6 @@
     "gm_score": 70
   },
   {
-    "id": "4993",
-    "name": "Mike Gesicki",
-    "position": "TE",
-    "team": "CIN",
-    "age": 30,
-    "years_exp": 8,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 10,
-    "gm_score": 70
-  },
-  {
     "id": "12928",
     "name": "Amar Johnson",
     "position": "RB",
@@ -23531,6 +23517,20 @@
     "bye_week": null,
     "rostered": true,
     "roster_id": 9,
+    "gm_score": 62
+  },
+  {
+    "id": "4993",
+    "name": "Mike Gesicki",
+    "position": "TE",
+    "team": "CIN",
+    "age": 31,
+    "years_exp": 8,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 10,
     "gm_score": 62
   },
   {
