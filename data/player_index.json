@@ -24320,7 +24320,7 @@
   "5938": {
     "name": "Lil'Jordan Humphrey",
     "position": "WR",
-    "team": "DEN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -28331,7 +28331,7 @@
   "8472": {
     "name": "Darian Kinnard",
     "position": "T",
-    "team": "NYG",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -67559,7 +67559,7 @@
   "11168": {
     "name": "Xavier Smith",
     "position": "WR",
-    "team": "LAR",
+    "team": null,
     "status": "Active",
     "active": true
   },
