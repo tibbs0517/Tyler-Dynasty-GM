@@ -1015,13 +1015,6 @@
     "status": "Active"
   },
   {
-    "id": "4663",
-    "name": "Austin Ekeler",
-    "position": "RB",
-    "team": "WAS",
-    "status": "Active"
-  },
-  {
     "id": "6396",
     "name": "Austin Fort",
     "position": "TE",
@@ -1957,7 +1950,7 @@
     "name": "British Brooks",
     "position": "RB",
     "team": "HOU",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "8423",
