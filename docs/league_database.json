@@ -68,7 +68,6 @@
     "season": "2026",
     "season_type": "regular",
     "sport": "nfl",
-    "last_message_id": "1412006477656252416",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -115,23 +114,19 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
+    "last_message_id": "1412500863192158208",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791011087386,
+    "last_message_time": 1791128958084,
     "last_pinned_message_id": null,
     "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -156,6 +151,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -905,7 +905,7 @@
         "12507",
         "13287",
         "10229",
-        "11646",
+        "11628",
         "12501",
         "12517",
         "11631",
@@ -954,7 +954,8 @@
       "reserve": [
         "11638",
         "12469",
-        "12508"
+        "12508",
+        "7525"
       ],
       "roster_id": 5,
       "settings": {
@@ -1021,7 +1022,6 @@
         "8144",
         "8150",
         "9225",
-        "9506",
         "9509"
       ],
       "reserve": null,
@@ -1042,12 +1042,12 @@
       },
       "starters": [
         "421",
-        "5967",
+        "4035",
         "8150",
         "11632",
         "10232",
         "2133",
-        "7553",
+        "8131",
         "9509",
         "8144",
         "4046"
@@ -1359,7 +1359,7 @@
         "8146",
         "11604",
         "6790",
-        "11635",
+        "7526",
         "9758"
       ],
       "taxi": null
@@ -40940,7 +40940,7 @@
     "10942": {
       "name": "Viliami Fehoko",
       "position": "DL",
-      "team": "SF",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -103545,6 +103545,13 @@
       "name": "Sean Ryan",
       "position": "WR",
       "team": null,
+      "status": "Active"
+    },
+    {
+      "id": "9506",
+      "name": "Sean Tucker",
+      "position": "RB",
+      "team": "TB",
       "status": "Active"
     },
     {

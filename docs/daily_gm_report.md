@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-10-04 15:37:52
+Generated: 2026-10-04 18:58:51
 
 ---
 
@@ -9,7 +9,7 @@ Generated: 2026-10-04 15:37:52
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2803
+Available Players: 2804
 
 ---
 
@@ -17,7 +17,7 @@ Available Players: 2803
 
 Trades: 0
 Waiver Claims: 5
-Free Agent Moves: 0
+Free Agent Moves: 1
 
 ---
 
@@ -47,6 +47,7 @@ No trades.
 
 ## Recently Dropped Players
 
+- Sean Tucker
 - Zavion Thomas
 - Jameis Winston
 
@@ -55,6 +56,7 @@ No trades.
 ## Most Active Managers
 
 - tylergratz: 3 moves
+- SammyA: 1 moves
 - AnthonyJania: 1 moves
 - HoNeYmOOnBaBy: 1 moves
 
