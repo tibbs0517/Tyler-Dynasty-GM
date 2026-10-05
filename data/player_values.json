@@ -2324,20 +2324,6 @@
     "gm_score": 80
   },
   {
-    "id": "11571",
-    "name": "Isaiah Davis",
-    "position": "RB",
-    "team": "NYJ",
-    "age": 24,
-    "years_exp": 2,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 7,
-    "gm_score": 80
-  },
-  {
     "id": "6343",
     "name": "Manny Wilkins",
     "position": "QB",
@@ -20734,6 +20720,20 @@
     "gm_score": 65
   },
   {
+    "id": "4018",
+    "name": "Joe Mixon",
+    "position": "RB",
+    "team": null,
+    "age": 29,
+    "years_exp": 9,
+    "active": true,
+    "injury_status": "Active",
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 7,
+    "gm_score": 65
+  },
+  {
     "id": "13227",
     "name": "Mitch Van Vooren",
     "position": "WR",
@@ -24170,6 +24170,20 @@
     "team": "PIT",
     "age": 25,
     "years_exp": 3,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 60
+  },
+  {
+    "id": "11571",
+    "name": "Isaiah Davis",
+    "position": "RB",
+    "team": "NYJ",
+    "age": 24,
+    "years_exp": 2,
     "active": true,
     "injury_status": null,
     "bye_week": null,
@@ -40748,20 +40762,6 @@
     "years_exp": 10,
     "active": true,
     "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 45
-  },
-  {
-    "id": "4018",
-    "name": "Joe Mixon",
-    "position": "RB",
-    "team": null,
-    "age": 29,
-    "years_exp": 9,
-    "active": true,
-    "injury_status": "Active",
     "bye_week": null,
     "rostered": false,
     "roster_id": null,

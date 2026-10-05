@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-10-05 01:31:48
+Generated: 2026-10-05 08:11:35
 
 ---
 
@@ -16,7 +16,7 @@ Available Players: 2804
 ## League Activity
 
 Trades: 0
-Waiver Claims: 5
+Waiver Claims: 6
 Free Agent Moves: 1
 
 ---
@@ -37,6 +37,7 @@ No trades.
 
 ## Top Waiver Claims
 
+- Joe Mixon → HebrewsHeroes
 - Austin Ekeler → AnthonyJania
 - Darren Waller → tylergratz
 - Jalon Daniels → tylergratz
@@ -47,6 +48,7 @@ No trades.
 
 ## Recently Dropped Players
 
+- Isaiah Davis
 - Sean Tucker
 - Zavion Thomas
 - Jameis Winston
@@ -56,6 +58,7 @@ No trades.
 ## Most Active Managers
 
 - tylergratz: 3 moves
+- HebrewsHeroes: 1 moves
 - SammyA: 1 moves
 - AnthonyJania: 1 moves
 - HoNeYmOOnBaBy: 1 moves

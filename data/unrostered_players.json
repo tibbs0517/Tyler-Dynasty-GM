@@ -7518,6 +7518,13 @@
     "status": "Active"
   },
   {
+    "id": "11571",
+    "name": "Isaiah Davis",
+    "position": "RB",
+    "team": "NYJ",
+    "status": "Active"
+  },
+  {
     "id": "4252",
     "name": "Isaiah Ford",
     "position": "WR",
@@ -9720,13 +9727,6 @@
     "name": "Joe Milton",
     "position": "QB",
     "team": "DAL",
-    "status": "Active"
-  },
-  {
-    "id": "4018",
-    "name": "Joe Mixon",
-    "position": "RB",
-    "team": null,
     "status": "Active"
   },
   {
