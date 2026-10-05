@@ -11896,7 +11896,7 @@
     "name": "Braxton Berrios",
     "position": "WR",
     "team": "NYG",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "13607": {
@@ -59118,7 +59118,7 @@
     "name": "Tank Bigsby",
     "position": "RB",
     "team": "PHI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "10935": {
@@ -59187,7 +59187,7 @@
   "4018": {
     "name": "Joe Mixon",
     "position": "RB",
-    "team": null,
+    "team": "SEA",
     "status": "Active",
     "active": true
   },
