@@ -49676,7 +49676,7 @@
     "id": "6060",
     "name": "Sean Murphy-Bunting",
     "position": "CB",
-    "team": "TB",
+    "team": "PIT",
     "age": 29,
     "years_exp": 7,
     "active": true,
@@ -87146,7 +87146,7 @@
     "age": 25,
     "years_exp": 2,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -135896,7 +135896,7 @@
     "age": 24,
     "years_exp": 2,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
