@@ -744,8 +744,8 @@
   "10926": {
     "name": "Marte Mapu",
     "position": "DB",
-    "team": null,
-    "status": "Inactive",
+    "team": "PIT",
+    "status": "Active",
     "active": true
   },
   "9504": {
@@ -5203,7 +5203,7 @@
   "13418": {
     "name": "Robert Henry",
     "position": "RB",
-    "team": "WAS",
+    "team": "SEA",
     "status": "Active",
     "active": true
   },
@@ -50193,7 +50193,7 @@
     "name": "Derrick Harmon",
     "position": "DL",
     "team": "PIT",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "500": {
