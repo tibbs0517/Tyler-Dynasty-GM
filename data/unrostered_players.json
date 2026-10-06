@@ -2621,7 +2621,7 @@
     "id": "11186",
     "name": "Carlos Washington",
     "position": "RB",
-    "team": "MIA",
+    "team": null,
     "status": "Active"
   },
   {
@@ -5351,7 +5351,7 @@
     "id": "9505",
     "name": "Deuce Vaughn",
     "position": "RB",
-    "team": null,
+    "team": "HOU",
     "status": "Active"
   },
   {
@@ -9537,7 +9537,7 @@
     "id": "11911",
     "name": "Jeshaun Jones",
     "position": "WR",
-    "team": "MIN",
+    "team": null,
     "status": "Active"
   },
   {
@@ -16509,7 +16509,7 @@
     "id": "6290",
     "name": "Scotty Miller",
     "position": "WR",
-    "team": null,
+    "team": "CHI",
     "status": "Active"
   },
   {

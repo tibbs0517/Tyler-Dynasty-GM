@@ -9,7 +9,7 @@
     },
     "settings": {
       "best_ball": 0,
-      "last_report": 3,
+      "last_report": 4,
       "waiver_budget": 100,
       "disable_adds": 0,
       "capacity_override": 0,
@@ -63,7 +63,6 @@
       "daily_waivers_last_ran": 6
     },
     "avatar": null,
-    "company_id": null,
     "shard": 470,
     "season": "2026",
     "season_type": "regular",
@@ -114,19 +113,23 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1413010247697592320",
-    "draft_id": "1326711861202161664",
-    "last_author_avatar": "ca62063676344cfcedb556ee2a79ad72",
-    "last_author_display_name": "TheCreecher",
-    "last_author_id": "472188020636774400",
-    "last_author_is_bot": false,
+    "last_message_id": "1413230373323735040",
+    "company_id": null,
+    "last_author_avatar": null,
+    "last_author_display_name": "sys",
+    "last_author_id": "166666666666666666",
+    "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791250404814,
+    "last_message_time": 1791302886852,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1326711861202161664",
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,9 +154,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -1024,7 +1024,9 @@
         "9225",
         "9509"
       ],
-      "reserve": null,
+      "reserve": [
+        "9225"
+      ],
       "roster_id": 6,
       "settings": {
         "fpts": 593,
@@ -1041,8 +1043,8 @@
         "wins": 3
       },
       "starters": [
-        "421",
-        "4035",
+        "3294",
+        "12495",
         "8150",
         "11632",
         "10232",
@@ -1050,7 +1052,7 @@
         "8131",
         "9509",
         "8144",
-        "4046"
+        "421"
       ],
       "taxi": null
     },
@@ -6227,8 +6229,8 @@
     "12877": {
       "name": "Brandon Johnson",
       "position": "DB",
-      "team": null,
-      "status": "Inactive",
+      "team": "TB",
+      "status": "Active",
       "active": true
     },
     "8119": {
@@ -43306,7 +43308,7 @@
     "2350": {
       "name": "Eric Kendricks",
       "position": "LB",
-      "team": null,
+      "team": "LAR",
       "status": "Active",
       "active": true
     },
@@ -52259,7 +52261,7 @@
     "12899": {
       "name": "Doneiko Slaughter",
       "position": "DB",
-      "team": "PIT",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -57362,7 +57364,7 @@
     "6290": {
       "name": "Scotty Miller",
       "position": "WR",
-      "team": null,
+      "team": "CHI",
       "status": "Active",
       "active": true
     },
@@ -57446,7 +57448,7 @@
     "11186": {
       "name": "Carlos Washington",
       "position": "RB",
-      "team": "MIA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -66644,7 +66646,7 @@
     "10991": {
       "name": "K.J. Henry",
       "position": "DE",
-      "team": null,
+      "team": "PIT",
       "status": "Active",
       "active": true
     },
@@ -68422,7 +68424,7 @@
     "4965": {
       "name": "Marcus Davenport",
       "position": "DE",
-      "team": "CHI",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -68436,7 +68438,7 @@
     "14045": {
       "name": "Marlon Jones",
       "position": "CB",
-      "team": "GB",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -78558,7 +78560,7 @@
     "11911": {
       "name": "Jeshaun Jones",
       "position": "WR",
-      "team": "MIN",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -79930,7 +79932,7 @@
     "9505": {
       "name": "Deuce Vaughn",
       "position": "RB",
-      "team": null,
+      "team": "HOU",
       "status": "Active",
       "active": true
     },
@@ -89593,7 +89595,7 @@
       "id": "11186",
       "name": "Carlos Washington",
       "position": "RB",
-      "team": "MIA",
+      "team": null,
       "status": "Active"
     },
     {
@@ -92323,7 +92325,7 @@
       "id": "9505",
       "name": "Deuce Vaughn",
       "position": "RB",
-      "team": null,
+      "team": "HOU",
       "status": "Active"
     },
     {
@@ -96509,7 +96511,7 @@
       "id": "11911",
       "name": "Jeshaun Jones",
       "position": "WR",
-      "team": "MIN",
+      "team": null,
       "status": "Active"
     },
     {
@@ -103481,7 +103483,7 @@
       "id": "6290",
       "name": "Scotty Miller",
       "position": "WR",
-      "team": null,
+      "team": "CHI",
       "status": "Active"
     },
     {

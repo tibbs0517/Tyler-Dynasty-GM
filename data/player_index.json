@@ -4860,8 +4860,8 @@
   "12877": {
     "name": "Brandon Johnson",
     "position": "DB",
-    "team": null,
-    "status": "Inactive",
+    "team": "TB",
+    "status": "Active",
     "active": true
   },
   "8119": {
@@ -41939,7 +41939,7 @@
   "2350": {
     "name": "Eric Kendricks",
     "position": "LB",
-    "team": null,
+    "team": "LAR",
     "status": "Active",
     "active": true
   },
@@ -50892,7 +50892,7 @@
   "12899": {
     "name": "Doneiko Slaughter",
     "position": "DB",
-    "team": "PIT",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -55995,7 +55995,7 @@
   "6290": {
     "name": "Scotty Miller",
     "position": "WR",
-    "team": null,
+    "team": "CHI",
     "status": "Active",
     "active": true
   },
@@ -56079,7 +56079,7 @@
   "11186": {
     "name": "Carlos Washington",
     "position": "RB",
-    "team": "MIA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -65277,7 +65277,7 @@
   "10991": {
     "name": "K.J. Henry",
     "position": "DE",
-    "team": null,
+    "team": "PIT",
     "status": "Active",
     "active": true
   },
@@ -67055,7 +67055,7 @@
   "4965": {
     "name": "Marcus Davenport",
     "position": "DE",
-    "team": "CHI",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -67069,7 +67069,7 @@
   "14045": {
     "name": "Marlon Jones",
     "position": "CB",
-    "team": "GB",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -77191,7 +77191,7 @@
   "11911": {
     "name": "Jeshaun Jones",
     "position": "WR",
-    "team": "MIN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -78563,7 +78563,7 @@
   "9505": {
     "name": "Deuce Vaughn",
     "position": "RB",
-    "team": null,
+    "team": "HOU",
     "status": "Active",
     "active": true
   },
