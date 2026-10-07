@@ -5705,13 +5705,6 @@
     "status": "Inactive"
   },
   {
-    "id": "13264",
-    "name": "Dohnte Meyers",
-    "position": "WR",
-    "team": "CIN",
-    "status": "Active"
-  },
-  {
     "id": "3505",
     "name": "Dom Williams",
     "position": "WR",
@@ -6424,13 +6417,6 @@
     "position": "WR",
     "team": null,
     "status": "Inactive"
-  },
-  {
-    "id": "11435",
-    "name": "Emanuel Wilson",
-    "position": "RB",
-    "team": "SEA",
-    "status": "Active"
   },
   {
     "id": "11199",
@@ -8687,13 +8673,6 @@
     "status": "Active"
   },
   {
-    "id": "2306",
-    "name": "Jameis Winston",
-    "position": "QB",
-    "team": "NYG",
-    "status": "Active"
-  },
-  {
     "id": "3078",
     "name": "Jamel Johnson",
     "position": "WR",
@@ -9734,6 +9713,13 @@
     "name": "Joe Milton",
     "position": "QB",
     "team": "DAL",
+    "status": "Active"
+  },
+  {
+    "id": "4018",
+    "name": "Joe Mixon",
+    "position": "RB",
+    "team": null,
     "status": "Active"
   },
   {
@@ -15407,6 +15393,13 @@
     "status": "Active"
   },
   {
+    "id": "12472",
+    "name": "Raheim Sanders",
+    "position": "RB",
+    "team": "CLE",
+    "status": "Active"
+  },
+  {
     "id": "13323",
     "name": "Rahsul Faison",
     "position": "RB",
@@ -18802,13 +18795,6 @@
     "status": "Active"
   },
   {
-    "id": "7083",
-    "name": "Tyler Huntley",
-    "position": "QB",
-    "team": "BAL",
-    "status": "Active"
-  },
-  {
     "id": "6960",
     "name": "Tyler Johnson",
     "position": "WR",
@@ -19240,13 +19226,6 @@
     "name": "Will Sheppard",
     "position": "WR",
     "team": "MIA",
-    "status": "Active"
-  },
-  {
-    "id": "11577",
-    "name": "Will Shipley",
-    "position": "RB",
-    "team": "PHI",
     "status": "Active"
   },
   {

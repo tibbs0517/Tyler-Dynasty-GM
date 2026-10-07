@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-10-07 02:00:54
+Generated: 2026-10-07 09:42:03
 
 ---
 
@@ -9,14 +9,14 @@ Generated: 2026-10-07 02:00:54
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2805
+Available Players: 2802
 
 ---
 
 ## League Activity
 
 Trades: 0
-Waiver Claims: 6
+Waiver Claims: 16
 Free Agent Moves: 2
 
 ---
@@ -37,6 +37,16 @@ No trades.
 
 ## Top Waiver Claims
 
+- Emanuel Wilson → theFalIeniD
+- Dohnte Meyers → theFalIeniD
+- Dohnte Meyers → tylerhjensen
+- Will Shipley → tylerhjensen
+- Emanuel Wilson → tylerhjensen
+- Tyler Huntley → jmikolay
+- Jameis Winston → jmikolay
+- Emanuel Wilson → SammyA
+- Will Shipley → HebrewsHeroes
+- Jameis Winston → tylerhjensen
 - Joe Mixon → HebrewsHeroes
 - Austin Ekeler → AnthonyJania
 - Darren Waller → tylergratz
@@ -48,7 +58,9 @@ No trades.
 
 ## Recently Dropped Players
 
+- Raheim Sanders
 - Darren Waller
+- Joe Mixon
 - Isaiah Davis
 - Sean Tucker
 - Zavion Thomas
@@ -58,9 +70,12 @@ No trades.
 
 ## Most Active Managers
 
+- tylerhjensen: 4 moves
 - tylergratz: 4 moves
-- HebrewsHeroes: 1 moves
-- SammyA: 1 moves
+- theFalIeniD: 2 moves
+- jmikolay: 2 moves
+- SammyA: 2 moves
+- HebrewsHeroes: 2 moves
 - AnthonyJania: 1 moves
 - HoNeYmOOnBaBy: 1 moves
 
