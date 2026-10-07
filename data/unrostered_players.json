@@ -822,7 +822,7 @@
     "id": "12939",
     "name": "Anthony Tyus",
     "position": "RB",
-    "team": "CAR",
+    "team": null,
     "status": "Active"
   },
   {
@@ -2621,7 +2621,7 @@
     "id": "11186",
     "name": "Carlos Washington",
     "position": "RB",
-    "team": null,
+    "team": "MIA",
     "status": "Active"
   },
   {
@@ -2719,7 +2719,7 @@
     "id": "13595",
     "name": "Cash Jones",
     "position": "RB",
-    "team": "ATL",
+    "team": null,
     "status": "Active"
   },
   {
@@ -5456,7 +5456,7 @@
     "id": "12476",
     "name": "Devin Neal",
     "position": "RB",
-    "team": "MIN",
+    "team": null,
     "status": "Active"
   },
   {
@@ -5792,8 +5792,8 @@
     "id": "12946",
     "name": "Dontae Fleming",
     "position": "WR",
-    "team": null,
-    "status": "Inactive"
+    "team": "NYG",
+    "status": "Active"
   },
   {
     "id": "13852",
@@ -6506,7 +6506,7 @@
     "id": "10223",
     "name": "Eric Gray",
     "position": "RB",
-    "team": "CLE",
+    "team": null,
     "status": "Active"
   },
   {
@@ -8921,7 +8921,7 @@
     "id": "7537",
     "name": "Jaret Patterson",
     "position": "RB",
-    "team": null,
+    "team": "CLE",
     "status": "Active"
   },
   {
@@ -9523,7 +9523,7 @@
     "id": "11911",
     "name": "Jeshaun Jones",
     "position": "WR",
-    "team": null,
+    "team": "MIN",
     "status": "Active"
   },
   {
@@ -11581,7 +11581,7 @@
     "id": "13957",
     "name": "Kenny Fletcher",
     "position": "TE",
-    "team": "IND",
+    "team": null,
     "status": "Active"
   },
   {
@@ -13083,6 +13083,13 @@
     "status": "Active"
   },
   {
+    "id": "2307",
+    "name": "Marcus Mariota",
+    "position": "QB",
+    "team": "WAS",
+    "status": "Active"
+  },
+  {
     "id": "6548",
     "name": "Marcus Marshall",
     "position": "RB",
@@ -13177,7 +13184,7 @@
     "id": "13816",
     "name": "Mark Gronowski",
     "position": "QB",
-    "team": null,
+    "team": "HOU",
     "status": "Active"
   },
   {
@@ -14514,7 +14521,7 @@
     "id": "13963",
     "name": "Nick DeGennaro",
     "position": "WR",
-    "team": null,
+    "team": "WAS",
     "status": "Active"
   },
   {
@@ -14829,7 +14836,7 @@
     "id": "2078",
     "name": "Odell Beckham",
     "position": "WR",
-    "team": null,
+    "team": "MIN",
     "status": "Active"
   },
   {
@@ -16800,6 +16807,13 @@
     "status": "Active"
   },
   {
+    "id": "12524",
+    "name": "Shedeur Sanders",
+    "position": "QB",
+    "team": "CLE",
+    "status": "Active"
+  },
+  {
     "id": "11257",
     "name": "Shedrick Jackson",
     "position": "WR",
@@ -18539,7 +18553,7 @@
     "id": "13862",
     "name": "Treyvhon Saunders",
     "position": "WR",
-    "team": "HOU",
+    "team": null,
     "status": "Active"
   },
   {
@@ -18792,6 +18806,13 @@
     "name": "Tyler Hudson",
     "position": "WR",
     "team": null,
+    "status": "Active"
+  },
+  {
+    "id": "7083",
+    "name": "Tyler Huntley",
+    "position": "QB",
+    "team": "BAL",
     "status": "Active"
   },
   {

@@ -114,16 +114,16 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1413458559085125632",
-    "draft_id": "1326711861202161664",
-    "last_author_avatar": null,
-    "last_author_display_name": "sys",
-    "last_author_id": "166666666666666666",
-    "last_author_is_bot": true,
+    "last_message_id": "1413580818260959232",
+    "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
+    "last_author_display_name": "HebrewsHeroes",
+    "last_author_id": "434689597088198656",
+    "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791357290577,
+    "last_message_time": 1791386439437,
     "last_pinned_message_id": null,
+    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
@@ -792,7 +792,6 @@
         "13353",
         "13402",
         "2216",
-        "2307",
         "4892",
         "4984",
         "5850",
@@ -904,7 +903,7 @@
         "12545",
         "12507",
         "13287",
-        "10229",
+        "12536",
         "11628",
         "12501",
         "12517",
@@ -953,8 +952,7 @@
       "reserve": [
         "11638",
         "12469",
-        "12508",
-        "7525"
+        "12508"
       ],
       "roster_id": 5,
       "settings": {
@@ -1236,7 +1234,6 @@
         "11655",
         "12489",
         "12493",
-        "12524",
         "13275",
         "1466",
         "2306",
@@ -1247,7 +1244,6 @@
         "6794",
         "6801",
         "6813",
-        "7083",
         "7523",
         "8112",
         "8126",
@@ -1258,9 +1254,7 @@
         "9753"
       ],
       "reserve": [
-        "13275",
         "5022",
-        "6794",
         "9753"
       ],
       "roster_id": 9,
