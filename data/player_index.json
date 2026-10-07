@@ -5827,7 +5827,7 @@
     "name": "Brian Branch",
     "position": "DB",
     "team": "DET",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "12819": {
@@ -24068,7 +24068,7 @@
   "13213": {
     "name": "Lucas Scott",
     "position": "FB",
-    "team": null,
+    "team": "BAL",
     "status": "Active",
     "active": true
   },
@@ -49408,7 +49408,7 @@
   "8453": {
     "name": "Cam Jurgens",
     "position": "OL",
-    "team": "PHI",
+    "team": "BAL",
     "status": "Active",
     "active": true
   },
@@ -63738,7 +63738,7 @@
     "name": "Durham Smythe",
     "position": "TE",
     "team": "BAL",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "2286": {
@@ -65718,7 +65718,7 @@
   "8114": {
     "name": "Erik Ezukanma",
     "position": "WR",
-    "team": null,
+    "team": "PHI",
     "status": "Active",
     "active": true
   },
@@ -67559,7 +67559,7 @@
   "11168": {
     "name": "Xavier Smith",
     "position": "WR",
-    "team": null,
+    "team": "SF",
     "status": "Active",
     "active": true
   },

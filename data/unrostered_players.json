@@ -2702,6 +2702,13 @@
     "status": "Active"
   },
   {
+    "id": "1737",
+    "name": "Case Keenum",
+    "position": "QB",
+    "team": "CHI",
+    "status": "Active"
+  },
+  {
     "id": "11848",
     "name": "Casey Bauman",
     "position": "QB",
@@ -6045,7 +6052,7 @@
     "name": "Durham Smythe",
     "position": "TE",
     "team": "BAL",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "3630",
@@ -6562,7 +6569,7 @@
     "id": "8114",
     "name": "Erik Ezukanma",
     "position": "WR",
-    "team": null,
+    "team": "PHI",
     "status": "Active"
   },
   {
@@ -19372,7 +19379,7 @@
     "id": "11168",
     "name": "Xavier Smith",
     "position": "WR",
-    "team": null,
+    "team": "SF",
     "status": "Active"
   },
   {

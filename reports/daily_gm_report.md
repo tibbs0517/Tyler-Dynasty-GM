@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-10-07 17:10:47
+Generated: 2026-10-07 22:35:15
 
 ---
 
@@ -9,7 +9,7 @@ Generated: 2026-10-07 17:10:47
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2805
+Available Players: 2806
 
 ---
 
@@ -17,7 +17,7 @@ Available Players: 2805
 
 Trades: 0
 Waiver Claims: 0
-Free Agent Moves: 3
+Free Agent Moves: 4
 
 ---
 
@@ -42,6 +42,7 @@ No trades.
 
 ## Recently Dropped Players
 
+- Case Keenum
 - Shedeur Sanders
 - Tyler Huntley
 - Marcus Mariota
@@ -51,6 +52,7 @@ No trades.
 ## Most Active Managers
 
 - jmikolay: 2 moves
+- AnthonyJania: 1 moves
 - tylerhjensen: 1 moves
 
 ---
