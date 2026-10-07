@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-10-06 22:13:35
+Generated: 2026-10-07 02:00:54
 
 ---
 
@@ -9,7 +9,7 @@ Generated: 2026-10-06 22:13:35
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2804
+Available Players: 2805
 
 ---
 
@@ -17,7 +17,7 @@ Available Players: 2804
 
 Trades: 0
 Waiver Claims: 6
-Free Agent Moves: 1
+Free Agent Moves: 2
 
 ---
 
@@ -25,7 +25,7 @@ Free Agent Moves: 1
 
 Username: tylergratz
 Roster ID: 5
-Players on Roster: 25
+Players on Roster: 24
 
 ---
 
@@ -48,6 +48,7 @@ No trades.
 
 ## Recently Dropped Players
 
+- Darren Waller
 - Isaiah Davis
 - Sean Tucker
 - Zavion Thomas
@@ -57,7 +58,7 @@ No trades.
 
 ## Most Active Managers
 
-- tylergratz: 3 moves
+- tylergratz: 4 moves
 - HebrewsHeroes: 1 moves
 - SammyA: 1 moves
 - AnthonyJania: 1 moves

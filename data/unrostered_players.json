@@ -2565,7 +2565,7 @@
     "id": "13744",
     "name": "Cameron Ross",
     "position": "WR",
-    "team": null,
+    "team": "DEN",
     "status": "Active"
   },
   {
@@ -4562,6 +4562,13 @@
     "position": "RB",
     "team": null,
     "status": "Injured Reserve"
+  },
+  {
+    "id": "2505",
+    "name": "Darren Waller",
+    "position": "TE",
+    "team": "CAR",
+    "status": "Active"
   },
   {
     "id": "4676",
@@ -8599,7 +8606,7 @@
     "id": "13403",
     "name": "Jam Miller",
     "position": "RB",
-    "team": null,
+    "team": "ATL",
     "status": "Active"
   },
   {

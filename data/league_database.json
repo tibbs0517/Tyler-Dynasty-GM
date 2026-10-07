@@ -64,10 +64,11 @@
     },
     "avatar": null,
     "company_id": null,
+    "last_message_id": "1413334430260428800",
+    "sport": "nfl",
     "shard": 470,
     "season": "2026",
     "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -114,14 +115,13 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1413273087490764800",
-    "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
-    "last_author_display_name": "HebrewsHeroes",
-    "last_author_id": "434689597088198656",
-    "last_author_is_bot": false,
+    "last_author_avatar": null,
+    "last_author_display_name": "sys",
+    "last_author_id": "166666666666666666",
+    "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791313070704,
+    "last_message_time": 1791327695960,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "draft_id": "1326711861202161664",
@@ -835,7 +835,7 @@
         "12506",
         "12481",
         "8110",
-        "2307"
+        "8161"
       ],
       "taxi": null
     },
@@ -937,7 +937,6 @@
         "13285",
         "13305",
         "13425",
-        "2505",
         "3163",
         "4217",
         "4983",
@@ -1256,6 +1255,7 @@
         "9753"
       ],
       "reserve": [
+        "13275",
         "5022",
         "6794",
         "9753"
@@ -1278,12 +1278,12 @@
       "starters": [
         "4881",
         "6813",
-        "8151",
+        "12489",
         "6786",
         "6801",
         "8112",
-        "1466",
-        "11576",
+        "12493",
+        "8126",
         "9500",
         "7523"
       ],
@@ -18262,7 +18262,7 @@
     "13744": {
       "name": "Cameron Ross",
       "position": "WR",
-      "team": null,
+      "team": "DEN",
       "status": "Active",
       "active": true
     },
@@ -40921,7 +40921,7 @@
     "13403": {
       "name": "Jam Miller",
       "position": "RB",
-      "team": null,
+      "team": "ATL",
       "status": "Active",
       "active": true
     },
@@ -49426,7 +49426,7 @@
     "8371": {
       "name": "Chad Muma",
       "position": "LB",
-      "team": null,
+      "team": "HOU",
       "status": "Active",
       "active": true
     },
@@ -89539,7 +89539,7 @@
       "id": "13744",
       "name": "Cameron Ross",
       "position": "WR",
-      "team": null,
+      "team": "DEN",
       "status": "Active"
     },
     {
@@ -91536,6 +91536,13 @@
       "position": "RB",
       "team": null,
       "status": "Injured Reserve"
+    },
+    {
+      "id": "2505",
+      "name": "Darren Waller",
+      "position": "TE",
+      "team": "CAR",
+      "status": "Active"
     },
     {
       "id": "4676",
@@ -95573,7 +95580,7 @@
       "id": "13403",
       "name": "Jam Miller",
       "position": "RB",
-      "team": null,
+      "team": "ATL",
       "status": "Active"
     },
     {
