@@ -3362,7 +3362,7 @@
   "11855": {
     "name": "Amari Gainer",
     "position": "LB",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -49954,7 +49954,7 @@
   "13761": {
     "name": "Jeffrey M'ba",
     "position": "DL",
-    "team": null,
+    "team": "DET",
     "status": "Active",
     "active": true
   },
@@ -63338,7 +63338,7 @@
   "10998": {
     "name": "Jose Ramirez",
     "position": "DL",
-    "team": null,
+    "team": "NE",
     "status": "Active",
     "active": true
   },
@@ -64632,7 +64632,7 @@
   },
   "13433": {
     "name": "Riley Nowakowski",
-    "position": "TE",
+    "position": "RB",
     "team": "PIT",
     "status": "Active",
     "active": true
