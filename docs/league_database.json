@@ -117,13 +117,13 @@
     "last_message_id": "1413818562711203840",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
-    "draft_id": "1326711861202161664",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
     "last_message_time": 1791443122130,
     "last_pinned_message_id": null,
+    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
@@ -1358,7 +1358,7 @@
         "11604",
         "3198",
         "7526",
-        "6797"
+        "11566"
       ],
       "taxi": null
     }
@@ -28072,7 +28072,7 @@
     "11959": {
       "name": "Bryce Oliver",
       "position": "WR",
-      "team": null,
+      "team": "HOU",
       "status": "Active",
       "active": true
     },
@@ -29634,7 +29634,7 @@
       "name": "Tyler Smith",
       "position": "OL",
       "team": "DAL",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "11178": {
@@ -51319,7 +51319,7 @@
     "13761": {
       "name": "Jeffrey M'ba",
       "position": "DL",
-      "team": "WAS",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -51844,7 +51844,7 @@
     "12939": {
       "name": "Anthony Tyus",
       "position": "RB",
-      "team": null,
+      "team": "CAR",
       "status": "Active",
       "active": true
     },
@@ -66640,7 +66640,7 @@
       "active": true
     },
     "10991": {
-      "name": "K.J. Henry",
+      "name": "KJ Henry",
       "position": "DE",
       "team": "PIT",
       "status": "Active",
@@ -87792,7 +87792,7 @@
       "id": "12939",
       "name": "Anthony Tyus",
       "position": "RB",
-      "team": null,
+      "team": "CAR",
       "status": "Active"
     },
     {
@@ -89052,7 +89052,7 @@
       "id": "11959",
       "name": "Bryce Oliver",
       "position": "WR",
-      "team": null,
+      "team": "HOU",
       "status": "Active"
     },
     {

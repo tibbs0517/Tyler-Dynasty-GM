@@ -26707,7 +26707,7 @@
   "11959": {
     "name": "Bryce Oliver",
     "position": "WR",
-    "team": null,
+    "team": "HOU",
     "status": "Active",
     "active": true
   },
@@ -28269,7 +28269,7 @@
     "name": "Tyler Smith",
     "position": "OL",
     "team": "DAL",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "11178": {
@@ -49954,7 +49954,7 @@
   "13761": {
     "name": "Jeffrey M'ba",
     "position": "DL",
-    "team": "WAS",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -50479,7 +50479,7 @@
   "12939": {
     "name": "Anthony Tyus",
     "position": "RB",
-    "team": null,
+    "team": "CAR",
     "status": "Active",
     "active": true
   },
@@ -65275,7 +65275,7 @@
     "active": true
   },
   "10991": {
-    "name": "K.J. Henry",
+    "name": "KJ Henry",
     "position": "DE",
     "team": "PIT",
     "status": "Active",
