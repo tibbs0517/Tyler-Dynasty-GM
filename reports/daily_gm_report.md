@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-10-08 02:25:32
+Generated: 2026-10-08 09:52:32
 
 ---
 
@@ -9,14 +9,14 @@ Generated: 2026-10-08 02:25:32
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2806
+Available Players: 2805
 
 ---
 
 ## League Activity
 
 Trades: 0
-Waiver Claims: 0
+Waiver Claims: 1
 Free Agent Moves: 4
 
 ---
@@ -37,6 +37,7 @@ No trades.
 
 ## Top Waiver Claims
 
+- Ryan Flournoy → theFalIeniD
 
 ---
 
@@ -53,6 +54,7 @@ No trades.
 
 - jmikolay: 2 moves
 - AnthonyJania: 1 moves
+- theFalIeniD: 1 moves
 - tylerhjensen: 1 moves
 
 ---
