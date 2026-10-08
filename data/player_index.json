@@ -23718,7 +23718,7 @@
   "11121": {
     "name": "AJ Finley",
     "position": "DB",
-    "team": null,
+    "team": "SEA",
     "status": "Active",
     "active": true
   },
@@ -46888,8 +46888,8 @@
   "11018": {
     "name": "Christian Braswell",
     "position": "DB",
-    "team": null,
-    "status": "Active",
+    "team": "JAX",
+    "status": "Inactive",
     "active": true
   },
   "1252": {
