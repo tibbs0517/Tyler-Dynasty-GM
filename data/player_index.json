@@ -632,7 +632,7 @@
   "4992": {
     "name": "Dante Pettis",
     "position": "WR",
-    "team": "SF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -4839,7 +4839,7 @@
   "12937": {
     "name": "Keith Cooper",
     "position": "DL",
-    "team": "MIA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -48722,7 +48722,7 @@
   "13405": {
     "name": "Kaytron Allen",
     "position": "RB",
-    "team": "WAS",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -60573,7 +60573,7 @@
   "11199": {
     "name": "Emari Demercado",
     "position": "RB",
-    "team": "DAL",
+    "team": null,
     "status": "Active",
     "active": true
   },

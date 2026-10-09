@@ -4371,7 +4371,7 @@
     "id": "4992",
     "name": "Dante Pettis",
     "position": "WR",
-    "team": "SF",
+    "team": null,
     "status": "Active"
   },
   {
@@ -6429,7 +6429,7 @@
     "id": "11199",
     "name": "Emari Demercado",
     "position": "RB",
-    "team": "DAL",
+    "team": null,
     "status": "Active"
   },
   {
