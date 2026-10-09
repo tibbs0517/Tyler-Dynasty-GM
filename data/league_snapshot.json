@@ -64,6 +64,10 @@
     },
     "avatar": null,
     "company_id": null,
+    "shard": 470,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -110,10 +114,6 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 470,
-    "sport": "nfl",
     "last_message_id": "1414228448574029824",
     "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
     "last_author_display_name": "HebrewsHeroes",
@@ -127,11 +127,7 @@
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -156,6 +152,10 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -682,11 +682,11 @@
         "4034",
         "8154",
         "8137",
-        "2449",
+        "11620",
         "9487",
         "13330",
         "8228",
-        "11620",
+        "4663",
         "3257"
       ],
       "taxi": null
@@ -952,7 +952,8 @@
       "reserve": [
         "11638",
         "12469",
-        "12508"
+        "12508",
+        "7525"
       ],
       "roster_id": 5,
       "settings": {
@@ -1099,8 +1100,8 @@
       "reserve": [
         "11583",
         "12487",
-        "6803",
-        "8155"
+        "12492",
+        "6803"
       ],
       "roster_id": 7,
       "settings": {
@@ -1126,8 +1127,8 @@
         "5846",
         "9484",
         "10236",
-        "3634",
-        "8183"
+        "11577",
+        "6770"
       ],
       "taxi": null
     },
@@ -1664,9 +1665,9 @@
   ],
   "nfl_state": {
     "week": 5,
-    "leg": 5,
-    "season": "2026",
     "season_type": "regular",
+    "season": "2026",
+    "leg": 5,
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
