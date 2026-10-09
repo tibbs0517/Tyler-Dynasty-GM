@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-10-09 02:42:49
+Generated: 2026-10-09 09:56:24
 
 ---
 
@@ -9,14 +9,14 @@ Generated: 2026-10-09 02:42:49
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2805
+Available Players: 2804
 
 ---
 
 ## League Activity
 
 Trades: 0
-Waiver Claims: 1
+Waiver Claims: 3
 Free Agent Moves: 4
 
 ---
@@ -38,6 +38,8 @@ No trades.
 ## Top Waiver Claims
 
 - Ryan Flournoy → theFalIeniD
+- Tyler Huntley → tylerhjensen
+- Shedeur Sanders → tylerhjensen
 
 ---
 
@@ -52,10 +54,10 @@ No trades.
 
 ## Most Active Managers
 
+- tylerhjensen: 3 moves
 - jmikolay: 2 moves
 - AnthonyJania: 1 moves
 - theFalIeniD: 1 moves
-- tylerhjensen: 1 moves
 
 ---
 
