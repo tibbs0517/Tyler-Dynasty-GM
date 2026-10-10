@@ -64,6 +64,9 @@
     },
     "avatar": null,
     "company_id": null,
+    "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -110,19 +113,16 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "season": "2026",
-    "season_type": "regular",
     "shard": 470,
-    "sport": "nfl",
-    "last_message_id": "1414624172654567424",
+    "last_message_id": "1414694580187648000",
     "draft_id": "1326711861202161664",
-    "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
-    "last_author_display_name": "HebrewsHeroes",
-    "last_author_id": "434689597088198656",
+    "last_author_avatar": "e36a6748fbd53ab64ceb5f669bc6e27c",
+    "last_author_display_name": "SammyA",
+    "last_author_id": "429817971473403904",
     "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791635194508,
+    "last_message_time": 1791651980973,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1326711861197938688",
@@ -7263,7 +7263,7 @@
     "829": {
       "name": "Andy Dalton",
       "position": "QB",
-      "team": "PHI",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -51056,7 +51056,7 @@
       "name": "Arden Key",
       "position": "DE",
       "team": "IND",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "8105": {
@@ -60722,7 +60722,7 @@
     "5075": {
       "name": "Ogbo Okoronkwo",
       "position": "LB",
-      "team": "SF",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -62067,7 +62067,7 @@
       "name": "Noah Sewell",
       "position": "LB",
       "team": "CHI",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "3767": {
@@ -68581,7 +68581,7 @@
       "active": true
     },
     "7715": {
-      "name": "Cam Bynum",
+      "name": "Camryn Bynum",
       "position": "DB",
       "team": "IND",
       "status": "Active",
@@ -87619,7 +87619,7 @@
       "id": "829",
       "name": "Andy Dalton",
       "position": "QB",
-      "team": "PHI",
+      "team": null,
       "status": "Active"
     },
     {

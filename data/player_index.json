@@ -5896,7 +5896,7 @@
   "829": {
     "name": "Andy Dalton",
     "position": "QB",
-    "team": "PHI",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -49689,7 +49689,7 @@
     "name": "Arden Key",
     "position": "DE",
     "team": "IND",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "8105": {
@@ -59355,7 +59355,7 @@
   "5075": {
     "name": "Ogbo Okoronkwo",
     "position": "LB",
-    "team": "SF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -60700,7 +60700,7 @@
     "name": "Noah Sewell",
     "position": "LB",
     "team": "CHI",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "3767": {
@@ -67214,7 +67214,7 @@
     "active": true
   },
   "7715": {
-    "name": "Cam Bynum",
+    "name": "Camryn Bynum",
     "position": "DB",
     "team": "IND",
     "status": "Active",

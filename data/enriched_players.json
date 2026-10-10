@@ -5285,7 +5285,7 @@
     "age": 28,
     "years_exp": 7,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -10949,7 +10949,7 @@
     "id": "829",
     "name": "Andy Dalton",
     "position": "QB",
-    "team": "PHI",
+    "team": null,
     "age": 38,
     "years_exp": 15,
     "active": true,
@@ -49602,7 +49602,7 @@
     "age": 26,
     "years_exp": 2,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -84312,7 +84312,7 @@
     "age": 24,
     "years_exp": 2,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": true,
     "roster_id": 4
@@ -92177,7 +92177,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -92281,7 +92281,7 @@
     "age": 30,
     "years_exp": 8,
     "active": true,
-    "injury_status": "Out",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -110230,7 +110230,7 @@
     "id": "5075",
     "name": "Ogbo Okoronkwo",
     "position": "LB",
-    "team": "SF",
+    "team": null,
     "age": 31,
     "years_exp": 8,
     "active": true,
@@ -110689,7 +110689,7 @@
     "age": 27,
     "years_exp": 5,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -112730,7 +112730,7 @@
     "age": 24,
     "years_exp": 3,
     "active": true,
-    "injury_status": "PUP",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -124827,7 +124827,7 @@
   },
   "7715": {
     "id": "7715",
-    "name": "Cam Bynum",
+    "name": "Camryn Bynum",
     "position": "DB",
     "team": "IND",
     "age": 28,
@@ -131970,7 +131970,7 @@
     "age": 24,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -140836,7 +140836,7 @@
     "age": 29,
     "years_exp": 7,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
