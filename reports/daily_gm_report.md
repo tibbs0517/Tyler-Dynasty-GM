@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-10-10 01:27:42
+Generated: 2026-10-10 08:01:13
 
 ---
 
@@ -16,7 +16,7 @@ Available Players: 2804
 ## League Activity
 
 Trades: 0
-Waiver Claims: 3
+Waiver Claims: 4
 Free Agent Moves: 4
 
 ---
@@ -37,14 +37,15 @@ No trades.
 
 ## Top Waiver Claims
 
-- Ryan Flournoy → theFalIeniD
 - Tyler Huntley → tylerhjensen
+- Ryan Flournoy → theFalIeniD
 - Shedeur Sanders → tylerhjensen
 
 ---
 
 ## Recently Dropped Players
 
+- Shedeur Sanders
 - Case Keenum
 - Shedeur Sanders
 - Tyler Huntley
@@ -54,7 +55,7 @@ No trades.
 
 ## Most Active Managers
 
-- tylerhjensen: 3 moves
+- tylerhjensen: 4 moves
 - jmikolay: 2 moves
 - AnthonyJania: 1 moves
 - theFalIeniD: 1 moves

@@ -16807,6 +16807,13 @@
     "status": "Active"
   },
   {
+    "id": "12524",
+    "name": "Shedeur Sanders",
+    "position": "QB",
+    "team": "CLE",
+    "status": "Active"
+  },
+  {
     "id": "11257",
     "name": "Shedrick Jackson",
     "position": "WR",
@@ -18799,13 +18806,6 @@
     "name": "Tyler Hudson",
     "position": "WR",
     "team": null,
-    "status": "Active"
-  },
-  {
-    "id": "7083",
-    "name": "Tyler Huntley",
-    "position": "QB",
-    "team": "BAL",
     "status": "Active"
   },
   {
