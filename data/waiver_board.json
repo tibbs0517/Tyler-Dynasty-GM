@@ -3868,7 +3868,7 @@
     "age": 26,
     "years_exp": 5,
     "active": true,
-    "injury_status": "Doubtful",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -5129,7 +5129,7 @@
     "age": 26,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Out",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -10199,7 +10199,7 @@
     "age": 29,
     "years_exp": 6,
     "active": true,
-    "injury_status": "Out",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -11752,6 +11752,19 @@
     "roster_id": null
   },
   {
+    "id": "11655",
+    "name": "Tyrone Tracy",
+    "position": "RB",
+    "team": "NYG",
+    "age": 26,
+    "years_exp": 2,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
     "id": "12826",
     "name": "Ulysses Bentley",
     "position": "RB",
@@ -12552,7 +12565,7 @@
     "age": 24,
     "years_exp": 1,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -21717,7 +21730,7 @@
     "age": 26,
     "years_exp": 2,
     "active": true,
-    "injury_status": "Out",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -30882,7 +30895,7 @@
     "age": 33,
     "years_exp": 9,
     "active": true,
-    "injury_status": "Out",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -34964,7 +34977,7 @@
     "age": 32,
     "years_exp": 9,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null

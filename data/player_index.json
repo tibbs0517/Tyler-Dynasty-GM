@@ -388,7 +388,7 @@
     "name": "Mykel Williams",
     "position": "DL",
     "team": "SF",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "11340": {
@@ -3993,7 +3993,7 @@
     "name": "Kenneth Grant",
     "position": "DL",
     "team": "MIA",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "11218": {
@@ -6233,7 +6233,7 @@
     "name": "Branson Taylor",
     "position": "OL",
     "team": "LAC",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "5351": {
@@ -6296,7 +6296,7 @@
     "name": "Chris Brooks",
     "position": "RB",
     "team": "GB",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "1958": {
@@ -27415,7 +27415,7 @@
     "name": "Tim Patrick",
     "position": "WR",
     "team": "NYJ",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "1639": {
@@ -27800,7 +27800,7 @@
     "name": "Michael Jurgens",
     "position": "OL",
     "team": "MIN",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "4748": {
@@ -32504,7 +32504,7 @@
     "name": "Julian Neal",
     "position": "DB",
     "team": "SEA",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "5491": {
@@ -34618,7 +34618,7 @@
     "name": "Yasir Abdullah",
     "position": "LB",
     "team": "ATL",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "12444": {
@@ -37495,7 +37495,7 @@
     "name": "Deatrich Wise",
     "position": "DE",
     "team": "WAS",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "11733": {
@@ -41380,7 +41380,7 @@
     "name": "Mack Hollins",
     "position": "WR",
     "team": "NE",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "13564": {
@@ -43480,7 +43480,7 @@
     "name": "Trey Lance",
     "position": "QB",
     "team": "LAC",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "13185": {
@@ -46042,7 +46042,7 @@
     "name": "Reggie Gilliam",
     "position": "RB",
     "team": "NE",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "115": {
@@ -52965,7 +52965,7 @@
     "name": "Ben Yurosek",
     "position": "TE",
     "team": "MIN",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "13209": {
@@ -54589,7 +54589,7 @@
     "name": "Scott Matlock",
     "position": "DT",
     "team": "LAC",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "5527": {
@@ -55625,7 +55625,7 @@
     "name": "Kayden McDonald",
     "position": "DL",
     "team": "HOU",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "4220": {
@@ -59111,7 +59111,7 @@
     "name": "Isaiah Adams",
     "position": "OL",
     "team": "ARI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "9225": {
@@ -59355,7 +59355,7 @@
   "5075": {
     "name": "Ogbo Okoronkwo",
     "position": "LB",
-    "team": null,
+    "team": "SF",
     "status": "Active",
     "active": true
   },
@@ -60112,7 +60112,7 @@
     "name": "Jaylan Ford",
     "position": "LB",
     "team": "NO",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "10925": {
@@ -61316,7 +61316,7 @@
     "name": "Chauncey Golston",
     "position": "DE",
     "team": "NYG",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "8230": {
@@ -67371,7 +67371,7 @@
     "name": "Lorenzo Styles",
     "position": "DB",
     "team": "NO",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "7365": {
@@ -67504,7 +67504,7 @@
     "name": "Trevor Penning",
     "position": "T",
     "team": "LAC",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "11404": {
@@ -81427,7 +81427,7 @@
     "name": "Michael Pittman",
     "position": "WR",
     "team": "PIT",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "6124": {

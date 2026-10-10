@@ -64,9 +64,6 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -113,25 +110,23 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "last_message_id": "1414727429850738688",
     "shard": 470,
-    "last_message_id": "1414694580187648000",
-    "draft_id": "1326711861202161664",
-    "last_author_avatar": "e36a6748fbd53ab64ceb5f669bc6e27c",
-    "last_author_display_name": "SammyA",
-    "last_author_id": "429817971473403904",
+    "last_author_avatar": "fde3ddaa5f8e2773416ba2804a4ee9b8",
+    "last_author_display_name": "jmikolay",
+    "last_author_id": "326192785587699712",
     "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791651980973,
+    "last_message_time": 1791659812943,
     "last_pinned_message_id": null,
+    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -156,6 +151,11 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -804,8 +804,8 @@
       ],
       "reserve": [
         "13276",
-        "13353",
         "5850",
+        "6819",
         "9502"
       ],
       "roster_id": 3,
@@ -1232,7 +1232,6 @@
         "11559",
         "11575",
         "11576",
-        "11655",
         "12489",
         "12493",
         "13275",
@@ -1255,7 +1254,6 @@
         "9753"
       ],
       "reserve": [
-        "5022",
         "9753"
       ],
       "roster_id": 9,
@@ -1274,14 +1272,14 @@
         "wins": 3
       },
       "starters": [
-        "4881",
+        "2306",
         "6813",
         "12489",
         "6786",
         "6801",
         "8112",
         "12493",
-        "8126",
+        "11576",
         "9500",
         "7523"
       ],
@@ -1755,7 +1753,7 @@
       "name": "Mykel Williams",
       "position": "DL",
       "team": "SF",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "11340": {
@@ -5360,7 +5358,7 @@
       "name": "Kenneth Grant",
       "position": "DL",
       "team": "MIA",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "11218": {
@@ -7600,7 +7598,7 @@
       "name": "Branson Taylor",
       "position": "OL",
       "team": "LAC",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "5351": {
@@ -7663,7 +7661,7 @@
       "name": "Chris Brooks",
       "position": "RB",
       "team": "GB",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "1958": {
@@ -28782,7 +28780,7 @@
       "name": "Tim Patrick",
       "position": "WR",
       "team": "NYJ",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "1639": {
@@ -29167,7 +29165,7 @@
       "name": "Michael Jurgens",
       "position": "OL",
       "team": "MIN",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "4748": {
@@ -33871,7 +33869,7 @@
       "name": "Julian Neal",
       "position": "DB",
       "team": "SEA",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "5491": {
@@ -35985,7 +35983,7 @@
       "name": "Yasir Abdullah",
       "position": "LB",
       "team": "ATL",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "12444": {
@@ -38862,7 +38860,7 @@
       "name": "Deatrich Wise",
       "position": "DE",
       "team": "WAS",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "11733": {
@@ -42747,7 +42745,7 @@
       "name": "Mack Hollins",
       "position": "WR",
       "team": "NE",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "13564": {
@@ -44847,7 +44845,7 @@
       "name": "Trey Lance",
       "position": "QB",
       "team": "LAC",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "13185": {
@@ -47409,7 +47407,7 @@
       "name": "Reggie Gilliam",
       "position": "RB",
       "team": "NE",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "115": {
@@ -54332,7 +54330,7 @@
       "name": "Ben Yurosek",
       "position": "TE",
       "team": "MIN",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "13209": {
@@ -55956,7 +55954,7 @@
       "name": "Scott Matlock",
       "position": "DT",
       "team": "LAC",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "5527": {
@@ -56992,7 +56990,7 @@
       "name": "Kayden McDonald",
       "position": "DL",
       "team": "HOU",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "4220": {
@@ -60478,7 +60476,7 @@
       "name": "Isaiah Adams",
       "position": "OL",
       "team": "ARI",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "9225": {
@@ -60722,7 +60720,7 @@
     "5075": {
       "name": "Ogbo Okoronkwo",
       "position": "LB",
-      "team": null,
+      "team": "SF",
       "status": "Active",
       "active": true
     },
@@ -61479,7 +61477,7 @@
       "name": "Jaylan Ford",
       "position": "LB",
       "team": "NO",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "10925": {
@@ -62683,7 +62681,7 @@
       "name": "Chauncey Golston",
       "position": "DE",
       "team": "NYG",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "8230": {
@@ -68738,7 +68736,7 @@
       "name": "Lorenzo Styles",
       "position": "DB",
       "team": "NO",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "7365": {
@@ -68871,7 +68869,7 @@
       "name": "Trevor Penning",
       "position": "T",
       "team": "LAC",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "11404": {
@@ -82794,7 +82792,7 @@
       "name": "Michael Pittman",
       "position": "WR",
       "team": "PIT",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "6124": {
@@ -88313,7 +88311,7 @@
       "name": "Ben Yurosek",
       "position": "TE",
       "team": "MIN",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "id": "663",
@@ -90021,7 +90019,7 @@
       "name": "Chris Brooks",
       "position": "RB",
       "team": "GB",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "3486",
@@ -99786,7 +99784,7 @@
       "name": "Mack Hollins",
       "position": "WR",
       "team": "NE",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "8209",
@@ -102600,7 +102598,7 @@
       "name": "Reggie Gilliam",
       "position": "RB",
       "team": "NE",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "8175",
@@ -104854,7 +104852,7 @@
       "name": "Tim Patrick",
       "position": "WR",
       "team": "NYJ",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "id": "2595",
@@ -105456,7 +105454,7 @@
       "name": "Trey Lance",
       "position": "QB",
       "team": "LAC",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "2262",
@@ -105974,6 +105972,13 @@
       "name": "Tyrone Swoopes",
       "position": "TE",
       "team": null,
+      "status": "Active"
+    },
+    {
+      "id": "11655",
+      "name": "Tyrone Tracy",
+      "position": "RB",
+      "team": "NYG",
       "status": "Active"
     },
     {

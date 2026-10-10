@@ -1341,7 +1341,7 @@
     "name": "Ben Yurosek",
     "position": "TE",
     "team": "MIN",
-    "status": "Inactive"
+    "status": "Active"
   },
   {
     "id": "663",
@@ -3049,7 +3049,7 @@
     "name": "Chris Brooks",
     "position": "RB",
     "team": "GB",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "3486",
@@ -12814,7 +12814,7 @@
     "name": "Mack Hollins",
     "position": "WR",
     "team": "NE",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "8209",
@@ -15628,7 +15628,7 @@
     "name": "Reggie Gilliam",
     "position": "RB",
     "team": "NE",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "8175",
@@ -17882,7 +17882,7 @@
     "name": "Tim Patrick",
     "position": "WR",
     "team": "NYJ",
-    "status": "Inactive"
+    "status": "Active"
   },
   {
     "id": "2595",
@@ -18484,7 +18484,7 @@
     "name": "Trey Lance",
     "position": "QB",
     "team": "LAC",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "2262",
@@ -19002,6 +19002,13 @@
     "name": "Tyrone Swoopes",
     "position": "TE",
     "team": null,
+    "status": "Active"
+  },
+  {
+    "id": "11655",
+    "name": "Tyrone Tracy",
+    "position": "RB",
+    "team": "NYG",
     "status": "Active"
   },
   {
