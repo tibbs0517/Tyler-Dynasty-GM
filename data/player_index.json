@@ -48722,7 +48722,7 @@
   "13405": {
     "name": "Kaytron Allen",
     "position": "RB",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -52076,7 +52076,7 @@
     "name": "Pat Bryant",
     "position": "WR",
     "team": "DEN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "6257": {
@@ -65956,7 +65956,7 @@
   "6216": {
     "name": "Ugo Amadi",
     "position": "DB",
-    "team": null,
+    "team": "DEN",
     "status": "Active",
     "active": true
   },
