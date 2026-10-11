@@ -5166,6 +5166,13 @@
     "status": "Active"
   },
   {
+    "id": "13347",
+    "name": "Demond Claiborne",
+    "position": "RB",
+    "team": "MIN",
+    "status": "Active"
+  },
+  {
     "id": "10870",
     "name": "Deneric Prince",
     "position": "RB",
@@ -6234,13 +6241,6 @@
     "name": "Ed Lee",
     "position": "WR",
     "team": null,
-    "status": "Active"
-  },
-  {
-    "id": "12542",
-    "name": "Efton Chism",
-    "position": "WR",
-    "team": "NE",
     "status": "Active"
   },
   {

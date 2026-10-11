@@ -6097,6 +6097,19 @@
     "roster_id": null
   },
   {
+    "id": "13347",
+    "name": "Demond Claiborne",
+    "position": "RB",
+    "team": "MIN",
+    "age": 23,
+    "years_exp": 0,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
     "id": "10870",
     "name": "Deneric Prince",
     "position": "RB",
@@ -25289,19 +25302,6 @@
     "name": "Ed Lee",
     "position": "WR",
     "team": null,
-    "age": 24,
-    "years_exp": 1,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
-    "id": "12542",
-    "name": "Efton Chism",
-    "position": "WR",
-    "team": "NE",
     "age": 24,
     "years_exp": 1,
     "active": true,

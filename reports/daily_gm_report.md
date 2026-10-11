@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-10-11 03:38:51
+Generated: 2026-10-11 10:31:44
 
 ---
 
@@ -16,7 +16,7 @@ Available Players: 2805
 ## League Activity
 
 Trades: 1
-Waiver Claims: 4
+Waiver Claims: 5
 Free Agent Moves: 5
 
 ---
@@ -37,6 +37,7 @@ Players on Roster: 24
 
 ## Top Waiver Claims
 
+- Efton Chism → HebrewsHeroes
 - Tyler Huntley → tylerhjensen
 - Ryan Flournoy → theFalIeniD
 - Shedeur Sanders → tylerhjensen
@@ -46,6 +47,7 @@ Players on Roster: 24
 ## Recently Dropped Players
 
 - Tyrone Tracy
+- Demond Claiborne
 - Shedeur Sanders
 - Tyrone Tracy
 - Case Keenum
@@ -59,6 +61,7 @@ Players on Roster: 24
 
 - tylerhjensen: 6 moves
 - jmikolay: 3 moves
+- HebrewsHeroes: 1 moves
 - AnthonyJania: 1 moves
 - theFalIeniD: 1 moves
 
