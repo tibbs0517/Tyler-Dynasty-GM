@@ -4279,7 +4279,7 @@
   "12925": {
     "name": "Jamaal Pritchett",
     "position": "WR",
-    "team": "NYJ",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -13645,7 +13645,7 @@
   "3303": {
     "name": "Matthew Judon",
     "position": "LB",
-    "team": "SF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -17334,7 +17334,7 @@
   "11738": {
     "name": "Decamerion Richardson",
     "position": "CB",
-    "team": "NO",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -19434,7 +19434,7 @@
   "13816": {
     "name": "Mark Gronowski",
     "position": "QB",
-    "team": "HOU",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -26707,7 +26707,7 @@
   "11959": {
     "name": "Bryce Oliver",
     "position": "WR",
-    "team": "HOU",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -27244,7 +27244,7 @@
     "active": true
   },
   "8861": {
-    "name": "Irv Charles",
+    "name": "Irvin Charles",
     "position": "WR",
     "team": "SEA",
     "status": "Inactive",
@@ -28912,7 +28912,7 @@
   "12653": {
     "name": "Jack Kiser",
     "position": "LB",
-    "team": "JAX",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -46888,7 +46888,7 @@
   "11018": {
     "name": "Christian Braswell",
     "position": "DB",
-    "team": "JAX",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -51522,7 +51522,7 @@
   "12538": {
     "name": "Brady Cook",
     "position": "QB",
-    "team": "MIA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -70324,7 +70324,7 @@
   "8200": {
     "name": "Kevin Austin",
     "position": "WR",
-    "team": "NO",
+    "team": null,
     "status": "Active",
     "active": true
   },

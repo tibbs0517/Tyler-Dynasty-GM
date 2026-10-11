@@ -112,26 +112,24 @@
     },
     "season": "2026",
     "season_type": "regular",
-    "shard": 470,
     "sport": "nfl",
+    "shard": 470,
     "last_message_id": "1414905610616492032",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
+    "draft_id": "1326711861202161664",
     "last_message_text_map": null,
     "last_message_time": 1791702294547,
     "last_pinned_message_id": null,
-    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -156,6 +154,8 @@
       "BN",
       "BN"
     ],
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -680,12 +680,12 @@
       "starters": [
         "11563",
         "4034",
-        "8154",
+        "8228",
         "8137",
         "11620",
         "9487",
         "13330",
-        "8228",
+        "8154",
         "4663",
         "3257"
       ],
@@ -756,7 +756,7 @@
         "9493",
         "13346",
         "8130",
-        "12526",
+        "1479",
         "9997",
         "6904"
       ],
@@ -974,9 +974,9 @@
         "3163",
         "8138",
         "11584",
-        "11610",
+        "12535",
         "4983",
-        "9756",
+        "11610",
         "10859",
         "5844",
         "4217",
@@ -1043,14 +1043,14 @@
       },
       "starters": [
         "3294",
-        "12495",
-        "8150",
+        "11435",
+        "9509",
         "11632",
         "10232",
-        "2133",
-        "8131",
-        "9509",
         "8144",
+        "8131",
+        "8150",
+        "2133",
         "421"
       ],
       "taxi": null
@@ -1120,14 +1120,14 @@
       },
       "starters": [
         "11564",
-        "9221",
+        "11577",
         "4199",
         "7564",
         "7547",
         "5846",
         "9484",
         "10236",
-        "11577",
+        "9221",
         "6770"
       ],
       "taxi": null
@@ -1280,7 +1280,7 @@
         "8112",
         "12493",
         "11576",
-        "9500",
+        "6794",
         "7523"
       ],
       "taxi": null
@@ -5644,7 +5644,7 @@
     "12925": {
       "name": "Jamaal Pritchett",
       "position": "WR",
-      "team": "NYJ",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -15010,7 +15010,7 @@
     "3303": {
       "name": "Matthew Judon",
       "position": "LB",
-      "team": "SF",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -18699,7 +18699,7 @@
     "11738": {
       "name": "Decamerion Richardson",
       "position": "CB",
-      "team": "NO",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -20799,7 +20799,7 @@
     "13816": {
       "name": "Mark Gronowski",
       "position": "QB",
-      "team": "HOU",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -28072,7 +28072,7 @@
     "11959": {
       "name": "Bryce Oliver",
       "position": "WR",
-      "team": "HOU",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -28609,7 +28609,7 @@
       "active": true
     },
     "8861": {
-      "name": "Irv Charles",
+      "name": "Irvin Charles",
       "position": "WR",
       "team": "SEA",
       "status": "Inactive",
@@ -30277,7 +30277,7 @@
     "12653": {
       "name": "Jack Kiser",
       "position": "LB",
-      "team": "JAX",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -48253,7 +48253,7 @@
     "11018": {
       "name": "Christian Braswell",
       "position": "DB",
-      "team": "JAX",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -52887,7 +52887,7 @@
     "12538": {
       "name": "Brady Cook",
       "position": "QB",
-      "team": "MIA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -71689,7 +71689,7 @@
     "8200": {
       "name": "Kevin Austin",
       "position": "WR",
-      "team": "NO",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -88499,7 +88499,7 @@
       "id": "12538",
       "name": "Brady Cook",
       "position": "QB",
-      "team": "MIA",
+      "team": null,
       "status": "Active"
     },
     {
@@ -89052,7 +89052,7 @@
       "id": "11959",
       "name": "Bryce Oliver",
       "position": "WR",
-      "team": "HOU",
+      "team": null,
       "status": "Active"
     },
     {
@@ -94425,17 +94425,17 @@
       "status": "Active"
     },
     {
-      "id": "8861",
-      "name": "Irv Charles",
-      "position": "WR",
-      "team": "SEA",
-      "status": "Inactive"
-    },
-    {
       "id": "6126",
       "name": "Irv Smith",
       "position": "TE",
       "team": null,
+      "status": "Inactive"
+    },
+    {
+      "id": "8861",
+      "name": "Irvin Charles",
+      "position": "WR",
+      "team": "SEA",
       "status": "Inactive"
     },
     {
@@ -95583,7 +95583,7 @@
       "id": "12925",
       "name": "Jamaal Pritchett",
       "position": "WR",
-      "team": "NYJ",
+      "team": null,
       "status": "Active"
     },
     {
@@ -98691,7 +98691,7 @@
       "id": "8200",
       "name": "Kevin Austin",
       "position": "WR",
-      "team": "NO",
+      "team": null,
       "status": "Active"
     },
     {
@@ -100161,7 +100161,7 @@
       "id": "13816",
       "name": "Mark Gronowski",
       "position": "QB",
-      "team": "HOU",
+      "team": null,
       "status": "Active"
     },
     {
