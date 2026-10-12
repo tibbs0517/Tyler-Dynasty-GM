@@ -4839,7 +4839,7 @@
   "12937": {
     "name": "Keith Cooper",
     "position": "DL",
-    "team": null,
+    "team": "CAR",
     "status": "Active",
     "active": true
   },
@@ -16627,8 +16627,8 @@
   "11633": {
     "name": "Jamari Thrash",
     "position": "WR",
-    "team": null,
-    "status": "Inactive",
+    "team": "LV",
+    "status": "Active",
     "active": true
   },
   "12137": {
@@ -28912,7 +28912,7 @@
   "12653": {
     "name": "Jack Kiser",
     "position": "LB",
-    "team": null,
+    "team": "CIN",
     "status": "Active",
     "active": true
   },
@@ -48037,7 +48037,7 @@
     "name": "Swayze Bozeman",
     "position": "LB",
     "team": "CIN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "873": {
@@ -49219,7 +49219,7 @@
   "7077": {
     "name": "Jacob Bobenmoyer",
     "position": "LS",
-    "team": null,
+    "team": "JAX",
     "status": "Active",
     "active": true
   },
@@ -49828,7 +49828,7 @@
   "4113": {
     "name": "Dawuane Smoot",
     "position": "DE",
-    "team": null,
+    "team": "NYG",
     "status": "Active",
     "active": true
   },
@@ -55729,7 +55729,7 @@
   "3369": {
     "name": "Elandon Roberts",
     "position": "LB",
-    "team": null,
+    "team": "PIT",
     "status": "Active",
     "active": true
   },
@@ -80292,7 +80292,7 @@
   "5374": {
     "name": "Justin Watson",
     "position": "WR",
-    "team": null,
+    "team": "KC",
     "status": "Active",
     "active": true
   },
@@ -84304,7 +84304,7 @@
     "name": "Tyquan Thornton",
     "position": "WR",
     "team": "KC",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "7808": {

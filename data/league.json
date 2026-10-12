@@ -67,6 +67,7 @@
   "season": "2026",
   "season_type": "regular",
   "sport": "nfl",
+  "last_message_id": "1415177543320920064",
   "scoring_settings": {
     "sack": 1.0,
     "fgm_40_49": 4.0,
@@ -113,7 +114,6 @@
     "pts_allow_7_13": 4.0,
     "st_ff": 1.0
   },
-  "last_message_id": "1415177543320920064",
   "last_author_avatar": "fde3ddaa5f8e2773416ba2804a4ee9b8",
   "last_author_display_name": "jmikolay",
   "last_author_id": "326192785587699712",

@@ -1281,7 +1281,7 @@
     "age": 29,
     "years_exp": 7,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -17622,7 +17622,7 @@
     "age": 23,
     "years_exp": 0,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -19195,7 +19195,7 @@
     "age": 31,
     "years_exp": 8,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -21158,7 +21158,7 @@
     "age": 29,
     "years_exp": 5,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -21912,7 +21912,7 @@
     "age": 24,
     "years_exp": 0,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -27225,7 +27225,7 @@
     "id": "11633",
     "name": "Jamari Thrash",
     "position": "WR",
-    "team": null,
+    "team": "LV",
     "age": 25,
     "years_exp": 2,
     "active": true,
@@ -29214,7 +29214,7 @@
     "id": "5374",
     "name": "Justin Watson",
     "position": "WR",
-    "team": null,
+    "team": "KC",
     "age": 30,
     "years_exp": 8,
     "active": true,
@@ -35016,7 +35016,7 @@
     "age": 30,
     "years_exp": 7,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -35770,7 +35770,7 @@
     "age": 25,
     "years_exp": 3,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -35822,7 +35822,7 @@
     "age": 26,
     "years_exp": 4,
     "active": true,
-    "injury_status": "Out",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null

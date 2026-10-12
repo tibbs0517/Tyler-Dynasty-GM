@@ -8669,8 +8669,8 @@
     "id": "11633",
     "name": "Jamari Thrash",
     "position": "WR",
-    "team": null,
-    "status": "Inactive"
+    "team": "LV",
+    "status": "Active"
   },
   {
     "id": "6713",
@@ -10958,7 +10958,7 @@
     "id": "5374",
     "name": "Justin Watson",
     "position": "WR",
-    "team": null,
+    "team": "KC",
     "status": "Active"
   },
   {
@@ -18911,7 +18911,7 @@
     "name": "Tyquan Thornton",
     "position": "WR",
     "team": "KC",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "6049",
