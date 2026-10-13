@@ -3460,7 +3460,7 @@
   "11579": {
     "name": "Audric Estime",
     "position": "RB",
-    "team": "MIN",
+    "team": "CLE",
     "status": "Active",
     "active": true
   },
@@ -4279,7 +4279,7 @@
   "12925": {
     "name": "Jamaal Pritchett",
     "position": "WR",
-    "team": null,
+    "team": "NYJ",
     "status": "Active",
     "active": true
   },
@@ -6338,7 +6338,7 @@
     "name": "Taylor Moton",
     "position": "T",
     "team": "CAR",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "11002": {
@@ -8599,7 +8599,7 @@
     "name": "Tershawn Wharton",
     "position": "DT",
     "team": "CAR",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "13421": {
@@ -10152,7 +10152,7 @@
   "7451": {
     "name": "Cam Gill",
     "position": "LB",
-    "team": "CAR",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -15017,7 +15017,7 @@
   "6958": {
     "name": "Mike Danna",
     "position": "DE",
-    "team": "BUF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -21261,7 +21261,7 @@
   "12138": {
     "name": "Anthony Goodlow",
     "position": "DE",
-    "team": "CAR",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -31103,7 +31103,7 @@
   "7448": {
     "name": "Nick Leverett",
     "position": "G",
-    "team": "DAL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -39839,7 +39839,7 @@
   "5894": {
     "name": "Germaine Pratt",
     "position": "LB",
-    "team": null,
+    "team": "IND",
     "status": "Active",
     "active": true
   },
@@ -40189,7 +40189,7 @@
   "12476": {
     "name": "Devin Neal",
     "position": "RB",
-    "team": null,
+    "team": "WAS",
     "status": "Active",
     "active": true
   },
@@ -51522,7 +51522,7 @@
   "12538": {
     "name": "Brady Cook",
     "position": "QB",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -51984,7 +51984,7 @@
   "7712": {
     "name": "Robert Rochell",
     "position": "DB",
-    "team": null,
+    "team": "CAR",
     "status": "Active",
     "active": true
   },
@@ -52425,7 +52425,7 @@
   "11058": {
     "name": "Blake Grupe",
     "position": "K",
-    "team": "NYJ",
+    "team": "LAR",
     "status": "Active",
     "active": true
   },
@@ -60573,7 +60573,7 @@
   "11199": {
     "name": "Emari Demercado",
     "position": "RB",
-    "team": null,
+    "team": "DAL",
     "status": "Active",
     "active": true
   },
@@ -71297,8 +71297,8 @@
   "12803": {
     "name": "Luke Grimm",
     "position": "WR",
-    "team": null,
-    "status": "Inactive",
+    "team": "LAC",
+    "status": "Active",
     "active": true
   },
   "11872": {
@@ -72704,7 +72704,7 @@
   "11569": {
     "name": "Jarquez Hunter",
     "position": "RB",
-    "team": "MIA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -74406,7 +74406,7 @@
     "name": "Cam Jackson",
     "position": "DT",
     "team": "CAR",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "7085": {
@@ -75728,7 +75728,7 @@
   "11056": {
     "name": "Jared Wayne",
     "position": "WR",
-    "team": "HOU",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -81279,7 +81279,7 @@
   "6960": {
     "name": "Tyler Johnson",
     "position": "WR",
-    "team": "NYJ",
+    "team": null,
     "status": "Active",
     "active": true
   },

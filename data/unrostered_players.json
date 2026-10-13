@@ -969,7 +969,7 @@
     "id": "11579",
     "name": "Audric Estime",
     "position": "RB",
-    "team": "MIN",
+    "team": "CLE",
     "status": "Active"
   },
   {
@@ -1529,7 +1529,7 @@
     "id": "12538",
     "name": "Brady Cook",
     "position": "QB",
-    "team": null,
+    "team": "MIA",
     "status": "Active"
   },
   {
@@ -5470,7 +5470,7 @@
     "id": "12476",
     "name": "Devin Neal",
     "position": "RB",
-    "team": null,
+    "team": "WAS",
     "status": "Active"
   },
   {
@@ -6429,7 +6429,7 @@
     "id": "11199",
     "name": "Emari Demercado",
     "position": "RB",
-    "team": null,
+    "team": "DAL",
     "status": "Active"
   },
   {
@@ -8613,7 +8613,7 @@
     "id": "12925",
     "name": "Jamaal Pritchett",
     "position": "WR",
-    "team": null,
+    "team": "NYJ",
     "status": "Active"
   },
   {
@@ -8900,7 +8900,7 @@
     "id": "11056",
     "name": "Jared Wayne",
     "position": "WR",
-    "team": "HOU",
+    "team": null,
     "status": "Active"
   },
   {
@@ -8949,7 +8949,7 @@
     "id": "11569",
     "name": "Jarquez Hunter",
     "position": "RB",
-    "team": "MIA",
+    "team": null,
     "status": "Active"
   },
   {
@@ -12715,8 +12715,8 @@
     "id": "12803",
     "name": "Luke Grimm",
     "position": "WR",
-    "team": null,
-    "status": "Inactive"
+    "team": "LAC",
+    "status": "Active"
   },
   {
     "id": "12725",
@@ -18812,7 +18812,7 @@
     "id": "6960",
     "name": "Tyler Johnson",
     "position": "WR",
-    "team": "NYJ",
+    "team": null,
     "status": "Active"
   },
   {
