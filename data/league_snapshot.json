@@ -56,14 +56,18 @@
       "trade_review_days": 0,
       "bench_lock": 0,
       "offseason_adds": 1,
-      "leg": 5,
+      "leg": 6,
       "daily_waivers_base": 4,
       "reserve_slots": 4,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 13
+      "daily_waivers_last_ran": 14
     },
     "avatar": null,
     "company_id": null,
+    "shard": 470,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -110,23 +114,20 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 470,
-    "sport": "nfl",
-    "last_message_id": "1415836339730919424",
+    "last_message_id": "1415995420114518016",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "draft_id": "1326711861202161664",
-    "last_message_time": 1791924197660,
+    "last_message_time": 1791962125379,
     "last_pinned_message_id": null,
+    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -153,7 +154,6 @@
     ],
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -674,7 +674,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 5,
+        "waiver_position": 4,
         "wins": 2
       },
       "starters": [
@@ -819,7 +819,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 22,
-        "waiver_position": 9,
+        "waiver_position": 8,
         "wins": 2
       },
       "starters": [
@@ -895,7 +895,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 8,
+        "waiver_position": 7,
         "wins": 1
       },
       "starters": [
@@ -965,7 +965,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 4,
+        "waiver_position": 3,
         "wins": 2
       },
       "starters": [
@@ -1036,7 +1036,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 12,
-        "waiver_position": 6,
+        "waiver_position": 5,
         "wins": 4
       },
       "starters": [
@@ -1070,7 +1070,6 @@
       "players": [
         "10236",
         "11564",
-        "11577",
         "11581",
         "11583",
         "11643",
@@ -1084,6 +1083,7 @@
         "13413",
         "3634",
         "4199",
+        "4454",
         "5846",
         "6770",
         "6803",
@@ -1112,7 +1112,7 @@
         "ppts_decimal": 92,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 50,
+        "waiver_budget_used": 53,
         "waiver_position": 10,
         "wins": 4
       },
@@ -1152,6 +1152,7 @@
         "12518",
         "12529",
         "12718",
+        "13150",
         "13269",
         "13274",
         "13320",
@@ -1187,8 +1188,8 @@
         "ppts_decimal": 60,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 0,
-        "waiver_position": 3,
+        "waiver_budget_used": 12,
+        "waiver_position": 9,
         "wins": 2
       },
       "starters": [
@@ -1268,7 +1269,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 21,
-        "waiver_position": 7,
+        "waiver_position": 6,
         "wins": 3
       },
       "starters": [
@@ -1669,7 +1670,7 @@
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
-    "display_week": 5,
+    "display_week": 6,
     "league_create_season": "2026",
     "season_has_scores": true
   }

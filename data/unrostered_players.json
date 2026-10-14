@@ -4438,13 +4438,6 @@
     "status": "Active"
   },
   {
-    "id": "13150",
-    "name": "Darius Cooper",
-    "position": "WR",
-    "team": "PHI",
-    "status": "Active"
-  },
-  {
     "id": "2925",
     "name": "Darius Davis",
     "position": "WR",
@@ -11498,13 +11491,6 @@
     "name": "Kendric Pryor",
     "position": "WR",
     "team": null,
-    "status": "Active"
-  },
-  {
-    "id": "4454",
-    "name": "Kendrick Bourne",
-    "position": "WR",
-    "team": "ARI",
     "status": "Active"
   },
   {
@@ -19254,6 +19240,13 @@
     "name": "Will Sheppard",
     "position": "WR",
     "team": "MIA",
+    "status": "Active"
+  },
+  {
+    "id": "11577",
+    "name": "Will Shipley",
+    "position": "RB",
+    "team": "PHI",
     "status": "Active"
   },
   {

@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-10-14 05:44:14
+Generated: 2026-10-14 11:03:29
 
 ---
 
@@ -9,14 +9,14 @@ Generated: 2026-10-14 05:44:14
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2806
+Available Players: 2805
 
 ---
 
 ## League Activity
 
 Trades: 1
-Waiver Claims: 5
+Waiver Claims: 9
 Free Agent Moves: 6
 
 ---
@@ -37,6 +37,10 @@ Players on Roster: 24
 
 ## Top Waiver Claims
 
+- Kendrick Bourne → tylerhjensen
+- Kendrick Bourne → HebrewsHeroes
+- Darius Cooper → HoNeYmOOnBaBy
+- Darius Cooper → AnthonyJania
 - Efton Chism → HebrewsHeroes
 - Tyler Huntley → tylerhjensen
 - Ryan Flournoy → theFalIeniD
@@ -46,6 +50,7 @@ Players on Roster: 24
 
 ## Recently Dropped Players
 
+- Will Shipley
 - Tyler Huntley
 - Tyrone Tracy
 - Demond Claiborne
@@ -60,10 +65,11 @@ Players on Roster: 24
 
 ## Most Active Managers
 
-- tylerhjensen: 7 moves
+- tylerhjensen: 8 moves
 - jmikolay: 3 moves
-- HebrewsHeroes: 1 moves
-- AnthonyJania: 1 moves
+- HebrewsHeroes: 2 moves
+- AnthonyJania: 2 moves
+- HoNeYmOOnBaBy: 1 moves
 - theFalIeniD: 1 moves
 
 ---
