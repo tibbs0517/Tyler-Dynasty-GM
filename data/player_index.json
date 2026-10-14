@@ -10761,7 +10761,7 @@
   "6111": {
     "name": "Jake Browning",
     "position": "QB",
-    "team": null,
+    "team": "LAC",
     "status": "Active",
     "active": true
   },
@@ -15017,7 +15017,7 @@
   "6958": {
     "name": "Mike Danna",
     "position": "DE",
-    "team": null,
+    "team": "BUF",
     "status": "Active",
     "active": true
   },
@@ -32356,7 +32356,7 @@
   "13845": {
     "name": "Elijah Culp",
     "position": "CB",
-    "team": null,
+    "team": "GB",
     "status": "Active",
     "active": true
   },
