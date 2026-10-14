@@ -1278,7 +1278,7 @@
         "8126",
         "8112",
         "1466",
-        "12489",
+        "11576",
         "5022",
         "7523"
       ],
@@ -56036,7 +56036,7 @@
     "11455": {
       "name": "Anthony Kendall",
       "position": "CB",
-      "team": null,
+      "team": "BUF",
       "status": "Active",
       "active": true
     },
@@ -65052,7 +65052,7 @@
     "13774": {
       "name": "Josh Gesky",
       "position": "G",
-      "team": null,
+      "team": "NYG",
       "status": "Active",
       "active": true
     },
@@ -68578,7 +68578,7 @@
       "active": true
     },
     "7715": {
-      "name": "Camryn Bynum",
+      "name": "Cam Bynum",
       "position": "DB",
       "team": "IND",
       "status": "Active",
@@ -71688,7 +71688,7 @@
     "8200": {
       "name": "Kevin Austin",
       "position": "WR",
-      "team": null,
+      "team": "NO",
       "status": "Active",
       "active": true
     },
@@ -74068,7 +74068,7 @@
     "11569": {
       "name": "Jarquez Hunter",
       "position": "RB",
-      "team": null,
+      "team": "NO",
       "status": "Active",
       "active": true
     },
@@ -95911,7 +95911,7 @@
       "id": "11569",
       "name": "Jarquez Hunter",
       "position": "RB",
-      "team": null,
+      "team": "NO",
       "status": "Active"
     },
     {
@@ -98676,7 +98676,7 @@
       "id": "8200",
       "name": "Kevin Austin",
       "position": "WR",
-      "team": null,
+      "team": "NO",
       "status": "Active"
     },
     {
