@@ -3146,7 +3146,7 @@
     "id": "3269",
     "name": "Chris Moore",
     "position": "WR",
-    "team": "BAL",
+    "team": null,
     "status": "Active"
   },
   {
@@ -3356,7 +3356,7 @@
     "id": "13834",
     "name": "Cody Hardy",
     "position": "TE",
-    "team": "NYJ",
+    "team": null,
     "status": "Active"
   },
   {
@@ -4315,7 +4315,7 @@
     "id": "13861",
     "name": "Daniel Sobkowicz",
     "position": "WR",
-    "team": "HOU",
+    "team": null,
     "status": "Active"
   },
   {
@@ -8746,7 +8746,7 @@
     "id": "6957",
     "name": "James Proche",
     "position": "WR",
-    "team": "CLE",
+    "team": null,
     "status": "Active"
   },
   {
@@ -9474,7 +9474,7 @@
     "id": "8143",
     "name": "Jerome Ford",
     "position": "RB",
-    "team": null,
+    "team": "ARI",
     "status": "Active"
   },
   {
@@ -10727,7 +10727,7 @@
     "id": "7050",
     "name": "Josiah Deguara",
     "position": "TE",
-    "team": "PHI",
+    "team": null,
     "status": "Active"
   },
   {
@@ -16222,7 +16222,7 @@
     "id": "11421",
     "name": "Ryan Miller",
     "position": "WR",
-    "team": "MIA",
+    "team": null,
     "status": "Active"
   },
   {
@@ -16803,7 +16803,7 @@
     "id": "11257",
     "name": "Shedrick Jackson",
     "position": "WR",
-    "team": null,
+    "team": "ARI",
     "status": "Active"
   },
   {
@@ -18483,7 +18483,7 @@
     "id": "9492",
     "name": "Trey Palmer",
     "position": "WR",
-    "team": "NO",
+    "team": null,
     "status": "Active"
   },
   {
@@ -19012,10 +19012,17 @@
     "status": "Active"
   },
   {
+    "id": "11256",
+    "name": "Tyson Bagent",
+    "position": "QB",
+    "team": "CHI",
+    "status": "Active"
+  },
+  {
     "id": "12826",
     "name": "Ulysses Bentley",
     "position": "RB",
-    "team": "NO",
+    "team": null,
     "status": "Active"
   },
   {
@@ -19323,7 +19330,7 @@
     "id": "13042",
     "name": "Xavier Guillory",
     "position": "WR",
-    "team": "BAL",
+    "team": null,
     "status": "Active"
   },
   {
