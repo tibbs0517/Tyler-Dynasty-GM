@@ -5407,7 +5407,7 @@
     "id": "11820",
     "name": "Devin Culp",
     "position": "TE",
-    "team": "TB",
+    "team": "CLE",
     "status": "Active"
   },
   {
@@ -7276,7 +7276,7 @@
     "id": "8123",
     "name": "Hassan Haskins",
     "position": "RB",
-    "team": null,
+    "team": "NE",
     "status": "Active"
   },
   {
@@ -7466,7 +7466,7 @@
     "name": "Irvin Charles",
     "position": "WR",
     "team": "SEA",
-    "status": "Inactive"
+    "status": "Active"
   },
   {
     "id": "11651",
@@ -8900,7 +8900,7 @@
     "id": "11056",
     "name": "Jared Wayne",
     "position": "WR",
-    "team": null,
+    "team": "MIA",
     "status": "Active"
   },
   {
@@ -15411,7 +15411,7 @@
     "name": "Raheim Sanders",
     "position": "RB",
     "team": "CLE",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "13323",
@@ -18806,6 +18806,13 @@
     "name": "Tyler Hudson",
     "position": "WR",
     "team": null,
+    "status": "Active"
+  },
+  {
+    "id": "7083",
+    "name": "Tyler Huntley",
+    "position": "QB",
+    "team": "BAL",
     "status": "Active"
   },
   {

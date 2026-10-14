@@ -1206,8 +1206,8 @@
   "8361": {
     "name": "Damarion Williams",
     "position": "DB",
-    "team": null,
-    "status": "Inactive",
+    "team": "LAR",
+    "status": "Active",
     "active": true
   },
   "3054": {
@@ -13379,7 +13379,7 @@
   "11173": {
     "name": "D'Shawn Jamison",
     "position": "CB",
-    "team": null,
+    "team": "NE",
     "status": "Active",
     "active": true
   },
@@ -17334,7 +17334,7 @@
   "11738": {
     "name": "Decamerion Richardson",
     "position": "CB",
-    "team": null,
+    "team": "NO",
     "status": "Active",
     "active": true
   },
@@ -20232,7 +20232,7 @@
   "14057": {
     "name": "Zion Wilson",
     "position": "DT",
-    "team": null,
+    "team": "PHI",
     "status": "Active",
     "active": true
   },
@@ -27247,7 +27247,7 @@
     "name": "Irvin Charles",
     "position": "WR",
     "team": "SEA",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "13258": {
@@ -31103,7 +31103,7 @@
   "7448": {
     "name": "Nick Leverett",
     "position": "G",
-    "team": null,
+    "team": "DAL",
     "status": "Active",
     "active": true
   },
@@ -33225,7 +33225,7 @@
     "name": "Anton Harrison",
     "position": "OL",
     "team": "JAX",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "13356": {
@@ -52096,7 +52096,7 @@
   "11736": {
     "name": "Jordan Jefferson",
     "position": "DT",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -58110,7 +58110,7 @@
     "name": "Raheim Sanders",
     "position": "RB",
     "team": "CLE",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "7420": {
@@ -60335,7 +60335,7 @@
   "8123": {
     "name": "Hassan Haskins",
     "position": "RB",
-    "team": null,
+    "team": "NE",
     "status": "Active",
     "active": true
   },
@@ -62400,7 +62400,7 @@
   "6296": {
     "name": "Quinton Bell",
     "position": "LB",
-    "team": null,
+    "team": "NYJ",
     "status": "Active",
     "active": true
   },
@@ -72257,7 +72257,7 @@
     "name": "Shemar Turner",
     "position": "DE",
     "team": "CHI",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "7351": {
@@ -75728,7 +75728,7 @@
   "11056": {
     "name": "Jared Wayne",
     "position": "WR",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -77156,7 +77156,7 @@
   "12780": {
     "name": "Xavier Truss",
     "position": "OT",
-    "team": null,
+    "team": "PHI",
     "status": "Active",
     "active": true
   },
@@ -79641,7 +79641,7 @@
   "13230": {
     "name": "Vershon Lee",
     "position": "OL",
-    "team": null,
+    "team": "CLE",
     "status": "Active",
     "active": true
   },
@@ -83869,7 +83869,7 @@
   "11820": {
     "name": "Devin Culp",
     "position": "TE",
-    "team": "TB",
+    "team": "CLE",
     "status": "Active",
     "active": true
   },
