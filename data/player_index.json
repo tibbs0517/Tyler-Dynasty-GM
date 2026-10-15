@@ -10824,7 +10824,7 @@
   "12871": {
     "name": "Eugene Asante",
     "position": "LB",
-    "team": null,
+    "team": "SF",
     "status": "Active",
     "active": true
   },
@@ -16648,7 +16648,7 @@
   "12282": {
     "name": "C.J. Ravenell",
     "position": "DL",
-    "team": "NYG",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -46692,7 +46692,7 @@
   "11679": {
     "name": "Chris Braswell",
     "position": "LB",
-    "team": null,
+    "team": "HOU",
     "status": "Active",
     "active": true
   },
