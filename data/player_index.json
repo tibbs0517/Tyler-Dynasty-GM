@@ -31460,7 +31460,7 @@
   "12036": {
     "name": "Ian Wheeler",
     "position": "RB",
-    "team": null,
+    "team": "PHI",
     "status": "Active",
     "active": true
   },
@@ -53980,7 +53980,7 @@
     "name": "Alec Ingold",
     "position": "FB",
     "team": "LAC",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3939": {
