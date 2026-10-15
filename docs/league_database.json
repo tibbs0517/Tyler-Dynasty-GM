@@ -60,10 +60,14 @@
       "daily_waivers_base": 4,
       "reserve_slots": 4,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 14
+      "daily_waivers_last_ran": 15
     },
     "avatar": null,
     "company_id": null,
+    "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 470,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -110,20 +114,16 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
-    "shard": 470,
-    "last_message_id": "1416071706971316224",
+    "last_message_id": "1416355176897392640",
+    "draft_id": "1326711861202161664",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1791980313583,
+    "last_message_time": 1792047898080,
     "last_pinned_message_id": null,
-    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
@@ -672,7 +672,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 4,
+        "waiver_position": 3,
         "wins": 2
       },
       "starters": [
@@ -817,7 +817,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 22,
-        "waiver_position": 8,
+        "waiver_position": 7,
         "wins": 2
       },
       "starters": [
@@ -893,7 +893,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 7,
+        "waiver_position": 6,
         "wins": 1
       },
       "starters": [
@@ -942,7 +942,9 @@
         "7049",
         "7525",
         "7571",
+        "8129",
         "8138",
+        "9501",
         "9504",
         "9756"
       ],
@@ -964,7 +966,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 3,
+        "waiver_position": 10,
         "wins": 2
       },
       "starters": [
@@ -1035,7 +1037,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 12,
-        "waiver_position": 5,
+        "waiver_position": 4,
         "wins": 4
       },
       "starters": [
@@ -1112,7 +1114,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 53,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 4
       },
       "starters": [
@@ -1187,7 +1189,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 12,
-        "waiver_position": 9,
+        "waiver_position": 8,
         "wins": 2
       },
       "starters": [
@@ -1267,7 +1269,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 21,
-        "waiver_position": 6,
+        "waiver_position": 5,
         "wins": 3
       },
       "starters": [
@@ -7988,7 +7990,7 @@
     "3269": {
       "name": "Chris Moore",
       "position": "WR",
-      "team": null,
+      "team": "BAL",
       "status": "Active",
       "active": true
     },
@@ -14030,7 +14032,7 @@
       "name": "Jordon Riley",
       "position": "DL",
       "team": "GB",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "5137": {
@@ -22394,7 +22396,7 @@
     "6353": {
       "name": "Troy Reeder",
       "position": "LB",
-      "team": null,
+      "team": "NYJ",
       "status": "Active",
       "active": true
     },
@@ -90115,7 +90117,7 @@
       "id": "3269",
       "name": "Chris Moore",
       "position": "WR",
-      "team": null,
+      "team": "BAL",
       "status": "Active"
     },
     {
@@ -91078,13 +91080,6 @@
       "status": "Active"
     },
     {
-      "id": "8129",
-      "name": "Dameon Pierce",
-      "position": "RB",
-      "team": "PHI",
-      "status": "Active"
-    },
-    {
       "id": "13440",
       "name": "Damien Alford",
       "position": "WR",
@@ -91929,13 +91924,6 @@
       "name": "DeAngelo Yancey",
       "position": "WR",
       "team": null,
-      "status": "Active"
-    },
-    {
-      "id": "9501",
-      "name": "DeMario Douglas",
-      "position": "WR",
-      "team": "NE",
       "status": "Active"
     },
     {

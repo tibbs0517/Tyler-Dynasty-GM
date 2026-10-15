@@ -6624,7 +6624,7 @@
   "3269": {
     "name": "Chris Moore",
     "position": "WR",
-    "team": null,
+    "team": "BAL",
     "status": "Active",
     "active": true
   },
@@ -12666,7 +12666,7 @@
     "name": "Jordon Riley",
     "position": "DL",
     "team": "GB",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "5137": {
@@ -21030,7 +21030,7 @@
   "6353": {
     "name": "Troy Reeder",
     "position": "LB",
-    "team": null,
+    "team": "NYJ",
     "status": "Active",
     "active": true
   },

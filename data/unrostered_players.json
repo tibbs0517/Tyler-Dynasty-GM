@@ -3146,7 +3146,7 @@
     "id": "3269",
     "name": "Chris Moore",
     "position": "WR",
-    "team": null,
+    "team": "BAL",
     "status": "Active"
   },
   {
@@ -4109,13 +4109,6 @@
     "status": "Active"
   },
   {
-    "id": "8129",
-    "name": "Dameon Pierce",
-    "position": "RB",
-    "team": "PHI",
-    "status": "Active"
-  },
-  {
     "id": "13440",
     "name": "Damien Alford",
     "position": "WR",
@@ -4960,13 +4953,6 @@
     "name": "DeAngelo Yancey",
     "position": "WR",
     "team": null,
-    "status": "Active"
-  },
-  {
-    "id": "9501",
-    "name": "DeMario Douglas",
-    "position": "WR",
-    "team": "NE",
     "status": "Active"
   },
   {

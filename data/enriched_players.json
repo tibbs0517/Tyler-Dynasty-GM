@@ -12301,7 +12301,7 @@
     "id": "3269",
     "name": "Chris Moore",
     "position": "WR",
-    "team": null,
+    "team": "BAL",
     "age": 33,
     "years_exp": 10,
     "active": true,
@@ -32431,8 +32431,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": false,
-    "roster_id": null
+    "rostered": true,
+    "roster_id": 5
   },
   "7539": {
     "id": "7539",
@@ -39055,7 +39055,7 @@
     "id": "6353",
     "name": "Troy Reeder",
     "position": "LB",
-    "team": null,
+    "team": "NYJ",
     "age": 32,
     "years_exp": 7,
     "active": true,
@@ -94207,8 +94207,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": false,
-    "roster_id": null
+    "rostered": true,
+    "roster_id": 5
   },
   "8434": {
     "id": "8434",
