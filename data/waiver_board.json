@@ -13696,7 +13696,7 @@
     "age": 27,
     "years_exp": 6,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -14177,7 +14177,7 @@
     "age": 25,
     "years_exp": 3,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -20622,7 +20622,7 @@
     "name": "Andrei Iosivas",
     "position": "WR",
     "team": "CIN",
-    "age": 26,
+    "age": 27,
     "years_exp": 3,
     "active": true,
     "injury_status": "IR",
@@ -24564,7 +24564,7 @@
     "age": 29,
     "years_exp": 6,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
