@@ -1400,8 +1400,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": true,
-    "roster_id": 5
+    "rostered": false,
+    "roster_id": null
   },
   "4828": {
     "id": "4828",
@@ -1582,8 +1582,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": false,
-    "roster_id": null
+    "rostered": true,
+    "roster_id": 3
   },
   "11282": {
     "id": "11282",
@@ -39386,8 +39386,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": false,
-    "roster_id": null
+    "rostered": true,
+    "roster_id": 1
   },
   "2131": {
     "id": "2131",
@@ -118361,8 +118361,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": false,
-    "roster_id": null
+    "rostered": true,
+    "roster_id": 5
   },
   "5008": {
     "id": "5008",
@@ -147936,8 +147936,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": true,
-    "roster_id": 1
+    "rostered": false,
+    "roster_id": null
   },
   "9485": {
     "id": "9485",

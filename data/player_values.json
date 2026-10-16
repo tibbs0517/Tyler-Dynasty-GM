@@ -168,6 +168,20 @@
     "gm_score": 100
   },
   {
+    "id": "9230",
+    "name": "Tanner McKee",
+    "position": "QB",
+    "team": "PHI",
+    "age": 26,
+    "years_exp": 3,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 5,
+    "gm_score": 100
+  },
+  {
     "id": "11560",
     "name": "Caleb Williams",
     "position": "QB",
@@ -529,20 +543,6 @@
     "bye_week": null,
     "rostered": true,
     "roster_id": 1,
-    "gm_score": 93
-  },
-  {
-    "id": "9504",
-    "name": "Kayshon Boutte",
-    "position": "WR",
-    "team": "HOU",
-    "age": 24,
-    "years_exp": 3,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 5,
     "gm_score": 93
   },
   {
@@ -2125,6 +2125,20 @@
     "bye_week": null,
     "rostered": true,
     "roster_id": 5,
+    "gm_score": 80
+  },
+  {
+    "id": "11439",
+    "name": "Jaleel McLaughlin",
+    "position": "RB",
+    "team": "CLE",
+    "age": 26,
+    "years_exp": 3,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 3,
     "gm_score": 80
   },
   {
@@ -4150,20 +4164,6 @@
     "team": "KC",
     "age": 24,
     "years_exp": 0,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 80
-  },
-  {
-    "id": "9230",
-    "name": "Tanner McKee",
-    "position": "QB",
-    "team": "PHI",
-    "age": 26,
-    "years_exp": 3,
     "active": true,
     "injury_status": null,
     "bye_week": null,
@@ -6852,6 +6852,20 @@
     "team": null,
     "age": 23,
     "years_exp": 1,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 73
+  },
+  {
+    "id": "9504",
+    "name": "Kayshon Boutte",
+    "position": "WR",
+    "team": "HOU",
+    "age": 24,
+    "years_exp": 3,
     "active": true,
     "injury_status": null,
     "bye_week": null,
@@ -14935,20 +14949,6 @@
     "bye_week": null,
     "rostered": false,
     "roster_id": null,
-    "gm_score": 70
-  },
-  {
-    "id": "5001",
-    "name": "Dalton Schultz",
-    "position": "TE",
-    "team": "HOU",
-    "age": 30,
-    "years_exp": 8,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 1,
     "gm_score": 70
   },
   {
@@ -23436,6 +23436,20 @@
     "gm_score": 65
   },
   {
+    "id": "3271",
+    "name": "Tyler Higbee",
+    "position": "TE",
+    "team": "LAR",
+    "age": 33,
+    "years_exp": 10,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 1,
+    "gm_score": 62
+  },
+  {
     "id": "5022",
     "name": "Dallas Goedert",
     "position": "TE",
@@ -23554,20 +23568,6 @@
     "team": "CIN",
     "age": 24,
     "years_exp": 2,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 60
-  },
-  {
-    "id": "11439",
-    "name": "Jaleel McLaughlin",
-    "position": "RB",
-    "team": "CLE",
-    "age": 26,
-    "years_exp": 3,
     "active": true,
     "injury_status": null,
     "bye_week": null,
@@ -38766,6 +38766,20 @@
     "gm_score": 50
   },
   {
+    "id": "5001",
+    "name": "Dalton Schultz",
+    "position": "TE",
+    "team": "HOU",
+    "age": 30,
+    "years_exp": 8,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 50
+  },
+  {
     "id": "6181",
     "name": "Trevon Wesco",
     "position": "TE",
@@ -41768,20 +41782,6 @@
     "team": null,
     "age": 37,
     "years_exp": 16,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 42
-  },
-  {
-    "id": "3271",
-    "name": "Tyler Higbee",
-    "position": "TE",
-    "team": "LAR",
-    "age": 33,
-    "years_exp": 10,
     "active": true,
     "injury_status": null,
     "bye_week": null,

@@ -4074,6 +4074,13 @@
     "status": "Active"
   },
   {
+    "id": "5001",
+    "name": "Dalton Schultz",
+    "position": "TE",
+    "team": "HOU",
+    "status": "Active"
+  },
+  {
     "id": "5167",
     "name": "Dalton Sturm",
     "position": "QB",
@@ -8365,13 +8372,6 @@
     "status": "Active"
   },
   {
-    "id": "11439",
-    "name": "Jaleel McLaughlin",
-    "position": "RB",
-    "team": "CLE",
-    "status": "Active"
-  },
-  {
     "id": "5005",
     "name": "Jaleel Scott",
     "position": "WR",
@@ -11232,6 +11232,13 @@
     "name": "Kayron Lynch-Adams",
     "position": "RB",
     "team": null,
+    "status": "Active"
+  },
+  {
+    "id": "9504",
+    "name": "Kayshon Boutte",
+    "position": "WR",
+    "team": "HOU",
     "status": "Active"
   },
   {
@@ -17381,13 +17388,6 @@
     "status": "Active"
   },
   {
-    "id": "9230",
-    "name": "Tanner McKee",
-    "position": "QB",
-    "team": "PHI",
-    "status": "Active"
-  },
-  {
     "id": "11598",
     "name": "Tanner McLachlan",
     "position": "TE",
@@ -18750,13 +18750,6 @@
     "name": "Tyler Harrell",
     "position": "WR",
     "team": null,
-    "status": "Active"
-  },
-  {
-    "id": "3271",
-    "name": "Tyler Higbee",
-    "position": "TE",
-    "team": "LAR",
     "status": "Active"
   },
   {

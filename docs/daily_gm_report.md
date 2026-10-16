@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-10-16 05:22:16
+Generated: 2026-10-16 10:34:05
 
 ---
 
@@ -9,14 +9,14 @@ Generated: 2026-10-16 05:22:16
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2804
+Available Players: 2803
 
 ---
 
 ## League Activity
 
 Trades: 0
-Waiver Claims: 2
+Waiver Claims: 5
 Free Agent Moves: 1
 
 ---
@@ -37,6 +37,9 @@ No trades.
 
 ## Top Waiver Claims
 
+- Tyler Higbee → AnthonyJania
+- Tanner McKee → tylergratz
+- Jaleel McLaughlin → tylerhjensen
 - Dameon Pierce → tylergratz
 - DeMario Douglas → tylergratz
 
@@ -44,14 +47,17 @@ No trades.
 
 ## Recently Dropped Players
 
+- Dalton Schultz
+- Kayshon Boutte
 - Tyson Bagent
 
 ---
 
 ## Most Active Managers
 
-- tylergratz: 2 moves
-- AnthonyJania: 1 moves
+- tylergratz: 3 moves
+- AnthonyJania: 2 moves
+- tylerhjensen: 1 moves
 
 ---
 
