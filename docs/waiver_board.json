@@ -1879,7 +1879,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -3387,7 +3387,7 @@
     "age": 28,
     "years_exp": 5,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -10316,7 +10316,7 @@
     "age": 24,
     "years_exp": 0,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -11681,7 +11681,7 @@
     "age": 26,
     "years_exp": 4,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -13420,7 +13420,7 @@
     "name": "Charlie Woerner",
     "position": "TE",
     "team": "ATL",
-    "age": 28,
+    "age": 29,
     "years_exp": 6,
     "active": true,
     "injury_status": null,
@@ -13891,7 +13891,7 @@
     "age": 25,
     "years_exp": 0,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -14645,7 +14645,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Doubtful",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -18181,7 +18181,7 @@
     "age": 33,
     "years_exp": 10,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -24027,8 +24027,8 @@
     "id": "2750",
     "name": "DeAndre Carter",
     "position": "WR",
-    "team": null,
-    "age": 32,
+    "team": "DET",
+    "age": 33,
     "years_exp": 11,
     "active": true,
     "injury_status": null,
@@ -29605,7 +29605,7 @@
     "name": "KeAndre Lambert-Smith",
     "position": "WR",
     "team": "LAC",
-    "age": 24,
+    "age": 25,
     "years_exp": 1,
     "active": true,
     "injury_status": "IR",
@@ -31480,7 +31480,7 @@
     "age": 32,
     "years_exp": 8,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -32026,7 +32026,7 @@
     "age": 30,
     "years_exp": 8,
     "active": true,
-    "injury_status": "DNR",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -32156,7 +32156,7 @@
     "age": 25,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -35484,7 +35484,7 @@
     "age": 26,
     "years_exp": 4,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
