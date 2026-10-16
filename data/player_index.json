@@ -8669,7 +8669,7 @@
     "name": "Devin White",
     "position": "LB",
     "team": "DET",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3568": {
@@ -14633,7 +14633,7 @@
     "name": "Ben Bartch",
     "position": "OL",
     "team": "DET",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "916": {
@@ -29830,7 +29830,7 @@
     "name": "Will Shipley",
     "position": "RB",
     "team": "PHI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "12540": {
@@ -78872,7 +78872,7 @@
     "name": "Tom Kennedy",
     "position": "WR",
     "team": "DET",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "638": {
