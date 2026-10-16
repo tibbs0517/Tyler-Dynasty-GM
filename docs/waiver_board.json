@@ -2096,7 +2096,7 @@
     "id": "11557",
     "name": "Joe Milton",
     "position": "QB",
-    "team": "DAL",
+    "team": "PHI",
     "age": 26,
     "years_exp": 2,
     "active": true,
@@ -4102,7 +4102,7 @@
     "age": 28,
     "years_exp": 6,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -14086,7 +14086,7 @@
     "age": 34,
     "years_exp": 11,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -17986,7 +17986,7 @@
     "age": 25,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -19494,7 +19494,7 @@
     "age": 26,
     "years_exp": 5,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -20924,7 +20924,7 @@
     "age": 29,
     "years_exp": 7,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -23676,7 +23676,7 @@
     "id": "6149",
     "name": "Darius Slayton",
     "position": "WR",
-    "team": "IND",
+    "team": null,
     "age": 29,
     "years_exp": 7,
     "active": true,

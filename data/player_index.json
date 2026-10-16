@@ -4062,7 +4062,7 @@
   "11557": {
     "name": "Joe Milton",
     "position": "QB",
-    "team": "DAL",
+    "team": "PHI",
     "status": "Active",
     "active": true
   },
@@ -18147,7 +18147,7 @@
     "name": "Lamar Jackson",
     "position": "QB",
     "team": "BAL",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "10937": {
@@ -46252,7 +46252,7 @@
     "name": "Trevor Etienne",
     "position": "RB",
     "team": "CAR",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "2861": {
@@ -46531,7 +46531,7 @@
   "6811": {
     "name": "Kenneth Murray",
     "position": "LB",
-    "team": "HOU",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -49212,7 +49212,7 @@
   "10986": {
     "name": "Jammie Robinson",
     "position": "DB",
-    "team": "ATL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -75833,7 +75833,7 @@
   "6149": {
     "name": "Darius Slayton",
     "position": "WR",
-    "team": "IND",
+    "team": null,
     "status": "Active",
     "active": true
   },

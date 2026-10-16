@@ -64,10 +64,6 @@
     },
     "avatar": null,
     "company_id": null,
-    "shard": 470,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -114,19 +110,28 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1416717639002161152",
-    "draft_id": "1326711861202161664",
-    "last_author_avatar": null,
-    "last_author_display_name": "sys",
-    "last_author_id": "166666666666666666",
-    "last_author_is_bot": true,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "shard": 470,
+    "last_message_id": "1416879289818763264",
+    "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
+    "last_author_display_name": "HebrewsHeroes",
+    "last_author_id": "434689597088198656",
+    "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1792134315780,
+    "last_message_time": 1792172856339,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1326711861202161664",
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,11 +156,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -5429,7 +5429,7 @@
     "11557": {
       "name": "Joe Milton",
       "position": "QB",
-      "team": "DAL",
+      "team": "PHI",
       "status": "Active",
       "active": true
     },
@@ -19514,7 +19514,7 @@
       "name": "Lamar Jackson",
       "position": "QB",
       "team": "BAL",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "10937": {
@@ -47619,7 +47619,7 @@
       "name": "Trevor Etienne",
       "position": "RB",
       "team": "CAR",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "2861": {
@@ -47898,7 +47898,7 @@
     "6811": {
       "name": "Kenneth Murray",
       "position": "LB",
-      "team": "HOU",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -50579,7 +50579,7 @@
     "10986": {
       "name": "Jammie Robinson",
       "position": "DB",
-      "team": "ATL",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -77200,7 +77200,7 @@
     "6149": {
       "name": "Darius Slayton",
       "position": "WR",
-      "team": "IND",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -91455,7 +91455,7 @@
       "id": "6149",
       "name": "Darius Slayton",
       "position": "WR",
-      "team": "IND",
+      "team": null,
       "status": "Active"
     },
     {
@@ -96670,7 +96670,7 @@
       "id": "11557",
       "name": "Joe Milton",
       "position": "QB",
-      "team": "DAL",
+      "team": "PHI",
       "status": "Active"
     },
     {
@@ -105365,7 +105365,7 @@
       "name": "Trevor Etienne",
       "position": "RB",
       "team": "CAR",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "id": "2838",

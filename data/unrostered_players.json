@@ -4483,7 +4483,7 @@
     "id": "6149",
     "name": "Darius Slayton",
     "position": "WR",
-    "team": "IND",
+    "team": null,
     "status": "Active"
   },
   {
@@ -9698,7 +9698,7 @@
     "id": "11557",
     "name": "Joe Milton",
     "position": "QB",
-    "team": "DAL",
+    "team": "PHI",
     "status": "Active"
   },
   {
@@ -18393,7 +18393,7 @@
     "name": "Trevor Etienne",
     "position": "RB",
     "team": "CAR",
-    "status": "Inactive"
+    "status": "Active"
   },
   {
     "id": "2838",
