@@ -3226,7 +3226,7 @@
       "name": "Henry To'oTo'o",
       "position": "LB",
       "team": "HOU",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "8609": {
@@ -7706,7 +7706,7 @@
       "name": "Taylor Moton",
       "position": "T",
       "team": "CAR",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "11002": {
@@ -9967,7 +9967,7 @@
       "name": "Tershawn Wharton",
       "position": "DT",
       "team": "CAR",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "13421": {
@@ -24184,7 +24184,7 @@
       "name": "Roman Wilson",
       "position": "WR",
       "team": "PIT",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "1606": {
@@ -27999,7 +27999,7 @@
       "name": "Joshua Williams",
       "position": "CB",
       "team": "TEN",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "5772": {
@@ -58596,7 +58596,7 @@
       "name": "Kyler Gordon",
       "position": "DB",
       "team": "CHI",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "635": {
@@ -61207,7 +61207,7 @@
       "name": "Dayo Odeyingbo",
       "position": "DE",
       "team": "CHI",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "1330": {
@@ -74899,7 +74899,7 @@
       "name": "Ja'Marcus Ingram",
       "position": "CB",
       "team": "HOU",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "13863": {
@@ -78189,7 +78189,7 @@
       "name": "Zach Wood",
       "position": "LS",
       "team": "NO",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "4096": {
@@ -79358,7 +79358,7 @@
       "name": "Keagen Trost",
       "position": "OL",
       "team": "LAR",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "13093": {
