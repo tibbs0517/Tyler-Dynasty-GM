@@ -13702,7 +13702,7 @@
     "name": "Will Mallory",
     "position": "TE",
     "team": "IND",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "12153": {
@@ -25405,7 +25405,7 @@
   "13640": {
     "name": "Alan Herron",
     "position": "OT",
-    "team": "NO",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -29963,7 +29963,7 @@
     "name": "A.J. Brown",
     "position": "WR",
     "team": "NE",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "374": {
