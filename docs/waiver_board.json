@@ -2093,19 +2093,6 @@
     "roster_id": null
   },
   {
-    "id": "11557",
-    "name": "Joe Milton",
-    "position": "QB",
-    "team": "PHI",
-    "age": 26,
-    "years_exp": 2,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
     "id": "606",
     "name": "Joe Webb",
     "position": "QB",

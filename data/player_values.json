@@ -1,5 +1,19 @@
 [
   {
+    "id": "11557",
+    "name": "Joe Milton",
+    "position": "QB",
+    "team": "PHI",
+    "age": 26,
+    "years_exp": 2,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 4,
+    "gm_score": 100
+  },
+  {
     "id": "13272",
     "name": "Carson Beck",
     "position": "QB",
@@ -2237,20 +2251,6 @@
     "bye_week": null,
     "rostered": true,
     "roster_id": 6,
-    "gm_score": 80
-  },
-  {
-    "id": "11557",
-    "name": "Joe Milton",
-    "position": "QB",
-    "team": "PHI",
-    "age": 26,
-    "years_exp": 2,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
     "gm_score": 80
   },
   {

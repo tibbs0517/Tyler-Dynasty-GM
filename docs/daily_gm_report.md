@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-10-17 05:26:42
+Generated: 2026-10-17 10:03:48
 
 ---
 
@@ -9,14 +9,14 @@ Generated: 2026-10-17 05:26:42
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2803
+Available Players: 2802
 
 ---
 
 ## League Activity
 
 Trades: 0
-Waiver Claims: 5
+Waiver Claims: 6
 Free Agent Moves: 1
 
 ---
@@ -37,6 +37,7 @@ No trades.
 
 ## Top Waiver Claims
 
+- Joe Milton → theFalIeniD
 - Tyler Higbee → AnthonyJania
 - Tanner McKee → tylergratz
 - Jaleel McLaughlin → tylerhjensen
@@ -57,6 +58,7 @@ No trades.
 
 - tylergratz: 3 moves
 - AnthonyJania: 2 moves
+- theFalIeniD: 1 moves
 - tylerhjensen: 1 moves
 
 ---
