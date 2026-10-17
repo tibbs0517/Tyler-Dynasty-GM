@@ -9887,7 +9887,7 @@
     "name": "Jalen Hurts",
     "position": "QB",
     "team": "PHI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "2450": {
@@ -26428,7 +26428,7 @@
     "name": "Savion Williams",
     "position": "WR",
     "team": "GB",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "13680": {
@@ -67665,7 +67665,7 @@
     "name": "Ja'Kobi Lane",
     "position": "WR",
     "team": "BAL",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "11537": {

@@ -801,7 +801,7 @@
         "9502"
       ],
       "reserve": [
-        "13276",
+        "11630",
         "5850",
         "6819",
         "9502"
@@ -1331,10 +1331,10 @@
         "9758"
       ],
       "reserve": [
+        "11618",
         "13281",
         "13345",
-        "13349",
-        "5859"
+        "13349"
       ],
       "roster_id": 10,
       "settings": {
@@ -1355,7 +1355,7 @@
         "9758",
         "3198",
         "6790",
-        "12519",
+        "5859",
         "7569",
         "8146",
         "11604",
@@ -11255,7 +11255,7 @@
       "name": "Jalen Hurts",
       "position": "QB",
       "team": "PHI",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "2450": {
@@ -27796,7 +27796,7 @@
       "name": "Savion Williams",
       "position": "WR",
       "team": "GB",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "13680": {
@@ -69033,7 +69033,7 @@
       "name": "Ja'Kobi Lane",
       "position": "WR",
       "team": "BAL",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "11537": {
@@ -103413,7 +103413,7 @@
       "name": "Savion Williams",
       "position": "WR",
       "team": "GB",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "id": "8700",
