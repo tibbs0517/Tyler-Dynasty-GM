@@ -630,20 +630,6 @@
     "gm_score": 93
   },
   {
-    "id": "12535",
-    "name": "Isaac TeSlaa",
-    "position": "WR",
-    "team": "DET",
-    "age": 24,
-    "years_exp": 1,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 5,
-    "gm_score": 93
-  },
-  {
     "id": "11635",
     "name": "Ladd McConkey",
     "position": "WR",
@@ -7532,6 +7518,20 @@
     "gm_score": 73
   },
   {
+    "id": "2197",
+    "name": "Brandin Cooks",
+    "position": "WR",
+    "team": "SF",
+    "age": 33,
+    "years_exp": 12,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 5,
+    "gm_score": 73
+  },
+  {
     "id": "12373",
     "name": "Peter LeBlanc",
     "position": "WR",
@@ -7552,6 +7552,20 @@
     "team": null,
     "age": 25,
     "years_exp": 5,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 73
+  },
+  {
+    "id": "12535",
+    "name": "Isaac TeSlaa",
+    "position": "WR",
+    "team": "DET",
+    "age": 24,
+    "years_exp": 1,
     "active": true,
     "injury_status": null,
     "bye_week": null,
@@ -30974,20 +30988,6 @@
     "team": null,
     "age": 31,
     "years_exp": 10,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 53
-  },
-  {
-    "id": "2197",
-    "name": "Brandin Cooks",
-    "position": "WR",
-    "team": "SF",
-    "age": 33,
-    "years_exp": 12,
     "active": true,
     "injury_status": null,
     "bye_week": null,

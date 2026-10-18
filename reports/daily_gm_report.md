@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-10-18 05:21:21
+Generated: 2026-10-18 10:16:50
 
 ---
 
@@ -16,7 +16,7 @@ Available Players: 2802
 ## League Activity
 
 Trades: 0
-Waiver Claims: 6
+Waiver Claims: 7
 Free Agent Moves: 1
 
 ---
@@ -37,6 +37,7 @@ No trades.
 
 ## Top Waiver Claims
 
+- Brandin Cooks → tylergratz
 - Joe Milton → theFalIeniD
 - Tyler Higbee → AnthonyJania
 - Tanner McKee → tylergratz
@@ -48,6 +49,7 @@ No trades.
 
 ## Recently Dropped Players
 
+- Isaac TeSlaa
 - Dalton Schultz
 - Kayshon Boutte
 - Tyson Bagent
@@ -56,7 +58,7 @@ No trades.
 
 ## Most Active Managers
 
-- tylergratz: 3 moves
+- tylergratz: 4 moves
 - AnthonyJania: 2 moves
 - theFalIeniD: 1 moves
 - tylerhjensen: 1 moves

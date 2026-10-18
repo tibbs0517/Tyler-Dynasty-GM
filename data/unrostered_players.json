@@ -1547,13 +1547,6 @@
     "status": "Active"
   },
   {
-    "id": "2197",
-    "name": "Brandin Cooks",
-    "position": "WR",
-    "team": "SF",
-    "status": "Active"
-  },
-  {
     "id": "3357",
     "name": "Brandon Allen",
     "position": "QB",
@@ -7473,6 +7466,13 @@
     "name": "Isaac Rex",
     "position": "TE",
     "team": null,
+    "status": "Active"
+  },
+  {
+    "id": "12535",
+    "name": "Isaac TeSlaa",
+    "position": "WR",
+    "team": "DET",
     "status": "Active"
   },
   {

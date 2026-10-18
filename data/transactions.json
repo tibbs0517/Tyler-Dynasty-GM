@@ -5164,6 +5164,36 @@
       "metadata": {
         "notes": "Your waiver claim was processed successfully!"
       },
+      "created": 1792302310169,
+      "settings": {
+        "seq": 0,
+        "waiver_bid": 0
+      },
+      "leg": 6,
+      "draft_picks": [],
+      "creator": "472427763857354752",
+      "transaction_id": "1417422258539896832",
+      "adds": {
+        "2197": 5
+      },
+      "consenter_ids": [
+        5
+      ],
+      "drops": {
+        "12535": 5
+      },
+      "roster_ids": [
+        5
+      ],
+      "status_updated": 1792307136310,
+      "waiver_budget": []
+    },
+    {
+      "status": "complete",
+      "type": "waiver",
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      },
       "created": 1792200604654,
       "settings": {
         "seq": 0,
@@ -5176,10 +5206,10 @@
       "adds": {
         "11557": 4
       },
-      "drops": null,
       "consenter_ids": [
         4
       ],
+      "drops": null,
       "roster_ids": [
         4
       ],
@@ -5204,12 +5234,12 @@
       "adds": {
         "3271": 1
       },
-      "drops": {
-        "5001": 1
-      },
       "consenter_ids": [
         1
       ],
+      "drops": {
+        "5001": 1
+      },
       "roster_ids": [
         1
       ],
@@ -5234,12 +5264,12 @@
       "adds": {
         "9230": 5
       },
-      "drops": {
-        "9504": 5
-      },
       "consenter_ids": [
         5
       ],
+      "drops": {
+        "9504": 5
+      },
       "roster_ids": [
         5
       ],
@@ -5264,10 +5294,10 @@
       "adds": {
         "11439": 3
       },
-      "drops": null,
       "consenter_ids": [
         3
       ],
+      "drops": null,
       "roster_ids": [
         3
       ],
@@ -5293,10 +5323,10 @@
       "adds": {
         "8129": 5
       },
-      "drops": null,
       "consenter_ids": [
         5
       ],
+      "drops": null,
       "roster_ids": [
         5
       ],
@@ -5322,10 +5352,10 @@
       "adds": {
         "9501": 5
       },
-      "drops": null,
       "consenter_ids": [
         5
       ],
+      "drops": null,
       "roster_ids": [
         5
       ],
@@ -5343,12 +5373,12 @@
       "creator": "353394136252092416",
       "transaction_id": "1416071706849640448",
       "adds": null,
-      "drops": {
-        "11256": 1
-      },
       "consenter_ids": [
         1
       ],
+      "drops": {
+        "11256": 1
+      },
       "roster_ids": [
         1
       ],
