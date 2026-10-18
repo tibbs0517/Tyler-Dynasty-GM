@@ -115,6 +115,7 @@
       "st_ff": 1.0
     },
     "last_message_id": "1417442500972404736",
+    "draft_id": "1326711861202161664",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -123,10 +124,12 @@
     "last_message_text_map": null,
     "last_message_time": 1792307136341,
     "last_pinned_message_id": null,
-    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,9 +154,6 @@
       "BN",
       "BN"
     ],
-    "group_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -748,7 +748,7 @@
       },
       "starters": [
         "6804",
-        "4866",
+        "7567",
         "12490",
         "8167",
         "12526",
@@ -42761,7 +42761,7 @@
     "4238": {
       "name": "Xavier Woods",
       "position": "DB",
-      "team": "CHI",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -59134,7 +59134,7 @@
     "13572": {
       "name": "Aiden Fisher",
       "position": "LB",
-      "team": "HOU",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -61703,7 +61703,7 @@
     "8123": {
       "name": "Hassan Haskins",
       "position": "RB",
-      "team": "NE",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -76151,7 +76151,7 @@
     "11019": {
       "name": "Erick Hallett",
       "position": "DB",
-      "team": "TEN",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -77369,7 +77369,7 @@
     "13769": {
       "name": "Collin Wright",
       "position": "CB",
-      "team": "HOU",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -78447,7 +78447,7 @@
     "5086": {
       "name": "Marquez Valdes-Scantling",
       "position": "WR",
-      "team": "LAC",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -94228,7 +94228,7 @@
       "id": "8123",
       "name": "Hassan Haskins",
       "position": "RB",
-      "team": "NE",
+      "team": null,
       "status": "Active"
     },
     {
@@ -100255,7 +100255,7 @@
       "id": "5086",
       "name": "Marquez Valdes-Scantling",
       "position": "WR",
-      "team": "LAC",
+      "team": null,
       "status": "Active"
     },
     {

@@ -41393,7 +41393,7 @@
   "4238": {
     "name": "Xavier Woods",
     "position": "DB",
-    "team": "CHI",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -57766,7 +57766,7 @@
   "13572": {
     "name": "Aiden Fisher",
     "position": "LB",
-    "team": "HOU",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -60335,7 +60335,7 @@
   "8123": {
     "name": "Hassan Haskins",
     "position": "RB",
-    "team": "NE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -74783,7 +74783,7 @@
   "11019": {
     "name": "Erick Hallett",
     "position": "DB",
-    "team": "TEN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -76001,7 +76001,7 @@
   "13769": {
     "name": "Collin Wright",
     "position": "CB",
-    "team": "HOU",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -77079,7 +77079,7 @@
   "5086": {
     "name": "Marquez Valdes-Scantling",
     "position": "WR",
-    "team": "LAC",
+    "team": null,
     "status": "Active",
     "active": true
   },

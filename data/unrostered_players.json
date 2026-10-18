@@ -7255,7 +7255,7 @@
     "id": "8123",
     "name": "Hassan Haskins",
     "position": "RB",
-    "team": "NE",
+    "team": null,
     "status": "Active"
   },
   {
@@ -13282,7 +13282,7 @@
     "id": "5086",
     "name": "Marquez Valdes-Scantling",
     "position": "WR",
-    "team": "LAC",
+    "team": null,
     "status": "Active"
   },
   {
