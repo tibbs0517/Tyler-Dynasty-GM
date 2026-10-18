@@ -18777,7 +18777,7 @@
     "name": "Jonathan Ford",
     "position": "DL",
     "team": "GB",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "7285": {
@@ -44992,7 +44992,7 @@
     "name": "Javon Hargrave",
     "position": "DT",
     "team": "GB",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "4745": {
@@ -49212,7 +49212,7 @@
   "10986": {
     "name": "Jammie Robinson",
     "position": "DB",
-    "team": null,
+    "team": "ATL",
     "status": "Active",
     "active": true
   },
@@ -52566,7 +52566,7 @@
     "name": "Omar Cooper",
     "position": "WR",
     "team": "NYJ",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "5942": {
@@ -56339,7 +56339,7 @@
     "name": "Kitan Crawford",
     "position": "DB",
     "team": "ARI",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "13959": {
@@ -68302,7 +68302,7 @@
     "name": "Skyy Moore",
     "position": "WR",
     "team": "GB",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "1285": {
@@ -76793,7 +76793,7 @@
     "name": "KeAndre Lambert-Smith",
     "position": "WR",
     "team": "LAC",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "428": {
