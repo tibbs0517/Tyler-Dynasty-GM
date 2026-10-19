@@ -5896,7 +5896,7 @@
   "829": {
     "name": "Andy Dalton",
     "position": "QB",
-    "team": null,
+    "team": "ATL",
     "status": "Active",
     "active": true
   },
@@ -12469,7 +12469,7 @@
   "4574": {
     "name": "Cooper Rush",
     "position": "QB",
-    "team": "ATL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -19336,8 +19336,8 @@
   "8678": {
     "name": "Andrew Rupcich",
     "position": "OT",
-    "team": null,
-    "status": "Inactive",
+    "team": "NE",
+    "status": "Active",
     "active": true
   },
   "11961": {
@@ -67160,7 +67160,7 @@
   "7050": {
     "name": "Josiah Deguara",
     "position": "TE",
-    "team": null,
+    "team": "SEA",
     "status": "Active",
     "active": true
   },
@@ -78731,7 +78731,7 @@
   "13966": {
     "name": "Jacob Rizy",
     "position": "OL",
-    "team": null,
+    "team": "NE",
     "status": "Active",
     "active": true
   },
@@ -81056,7 +81056,7 @@
     "name": "Tanner Hudson",
     "position": "TE",
     "team": "CIN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "13663": {
