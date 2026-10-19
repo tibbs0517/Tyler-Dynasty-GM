@@ -18385,7 +18385,7 @@
     "name": "Jeremy McNichols",
     "position": "RB",
     "team": "WAS",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "4135": {
@@ -26217,7 +26217,7 @@
   "4072": {
     "name": "Tre'Davious White",
     "position": "CB",
-    "team": null,
+    "team": "BUF",
     "status": "Active",
     "active": true
   },
@@ -28331,7 +28331,7 @@
   "8472": {
     "name": "Darian Kinnard",
     "position": "T",
-    "team": null,
+    "team": "LV",
     "status": "Active",
     "active": true
   },
@@ -33764,7 +33764,7 @@
     "name": "Jacory Croskey-Merritt",
     "position": "RB",
     "team": "WAS",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "12448": {
@@ -34996,7 +34996,7 @@
     "name": "Jordan Magee",
     "position": "LB",
     "team": "WAS",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "3026": {
@@ -40343,7 +40343,7 @@
   "13937": {
     "name": "Jackson Acker",
     "position": "FB",
-    "team": null,
+    "team": "SEA",
     "status": "Active",
     "active": true
   },
@@ -51494,7 +51494,7 @@
   "13713": {
     "name": "KC Eziomume",
     "position": "DB",
-    "team": null,
+    "team": "CHI",
     "status": "Active",
     "active": true
   },
@@ -52426,7 +52426,7 @@
     "name": "Blake Grupe",
     "position": "K",
     "team": "LAR",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "2394": {
@@ -60329,7 +60329,7 @@
     "name": "Romeo Doubs",
     "position": "WR",
     "team": "NE",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "8123": {
@@ -67139,7 +67139,7 @@
   "11421": {
     "name": "Ryan Miller",
     "position": "WR",
-    "team": null,
+    "team": "NE",
     "status": "Active",
     "active": true
   },
@@ -68210,7 +68210,7 @@
   "10877": {
     "name": "Mazi Smith",
     "position": "DL",
-    "team": null,
+    "team": "GB",
     "status": "Active",
     "active": true
   },
@@ -79733,7 +79733,7 @@
     "name": "Trey Amos",
     "position": "DB",
     "team": "WAS",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "10964": {
@@ -81399,7 +81399,7 @@
     "name": "Javontae Jean-Baptiste",
     "position": "DL",
     "team": "WAS",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "541": {
@@ -84583,8 +84583,8 @@
   "13035": {
     "name": "Amari Kight",
     "position": "OT",
-    "team": null,
-    "status": "Inactive",
+    "team": "LV",
+    "status": "Active",
     "active": true
   },
   "6143": {

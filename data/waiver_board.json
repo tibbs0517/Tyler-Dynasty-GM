@@ -7664,7 +7664,7 @@
     "age": 30,
     "years_exp": 9,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -33608,7 +33608,7 @@
     "id": "11421",
     "name": "Ryan Miller",
     "position": "WR",
-    "team": null,
+    "team": "NE",
     "age": 26,
     "years_exp": 3,
     "active": true,
