@@ -9,7 +9,7 @@
     },
     "settings": {
       "best_ball": 0,
-      "last_report": 5,
+      "last_report": 6,
       "waiver_budget": 100,
       "disable_adds": 0,
       "capacity_override": 0,
@@ -67,7 +67,6 @@
     "sport": "nfl",
     "season_type": "regular",
     "season": "2026",
-    "shard": 470,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -114,21 +113,20 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1418173234506956800",
+    "shard": 470,
+    "last_message_id": "1418303958681649152",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1792481356793,
+    "last_message_time": 1792512523865,
     "last_pinned_message_id": null,
     "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -153,6 +151,8 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
@@ -5422,7 +5422,7 @@
     "6841": {
       "name": "Jordan Elliott",
       "position": "DT",
-      "team": "TEN",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -12702,7 +12702,7 @@
     "7849": {
       "name": "Charles Snowden",
       "position": "LB",
-      "team": "WAS",
+      "team": "ATL",
       "status": "Active",
       "active": true
     },
@@ -14746,7 +14746,7 @@
     "11173": {
       "name": "D'Shawn Jamison",
       "position": "CB",
-      "team": "NE",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -24112,7 +24112,7 @@
     "13852": {
       "name": "Dontae McMillan",
       "position": "RB",
-      "team": "SEA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -32736,8 +32736,8 @@
     "13864": {
       "name": "Aidan Keanaaina",
       "position": "DL",
-      "team": null,
-      "status": "Inactive",
+      "team": "DET",
+      "status": "Active",
       "active": true
     },
     "6244": {
@@ -40443,7 +40443,7 @@
     "8443": {
       "name": "Evan Neal",
       "position": "OL",
-      "team": "LV",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -52777,7 +52777,7 @@
     "14058": {
       "name": "Malick Meiga",
       "position": "WR",
-      "team": "SEA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -54009,7 +54009,7 @@
     "12948": {
       "name": "Austin Keys",
       "position": "LB",
-      "team": "WAS",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -58846,7 +58846,7 @@
     "3217": {
       "name": "Jihad Ward",
       "position": "DE",
-      "team": "NYG",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -67148,7 +67148,7 @@
     "6529": {
       "name": "Chris Myarick",
       "position": "TE",
-      "team": "LV",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -71740,7 +71740,7 @@
     "7528": {
       "name": "Najee Harris",
       "position": "RB",
-      "team": "NYG",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -72713,7 +72713,7 @@
     "12087": {
       "name": "Emany Johnson",
       "position": "DB",
-      "team": null,
+      "team": "CIN",
       "status": "Active",
       "active": true
     },
@@ -74036,7 +74036,7 @@
     "13722": {
       "name": "Isaiah Nwokobia",
       "position": "DB",
-      "team": "CIN",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -78446,7 +78446,7 @@
     "5086": {
       "name": "Marquez Valdes-Scantling",
       "position": "WR",
-      "team": null,
+      "team": "PIT",
       "status": "Active",
       "active": true
     },
@@ -78460,7 +78460,7 @@
     "6740": {
       "name": "Brett Toth",
       "position": "OL",
-      "team": "SF",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -84816,7 +84816,7 @@
     "13312": {
       "name": "Josh Kattus",
       "position": "TE",
-      "team": null,
+      "team": "CIN",
       "status": "Active",
       "active": true
     },
@@ -86377,7 +86377,7 @@
     "7922": {
       "name": "Riley Patterson",
       "position": "K",
-      "team": "MIA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -90125,7 +90125,7 @@
       "id": "6529",
       "name": "Chris Myarick",
       "position": "TE",
-      "team": "LV",
+      "team": null,
       "status": "Active"
     },
     {
@@ -92771,7 +92771,7 @@
       "id": "13852",
       "name": "Dontae McMillan",
       "position": "RB",
-      "team": "SEA",
+      "team": null,
       "status": "Active"
     },
     {
@@ -97496,7 +97496,7 @@
       "id": "13312",
       "name": "Josh Kattus",
       "position": "TE",
-      "team": null,
+      "team": "CIN",
       "status": "Active"
     },
     {
@@ -99827,7 +99827,7 @@
       "id": "14058",
       "name": "Malick Meiga",
       "position": "WR",
-      "team": "SEA",
+      "team": null,
       "status": "Active"
     },
     {
@@ -100261,7 +100261,7 @@
       "id": "5086",
       "name": "Marquez Valdes-Scantling",
       "position": "WR",
-      "team": null,
+      "team": "PIT",
       "status": "Active"
     },
     {
@@ -101276,7 +101276,7 @@
       "id": "7528",
       "name": "Najee Harris",
       "position": "RB",
-      "team": "NYG",
+      "team": null,
       "status": "Active"
     },
     {

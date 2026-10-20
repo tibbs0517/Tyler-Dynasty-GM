@@ -3153,7 +3153,7 @@
     "id": "6529",
     "name": "Chris Myarick",
     "position": "TE",
-    "team": "LV",
+    "team": null,
     "status": "Active"
   },
   {
@@ -5799,7 +5799,7 @@
     "id": "13852",
     "name": "Dontae McMillan",
     "position": "RB",
-    "team": "SEA",
+    "team": null,
     "status": "Active"
   },
   {
@@ -10524,7 +10524,7 @@
     "id": "13312",
     "name": "Josh Kattus",
     "position": "TE",
-    "team": null,
+    "team": "CIN",
     "status": "Active"
   },
   {
@@ -12855,7 +12855,7 @@
     "id": "14058",
     "name": "Malick Meiga",
     "position": "WR",
-    "team": "SEA",
+    "team": null,
     "status": "Active"
   },
   {
@@ -13289,7 +13289,7 @@
     "id": "5086",
     "name": "Marquez Valdes-Scantling",
     "position": "WR",
-    "team": null,
+    "team": "PIT",
     "status": "Active"
   },
   {
@@ -14304,7 +14304,7 @@
     "id": "7528",
     "name": "Najee Harris",
     "position": "RB",
-    "team": "NYG",
+    "team": null,
     "status": "Active"
   },
   {

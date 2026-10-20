@@ -4055,7 +4055,7 @@
   "6841": {
     "name": "Jordan Elliott",
     "position": "DT",
-    "team": "TEN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -11335,7 +11335,7 @@
   "7849": {
     "name": "Charles Snowden",
     "position": "LB",
-    "team": "WAS",
+    "team": "ATL",
     "status": "Active",
     "active": true
   },
@@ -13379,7 +13379,7 @@
   "11173": {
     "name": "D'Shawn Jamison",
     "position": "CB",
-    "team": "NE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -22745,7 +22745,7 @@
   "13852": {
     "name": "Dontae McMillan",
     "position": "RB",
-    "team": "SEA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -31369,8 +31369,8 @@
   "13864": {
     "name": "Aidan Keanaaina",
     "position": "DL",
-    "team": null,
-    "status": "Inactive",
+    "team": "DET",
+    "status": "Active",
     "active": true
   },
   "6244": {
@@ -39076,7 +39076,7 @@
   "8443": {
     "name": "Evan Neal",
     "position": "OL",
-    "team": "LV",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -51410,7 +51410,7 @@
   "14058": {
     "name": "Malick Meiga",
     "position": "WR",
-    "team": "SEA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -52642,7 +52642,7 @@
   "12948": {
     "name": "Austin Keys",
     "position": "LB",
-    "team": "WAS",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -57479,7 +57479,7 @@
   "3217": {
     "name": "Jihad Ward",
     "position": "DE",
-    "team": "NYG",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -65781,7 +65781,7 @@
   "6529": {
     "name": "Chris Myarick",
     "position": "TE",
-    "team": "LV",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -70373,7 +70373,7 @@
   "7528": {
     "name": "Najee Harris",
     "position": "RB",
-    "team": "NYG",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -71346,7 +71346,7 @@
   "12087": {
     "name": "Emany Johnson",
     "position": "DB",
-    "team": null,
+    "team": "CIN",
     "status": "Active",
     "active": true
   },
@@ -72669,7 +72669,7 @@
   "13722": {
     "name": "Isaiah Nwokobia",
     "position": "DB",
-    "team": "CIN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -77079,7 +77079,7 @@
   "5086": {
     "name": "Marquez Valdes-Scantling",
     "position": "WR",
-    "team": null,
+    "team": "PIT",
     "status": "Active",
     "active": true
   },
@@ -77093,7 +77093,7 @@
   "6740": {
     "name": "Brett Toth",
     "position": "OL",
-    "team": "SF",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -83449,7 +83449,7 @@
   "13312": {
     "name": "Josh Kattus",
     "position": "TE",
-    "team": null,
+    "team": "CIN",
     "status": "Active",
     "active": true
   },
@@ -85010,7 +85010,7 @@
   "7922": {
     "name": "Riley Patterson",
     "position": "K",
-    "team": "MIA",
+    "team": null,
     "status": "Active",
     "active": true
   },
