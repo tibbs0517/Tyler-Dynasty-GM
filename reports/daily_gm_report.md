@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-10-20 07:03:50
+Generated: 2026-10-20 13:15:16
 
 ---
 
@@ -9,7 +9,7 @@ Generated: 2026-10-20 07:03:50
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2802
+Available Players: 2803
 
 ---
 
@@ -17,7 +17,7 @@ Available Players: 2802
 
 Trades: 0
 Waiver Claims: 7
-Free Agent Moves: 1
+Free Agent Moves: 2
 
 ---
 
@@ -49,6 +49,7 @@ No trades.
 
 ## Recently Dropped Players
 
+- Austin Ekeler
 - Isaac TeSlaa
 - Dalton Schultz
 - Kayshon Boutte
@@ -59,7 +60,7 @@ No trades.
 ## Most Active Managers
 
 - tylergratz: 4 moves
-- AnthonyJania: 2 moves
+- AnthonyJania: 3 moves
 - theFalIeniD: 1 moves
 - tylerhjensen: 1 moves
 

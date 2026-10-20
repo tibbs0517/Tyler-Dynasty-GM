@@ -60,10 +60,14 @@
       "daily_waivers_base": 4,
       "reserve_slots": 4,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 19
+      "daily_waivers_last_ran": 20
     },
     "avatar": null,
     "company_id": null,
+    "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 470,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -110,23 +114,21 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
-    "last_message_id": "1417442500972404736",
-    "shard": 470,
+    "last_message_id": "1418173234506956800",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1792307136341,
-    "draft_id": "1326711861202161664",
+    "last_message_time": 1792481356793,
     "last_pinned_message_id": null,
+    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,8 +153,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
@@ -643,7 +643,6 @@
         "3257",
         "3271",
         "4034",
-        "4663",
         "5870",
         "7021",
         "7594",
@@ -680,12 +679,12 @@
         "4034",
         "7594",
         "8137",
-        "2449",
-        "9487",
-        "11603",
+        "13317",
+        "11620",
+        "3271",
         "8228",
-        "8136",
-        "3257"
+        "11603",
+        "11563"
       ],
       "taxi": null
     },
@@ -879,9 +878,9 @@
         "9229"
       ],
       "reserve": [
+        "11557",
         "11589",
-        "12484",
-        "13287"
+        "12484"
       ],
       "roster_id": 4,
       "settings": {
@@ -900,15 +899,15 @@
       },
       "starters": [
         "12545",
-        "12507",
+        "13287",
         "13337",
-        "11628",
+        "10229",
         "11646",
         "12501",
         "12517",
-        "11631",
+        "11628",
         "11783",
-        "1166"
+        "9228"
       ],
       "taxi": null
     },
@@ -954,7 +953,7 @@
         "11638",
         "12469",
         "12508",
-        "5844"
+        "12533"
       ],
       "roster_id": 5,
       "settings": {
@@ -972,16 +971,16 @@
         "wins": 3
       },
       "starters": [
-        "13425",
-        "8138",
+        "3163",
+        "8129",
         "11584",
         "7525",
-        "2197",
-        "7571",
+        "9756",
+        "9501",
         "4217",
-        "8129",
-        "7002",
-        "9230"
+        "10859",
+        "5844",
+        "5849"
       ],
       "taxi": null
     },
@@ -1361,7 +1360,7 @@
         "11604",
         "12527",
         "12519",
-        "11566"
+        "4017"
       ],
       "taxi": null
     }
