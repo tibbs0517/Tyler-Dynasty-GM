@@ -2451,7 +2451,7 @@
     "age": 25,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -14619,7 +14619,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Doubtful",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -34051,7 +34051,7 @@
     "name": "Shedrick Jackson",
     "position": "WR",
     "team": "ARI",
-    "age": 26,
+    "age": 27,
     "years_exp": 3,
     "active": true,
     "injury_status": null,
