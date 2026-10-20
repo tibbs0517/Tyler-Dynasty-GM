@@ -6345,8 +6345,8 @@
     "id": "7561",
     "name": "Elijah Mitchell",
     "position": "RB",
-    "team": null,
-    "status": "Inactive"
+    "team": "PHI",
+    "status": "Active"
   },
   {
     "id": "7596",
@@ -9005,7 +9005,7 @@
     "id": "11311",
     "name": "Jason Brownlee",
     "position": "WR",
-    "team": null,
+    "team": "NYG",
     "status": "Active"
   },
   {
@@ -12099,7 +12099,7 @@
     "id": "7605",
     "name": "Kyle Trask",
     "position": "QB",
-    "team": null,
+    "team": "DAL",
     "status": "Active"
   },
   {
@@ -13709,7 +13709,7 @@
     "id": "5917",
     "name": "Mecole Hardman",
     "position": "WR",
-    "team": null,
+    "team": "IND",
     "status": "Active"
   },
   {
@@ -15270,8 +15270,8 @@
     "id": "13870",
     "name": "Quentin Moore",
     "position": "TE",
-    "team": null,
-    "status": "Inactive"
+    "team": "WAS",
+    "status": "Active"
   },
   {
     "id": "12907",
