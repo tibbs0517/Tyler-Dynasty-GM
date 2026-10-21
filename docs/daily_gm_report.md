@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-10-21 17:51:33
+Generated: 2026-10-21 21:10:13
 
 ---
 
@@ -40,8 +40,8 @@ No trades.
 - Roschon Johnson → HoNeYmOOnBaBy
 - Treylon Burks → HoNeYmOOnBaBy
 - Roschon Johnson → SammyA
-- Tyrone Tracy → tylergratz
-- Tyrone Tracy → tylerhjensen
+- Tyrone Tracy Jr. → tylergratz
+- Tyrone Tracy Jr. → tylerhjensen
 - Brandin Cooks → tylergratz
 - Joe Milton → theFalIeniD
 - Tyler Higbee → AnthonyJania
