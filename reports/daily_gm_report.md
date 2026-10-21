@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-10-21 06:57:31
+Generated: 2026-10-21 12:45:47
 
 ---
 
@@ -9,14 +9,14 @@ Generated: 2026-10-21 06:57:31
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2803
+Available Players: 2801
 
 ---
 
 ## League Activity
 
 Trades: 0
-Waiver Claims: 7
+Waiver Claims: 12
 Free Agent Moves: 2
 
 ---
@@ -37,6 +37,11 @@ No trades.
 
 ## Top Waiver Claims
 
+- Roschon Johnson → HoNeYmOOnBaBy
+- Treylon Burks → HoNeYmOOnBaBy
+- Roschon Johnson → SammyA
+- Tyrone Tracy → tylergratz
+- Tyrone Tracy → tylerhjensen
 - Brandin Cooks → tylergratz
 - Joe Milton → theFalIeniD
 - Tyler Higbee → AnthonyJania
@@ -49,6 +54,7 @@ No trades.
 
 ## Recently Dropped Players
 
+- Brandin Cooks
 - Austin Ekeler
 - Isaac TeSlaa
 - Dalton Schultz
@@ -59,10 +65,12 @@ No trades.
 
 ## Most Active Managers
 
-- tylergratz: 4 moves
+- tylergratz: 5 moves
 - AnthonyJania: 3 moves
+- HoNeYmOOnBaBy: 2 moves
+- tylerhjensen: 2 moves
+- SammyA: 1 moves
 - theFalIeniD: 1 moves
-- tylerhjensen: 1 moves
 
 ---
 

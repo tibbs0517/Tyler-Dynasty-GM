@@ -1554,6 +1554,13 @@
     "status": "Active"
   },
   {
+    "id": "2197",
+    "name": "Brandin Cooks",
+    "position": "WR",
+    "team": "SF",
+    "status": "Active"
+  },
+  {
     "id": "3357",
     "name": "Brandon Allen",
     "position": "QB",
@@ -16065,13 +16072,6 @@
     "status": "Active"
   },
   {
-    "id": "10235",
-    "name": "Roschon Johnson",
-    "position": "RB",
-    "team": "CHI",
-    "status": "Active"
-  },
-  {
     "id": "5285",
     "name": "Ross Dwelley",
     "position": "TE",
@@ -18501,13 +18501,6 @@
     "status": "Inactive"
   },
   {
-    "id": "8135",
-    "name": "Treylon Burks",
-    "position": "WR",
-    "team": "WAS",
-    "status": "Active"
-  },
-  {
     "id": "12320",
     "name": "Treyton Pickering",
     "position": "TE",
@@ -18974,13 +18967,6 @@
     "name": "Tyrone Swoopes",
     "position": "TE",
     "team": null,
-    "status": "Active"
-  },
-  {
-    "id": "11655",
-    "name": "Tyrone Tracy",
-    "position": "RB",
-    "team": "NYG",
     "status": "Active"
   },
   {
