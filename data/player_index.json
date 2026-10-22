@@ -3759,7 +3759,7 @@
     "active": true
   },
   "8473": {
-    "name": "Eric Johnson II",
+    "name": "Eric Johnson",
     "position": "DT",
     "team": "CLE",
     "status": "Active",
@@ -21171,7 +21171,7 @@
     "name": "Alijah Vera-Tucker",
     "position": "OL",
     "team": "NE",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "733": {
@@ -22246,9 +22246,9 @@
     "active": true
   },
   "12041": {
-    "name": "Carl Jones",
+    "name": "Carl Jones Jr.",
     "position": "DL",
-    "team": null,
+    "team": "BAL",
     "status": "Active",
     "active": true
   },
@@ -39076,7 +39076,7 @@
   "8443": {
     "name": "Evan Neal",
     "position": "OL",
-    "team": null,
+    "team": "PHI",
     "status": "Active",
     "active": true
   },
@@ -39091,7 +39091,7 @@
     "name": "Christian Rozeboom",
     "position": "LB",
     "team": "TB",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "1192": {
@@ -40742,7 +40742,7 @@
   "12457": {
     "name": "Jaydon Blue",
     "position": "RB",
-    "team": null,
+    "team": "PHI",
     "status": "Active",
     "active": true
   },
@@ -53342,7 +53342,7 @@
   "12217": {
     "name": "Shawn Bowman",
     "position": "TE",
-    "team": null,
+    "team": "ARI",
     "status": "Active",
     "active": true
   },
@@ -58607,7 +58607,7 @@
     "name": "David Sills V",
     "position": "WR",
     "team": "TB",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "3425": {
@@ -62174,7 +62174,7 @@
     "active": true
   },
   "5154": {
-    "name": "Trent Sherfield Sr.",
+    "name": "Trent Sherfield",
     "position": "WR",
     "team": "BUF",
     "status": "Active",
@@ -69638,7 +69638,7 @@
   "11108": {
     "name": "Anfernee Orji",
     "position": "LB",
-    "team": null,
+    "team": "PHI",
     "status": "Active",
     "active": true
   },

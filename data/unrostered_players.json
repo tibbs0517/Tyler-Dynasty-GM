@@ -4722,7 +4722,7 @@
     "name": "David Sills V",
     "position": "WR",
     "team": "TB",
-    "status": "Inactive"
+    "status": "Active"
   },
   {
     "id": "12421",
@@ -7777,6 +7777,13 @@
     "status": "Active"
   },
   {
+    "id": "11619",
+    "name": "Ja'Lynn Polk",
+    "position": "WR",
+    "team": null,
+    "status": "Active"
+  },
+  {
     "id": "7244",
     "name": "Ja'Marcus Bradley",
     "position": "WR",
@@ -9145,7 +9152,7 @@
     "id": "12457",
     "name": "Jaydon Blue",
     "position": "RB",
-    "team": null,
+    "team": "PHI",
     "status": "Active"
   },
   {
@@ -16754,7 +16761,7 @@
     "id": "12217",
     "name": "Shawn Bowman",
     "position": "TE",
-    "team": null,
+    "team": "ARI",
     "status": "Active"
   },
   {
@@ -18285,7 +18292,7 @@
   },
   {
     "id": "5154",
-    "name": "Trent Sherfield Sr.",
+    "name": "Trent Sherfield",
     "position": "WR",
     "team": "BUF",
     "status": "Active"
