@@ -10673,19 +10673,6 @@
     "roster_id": null
   },
   {
-    "id": "13424",
-    "name": "Seth McGowan",
-    "position": "RB",
-    "team": "IND",
-    "age": 24,
-    "years_exp": 0,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
     "id": "13255",
     "name": "Shane Watts",
     "position": "RB",
@@ -22568,19 +22555,6 @@
     "roster_id": null
   },
   {
-    "id": "4950",
-    "name": "Christian Kirk",
-    "position": "WR",
-    "team": "SF",
-    "age": 29,
-    "years_exp": 8,
-    "active": true,
-    "injury_status": "IR",
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
     "id": "11523",
     "name": "Cody Chrest",
     "position": "WR",
@@ -29399,6 +29373,19 @@
     "team": null,
     "age": 25,
     "years_exp": 1,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
+    "id": "3634",
+    "name": "Kalif Raymond",
+    "position": "WR",
+    "team": "CHI",
+    "age": 32,
+    "years_exp": 10,
     "active": true,
     "injury_status": null,
     "bye_week": null,

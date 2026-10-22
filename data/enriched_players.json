@@ -22837,8 +22837,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": true,
-    "roster_id": 7
+    "rostered": false,
+    "roster_id": null
   },
   "8563": {
     "id": "8563",
@@ -49929,8 +49929,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": false,
-    "roster_id": null
+    "rostered": true,
+    "roster_id": 6
   },
   "11391": {
     "id": "11391",
@@ -107766,8 +107766,8 @@
     "active": true,
     "injury_status": "IR",
     "bye_week": null,
-    "rostered": false,
-    "roster_id": null
+    "rostered": true,
+    "roster_id": 7
   },
   "3995": {
     "id": "3995",

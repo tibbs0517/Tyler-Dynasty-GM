@@ -1932,6 +1932,20 @@
     "gm_score": 85
   },
   {
+    "id": "4950",
+    "name": "Christian Kirk",
+    "position": "WR",
+    "team": "SF",
+    "age": 29,
+    "years_exp": 8,
+    "active": true,
+    "injury_status": "IR",
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 7,
+    "gm_score": 85
+  },
+  {
     "id": "10218",
     "name": "Xavier Hutchinson",
     "position": "WR",
@@ -3077,6 +3091,20 @@
     "bye_week": null,
     "rostered": false,
     "roster_id": null,
+    "gm_score": 80
+  },
+  {
+    "id": "13424",
+    "name": "Seth McGowan",
+    "position": "RB",
+    "team": "IND",
+    "age": 24,
+    "years_exp": 0,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 6,
     "gm_score": 80
   },
   {
@@ -7809,20 +7837,6 @@
     "bye_week": null,
     "rostered": false,
     "roster_id": null,
-    "gm_score": 73
-  },
-  {
-    "id": "3634",
-    "name": "Kalif Raymond",
-    "position": "WR",
-    "team": "CHI",
-    "age": 32,
-    "years_exp": 10,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 7,
     "gm_score": 73
   },
   {
@@ -20608,20 +20622,6 @@
     "gm_score": 65
   },
   {
-    "id": "4950",
-    "name": "Christian Kirk",
-    "position": "WR",
-    "team": "SF",
-    "age": 29,
-    "years_exp": 8,
-    "active": true,
-    "injury_status": "IR",
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 65
-  },
-  {
     "id": "3150",
     "name": "Xavier Rush",
     "position": "WR",
@@ -25444,20 +25444,6 @@
     "team": null,
     "age": 27,
     "years_exp": 5,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 60
-  },
-  {
-    "id": "13424",
-    "name": "Seth McGowan",
-    "position": "RB",
-    "team": "IND",
-    "age": 24,
-    "years_exp": 0,
     "active": true,
     "injury_status": null,
     "bye_week": null,
@@ -31060,6 +31046,20 @@
     "years_exp": 8,
     "active": true,
     "injury_status": "IR",
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 53
+  },
+  {
+    "id": "3634",
+    "name": "Kalif Raymond",
+    "position": "WR",
+    "team": "CHI",
+    "age": 32,
+    "years_exp": 10,
+    "active": true,
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null,

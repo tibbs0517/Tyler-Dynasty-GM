@@ -3234,13 +3234,6 @@
     "status": "Active"
   },
   {
-    "id": "4950",
-    "name": "Christian Kirk",
-    "position": "WR",
-    "team": "SF",
-    "status": "Inactive"
-  },
-  {
     "id": "3556",
     "name": "Christian Powell",
     "position": "RB",
@@ -11137,6 +11130,13 @@
     "status": "Active"
   },
   {
+    "id": "3634",
+    "name": "Kalif Raymond",
+    "position": "WR",
+    "team": "CHI",
+    "status": "Active"
+  },
+  {
     "id": "6832",
     "name": "Kalija Lipscomb",
     "position": "WR",
@@ -16615,13 +16615,6 @@
     "name": "Seth Henigan",
     "position": "QB",
     "team": null,
-    "status": "Active"
-  },
-  {
-    "id": "13424",
-    "name": "Seth McGowan",
-    "position": "RB",
-    "team": "IND",
     "status": "Active"
   },
   {
