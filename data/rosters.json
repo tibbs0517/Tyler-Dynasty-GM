@@ -223,7 +223,9 @@
       "allow_pn_inactive_starters": "off",
       "allow_pn_player_injury_status": "off",
       "allow_pn_scoring": "off",
-      "restrict_pn_scoring_starters_only": "off"
+      "record": "WLLLLW",
+      "restrict_pn_scoring_starters_only": "off",
+      "streak": "1W"
     },
     "owner_id": "798719789433487360",
     "player_map": null,

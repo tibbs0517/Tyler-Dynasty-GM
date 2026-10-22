@@ -115,6 +115,7 @@
     "shard": 470,
     "sport": "nfl",
     "last_message_id": "1418632423415074816",
+    "draft_id": "1326711861202161664",
     "last_author_avatar": "08b3e806fb4faceb3cedc0acb752e9cf",
     "last_author_display_name": "HoNeYmOOnBaBy",
     "last_author_id": "430171068452319232",
@@ -123,10 +124,14 @@
     "last_message_text_map": null,
     "last_message_time": 1792590835963,
     "last_pinned_message_id": null,
-    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,11 +156,6 @@
       "BN",
       "BN"
     ],
-    "group_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -844,7 +844,9 @@
         "allow_pn_inactive_starters": "off",
         "allow_pn_player_injury_status": "off",
         "allow_pn_scoring": "off",
-        "restrict_pn_scoring_starters_only": "off"
+        "record": "WLLLLW",
+        "restrict_pn_scoring_starters_only": "off",
+        "streak": "1W"
       },
       "owner_id": "798719789433487360",
       "player_map": null,
@@ -1668,8 +1670,8 @@
   "nfl_state": {
     "week": 7,
     "leg": 7,
-    "season_type": "regular",
     "season": "2026",
+    "season_type": "regular",
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
