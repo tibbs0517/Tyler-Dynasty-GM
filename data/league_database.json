@@ -972,7 +972,7 @@
       },
       "starters": [
         "3163",
-        "8129",
+        "11655",
         "11584",
         "7525",
         "9756",
@@ -12148,7 +12148,7 @@
       "name": "Josh Simmons",
       "position": "OL",
       "team": "KC",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "5733": {
@@ -13050,7 +13050,7 @@
     "6946": {
       "name": "Myles Bryant",
       "position": "DB",
-      "team": null,
+      "team": "DET",
       "status": "Active",
       "active": true
     },
@@ -63745,7 +63745,7 @@
       "name": "Elijah Arroyo",
       "position": "TE",
       "team": "SEA",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "7775": {
@@ -79474,7 +79474,7 @@
       "name": "Zach Charbonnet",
       "position": "RB",
       "team": "SEA",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "7226": {
@@ -83468,7 +83468,7 @@
       "active": true
     },
     "13384": {
-      "name": "AJ Haulcy",
+      "name": "A.J. Haulcy",
       "position": "DB",
       "team": "IND",
       "status": "Active",
@@ -93267,7 +93267,7 @@
       "name": "Elijah Arroyo",
       "position": "TE",
       "team": "SEA",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "12066",
