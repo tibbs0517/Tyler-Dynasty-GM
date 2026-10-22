@@ -10824,7 +10824,7 @@
   "12871": {
     "name": "Eugene Asante",
     "position": "LB",
-    "team": "SF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -20050,7 +20050,7 @@
   "12897": {
     "name": "Nate Carter",
     "position": "RB",
-    "team": "KC",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -29886,7 +29886,7 @@
     "name": "Sebastian Joseph-Day",
     "position": "DT",
     "team": "PIT",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "2280": {
@@ -53342,7 +53342,7 @@
   "12217": {
     "name": "Shawn Bowman",
     "position": "TE",
-    "team": "ARI",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -64752,7 +64752,7 @@
   "4180": {
     "name": "Rayshawn Jenkins",
     "position": "DB",
-    "team": "PIT",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -71983,7 +71983,7 @@
   "9490": {
     "name": "Tyler Scott",
     "position": "WR",
-    "team": "LV",
+    "team": null,
     "status": "Active",
     "active": true
   },

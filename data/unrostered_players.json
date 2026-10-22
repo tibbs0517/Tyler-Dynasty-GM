@@ -14353,7 +14353,7 @@
     "id": "12897",
     "name": "Nate Carter",
     "position": "RB",
-    "team": "KC",
+    "team": null,
     "status": "Active"
   },
   {
@@ -16754,7 +16754,7 @@
     "id": "12217",
     "name": "Shawn Bowman",
     "position": "TE",
-    "team": "ARI",
+    "team": null,
     "status": "Active"
   },
   {
@@ -18840,7 +18840,7 @@
     "id": "9490",
     "name": "Tyler Scott",
     "position": "WR",
-    "team": "LV",
+    "team": null,
     "status": "Active"
   },
   {
