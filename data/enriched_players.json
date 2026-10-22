@@ -722,7 +722,7 @@
     "age": 22,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -1255,7 +1255,7 @@
     "age": 23,
     "years_exp": 0,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -3452,7 +3452,7 @@
     "age": 25,
     "years_exp": 3,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -6078,7 +6078,7 @@
     "age": 33,
     "years_exp": 8,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -6104,7 +6104,7 @@
     "age": 29,
     "years_exp": 7,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -10820,7 +10820,7 @@
     "name": "Brian Branch",
     "position": "DB",
     "team": "DET",
-    "age": 24,
+    "age": 25,
     "years_exp": 3,
     "active": true,
     "injury_status": "PUP",
@@ -11096,7 +11096,7 @@
     "age": 23,
     "years_exp": 2,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Doubtful",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -13735,7 +13735,7 @@
     "age": 31,
     "years_exp": 8,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -14125,7 +14125,7 @@
     "age": 27,
     "years_exp": 5,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": true,
     "roster_id": 10
@@ -14788,7 +14788,7 @@
     "age": 31,
     "years_exp": 8,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -16774,7 +16774,7 @@
     "name": "TreVeyon Henderson",
     "position": "RB",
     "team": "NE",
-    "age": 23,
+    "age": 24,
     "years_exp": 1,
     "active": true,
     "injury_status": null,
@@ -19624,7 +19624,7 @@
     "age": 27,
     "years_exp": 4,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": true,
     "roster_id": 1
@@ -23433,7 +23433,7 @@
     "age": 29,
     "years_exp": 7,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -23953,7 +23953,7 @@
     "age": 22,
     "years_exp": 0,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -24954,7 +24954,7 @@
     "age": 23,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -29400,7 +29400,7 @@
     "age": 27,
     "years_exp": 4,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -30713,7 +30713,7 @@
     "age": 31,
     "years_exp": 9,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -32078,7 +32078,7 @@
     "age": 30,
     "years_exp": 9,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -32985,7 +32985,7 @@
     "name": "Tyler Baron",
     "position": "DE",
     "team": "NYJ",
-    "age": 24,
+    "age": 25,
     "years_exp": 1,
     "active": true,
     "injury_status": "PUP",
@@ -36599,7 +36599,7 @@
     "name": "Marcus Jones",
     "position": "DB",
     "team": "NE",
-    "age": 27,
+    "age": 28,
     "years_exp": 4,
     "active": true,
     "injury_status": null,
@@ -36680,7 +36680,7 @@
     "age": 24,
     "years_exp": 2,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -37200,7 +37200,7 @@
     "age": 29,
     "years_exp": 6,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -38786,7 +38786,7 @@
     "age": 23,
     "years_exp": 0,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": true,
     "roster_id": 2
@@ -42127,7 +42127,7 @@
     "age": 28,
     "years_exp": 6,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": true,
     "roster_id": 1
@@ -44467,7 +44467,7 @@
     "age": 23,
     "years_exp": 2,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -48510,7 +48510,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -50326,7 +50326,7 @@
     "id": "8285",
     "name": "Josh Ross",
     "position": "LB",
-    "team": null,
+    "team": "SEA",
     "age": 26,
     "years_exp": 4,
     "active": true,
@@ -51058,7 +51058,7 @@
     "age": 21,
     "years_exp": 0,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -51721,7 +51721,7 @@
     "age": 26,
     "years_exp": 4,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -54672,7 +54672,7 @@
     "age": 30,
     "years_exp": 6,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -55504,7 +55504,7 @@
     "age": 31,
     "years_exp": 8,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -56401,7 +56401,7 @@
     "age": 26,
     "years_exp": 4,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -59037,7 +59037,7 @@
     "name": "Stephen Gosnell",
     "position": "WR",
     "team": "BUF",
-    "age": 24,
+    "age": 25,
     "years_exp": 1,
     "active": true,
     "injury_status": null,
@@ -59492,7 +59492,7 @@
     "name": "Jonathan Bullard",
     "position": "DE",
     "team": "DAL",
-    "age": 32,
+    "age": 33,
     "years_exp": 10,
     "active": true,
     "injury_status": "IR",
@@ -63356,7 +63356,7 @@
     "age": 29,
     "years_exp": 6,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -64539,7 +64539,7 @@
     "age": 28,
     "years_exp": 4,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": true,
     "roster_id": 2
@@ -64578,7 +64578,7 @@
     "age": 29,
     "years_exp": 7,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -66164,7 +66164,7 @@
     "age": 22,
     "years_exp": 0,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -70597,7 +70597,7 @@
     "age": 23,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -72391,7 +72391,7 @@
     "age": 33,
     "years_exp": 12,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -77028,7 +77028,7 @@
     "id": "11805",
     "name": "Jamal Hill",
     "position": "LB",
-    "team": null,
+    "team": "JAX",
     "age": 25,
     "years_exp": 2,
     "active": true,
@@ -78007,7 +78007,7 @@
     "age": 24,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -95661,7 +95661,7 @@
     "age": 25,
     "years_exp": 3,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -97962,7 +97962,7 @@
     "age": 25,
     "years_exp": 2,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -102759,7 +102759,7 @@
     "age": 27,
     "years_exp": 4,
     "active": true,
-    "injury_status": "Doubtful",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -105268,7 +105268,7 @@
     "age": 33,
     "years_exp": 11,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -105619,7 +105619,7 @@
     "age": 31,
     "years_exp": 10,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -107686,7 +107686,7 @@
     "age": 34,
     "years_exp": 11,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -109142,7 +109142,7 @@
     "age": 30,
     "years_exp": 6,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -109402,7 +109402,7 @@
     "age": 26,
     "years_exp": 5,
     "active": true,
-    "injury_status": "Doubtful",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -116747,7 +116747,7 @@
     "age": 27,
     "years_exp": 6,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": true,
     "roster_id": 9
@@ -122129,7 +122129,7 @@
     "age": 23,
     "years_exp": 0,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": true,
     "roster_id": 5
@@ -129500,7 +129500,7 @@
     "age": 27,
     "years_exp": 2,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -131242,7 +131242,7 @@
     "age": 27,
     "years_exp": 6,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -134661,7 +134661,7 @@
     "age": 31,
     "years_exp": 9,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": true,
     "roster_id": 6
@@ -139883,7 +139883,7 @@
     "id": "13978",
     "name": "Albert Reese",
     "position": "OT",
-    "team": null,
+    "team": "ARI",
     "age": 24,
     "years_exp": 0,
     "active": true,
@@ -140680,7 +140680,7 @@
     "age": 37,
     "years_exp": 13,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": true,
     "roster_id": 9
@@ -140875,7 +140875,7 @@
     "age": 32,
     "years_exp": 8,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -146270,7 +146270,7 @@
     "age": 23,
     "years_exp": 2,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": true,
     "roster_id": 10
@@ -147411,7 +147411,7 @@
     "name": "Luke Altmyer",
     "position": "QB",
     "team": "DET",
-    "age": 23,
+    "age": 24,
     "years_exp": 0,
     "active": true,
     "injury_status": null,
@@ -147934,7 +147934,7 @@
     "age": 30,
     "years_exp": 8,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -149247,7 +149247,7 @@
     "age": 31,
     "years_exp": 8,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -149403,7 +149403,7 @@
     "age": 24,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": true,
     "roster_id": 5
@@ -157567,7 +157567,7 @@
     "age": 24,
     "years_exp": 2,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null

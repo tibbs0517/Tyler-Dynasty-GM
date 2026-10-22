@@ -64,11 +64,6 @@
     },
     "avatar": null,
     "company_id": null,
-    "shard": 470,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
-    "last_message_id": "1418632423415074816",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -115,7 +110,11 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "draft_id": "1326711861202161664",
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 470,
+    "sport": "nfl",
+    "last_message_id": "1418632423415074816",
     "last_author_avatar": "08b3e806fb4faceb3cedc0acb752e9cf",
     "last_author_display_name": "HoNeYmOOnBaBy",
     "last_author_id": "430171068452319232",
@@ -124,12 +123,10 @@
     "last_message_text_map": null,
     "last_message_time": 1792590835963,
     "last_pinned_message_id": null,
+    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -154,6 +151,9 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -28468,7 +28468,7 @@
     "8285": {
       "name": "Josh Ross",
       "position": "LB",
-      "team": null,
+      "team": "SEA",
       "status": "Active",
       "active": true
     },
@@ -42846,7 +42846,7 @@
     "11805": {
       "name": "Jamal Hill",
       "position": "LB",
-      "team": null,
+      "team": "JAX",
       "status": "Active",
       "active": true
     },
@@ -76691,7 +76691,7 @@
     "13978": {
       "name": "Albert Reese",
       "position": "OT",
-      "team": null,
+      "team": "ARI",
       "status": "Active",
       "active": true
     },
