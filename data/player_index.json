@@ -52111,7 +52111,7 @@
     "name": "Cole Kmet",
     "position": "TE",
     "team": "CHI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "77": {
@@ -57479,7 +57479,7 @@
   "3217": {
     "name": "Jihad Ward",
     "position": "DE",
-    "team": null,
+    "team": "MIN",
     "status": "Active",
     "active": true
   },
