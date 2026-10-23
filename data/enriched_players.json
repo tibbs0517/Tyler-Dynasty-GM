@@ -89540,8 +89540,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": false,
-    "roster_id": null
+    "rostered": true,
+    "roster_id": 1
   },
   "343": {
     "id": "343",
@@ -96779,7 +96779,7 @@
     "age": 27,
     "years_exp": 6,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
