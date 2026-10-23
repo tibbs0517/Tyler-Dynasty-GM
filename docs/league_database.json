@@ -64,6 +64,10 @@
     },
     "avatar": null,
     "company_id": null,
+    "shard": 470,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -110,10 +114,6 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 470,
-    "sport": "nfl",
     "last_message_id": "1419254322662768640",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -830,7 +830,7 @@
         "12506",
         "11586",
         "5850",
-        "12512"
+        "4892"
       ],
       "taxi": null
     },
@@ -3068,7 +3068,7 @@
     "11304": {
       "name": "E.J. Jenkins",
       "position": "TE",
-      "team": "PHI",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -46811,7 +46811,7 @@
     "11750": {
       "name": "Dominique Hampton",
       "position": "CB",
-      "team": "TEN",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -55610,7 +55610,7 @@
     "8491": {
       "name": "Austin Deculus",
       "position": "T",
-      "team": "ARI",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -76891,7 +76891,7 @@
       "name": "Tank Dell",
       "position": "WR",
       "team": "HOU",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "5986": {
@@ -81328,7 +81328,7 @@
     "6004": {
       "name": "Andre James",
       "position": "C",
-      "team": "BAL",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -82000,7 +82000,7 @@
     "13974": {
       "name": "Malcolm DeWalt IV",
       "position": "CB",
-      "team": "ATL",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -93140,7 +93140,7 @@
       "id": "11304",
       "name": "E.J. Jenkins",
       "position": "TE",
-      "team": "PHI",
+      "team": null,
       "status": "Active"
     },
     {
