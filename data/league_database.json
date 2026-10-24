@@ -2042,7 +2042,7 @@
       "name": "Kyle Louis",
       "position": "LB",
       "team": "MIA",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "13525": {
@@ -7201,7 +7201,7 @@
       "name": "Brian Branch",
       "position": "DB",
       "team": "DET",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "12819": {
@@ -10491,7 +10491,7 @@
       "name": "Cooper McDonald",
       "position": "LB",
       "team": "KC",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "6977": {
@@ -19514,7 +19514,7 @@
       "name": "Brashard Smith",
       "position": "RB",
       "team": "KC",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "4881": {
@@ -88677,7 +88677,7 @@
       "name": "Brashard Smith",
       "position": "RB",
       "team": "KC",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "5121",
