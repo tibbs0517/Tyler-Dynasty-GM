@@ -26813,7 +26813,7 @@
     "name": "Teven Jenkins",
     "position": "OL",
     "team": "CLE",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "4876": {
@@ -48806,7 +48806,7 @@
   "6809": {
     "name": "Trevon Diggs",
     "position": "CB",
-    "team": "SEA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -51992,7 +51992,7 @@
     "name": "DeShon Elliott",
     "position": "DB",
     "team": "PIT",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "7958": {
@@ -56220,7 +56220,7 @@
     "name": "Dylan Sampson",
     "position": "RB",
     "team": "CLE",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "3020": {
@@ -58620,7 +58620,7 @@
   "6931": {
     "name": "DeeJay Dallas",
     "position": "RB",
-    "team": "MIN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -59355,7 +59355,7 @@
   "5075": {
     "name": "Ogbo Okoronkwo",
     "position": "LB",
-    "team": "SF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -72718,7 +72718,7 @@
   "13609": {
     "name": "Tristan Leigh",
     "position": "OL",
-    "team": "MIN",
+    "team": null,
     "status": "Active",
     "active": true
   },
