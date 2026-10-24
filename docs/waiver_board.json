@@ -6048,7 +6048,7 @@
     "id": "6931",
     "name": "DeeJay Dallas",
     "position": "RB",
-    "team": null,
+    "team": "MIN",
     "age": 28,
     "years_exp": 6,
     "active": true,
@@ -11629,7 +11629,7 @@
     "age": 26,
     "years_exp": 4,
     "active": true,
-    "injury_status": "Out",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -29283,7 +29283,7 @@
     "age": 30,
     "years_exp": 4,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null

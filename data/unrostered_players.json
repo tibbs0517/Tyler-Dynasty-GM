@@ -5085,7 +5085,7 @@
     "id": "6931",
     "name": "DeeJay Dallas",
     "position": "RB",
-    "team": null,
+    "team": "MIN",
     "status": "Active"
   },
   {
@@ -18673,7 +18673,7 @@
     "name": "Tyler Badie",
     "position": "RB",
     "team": "DEN",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "3225",

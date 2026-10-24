@@ -63,7 +63,6 @@
       "daily_waivers_last_ran": 24
     },
     "avatar": null,
-    "company_id": null,
     "shard": 470,
     "season": "2026",
     "season_type": "regular",
@@ -115,7 +114,7 @@
       "st_ff": 1.0
     },
     "last_message_id": "1419254322662768640",
-    "draft_id": "1326711861202161664",
+    "company_id": null,
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -124,12 +123,15 @@
     "last_message_text_map": null,
     "last_message_time": 1792739108294,
     "last_pinned_message_id": null,
+    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -154,8 +156,6 @@
       "BN",
       "BN"
     ],
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -658,7 +658,6 @@
       ],
       "reserve": [
         "8154",
-        "8408",
         "9226"
       ],
       "roster_id": 1,
@@ -953,9 +952,9 @@
       ],
       "reserve": [
         "11638",
-        "12469",
         "12508",
-        "12533"
+        "12533",
+        "7525"
       ],
       "roster_id": 5,
       "settings": {
@@ -976,7 +975,7 @@
         "3163",
         "11655",
         "11584",
-        "7525",
+        "11610",
         "9756",
         "9501",
         "4217",
@@ -3078,7 +3077,7 @@
       "name": "Cade Mays",
       "position": "OL",
       "team": "DET",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "10940": {
@@ -7348,7 +7347,7 @@
       "name": "Jonah Elliss",
       "position": "DE",
       "team": "DEN",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "1751": {
@@ -7558,7 +7557,7 @@
       "name": "Tavius Robinson",
       "position": "DE",
       "team": "BAL",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "2202": {
@@ -14285,7 +14284,7 @@
       "name": "Bam Martin-Scott",
       "position": "LB",
       "team": "CAR",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "4377": {
@@ -21397,7 +21396,7 @@
       "name": "A.J. Terrell Jr.",
       "position": "CB",
       "team": "ATL",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "7113": {
@@ -23518,7 +23517,7 @@
       "name": "Thomas Incoom",
       "position": "LB",
       "team": "CAR",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "6889": {
@@ -23679,7 +23678,7 @@
       "name": "Jordan Mason",
       "position": "RB",
       "team": "MIN",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "12884": {
@@ -25450,7 +25449,7 @@
       "name": "Tyler Badie",
       "position": "RB",
       "team": "DEN",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "1855": {
@@ -50180,7 +50179,7 @@
     "6809": {
       "name": "Trevon Diggs",
       "position": "CB",
-      "team": null,
+      "team": "SEA",
       "status": "Active",
       "active": true
     },
@@ -51637,7 +51636,7 @@
       "name": "Anthony Bradford",
       "position": "OL",
       "team": "SEA",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "1184": {
@@ -59400,7 +59399,7 @@
       "name": "Christian Kirk",
       "position": "WR",
       "team": "SF",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "3995": {
@@ -59994,7 +59993,7 @@
     "6931": {
       "name": "DeeJay Dallas",
       "position": "RB",
-      "team": null,
+      "team": "MIN",
       "status": "Active",
       "active": true
     },
@@ -60729,7 +60728,7 @@
     "5075": {
       "name": "Ogbo Okoronkwo",
       "position": "LB",
-      "team": null,
+      "team": "SF",
       "status": "Active",
       "active": true
     },
@@ -63096,7 +63095,7 @@
       "name": "Kiko Mauigoa",
       "position": "LB",
       "team": "NYJ",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "11637": {
@@ -65637,7 +65636,7 @@
       "name": "Paulson Adebo",
       "position": "CB",
       "team": "NYG",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "4927": {
@@ -68927,7 +68926,7 @@
       "name": "Jonah Coleman",
       "position": "RB",
       "team": "DEN",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "11168": {
@@ -70145,7 +70144,7 @@
       "name": "Tremaine Edmunds",
       "position": "LB",
       "team": "NYG",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "8909": {
@@ -71104,7 +71103,7 @@
       "name": "Michael Jerrell",
       "position": "OT",
       "team": "ATL",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "835": {
@@ -92064,7 +92063,7 @@
       "id": "6931",
       "name": "DeeJay Dallas",
       "position": "RB",
-      "team": null,
+      "team": "MIN",
       "status": "Active"
     },
     {
@@ -105652,7 +105651,7 @@
       "name": "Tyler Badie",
       "position": "RB",
       "team": "DEN",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "3225",

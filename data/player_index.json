@@ -1704,7 +1704,7 @@
     "name": "Cade Mays",
     "position": "OL",
     "team": "DET",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "10940": {
@@ -5974,7 +5974,7 @@
     "name": "Jonah Elliss",
     "position": "DE",
     "team": "DEN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "1751": {
@@ -6184,7 +6184,7 @@
     "name": "Tavius Robinson",
     "position": "DE",
     "team": "BAL",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "2202": {
@@ -12911,7 +12911,7 @@
     "name": "Bam Martin-Scott",
     "position": "LB",
     "team": "CAR",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "4377": {
@@ -20023,7 +20023,7 @@
     "name": "A.J. Terrell Jr.",
     "position": "CB",
     "team": "ATL",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "7113": {
@@ -22144,7 +22144,7 @@
     "name": "Thomas Incoom",
     "position": "LB",
     "team": "CAR",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "6889": {
@@ -22305,7 +22305,7 @@
     "name": "Jordan Mason",
     "position": "RB",
     "team": "MIN",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "12884": {
@@ -24076,7 +24076,7 @@
     "name": "Tyler Badie",
     "position": "RB",
     "team": "DEN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "1855": {
@@ -48806,7 +48806,7 @@
   "6809": {
     "name": "Trevon Diggs",
     "position": "CB",
-    "team": null,
+    "team": "SEA",
     "status": "Active",
     "active": true
   },
@@ -50263,7 +50263,7 @@
     "name": "Anthony Bradford",
     "position": "OL",
     "team": "SEA",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "1184": {
@@ -58026,7 +58026,7 @@
     "name": "Christian Kirk",
     "position": "WR",
     "team": "SF",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "3995": {
@@ -58620,7 +58620,7 @@
   "6931": {
     "name": "DeeJay Dallas",
     "position": "RB",
-    "team": null,
+    "team": "MIN",
     "status": "Active",
     "active": true
   },
@@ -59355,7 +59355,7 @@
   "5075": {
     "name": "Ogbo Okoronkwo",
     "position": "LB",
-    "team": null,
+    "team": "SF",
     "status": "Active",
     "active": true
   },
@@ -61722,7 +61722,7 @@
     "name": "Kiko Mauigoa",
     "position": "LB",
     "team": "NYJ",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "11637": {
@@ -64263,7 +64263,7 @@
     "name": "Paulson Adebo",
     "position": "CB",
     "team": "NYG",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "4927": {
@@ -67553,7 +67553,7 @@
     "name": "Jonah Coleman",
     "position": "RB",
     "team": "DEN",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "11168": {
@@ -68771,7 +68771,7 @@
     "name": "Tremaine Edmunds",
     "position": "LB",
     "team": "NYG",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "8909": {
@@ -69730,7 +69730,7 @@
     "name": "Michael Jerrell",
     "position": "OT",
     "team": "ATL",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "835": {
