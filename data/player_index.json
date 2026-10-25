@@ -4482,7 +4482,7 @@
   "6005": {
     "name": "Kevin Givens",
     "position": "DT",
-    "team": "SF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -18132,7 +18132,7 @@
   "13199": {
     "name": "Montorie Foster Jr.",
     "position": "WR",
-    "team": "SEA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -75588,7 +75588,7 @@
   "11481": {
     "name": "Natrone Brooks",
     "position": "CB",
-    "team": "MIN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -80516,7 +80516,7 @@
   "445": {
     "name": "Thomas Morstead",
     "position": "P",
-    "team": "IND",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -84849,7 +84849,7 @@
   "13672": {
     "name": "Wydett Williams Jr.",
     "position": "DB",
-    "team": "ARI",
+    "team": null,
     "status": "Active",
     "active": true
   },
