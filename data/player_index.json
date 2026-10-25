@@ -12666,7 +12666,7 @@
     "name": "Jordon Riley",
     "position": "DL",
     "team": "GB",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "5137": {
@@ -75519,7 +75519,7 @@
     "name": "Tank Dell",
     "position": "WR",
     "team": "HOU",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "5986": {
@@ -80628,7 +80628,7 @@
   "13974": {
     "name": "Malcolm DeWalt IV",
     "position": "CB",
-    "team": null,
+    "team": "CAR",
     "status": "Active",
     "active": true
   },

@@ -60,10 +60,15 @@
       "daily_waivers_base": 4,
       "reserve_slots": 4,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 24
+      "daily_waivers_last_ran": 25
     },
     "avatar": null,
     "company_id": null,
+    "shard": 470,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "last_message_id": "1419254322662768640",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -110,11 +115,7 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 470,
-    "sport": "nfl",
-    "last_message_id": "1419254322662768640",
+    "draft_id": "1326711861202161664",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -123,9 +124,8 @@
     "last_message_text_map": null,
     "last_message_time": 1792739108294,
     "last_pinned_message_id": null,
-    "draft_id": "1326711861202161664",
-    "league_id": "1326711861197938688",
     "last_read_id": null,
+    "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
     "bracket_id": null,
     "bracket_overrides_id": null,
@@ -14039,7 +14039,7 @@
       "name": "Jordon Riley",
       "position": "DL",
       "team": "GB",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "5137": {
@@ -76892,7 +76892,7 @@
       "name": "Tank Dell",
       "position": "WR",
       "team": "HOU",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "5986": {
@@ -82001,7 +82001,7 @@
     "13974": {
       "name": "Malcolm DeWalt IV",
       "position": "CB",
-      "team": null,
+      "team": "CAR",
       "status": "Active",
       "active": true
     },
