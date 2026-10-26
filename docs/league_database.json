@@ -8956,7 +8956,7 @@
     "11007": {
       "name": "Bryce Baringer",
       "position": "P",
-      "team": "NE",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -16902,7 +16902,7 @@
       "name": "Grant Calcaterra",
       "position": "TE",
       "team": "PHI",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "7791": {
@@ -19674,7 +19674,7 @@
       "name": "Eli Stowers",
       "position": "TE",
       "team": "PHI",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "11618": {
@@ -24399,7 +24399,7 @@
       "name": "Landon Dickerson",
       "position": "OL",
       "team": "PHI",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "903": {
@@ -50690,7 +50690,7 @@
     "12062": {
       "name": "Cam Grandy",
       "position": "TE",
-      "team": "MIN",
+      "team": "CIN",
       "status": "Active",
       "active": true
     },
@@ -62402,7 +62402,7 @@
       "name": "Dillon Gabriel",
       "position": "QB",
       "team": "CLE",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "5831": {
@@ -64711,7 +64711,7 @@
     "10998": {
       "name": "Jose Ramirez",
       "position": "DL",
-      "team": null,
+      "team": "NE",
       "status": "Active",
       "active": true
     },
@@ -66125,7 +66125,7 @@
     "4180": {
       "name": "Rayshawn Jenkins",
       "position": "DB",
-      "team": null,
+      "team": "BAL",
       "status": "Active",
       "active": true
     },
@@ -89445,7 +89445,7 @@
       "id": "12062",
       "name": "Cam Grandy",
       "position": "TE",
-      "team": "MIN",
+      "team": "CIN",
       "status": "Active"
     },
     {
@@ -92631,7 +92631,7 @@
       "name": "Dillon Gabriel",
       "position": "QB",
       "team": "CLE",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "id": "11580",
@@ -94059,7 +94059,7 @@
       "name": "Grant Calcaterra",
       "position": "TE",
       "team": "PHI",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "id": "11024",

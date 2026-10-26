@@ -2467,7 +2467,7 @@
     "id": "12062",
     "name": "Cam Grandy",
     "position": "TE",
-    "team": "MIN",
+    "team": "CIN",
     "status": "Active"
   },
   {
@@ -5653,7 +5653,7 @@
     "name": "Dillon Gabriel",
     "position": "QB",
     "team": "CLE",
-    "status": "Inactive"
+    "status": "Active"
   },
   {
     "id": "11580",
@@ -7081,7 +7081,7 @@
     "name": "Grant Calcaterra",
     "position": "TE",
     "team": "PHI",
-    "status": "Inactive"
+    "status": "Active"
   },
   {
     "id": "11024",

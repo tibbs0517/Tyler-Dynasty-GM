@@ -13081,7 +13081,7 @@
     "id": "12062",
     "name": "Cam Grandy",
     "position": "TE",
-    "team": "MIN",
+    "team": "CIN",
     "age": 26,
     "years_exp": 2,
     "active": true,
@@ -15035,7 +15035,7 @@
     "age": 27,
     "years_exp": 4,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -26852,7 +26852,7 @@
     "age": 26,
     "years_exp": 3,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
