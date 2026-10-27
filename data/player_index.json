@@ -6338,7 +6338,7 @@
     "name": "Taylor Moton",
     "position": "T",
     "team": "CAR",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "11002": {
@@ -65886,8 +65886,8 @@
   "12922": {
     "name": "Ja'Markis Weston",
     "position": "DE",
-    "team": null,
-    "status": "Inactive",
+    "team": "CAR",
+    "status": "Active",
     "active": true
   },
   "12938": {
