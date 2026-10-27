@@ -6687,7 +6687,7 @@
   "4970": {
     "name": "Quenton Nelson",
     "position": "OL",
-    "team": "IND",
+    "team": "SEA",
     "status": "Active",
     "active": true
   },
@@ -13477,7 +13477,7 @@
   "13846": {
     "name": "Jack Velling",
     "position": "TE",
-    "team": "ATL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -77842,7 +77842,7 @@
   "13580": {
     "name": "Carsen Ryan",
     "position": "TE",
-    "team": "CLE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -78731,7 +78731,7 @@
   "13966": {
     "name": "Jacob Rizy",
     "position": "OL",
-    "team": "NE",
+    "team": null,
     "status": "Active",
     "active": true
   },
