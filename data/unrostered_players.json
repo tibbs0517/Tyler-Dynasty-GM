@@ -1165,7 +1165,7 @@
     "id": "14080",
     "name": "Barika Kpeenu",
     "position": "RB",
-    "team": null,
+    "team": "TB",
     "status": "Active"
   },
   {
@@ -2369,7 +2369,7 @@
     "id": "12933",
     "name": "Caden Prieskorn",
     "position": "TE",
-    "team": null,
+    "team": "CIN",
     "status": "Active"
   },
   {
@@ -5786,7 +5786,7 @@
     "name": "Dont'e Thornton Jr.",
     "position": "WR",
     "team": "LV",
-    "status": "Inactive"
+    "status": "Active"
   },
   {
     "id": "12946",
@@ -6254,7 +6254,7 @@
     "id": "12909",
     "name": "Eli Pancol",
     "position": "WR",
-    "team": null,
+    "team": "DEN",
     "status": "Active"
   },
   {
@@ -6549,7 +6549,7 @@
     "name": "Erick All Jr.",
     "position": "TE",
     "team": "CIN",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "8114",
@@ -7129,7 +7129,7 @@
     "id": "13603",
     "name": "Gregory Desrosiers",
     "position": "RB",
-    "team": "LAC",
+    "team": "NYG",
     "status": "Active"
   },
   {
@@ -8397,7 +8397,7 @@
     "name": "Jalen Brooks",
     "position": "WR",
     "team": "ARI",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "7789",
@@ -12862,7 +12862,7 @@
     "id": "14058",
     "name": "Malick Meiga",
     "position": "WR",
-    "team": null,
+    "team": "SEA",
     "status": "Active"
   },
   {
@@ -14213,7 +14213,7 @@
     "id": "13199",
     "name": "Montorie Foster Jr.",
     "position": "WR",
-    "team": null,
+    "team": "SEA",
     "status": "Active"
   },
   {
@@ -17594,7 +17594,7 @@
     "id": "11802",
     "name": "Tejhaun Palmer",
     "position": "WR",
-    "team": null,
+    "team": "LAC",
     "status": "Active"
   },
   {
@@ -19568,7 +19568,7 @@
     "id": "4080",
     "name": "Zay Jones",
     "position": "WR",
-    "team": null,
+    "team": "ARI",
     "status": "Active"
   },
   {

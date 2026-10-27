@@ -64,11 +64,6 @@
     },
     "avatar": null,
     "company_id": null,
-    "shard": 470,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
-    "last_message_id": "1420840599833018368",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -115,21 +110,26 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_author_avatar": null,
-    "last_author_display_name": "sys",
-    "last_author_id": "166666666666666666",
-    "last_author_is_bot": true,
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 470,
+    "sport": "nfl",
+    "last_message_id": "1420911626961289216",
+    "last_author_avatar": "e36a6748fbd53ab64ceb5f669bc6e27c",
+    "last_author_display_name": "SammyA",
+    "last_author_id": "429817971473403904",
+    "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1793117306244,
+    "last_message_time": 1793134240430,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "draft_id": "1326711861202161664",
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "roster_positions": [
@@ -5855,7 +5855,7 @@
     "6005": {
       "name": "Kevin Givens",
       "position": "DT",
-      "team": null,
+      "team": "SF",
       "status": "Active",
       "active": true
     },
@@ -10860,7 +10860,7 @@
     "7957": {
       "name": "Jon Rhattigan",
       "position": "LB",
-      "team": null,
+      "team": "LAR",
       "status": "Active",
       "active": true
     },
@@ -12687,8 +12687,8 @@
     "11930": {
       "name": "Taki Taimani",
       "position": "DL",
-      "team": null,
-      "status": "Inactive",
+      "team": "DET",
+      "status": "Active",
       "active": true
     },
     "4898": {
@@ -13570,7 +13570,7 @@
       "name": "Erick All Jr.",
       "position": "TE",
       "team": "CIN",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "1220": {
@@ -19057,7 +19057,7 @@
     "3172": {
       "name": "DeForest Buckner",
       "position": "DT",
-      "team": "IND",
+      "team": "SF",
       "status": "Active",
       "active": true
     },
@@ -19505,7 +19505,7 @@
     "13199": {
       "name": "Montorie Foster Jr.",
       "position": "WR",
-      "team": null,
+      "team": "SEA",
       "status": "Active",
       "active": true
     },
@@ -23782,7 +23782,7 @@
     "13603": {
       "name": "Gregory Desrosiers",
       "position": "RB",
-      "team": "LAC",
+      "team": "NYG",
       "status": "Active",
       "active": true
     },
@@ -26001,7 +26001,7 @@
     "5869": {
       "name": "Michael Jordan",
       "position": "G",
-      "team": null,
+      "team": "BAL",
       "status": "Active",
       "active": true
     },
@@ -29074,7 +29074,7 @@
     "12909": {
       "name": "Eli Pancol",
       "position": "WR",
-      "team": null,
+      "team": "DEN",
       "status": "Active",
       "active": true
     },
@@ -35493,7 +35493,7 @@
     "14080": {
       "name": "Barika Kpeenu",
       "position": "RB",
-      "team": null,
+      "team": "TB",
       "status": "Active",
       "active": true
     },
@@ -38503,7 +38503,7 @@
     "12234": {
       "name": "Shemar Bartholomew",
       "position": "CB",
-      "team": null,
+      "team": "IND",
       "status": "Active",
       "active": true
     },
@@ -39330,7 +39330,7 @@
       "name": "Tyrone Tracy Jr.",
       "position": "RB",
       "team": "NYG",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "5345": {
@@ -49221,7 +49221,7 @@
       "name": "Dont'e Thornton Jr.",
       "position": "WR",
       "team": "LV",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "2913": {
@@ -50870,9 +50870,9 @@
       "active": true
     },
     "11041": {
-      "name": "Andre Jones",
+      "name": "Andre Jones Jr.",
       "position": "DE",
-      "team": null,
+      "team": "BUF",
       "status": "Active",
       "active": true
     },
@@ -52678,7 +52678,7 @@
     "4080": {
       "name": "Zay Jones",
       "position": "WR",
-      "team": null,
+      "team": "ARI",
       "status": "Active",
       "active": true
     },
@@ -52783,7 +52783,7 @@
     "14058": {
       "name": "Malick Meiga",
       "position": "WR",
-      "team": null,
+      "team": "SEA",
       "status": "Active",
       "active": true
     },
@@ -53903,7 +53903,7 @@
     "11935": {
       "name": "A.J. Woods",
       "position": "CB",
-      "team": null,
+      "team": "BUF",
       "status": "Active",
       "active": true
     },
@@ -54456,7 +54456,7 @@
     "13899": {
       "name": "Amari McNeill",
       "position": "DT",
-      "team": null,
+      "team": "NYJ",
       "status": "Active",
       "active": true
     },
@@ -54631,7 +54631,7 @@
     "11802": {
       "name": "Tejhaun Palmer",
       "position": "WR",
-      "team": null,
+      "team": "LAC",
       "status": "Active",
       "active": true
     },
@@ -55611,7 +55611,7 @@
     "8491": {
       "name": "Austin Deculus",
       "position": "T",
-      "team": null,
+      "team": "ARI",
       "status": "Active",
       "active": true
     },
@@ -57844,7 +57844,7 @@
     "12933": {
       "name": "Caden Prieskorn",
       "position": "TE",
-      "team": null,
+      "team": "CIN",
       "status": "Active",
       "active": true
     },
@@ -66356,7 +66356,7 @@
     "13589": {
       "name": "Nadame Tucker",
       "position": "DE",
-      "team": null,
+      "team": "CLE",
       "status": "Active",
       "active": true
     },
@@ -72545,7 +72545,7 @@
       "name": "Cam Taylor-Britt",
       "position": "DB",
       "team": "IND",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "1988": {
@@ -76961,7 +76961,7 @@
     "11481": {
       "name": "Natrone Brooks",
       "position": "CB",
-      "team": null,
+      "team": "IND",
       "status": "Active",
       "active": true
     },
@@ -78061,7 +78061,7 @@
       "name": "Jalen Brooks",
       "position": "WR",
       "team": "ARI",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "12045": {
@@ -86222,7 +86222,7 @@
     "13672": {
       "name": "Wydett Williams Jr.",
       "position": "DB",
-      "team": null,
+      "team": "ARI",
       "status": "Active",
       "active": true
     },
@@ -88143,7 +88143,7 @@
       "id": "14080",
       "name": "Barika Kpeenu",
       "position": "RB",
-      "team": null,
+      "team": "TB",
       "status": "Active"
     },
     {
@@ -89347,7 +89347,7 @@
       "id": "12933",
       "name": "Caden Prieskorn",
       "position": "TE",
-      "team": null,
+      "team": "CIN",
       "status": "Active"
     },
     {
@@ -92764,7 +92764,7 @@
       "name": "Dont'e Thornton Jr.",
       "position": "WR",
       "team": "LV",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "id": "12946",
@@ -93232,7 +93232,7 @@
       "id": "12909",
       "name": "Eli Pancol",
       "position": "WR",
-      "team": null,
+      "team": "DEN",
       "status": "Active"
     },
     {
@@ -93527,7 +93527,7 @@
       "name": "Erick All Jr.",
       "position": "TE",
       "team": "CIN",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "8114",
@@ -94107,7 +94107,7 @@
       "id": "13603",
       "name": "Gregory Desrosiers",
       "position": "RB",
-      "team": "LAC",
+      "team": "NYG",
       "status": "Active"
     },
     {
@@ -95375,7 +95375,7 @@
       "name": "Jalen Brooks",
       "position": "WR",
       "team": "ARI",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "7789",
@@ -99840,7 +99840,7 @@
       "id": "14058",
       "name": "Malick Meiga",
       "position": "WR",
-      "team": null,
+      "team": "SEA",
       "status": "Active"
     },
     {
@@ -101191,7 +101191,7 @@
       "id": "13199",
       "name": "Montorie Foster Jr.",
       "position": "WR",
-      "team": null,
+      "team": "SEA",
       "status": "Active"
     },
     {
@@ -104572,7 +104572,7 @@
       "id": "11802",
       "name": "Tejhaun Palmer",
       "position": "WR",
-      "team": null,
+      "team": "LAC",
       "status": "Active"
     },
     {
@@ -106546,7 +106546,7 @@
       "id": "4080",
       "name": "Zay Jones",
       "position": "WR",
-      "team": null,
+      "team": "ARI",
       "status": "Active"
     },
     {
