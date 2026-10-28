@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-10-28 06:36:23
+Generated: 2026-10-28 13:46:28
 
 ---
 
@@ -9,14 +9,14 @@ Generated: 2026-10-28 06:36:23
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2800
+Available Players: 2801
 
 ---
 
 ## League Activity
 
 Trades: 0
-Waiver Claims: 3
+Waiver Claims: 0
 Free Agent Moves: 1
 
 ---
@@ -37,25 +37,18 @@ No trades.
 
 ## Top Waiver Claims
 
-- Jordan Watkins → AnthonyJania
-- Seth McGowan → SammyA
-- Christian Kirk → HebrewsHeroes
 
 ---
 
 ## Recently Dropped Players
 
-- Ja'Lynn Polk
-- Kalif Raymond
+- Xavier Hutchinson
 
 ---
 
 ## Most Active Managers
 
 - AnthonyJania: 1 moves
-- jaredgratz: 1 moves
-- SammyA: 1 moves
-- HebrewsHeroes: 1 moves
 
 ---
 
