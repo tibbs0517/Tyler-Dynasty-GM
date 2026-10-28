@@ -64,6 +64,7 @@
     },
     "avatar": null,
     "company_id": null,
+    "last_message_id": "1420911626961289216",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -114,7 +115,7 @@
     "season_type": "regular",
     "shard": 470,
     "sport": "nfl",
-    "last_message_id": "1420911626961289216",
+    "draft_id": "1326711861202161664",
     "last_author_avatar": "e36a6748fbd53ab64ceb5f669bc6e27c",
     "last_author_display_name": "SammyA",
     "last_author_id": "429817971473403904",
@@ -124,14 +125,8 @@
     "last_message_time": 1793134240430,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1326711861202161664",
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
-    "group_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -156,6 +151,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -878,7 +878,6 @@
         "9229"
       ],
       "reserve": [
-        "10229",
         "11589",
         "12484",
         "13287"
@@ -899,14 +898,14 @@
         "wins": 2
       },
       "starters": [
-        "12545",
-        "0",
+        "1166",
+        "12507",
         "13337",
-        "12536",
+        "10229",
         "11646",
         "12501",
         "12517",
-        "11628",
+        "13294",
         "11783",
         "9228"
       ],
@@ -952,9 +951,9 @@
       ],
       "reserve": [
         "11638",
+        "12504",
         "12508",
-        "12533",
-        "7525"
+        "12533"
       ],
       "roster_id": 5,
       "settings": {
@@ -976,7 +975,7 @@
         "8138",
         "11584",
         "4983",
-        "9756",
+        "7525",
         "9501",
         "10859",
         "11610",
@@ -1280,7 +1279,7 @@
         "wins": 5
       },
       "starters": [
-        "2306",
+        "7523",
         "6813",
         "8151",
         "6786",
@@ -1671,9 +1670,9 @@
   ],
   "nfl_state": {
     "week": 8,
-    "leg": 8,
-    "season": "2026",
     "season_type": "regular",
+    "season": "2026",
+    "leg": 8,
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
