@@ -44,10 +44,10 @@
       "fpts": 852,
       "fpts_against": 862,
       "fpts_against_decimal": 80,
-      "fpts_decimal": 28,
+      "fpts_decimal": 18,
       "losses": 3,
       "ppts": 1034,
-      "ppts_decimal": 22,
+      "ppts_decimal": 12,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
@@ -565,8 +565,8 @@
     "roster_id": 8,
     "settings": {
       "fpts": 731,
-      "fpts_against": 853,
-      "fpts_against_decimal": 4,
+      "fpts_against": 852,
+      "fpts_against_decimal": 94,
       "fpts_decimal": 82,
       "losses": 5,
       "ppts": 936,
@@ -715,9 +715,9 @@
     ],
     "reserve": [
       "11618",
-      "13281",
-      "13345",
-      "13349"
+      "11635",
+      "12534",
+      "13281"
     ],
     "roster_id": 10,
     "settings": {
@@ -735,11 +735,11 @@
       "wins": 4
     },
     "starters": [
-      "9758",
+      "11566",
       "3198",
       "6790",
       "5859",
-      "7569",
+      "13279",
       "8146",
       "11604",
       "12527",

@@ -64,7 +64,6 @@
     },
     "avatar": null,
     "company_id": null,
-    "last_message_id": "1420911626961289216",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -115,7 +114,7 @@
     "season_type": "regular",
     "shard": 470,
     "sport": "nfl",
-    "draft_id": "1326711861202161664",
+    "last_message_id": "1420911626961289216",
     "last_author_avatar": "e36a6748fbd53ab64ceb5f669bc6e27c",
     "last_author_display_name": "SammyA",
     "last_author_id": "429817971473403904",
@@ -125,6 +124,7 @@
     "last_message_time": 1793134240430,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1326711861202161664",
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
     "roster_positions": [
@@ -151,9 +151,9 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -665,10 +665,10 @@
         "fpts": 852,
         "fpts_against": 862,
         "fpts_against_decimal": 80,
-        "fpts_decimal": 28,
+        "fpts_decimal": 18,
         "losses": 3,
         "ppts": 1034,
-        "ppts_decimal": 22,
+        "ppts_decimal": 12,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
@@ -1186,8 +1186,8 @@
       "roster_id": 8,
       "settings": {
         "fpts": 731,
-        "fpts_against": 853,
-        "fpts_against_decimal": 4,
+        "fpts_against": 852,
+        "fpts_against_decimal": 94,
         "fpts_decimal": 82,
         "losses": 5,
         "ppts": 936,
@@ -1336,9 +1336,9 @@
       ],
       "reserve": [
         "11618",
-        "13281",
-        "13345",
-        "13349"
+        "11635",
+        "12534",
+        "13281"
       ],
       "roster_id": 10,
       "settings": {
@@ -1356,11 +1356,11 @@
         "wins": 4
       },
       "starters": [
-        "9758",
+        "11566",
         "3198",
         "6790",
         "5859",
-        "7569",
+        "13279",
         "8146",
         "11604",
         "12527",
@@ -38075,8 +38075,8 @@
     "11082": {
       "name": "Ben Sims",
       "position": "TE",
-      "team": null,
-      "status": "Inactive",
+      "team": "SEA",
+      "status": "Active",
       "active": true
     },
     "12085": {
@@ -88289,8 +88289,8 @@
       "id": "11082",
       "name": "Ben Sims",
       "position": "TE",
-      "team": null,
-      "status": "Inactive"
+      "team": "SEA",
+      "status": "Active"
     },
     {
       "id": "11596",
