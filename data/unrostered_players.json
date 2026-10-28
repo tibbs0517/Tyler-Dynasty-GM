@@ -1830,7 +1830,7 @@
     "id": "6037",
     "name": "Brett Rypien",
     "position": "QB",
-    "team": "TB",
+    "team": null,
     "status": "Active"
   },
   {
@@ -2145,8 +2145,8 @@
     "id": "12941",
     "name": "Bryson Nesbit",
     "position": "TE",
-    "team": null,
-    "status": "Inactive"
+    "team": "MIN",
+    "status": "Active"
   },
   {
     "id": "11748",
@@ -2635,7 +2635,7 @@
     "id": "13580",
     "name": "Carsen Ryan",
     "position": "TE",
-    "team": null,
+    "team": "CLE",
     "status": "Active"
   },
   {
@@ -3895,7 +3895,7 @@
     "id": "13355",
     "name": "DJ Rogers",
     "position": "TE",
-    "team": "DAL",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -5393,7 +5393,7 @@
     "id": "11820",
     "name": "Devin Culp",
     "position": "TE",
-    "team": null,
+    "team": "MIN",
     "status": "Active"
   },
   {
@@ -6415,7 +6415,7 @@
     "id": "11199",
     "name": "Emari Demercado",
     "position": "RB",
-    "team": "DAL",
+    "team": null,
     "status": "Active"
   },
   {
@@ -8655,7 +8655,7 @@
     "id": "11633",
     "name": "Jamari Thrash",
     "position": "WR",
-    "team": "LV",
+    "team": null,
     "status": "Active"
   },
   {
@@ -8781,7 +8781,7 @@
     "id": "13879",
     "name": "Jameson Geers",
     "position": "TE",
-    "team": "ARI",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -8914,7 +8914,7 @@
     "id": "7537",
     "name": "Jaret Patterson",
     "position": "RB",
-    "team": "CLE",
+    "team": null,
     "status": "Active"
   },
   {
@@ -9005,7 +9005,7 @@
     "id": "11311",
     "name": "Jason Brownlee",
     "position": "WR",
-    "team": "NYG",
+    "team": null,
     "status": "Active"
   },
   {
@@ -10097,7 +10097,7 @@
     "id": "7087",
     "name": "Jonathan Ward",
     "position": "RB",
-    "team": "BAL",
+    "team": null,
     "status": "Active"
   },
   {
@@ -10706,7 +10706,7 @@
     "id": "7050",
     "name": "Josiah Deguara",
     "position": "TE",
-    "team": "SEA",
+    "team": null,
     "status": "Active"
   },
   {
@@ -12134,7 +12134,7 @@
     "id": "13208",
     "name": "Kyrese Rowan",
     "position": "WR",
-    "team": "NO",
+    "team": null,
     "status": "Active"
   },
   {
@@ -12379,7 +12379,7 @@
     "id": "12001",
     "name": "Lawrence Keys",
     "position": "WR",
-    "team": "DET",
+    "team": null,
     "status": "Active"
   },
   {
@@ -12939,7 +12939,7 @@
     "id": "5781",
     "name": "Malik Turner",
     "position": "WR",
-    "team": "SF",
+    "team": null,
     "status": "Active"
   },
   {

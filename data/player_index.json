@@ -4552,7 +4552,7 @@
   "7974": {
     "name": "Nick McCloud",
     "position": "CB",
-    "team": "CHI",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -6113,7 +6113,7 @@
   "11311": {
     "name": "Jason Brownlee",
     "position": "WR",
-    "team": "NYG",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -14016,7 +14016,7 @@
   "11827": {
     "name": "Jonah Laulu",
     "position": "DL",
-    "team": "LV",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -15060,7 +15060,7 @@
     "name": "Kerby Joseph",
     "position": "DB",
     "team": "DET",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "1814": {
@@ -16179,7 +16179,7 @@
   "5781": {
     "name": "Malik Turner",
     "position": "WR",
-    "team": "SF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -16627,7 +16627,7 @@
   "11633": {
     "name": "Jamari Thrash",
     "position": "WR",
-    "team": "LV",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -18804,8 +18804,8 @@
   "12941": {
     "name": "Bryson Nesbit",
     "position": "TE",
-    "team": null,
-    "status": "Inactive",
+    "team": "MIN",
+    "status": "Active",
     "active": true
   },
   "759": {
@@ -19553,8 +19553,8 @@
   "12643": {
     "name": "Kyle Kennard",
     "position": "DE",
-    "team": null,
-    "status": "Inactive",
+    "team": "WAS",
+    "status": "Active",
     "active": true
   },
   "12191": {
@@ -27099,7 +27099,7 @@
   "8285": {
     "name": "Josh Ross",
     "position": "LB",
-    "team": "SEA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -37585,7 +37585,7 @@
   "10997": {
     "name": "Jerrick Reed II",
     "position": "DB",
-    "team": "ARI",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -40343,7 +40343,7 @@
   "13937": {
     "name": "Jackson Acker",
     "position": "FB",
-    "team": "SEA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -40371,7 +40371,7 @@
   "13355": {
     "name": "DJ Rogers",
     "position": "TE",
-    "team": "DAL",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -42429,7 +42429,7 @@
   "6037": {
     "name": "Brett Rypien",
     "position": "QB",
-    "team": "TB",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -45831,7 +45831,7 @@
   "1264": {
     "name": "Justin Tucker",
     "position": "K",
-    "team": null,
+    "team": "KC",
     "status": "Active",
     "active": true
   },
@@ -47357,7 +47357,7 @@
   "7087": {
     "name": "Jonathan Ward",
     "position": "RB",
-    "team": "BAL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -50521,7 +50521,7 @@
   "12872": {
     "name": "John Saunders Jr.",
     "position": "DB",
-    "team": "CLE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -53538,7 +53538,7 @@
   "3560": {
     "name": "Austin Johnson",
     "position": "DT",
-    "team": "BUF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -54672,7 +54672,7 @@
   "11455": {
     "name": "Anthony Kendall",
     "position": "CB",
-    "team": "BUF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -57746,7 +57746,7 @@
     "name": "Terry McLaurin",
     "position": "WR",
     "team": "WAS",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "7134": {
@@ -60573,7 +60573,7 @@
   "11199": {
     "name": "Emari Demercado",
     "position": "RB",
-    "team": "DAL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -65452,7 +65452,7 @@
   "7537": {
     "name": "Jaret Patterson",
     "position": "RB",
-    "team": "CLE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -65956,7 +65956,7 @@
   "6216": {
     "name": "Ugo Amadi",
     "position": "DB",
-    "team": "DEN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -67160,7 +67160,7 @@
   "7050": {
     "name": "Josiah Deguara",
     "position": "TE",
-    "team": "SEA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -69309,7 +69309,7 @@
   "13208": {
     "name": "Kyrese Rowan",
     "position": "WR",
-    "team": "NO",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -69820,7 +69820,7 @@
   "12001": {
     "name": "Lawrence Keys",
     "position": "WR",
-    "team": "DET",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -70513,7 +70513,7 @@
   "12920": {
     "name": "Dean Clark",
     "position": "DB",
-    "team": "PHI",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -77156,7 +77156,7 @@
   "12780": {
     "name": "Xavier Truss",
     "position": "OT",
-    "team": "PHI",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -77842,7 +77842,7 @@
   "13580": {
     "name": "Carsen Ryan",
     "position": "TE",
-    "team": null,
+    "team": "CLE",
     "status": "Active",
     "active": true
   },
@@ -80516,7 +80516,7 @@
   "445": {
     "name": "Thomas Morstead",
     "position": "P",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
@@ -81328,7 +81328,7 @@
   "13887": {
     "name": "Nyzier Fourqurean",
     "position": "CB",
-    "team": "LAR",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -82252,7 +82252,7 @@
   "13879": {
     "name": "Jameson Geers",
     "position": "TE",
-    "team": "ARI",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -82280,7 +82280,7 @@
   "12227": {
     "name": "Elias Neal",
     "position": "LB",
-    "team": "LAR",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -83869,7 +83869,7 @@
   "11820": {
     "name": "Devin Culp",
     "position": "TE",
-    "team": null,
+    "team": "MIN",
     "status": "Active",
     "active": true
   },
@@ -84051,7 +84051,7 @@
   "11704": {
     "name": "Christian Haynes",
     "position": "OL",
-    "team": "SEA",
+    "team": null,
     "status": "Active",
     "active": true
   },
