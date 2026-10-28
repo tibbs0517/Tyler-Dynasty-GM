@@ -6904,7 +6904,7 @@
   "11721": {
     "name": "Bralen Trice",
     "position": "DE",
-    "team": null,
+    "team": "LV",
     "status": "Active",
     "active": true
   },
@@ -11097,7 +11097,7 @@
   "13585": {
     "name": "Evan Beerntsen",
     "position": "OL",
-    "team": "SEA",
+    "team": "PHI",
     "status": "Active",
     "active": true
   },
@@ -14016,7 +14016,7 @@
   "11827": {
     "name": "Jonah Laulu",
     "position": "DL",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
@@ -45019,7 +45019,7 @@
   "7830": {
     "name": "Shaun Wade",
     "position": "CB",
-    "team": null,
+    "team": "PHI",
     "status": "Active",
     "active": true
   },
@@ -50725,7 +50725,7 @@
     "name": "Dameon Pierce",
     "position": "RB",
     "team": "PHI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "8434": {
@@ -51901,7 +51901,7 @@
     "name": "Jaylin Noel",
     "position": "WR",
     "team": "HOU",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "6917": {
@@ -60573,7 +60573,7 @@
   "11199": {
     "name": "Emari Demercado",
     "position": "RB",
-    "team": null,
+    "team": "HOU",
     "status": "Active",
     "active": true
   },
@@ -61854,7 +61854,7 @@
   "965": {
     "name": "Jake McQuaide",
     "position": "LS",
-    "team": null,
+    "team": "LAR",
     "status": "Active",
     "active": true
   },
@@ -66082,7 +66082,7 @@
   "12907": {
     "name": "Quentin Skinner",
     "position": "WR",
-    "team": null,
+    "team": "PHI",
     "status": "Active",
     "active": true
   },
@@ -69295,7 +69295,7 @@
   "11789": {
     "name": "Joshua Karty",
     "position": "K",
-    "team": null,
+    "team": "LAR",
     "status": "Active",
     "active": true
   },
@@ -84051,7 +84051,7 @@
   "11704": {
     "name": "Christian Haynes",
     "position": "OL",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
