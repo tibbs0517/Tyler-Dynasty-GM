@@ -534,7 +534,7 @@
   "12887": {
     "name": "Joshua Gray",
     "position": "OL",
-    "team": "MIN",
+    "team": "IND",
     "status": "Active",
     "active": true
   },
@@ -3537,7 +3537,7 @@
   "6125": {
     "name": "Jeffery Simmons",
     "position": "DT",
-    "team": "TEN",
+    "team": "CHI",
     "status": "Active",
     "active": true
   },
@@ -25580,7 +25580,7 @@
   "13855": {
     "name": "Austin Blaske",
     "position": "OL",
-    "team": "LAR",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -34631,7 +34631,7 @@
   "8654": {
     "name": "Timmy Horne",
     "position": "DT",
-    "team": "TEN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -40798,7 +40798,7 @@
   "13538": {
     "name": "DJ Campbell",
     "position": "G",
-    "team": "MIA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -56030,7 +56030,7 @@
   "8261": {
     "name": "Jack Jones",
     "position": "DB",
-    "team": "SF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -69876,7 +69876,7 @@
   "7115": {
     "name": "Charlie Heck",
     "position": "T",
-    "team": null,
+    "team": "IND",
     "status": "Active",
     "active": true
   },

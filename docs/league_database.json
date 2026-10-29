@@ -63,11 +63,10 @@
       "daily_waivers_last_ran": 29
     },
     "avatar": null,
-    "company_id": null,
-    "shard": 470,
-    "season": "2026",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 470,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -114,6 +113,7 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
+    "company_id": null,
     "last_message_id": "1421100730592370688",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -123,10 +123,15 @@
     "last_message_text_map": null,
     "last_message_time": 1793179326250,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1326711861202161664",
+    "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,11 +156,6 @@
       "BN",
       "BN"
     ],
-    "group_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -878,7 +878,7 @@
       "reserve": [
         "11589",
         "12484",
-        "13287"
+        "12536"
       ],
       "roster_id": 4,
       "settings": {
@@ -898,7 +898,7 @@
       "starters": [
         "1166",
         "12507",
-        "13337",
+        "13287",
         "10229",
         "11646",
         "12501",
@@ -1904,7 +1904,7 @@
     "12887": {
       "name": "Joshua Gray",
       "position": "OL",
-      "team": "MIN",
+      "team": "IND",
       "status": "Active",
       "active": true
     },
@@ -4907,7 +4907,7 @@
     "6125": {
       "name": "Jeffery Simmons",
       "position": "DT",
-      "team": "TEN",
+      "team": "CHI",
       "status": "Active",
       "active": true
     },
@@ -26950,7 +26950,7 @@
     "13855": {
       "name": "Austin Blaske",
       "position": "OL",
-      "team": "LAR",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -36001,7 +36001,7 @@
     "8654": {
       "name": "Timmy Horne",
       "position": "DT",
-      "team": "TEN",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -42168,7 +42168,7 @@
     "13538": {
       "name": "DJ Campbell",
       "position": "G",
-      "team": "MIA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -57400,7 +57400,7 @@
     "8261": {
       "name": "Jack Jones",
       "position": "DB",
-      "team": "SF",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -71246,7 +71246,7 @@
     "7115": {
       "name": "Charlie Heck",
       "position": "T",
-      "team": null,
+      "team": "IND",
       "status": "Active",
       "active": true
     },
