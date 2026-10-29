@@ -4546,7 +4546,7 @@
     "name": "Akayleb Evans",
     "position": "DB",
     "team": "CAR",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "7974": {
@@ -34631,7 +34631,7 @@
   "8654": {
     "name": "Timmy Horne",
     "position": "DT",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
@@ -49478,7 +49478,7 @@
   "11535": {
     "name": "Josh Butler",
     "position": "CB",
-    "team": null,
+    "team": "CHI",
     "status": "Active",
     "active": true
   },
