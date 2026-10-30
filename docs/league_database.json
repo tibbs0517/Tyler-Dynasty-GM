@@ -129,6 +129,9 @@
     "previous_league_id": "1228352285197746179",
     "bracket_id": null,
     "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -153,9 +156,6 @@
       "BN",
       "BN"
     ],
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -973,7 +973,7 @@
         "8138",
         "11584",
         "4983",
-        "7525",
+        "9756",
         "9501",
         "10859",
         "11610",
@@ -1259,7 +1259,7 @@
         "9753"
       ],
       "reserve": [
-        "9753"
+        "9508"
       ],
       "roster_id": 9,
       "settings": {
@@ -5852,7 +5852,7 @@
     "6005": {
       "name": "Kevin Givens",
       "position": "DT",
-      "team": "SF",
+      "team": "IND",
       "status": "Active",
       "active": true
     },
@@ -46809,8 +46809,8 @@
     "11750": {
       "name": "Dominique Hampton",
       "position": "CB",
-      "team": null,
-      "status": "Inactive",
+      "team": "TEN",
+      "status": "Active",
       "active": true
     },
     "1798": {
@@ -73031,7 +73031,7 @@
     "11769": {
       "name": "Caelen Carson",
       "position": "DB",
-      "team": null,
+      "team": "CAR",
       "status": "Active",
       "active": true
     },
@@ -74851,7 +74851,7 @@
     "12035": {
       "name": "Jamree Kromah",
       "position": "DL",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },

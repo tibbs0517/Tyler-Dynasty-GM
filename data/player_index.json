@@ -4482,7 +4482,7 @@
   "6005": {
     "name": "Kevin Givens",
     "position": "DT",
-    "team": "SF",
+    "team": "IND",
     "status": "Active",
     "active": true
   },
@@ -45439,8 +45439,8 @@
   "11750": {
     "name": "Dominique Hampton",
     "position": "CB",
-    "team": null,
-    "status": "Inactive",
+    "team": "TEN",
+    "status": "Active",
     "active": true
   },
   "1798": {
@@ -71661,7 +71661,7 @@
   "11769": {
     "name": "Caelen Carson",
     "position": "DB",
-    "team": null,
+    "team": "CAR",
     "status": "Active",
     "active": true
   },
@@ -73481,7 +73481,7 @@
   "12035": {
     "name": "Jamree Kromah",
     "position": "DL",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
