@@ -49,7 +49,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 5,
-      "waiver_position": 10,
+      "waiver_position": 9,
       "wins": 4
     },
     "starters": [
@@ -62,7 +62,7 @@
       "3214",
       "2449",
       "8136",
-      "11563"
+      "3257"
     ],
     "taxi": null
   },
@@ -462,9 +462,9 @@
       "13296",
       "13301",
       "13413",
+      "13421",
       "4199",
       "4454",
-      "4950",
       "5846",
       "6770",
       "6803",
@@ -494,7 +494,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 53,
-      "waiver_position": 9,
+      "waiver_position": 10,
       "wins": 4
     },
     "starters": [

@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-10-30 02:22:11
+Generated: 2026-10-30 09:31:00
 
 ---
 
@@ -16,7 +16,7 @@ Available Players: 2801
 ## League Activity
 
 Trades: 0
-Waiver Claims: 0
+Waiver Claims: 1
 Free Agent Moves: 1
 
 ---
@@ -37,17 +37,20 @@ No trades.
 
 ## Top Waiver Claims
 
+- Eli Raridon → HebrewsHeroes
 
 ---
 
 ## Recently Dropped Players
 
+- Christian Kirk
 - Xavier Hutchinson
 
 ---
 
 ## Most Active Managers
 
+- HebrewsHeroes: 1 moves
 - AnthonyJania: 1 moves
 
 ---

@@ -14547,19 +14547,6 @@
     "roster_id": null
   },
   {
-    "id": "13421",
-    "name": "Eli Raridon",
-    "position": "TE",
-    "team": "NE",
-    "age": 22,
-    "years_exp": 0,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
     "id": "13100",
     "name": "Eli Wilson",
     "position": "TE",
@@ -22548,6 +22535,19 @@
     "team": null,
     "age": 26,
     "years_exp": 4,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
+    "id": "4950",
+    "name": "Christian Kirk",
+    "position": "WR",
+    "team": "SF",
+    "age": 29,
+    "years_exp": 8,
     "active": true,
     "injury_status": null,
     "bye_week": null,

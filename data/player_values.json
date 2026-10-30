@@ -1932,20 +1932,6 @@
     "gm_score": 85
   },
   {
-    "id": "4950",
-    "name": "Christian Kirk",
-    "position": "WR",
-    "team": "SF",
-    "age": 29,
-    "years_exp": 8,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 7,
-    "gm_score": 85
-  },
-  {
     "id": "8121",
     "name": "Romeo Doubs",
     "position": "WR",
@@ -4939,6 +4925,20 @@
     "bye_week": null,
     "rostered": false,
     "roster_id": null,
+    "gm_score": 75
+  },
+  {
+    "id": "13421",
+    "name": "Eli Raridon",
+    "position": "TE",
+    "team": "NE",
+    "age": 22,
+    "years_exp": 0,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 7,
     "gm_score": 75
   },
   {
@@ -20594,6 +20594,20 @@
     "gm_score": 65
   },
   {
+    "id": "4950",
+    "name": "Christian Kirk",
+    "position": "WR",
+    "team": "SF",
+    "age": 29,
+    "years_exp": 8,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 65
+  },
+  {
     "id": "3150",
     "name": "Xavier Rush",
     "position": "WR",
@@ -29320,20 +29334,6 @@
     "name": "Justin Joly",
     "position": "TE",
     "team": "MIA",
-    "age": 22,
-    "years_exp": 0,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 55
-  },
-  {
-    "id": "13421",
-    "name": "Eli Raridon",
-    "position": "TE",
-    "team": "NE",
     "age": 22,
     "years_exp": 0,
     "active": true,
