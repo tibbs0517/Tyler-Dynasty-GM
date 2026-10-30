@@ -29773,7 +29773,7 @@
   "5914": {
     "name": "David Long Jr.",
     "position": "CB",
-    "team": "NO",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -39839,7 +39839,7 @@
   "5894": {
     "name": "Germaine Pratt",
     "position": "LB",
-    "team": "IND",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -40798,7 +40798,7 @@
   "13538": {
     "name": "DJ Campbell",
     "position": "G",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -67209,7 +67209,7 @@
   "11350": {
     "name": "Mohamoud Diabate",
     "position": "LB",
-    "team": "TEN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -73481,7 +73481,7 @@
   "12035": {
     "name": "Jamree Kromah",
     "position": "DL",
-    "team": "CHI",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -77541,7 +77541,7 @@
   "12069": {
     "name": "Gottlieb Ayedze",
     "position": "T",
-    "team": "MIA",
+    "team": null,
     "status": "Active",
     "active": true
   },
