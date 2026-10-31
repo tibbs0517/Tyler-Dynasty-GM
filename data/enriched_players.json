@@ -6689,7 +6689,7 @@
     "age": 28,
     "years_exp": 5,
     "active": true,
-    "injury_status": "Out",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -16777,7 +16777,7 @@
     "age": 24,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": true,
     "roster_id": 8
@@ -55647,7 +55647,7 @@
     "age": 29,
     "years_exp": 7,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": true,
     "roster_id": 10
@@ -59218,7 +59218,7 @@
     "id": "10966",
     "name": "Rob Beal Jr.",
     "position": "LB",
-    "team": "MIA",
+    "team": null,
     "age": 27,
     "years_exp": 3,
     "active": true,
@@ -64032,7 +64032,7 @@
     "age": 30,
     "years_exp": 7,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -66411,7 +66411,7 @@
     "age": 29,
     "years_exp": 7,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -81036,7 +81036,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": true,
     "roster_id": 2
@@ -100939,7 +100939,7 @@
     "age": 24,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": true,
     "roster_id": 10
