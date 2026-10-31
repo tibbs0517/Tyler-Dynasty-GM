@@ -3848,6 +3848,19 @@
     "roster_id": null
   },
   {
+    "id": "6768",
+    "name": "Tua Tagovailoa",
+    "position": "QB",
+    "team": "ATL",
+    "age": 28,
+    "years_exp": 6,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
     "id": "1612",
     "name": "Tyler Bray",
     "position": "QB",
@@ -35926,7 +35939,7 @@
     "age": 29,
     "years_exp": 4,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null

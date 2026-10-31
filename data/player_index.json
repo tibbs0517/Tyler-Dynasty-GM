@@ -3601,7 +3601,7 @@
     "name": "Patrick Johnson",
     "position": "LB",
     "team": "LV",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "7373": {
@@ -25735,7 +25735,7 @@
     "name": "RJ Harvey",
     "position": "RB",
     "team": "DEN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3747": {
@@ -30040,7 +30040,7 @@
     "name": "T'Vondre Sweat",
     "position": "DL",
     "team": "NYJ",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "988": {
@@ -34114,7 +34114,7 @@
     "name": "L'Jarius Sneed",
     "position": "CB",
     "team": "KC",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "14080": {
@@ -35759,7 +35759,7 @@
     "name": "P.J. Locke",
     "position": "DB",
     "team": "DAL",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "3699": {
@@ -43634,7 +43634,7 @@
     "name": "Jack Bech",
     "position": "WR",
     "team": "LV",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "2416": {
@@ -45538,7 +45538,7 @@
     "name": "T.J. Tampa Jr.",
     "position": "DB",
     "team": "BAL",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "3502": {
@@ -76863,7 +76863,7 @@
     "name": "Derwin James Jr.",
     "position": "DB",
     "team": "LAC",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "4403": {

@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-10-31 19:01:59
+Generated: 2026-10-31 23:00:07
 
 ---
 
@@ -9,7 +9,7 @@ Generated: 2026-10-31 19:01:59
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2802
+Available Players: 2803
 
 ---
 
@@ -17,7 +17,7 @@ Available Players: 2802
 
 Trades: 0
 Waiver Claims: 1
-Free Agent Moves: 2
+Free Agent Moves: 3
 
 ---
 
@@ -43,6 +43,7 @@ No trades.
 
 ## Recently Dropped Players
 
+- Tua Tagovailoa
 - Tyrone Tracy Jr.
 - Christian Kirk
 - Xavier Hutchinson
@@ -51,6 +52,7 @@ No trades.
 
 ## Most Active Managers
 
+- SammyA: 1 moves
 - tylergratz: 1 moves
 - HebrewsHeroes: 1 moves
 - AnthonyJania: 1 moves
