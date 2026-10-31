@@ -11726,6 +11726,19 @@
     "roster_id": null
   },
   {
+    "id": "11655",
+    "name": "Tyrone Tracy Jr.",
+    "position": "RB",
+    "team": "NYG",
+    "age": 26,
+    "years_exp": 2,
+    "active": true,
+    "injury_status": "IR",
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
     "id": "12826",
     "name": "Ulysses Bentley",
     "position": "RB",
@@ -20544,7 +20557,7 @@
     "name": "Andrew Armstrong",
     "position": "WR",
     "team": "KC",
-    "age": 25,
+    "age": 26,
     "years_exp": 1,
     "active": true,
     "injury_status": null,
