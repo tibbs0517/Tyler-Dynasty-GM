@@ -4018,20 +4018,6 @@
     "gm_score": 80
   },
   {
-    "id": "8228",
-    "name": "Jaylen Warren",
-    "position": "RB",
-    "team": "PIT",
-    "age": 27,
-    "years_exp": 4,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 1,
-    "gm_score": 80
-  },
-  {
     "id": "11562",
     "name": "Spencer Rattler",
     "position": "QB",
@@ -16608,7 +16594,7 @@
     "name": "Dyami Brown",
     "position": "WR",
     "team": "WAS",
-    "age": 26,
+    "age": 27,
     "years_exp": 5,
     "active": true,
     "injury_status": null,
@@ -20955,6 +20941,20 @@
     "bye_week": null,
     "rostered": false,
     "roster_id": null,
+    "gm_score": 65
+  },
+  {
+    "id": "8228",
+    "name": "Jaylen Warren",
+    "position": "RB",
+    "team": "PIT",
+    "age": 28,
+    "years_exp": 4,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 1,
     "gm_score": 65
   },
   {
