@@ -1330,6 +1330,20 @@
     "gm_score": 93
   },
   {
+    "id": "12485",
+    "name": "Tez Johnson",
+    "position": "WR",
+    "team": "TB",
+    "age": 24,
+    "years_exp": 1,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 6,
+    "gm_score": 93
+  },
+  {
     "id": "13294",
     "name": "Makai Lemon",
     "position": "WR",
@@ -13482,20 +13496,6 @@
     "gm_score": 73
   },
   {
-    "id": "12485",
-    "name": "Tez Johnson",
-    "position": "WR",
-    "team": "TB",
-    "age": 24,
-    "years_exp": 1,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 73
-  },
-  {
     "id": "13981",
     "name": "Kolbe Katsis",
     "position": "WR",
@@ -15915,6 +15915,20 @@
     "bye_week": null,
     "rostered": false,
     "roster_id": null,
+    "gm_score": 65
+  },
+  {
+    "id": "7561",
+    "name": "Elijah Mitchell",
+    "position": "RB",
+    "team": "PHI",
+    "age": 28,
+    "years_exp": 5,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 9,
     "gm_score": 65
   },
   {
@@ -39498,20 +39512,6 @@
     "name": "Josh Rounds",
     "position": "RB",
     "team": null,
-    "age": 28,
-    "years_exp": 5,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 45
-  },
-  {
-    "id": "7561",
-    "name": "Elijah Mitchell",
-    "position": "RB",
-    "team": "PHI",
     "age": 28,
     "years_exp": 5,
     "active": true,

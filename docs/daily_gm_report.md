@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-11-01 02:03:59
+Generated: 2026-11-01 09:59:53
 
 ---
 
@@ -9,14 +9,14 @@ Generated: 2026-11-01 02:03:59
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2803
+Available Players: 2801
 
 ---
 
 ## League Activity
 
 Trades: 0
-Waiver Claims: 1
+Waiver Claims: 3
 Free Agent Moves: 3
 
 ---
@@ -37,6 +37,8 @@ No trades.
 
 ## Top Waiver Claims
 
+- Elijah Mitchell → jmikolay
+- Tez Johnson → SammyA
 - Eli Raridon → HebrewsHeroes
 
 ---
@@ -52,7 +54,8 @@ No trades.
 
 ## Most Active Managers
 
-- SammyA: 1 moves
+- SammyA: 2 moves
+- jmikolay: 1 moves
 - tylergratz: 1 moves
 - HebrewsHeroes: 1 moves
 - AnthonyJania: 1 moves

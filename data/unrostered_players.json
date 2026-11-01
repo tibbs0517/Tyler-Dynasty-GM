@@ -6342,13 +6342,6 @@
     "status": "Active"
   },
   {
-    "id": "7561",
-    "name": "Elijah Mitchell",
-    "position": "RB",
-    "team": "PHI",
-    "status": "Active"
-  },
-  {
     "id": "7596",
     "name": "Elijah Moore",
     "position": "WR",
@@ -17700,13 +17693,6 @@
     "name": "Tevin Jones",
     "position": "WR",
     "team": null,
-    "status": "Active"
-  },
-  {
-    "id": "12485",
-    "name": "Tez Johnson",
-    "position": "WR",
-    "team": "TB",
     "status": "Active"
   },
   {

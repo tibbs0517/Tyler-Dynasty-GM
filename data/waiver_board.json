@@ -6591,19 +6591,6 @@
     "roster_id": null
   },
   {
-    "id": "7561",
-    "name": "Elijah Mitchell",
-    "position": "RB",
-    "team": "PHI",
-    "age": 28,
-    "years_exp": 5,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
     "id": "13909",
     "name": "Elijah Tau-Tolliver",
     "position": "RB",
@@ -34833,19 +34820,6 @@
     "team": null,
     "age": 29,
     "years_exp": 6,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
-    "id": "12485",
-    "name": "Tez Johnson",
-    "position": "WR",
-    "team": "TB",
-    "age": 24,
-    "years_exp": 1,
     "active": true,
     "injury_status": null,
     "bye_week": null,
