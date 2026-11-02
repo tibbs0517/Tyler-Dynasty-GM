@@ -7688,7 +7688,7 @@
   "7853": {
     "name": "Naquan Jones",
     "position": "DT",
-    "team": "SF",
+    "team": "HOU",
     "status": "Active",
     "active": true
   },
@@ -9830,7 +9830,7 @@
   "11795": {
     "name": "Jaden Crumedy",
     "position": "DT",
-    "team": "HOU",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -40014,8 +40014,8 @@
   "13923": {
     "name": "Joshua Pitsenberger",
     "position": "RB",
-    "team": null,
-    "status": "Inactive",
+    "team": "HOU",
+    "status": "Active",
     "active": true
   },
   "510": {
@@ -78563,7 +78563,7 @@
   "9505": {
     "name": "Deuce Vaughn",
     "position": "RB",
-    "team": "HOU",
+    "team": null,
     "status": "Active",
     "active": true
   },

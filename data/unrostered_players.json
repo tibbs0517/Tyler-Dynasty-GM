@@ -5365,7 +5365,7 @@
     "id": "9505",
     "name": "Deuce Vaughn",
     "position": "RB",
-    "team": "HOU",
+    "team": null,
     "status": "Active"
   },
   {
@@ -10685,8 +10685,8 @@
     "id": "13923",
     "name": "Joshua Pitsenberger",
     "position": "RB",
-    "team": null,
-    "status": "Inactive"
+    "team": "HOU",
+    "status": "Active"
   },
   {
     "id": "12883",
