@@ -60986,7 +60986,7 @@
     "id": "11648",
     "name": "Kedon Slovis",
     "position": "QB",
-    "team": "GB",
+    "team": "BAL",
     "age": 25,
     "years_exp": 2,
     "active": true,
@@ -124079,7 +124079,7 @@
     "age": 23,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null

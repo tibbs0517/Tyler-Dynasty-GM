@@ -60,7 +60,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 4,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 2
+      "daily_waivers_last_ran": 3
     },
     "avatar": null,
     "company_id": null,
@@ -130,6 +130,8 @@
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -154,8 +156,6 @@
       "BN",
       "BN"
     ],
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -825,7 +825,7 @@
         "5850",
         "9488",
         "10213",
-        "13276",
+        "2216",
         "12506",
         "11586",
         "12512",
@@ -950,8 +950,7 @@
       "reserve": [
         "11638",
         "12508",
-        "12533",
-        "7525"
+        "12533"
       ],
       "roster_id": 5,
       "settings": {
@@ -973,11 +972,11 @@
         "8138",
         "11584",
         "4983",
-        "9756",
-        "9501",
-        "10859",
         "11610",
-        "5844",
+        "7525",
+        "4217",
+        "13305",
+        "10859",
         "5849"
       ],
       "taxi": null
@@ -1043,15 +1042,15 @@
       },
       "starters": [
         "3294",
-        "5967",
-        "9509",
-        "5045",
-        "10232",
-        "12485",
-        "7553",
         "8150",
+        "9509",
+        "8144",
+        "10232",
+        "11632",
+        "8131",
+        "8132",
         "12495",
-        "421"
+        "4046"
       ],
       "taxi": null
     },
@@ -1124,11 +1123,11 @@
         "4199",
         "7547",
         "7564",
-        "5846",
+        "13301",
         "9484",
         "10236",
-        "13301",
-        "11564"
+        "13296",
+        "8183"
       ],
       "taxi": null
     },
@@ -1359,13 +1358,13 @@
         "11566",
         "3198",
         "6790",
-        "13298",
-        "11635",
+        "7569",
+        "12519",
         "8146",
         "11604",
         "12527",
-        "12519",
-        "4017"
+        "13345",
+        "9758"
       ],
       "taxi": null
     }
@@ -34211,7 +34210,7 @@
     "11648": {
       "name": "Kedon Slovis",
       "position": "QB",
-      "team": "GB",
+      "team": "BAL",
       "status": "Active",
       "active": true
     },
@@ -98264,7 +98263,7 @@
       "id": "11648",
       "name": "Kedon Slovis",
       "position": "QB",
-      "team": "GB",
+      "team": "BAL",
       "status": "Active"
     },
     {
