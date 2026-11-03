@@ -8276,7 +8276,7 @@
   "11931": {
     "name": "Austin Reed",
     "position": "QB",
-    "team": null,
+    "team": "BAL",
     "status": "Active",
     "active": true
   },
@@ -12315,7 +12315,7 @@
   "5773": {
     "name": "KhaDarel Hodge",
     "position": "WR",
-    "team": null,
+    "team": "SF",
     "status": "Active",
     "active": true
   },
@@ -32329,7 +32329,7 @@
     "name": "Jadarian Price",
     "position": "RB",
     "team": "SEA",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "4357": {
@@ -52033,7 +52033,7 @@
   "10223": {
     "name": "Eric Gray",
     "position": "RB",
-    "team": null,
+    "team": "NYG",
     "status": "Active",
     "active": true
   },
@@ -53538,7 +53538,7 @@
   "3560": {
     "name": "Austin Johnson",
     "position": "DT",
-    "team": null,
+    "team": "JAX",
     "status": "Active",
     "active": true
   },
@@ -67209,7 +67209,7 @@
   "11350": {
     "name": "Mohamoud Diabate",
     "position": "LB",
-    "team": null,
+    "team": "CAR",
     "status": "Active",
     "active": true
   },
@@ -70303,8 +70303,8 @@
   "12412": {
     "name": "Terrell Jennings",
     "position": "RB",
-    "team": null,
-    "status": "Inactive",
+    "team": "NE",
+    "status": "Active",
     "active": true
   },
   "10948": {
@@ -79186,7 +79186,7 @@
   "8276": {
     "name": "Jalyn Armour-Davis",
     "position": "DB",
-    "team": null,
+    "team": "LAC",
     "status": "Active",
     "active": true
   },
