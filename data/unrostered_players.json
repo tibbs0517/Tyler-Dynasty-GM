@@ -969,7 +969,7 @@
     "id": "11579",
     "name": "Audric Estime",
     "position": "RB",
-    "team": "CLE",
+    "team": null,
     "status": "Active"
   },
   {
@@ -15767,7 +15767,7 @@
     "id": "12851",
     "name": "Rivaldo Fairweather",
     "position": "TE",
-    "team": null,
+    "team": "ARI",
     "status": "Active"
   },
   {
@@ -15830,7 +15830,7 @@
     "id": "13418",
     "name": "Robert Henry Jr.",
     "position": "RB",
-    "team": "SEA",
+    "team": null,
     "status": "Active"
   },
   {

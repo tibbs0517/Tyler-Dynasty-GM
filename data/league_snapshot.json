@@ -9,7 +9,7 @@
     },
     "settings": {
       "best_ball": 0,
-      "last_report": 7,
+      "last_report": 8,
       "waiver_budget": 100,
       "disable_adds": 0,
       "capacity_override": 0,
@@ -64,10 +64,10 @@
     },
     "avatar": null,
     "company_id": null,
-    "shard": 470,
-    "season": "2026",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 470,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -114,24 +114,22 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1422515848312029184",
-    "draft_id": "1326711861202161664",
-    "last_author_avatar": null,
-    "last_author_display_name": "sys",
-    "last_author_id": "166666666666666666",
-    "last_author_is_bot": true,
+    "last_message_id": "1423392929560416256",
+    "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
+    "last_author_display_name": "HebrewsHeroes",
+    "last_author_id": "434689597088198656",
+    "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1793516716606,
+    "last_message_time": 1793725829070,
     "last_pinned_message_id": null,
+    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -156,6 +154,8 @@
       "BN",
       "BN"
     ],
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -676,7 +676,7 @@
       },
       "starters": [
         "11560",
-        "8228",
+        "4034",
         "7594",
         "8137",
         "9487",
@@ -684,7 +684,7 @@
         "3214",
         "2449",
         "8136",
-        "3257"
+        "11563"
       ],
       "taxi": null
     },

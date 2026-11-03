@@ -464,7 +464,7 @@
   "10938": {
     "name": "D.J. Johnson",
     "position": "LB",
-    "team": null,
+    "team": "GB",
     "status": "Active",
     "active": true
   },
@@ -3460,7 +3460,7 @@
   "11579": {
     "name": "Audric Estime",
     "position": "RB",
-    "team": "CLE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -5203,7 +5203,7 @@
   "13418": {
     "name": "Robert Henry Jr.",
     "position": "RB",
-    "team": "SEA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -21261,7 +21261,7 @@
   "12138": {
     "name": "Anthony Goodlow",
     "position": "DE",
-    "team": null,
+    "team": "LV",
     "status": "Active",
     "active": true
   },
@@ -23669,7 +23669,7 @@
   "13028": {
     "name": "Elliott Davison",
     "position": "DB",
-    "team": "NE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -24068,7 +24068,7 @@
   "13213": {
     "name": "Lucas Scott",
     "position": "FB",
-    "team": "BAL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -39700,7 +39700,7 @@
     "name": "Jeremiyah Love",
     "position": "RB",
     "team": "ARI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "10990": {
@@ -40252,7 +40252,7 @@
   "4371": {
     "name": "Josh Tupou",
     "position": "DT",
-    "team": "NYG",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -40665,7 +40665,7 @@
   "8351": {
     "name": "Drake Jackson",
     "position": "DL",
-    "team": "ATL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -49219,7 +49219,7 @@
   "7077": {
     "name": "Jacob Bobenmoyer",
     "position": "LS",
-    "team": "JAX",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -52026,7 +52026,7 @@
   "8857": {
     "name": "Kader Kohou",
     "position": "CB",
-    "team": "KC",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -53216,7 +53216,7 @@
   "13048": {
     "name": "Jared Ivey",
     "position": "DE",
-    "team": "ATL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -59369,7 +59369,7 @@
   "12057": {
     "name": "Maema Njongmeta",
     "position": "LB",
-    "team": "CAR",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -66811,7 +66811,7 @@
     "name": "Cashius Howell",
     "position": "DL",
     "team": "CIN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "8093": {
@@ -77142,7 +77142,7 @@
   "12851": {
     "name": "Rivaldo Fairweather",
     "position": "TE",
-    "team": null,
+    "team": "ARI",
     "status": "Active",
     "active": true
   },
@@ -82280,7 +82280,7 @@
   "12227": {
     "name": "Elias Neal",
     "position": "LB",
-    "team": null,
+    "team": "NE",
     "status": "Active",
     "active": true
   },
