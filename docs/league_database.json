@@ -64,10 +64,10 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "shard": 470,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -114,22 +114,24 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1423392929560416256",
-    "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
-    "last_author_display_name": "HebrewsHeroes",
-    "last_author_id": "434689597088198656",
+    "last_message_id": "1423504251245645824",
+    "draft_id": "1326711861202161664",
+    "last_author_avatar": "e3ce63b9b89745fd3909185246f956a2",
+    "last_author_display_name": "tylergratz",
+    "last_author_id": "472427763857354752",
     "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1793725829070,
+    "last_message_time": 1793752370229,
     "last_pinned_message_id": null,
-    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
-    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -154,8 +156,6 @@
       "BN",
       "BN"
     ],
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -1717,7 +1717,7 @@
       "name": "Eric Murray",
       "position": "DB",
       "team": "JAX",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "4449": {
@@ -4831,7 +4831,7 @@
     "11579": {
       "name": "Audric Estime",
       "position": "RB",
-      "team": null,
+      "team": "NO",
       "status": "Active",
       "active": true
     },
@@ -6574,7 +6574,7 @@
     "13418": {
       "name": "Robert Henry Jr.",
       "position": "RB",
-      "team": null,
+      "team": "WAS",
       "status": "Active",
       "active": true
     },
@@ -8052,7 +8052,7 @@
       "name": "Max Mitchell",
       "position": "T",
       "team": "NYJ",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "4970": {
@@ -10852,7 +10852,7 @@
       "name": "Javon Kinlaw",
       "position": "DT",
       "team": "WAS",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "7957": {
@@ -17908,7 +17908,7 @@
       "name": "Samson Ebukam",
       "position": "DE",
       "team": "ATL",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "8921": {
@@ -19230,7 +19230,7 @@
     "10961": {
       "name": "Blake Freeland",
       "position": "OL",
-      "team": "CIN",
+      "team": "NYJ",
       "status": "Active",
       "active": true
     },
@@ -19756,7 +19756,7 @@
       "name": "Jeremy McNichols",
       "position": "RB",
       "team": "WAS",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "4135": {
@@ -26951,7 +26951,7 @@
     "13855": {
       "name": "Austin Blaske",
       "position": "OL",
-      "team": null,
+      "team": "CLE",
       "status": "Active",
       "active": true
     },
@@ -30837,7 +30837,7 @@
       "name": "Marcus Bryant",
       "position": "OL",
       "team": "NE",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "2998": {
@@ -37640,7 +37640,7 @@
     "13042": {
       "name": "Xavier Guillory",
       "position": "WR",
-      "team": null,
+      "team": "CLE",
       "status": "Active",
       "active": true
     },
@@ -38110,7 +38110,7 @@
       "name": "DaVon Hamilton",
       "position": "DT",
       "team": "JAX",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "7701": {
@@ -42036,7 +42036,7 @@
     "8351": {
       "name": "Drake Jackson",
       "position": "DL",
-      "team": null,
+      "team": "ATL",
       "status": "Active",
       "active": true
     },
@@ -51892,7 +51892,7 @@
     "12872": {
       "name": "John Saunders Jr.",
       "position": "DB",
-      "team": null,
+      "team": "GB",
       "status": "Active",
       "active": true
     },
@@ -59684,7 +59684,7 @@
       "name": "Kendrick Bourne",
       "position": "WR",
       "team": "ARI",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "13581": {
@@ -62505,7 +62505,7 @@
       "name": "Daron Payne",
       "position": "DT",
       "team": "WAS",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "5201": {
@@ -67846,7 +67846,7 @@
       "name": "Dean Connors",
       "position": "RB",
       "team": "LAR",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "11337": {
@@ -67993,7 +67993,7 @@
       "name": "Jimmy Rolder",
       "position": "LB",
       "team": "DET",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "5328": {
@@ -71864,7 +71864,7 @@
       "name": "Tyler Loop",
       "position": "K",
       "team": "BAL",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "5898": {
@@ -78527,7 +78527,7 @@
     "12780": {
       "name": "Xavier Truss",
       "position": "OT",
-      "team": null,
+      "team": "CLE",
       "status": "Active",
       "active": true
     },
@@ -82699,7 +82699,7 @@
     "13887": {
       "name": "Nyzier Fourqurean",
       "position": "CB",
-      "team": null,
+      "team": "LAR",
       "status": "Active",
       "active": true
     },
@@ -87945,7 +87945,7 @@
       "id": "11579",
       "name": "Audric Estime",
       "position": "RB",
-      "team": null,
+      "team": "NO",
       "status": "Active"
     },
     {
@@ -92027,7 +92027,7 @@
       "name": "Dean Connors",
       "position": "RB",
       "team": "LAR",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "14020",
@@ -96332,7 +96332,7 @@
       "name": "Jeremy McNichols",
       "position": "RB",
       "team": "WAS",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "12352",
@@ -102806,7 +102806,7 @@
       "id": "13418",
       "name": "Robert Henry Jr.",
       "position": "RB",
-      "team": null,
+      "team": "WAS",
       "status": "Active"
     },
     {
@@ -106264,7 +106264,7 @@
       "id": "13042",
       "name": "Xavier Guillory",
       "position": "WR",
-      "team": null,
+      "team": "CLE",
       "status": "Active"
     },
     {

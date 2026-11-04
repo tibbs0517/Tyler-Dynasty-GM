@@ -969,7 +969,7 @@
     "id": "11579",
     "name": "Audric Estime",
     "position": "RB",
-    "team": null,
+    "team": "NO",
     "status": "Active"
   },
   {
@@ -5051,7 +5051,7 @@
     "name": "Dean Connors",
     "position": "RB",
     "team": "LAR",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "14020",
@@ -9356,7 +9356,7 @@
     "name": "Jeremy McNichols",
     "position": "RB",
     "team": "WAS",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "12352",
@@ -15830,7 +15830,7 @@
     "id": "13418",
     "name": "Robert Henry Jr.",
     "position": "RB",
-    "team": null,
+    "team": "WAS",
     "status": "Active"
   },
   {
@@ -19288,7 +19288,7 @@
     "id": "13042",
     "name": "Xavier Guillory",
     "position": "WR",
-    "team": null,
+    "team": "CLE",
     "status": "Active"
   },
   {

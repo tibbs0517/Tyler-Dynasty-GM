@@ -346,7 +346,7 @@
     "name": "Eric Murray",
     "position": "DB",
     "team": "JAX",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "4449": {
@@ -3460,7 +3460,7 @@
   "11579": {
     "name": "Audric Estime",
     "position": "RB",
-    "team": null,
+    "team": "NO",
     "status": "Active",
     "active": true
   },
@@ -5203,7 +5203,7 @@
   "13418": {
     "name": "Robert Henry Jr.",
     "position": "RB",
-    "team": null,
+    "team": "WAS",
     "status": "Active",
     "active": true
   },
@@ -6681,7 +6681,7 @@
     "name": "Max Mitchell",
     "position": "T",
     "team": "NYJ",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "4970": {
@@ -9481,7 +9481,7 @@
     "name": "Javon Kinlaw",
     "position": "DT",
     "team": "WAS",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "7957": {
@@ -16537,7 +16537,7 @@
     "name": "Samson Ebukam",
     "position": "DE",
     "team": "ATL",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "8921": {
@@ -17859,7 +17859,7 @@
   "10961": {
     "name": "Blake Freeland",
     "position": "OL",
-    "team": "CIN",
+    "team": "NYJ",
     "status": "Active",
     "active": true
   },
@@ -18385,7 +18385,7 @@
     "name": "Jeremy McNichols",
     "position": "RB",
     "team": "WAS",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "4135": {
@@ -25580,7 +25580,7 @@
   "13855": {
     "name": "Austin Blaske",
     "position": "OL",
-    "team": null,
+    "team": "CLE",
     "status": "Active",
     "active": true
   },
@@ -29466,7 +29466,7 @@
     "name": "Marcus Bryant",
     "position": "OL",
     "team": "NE",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "2998": {
@@ -36269,7 +36269,7 @@
   "13042": {
     "name": "Xavier Guillory",
     "position": "WR",
-    "team": null,
+    "team": "CLE",
     "status": "Active",
     "active": true
   },
@@ -36739,7 +36739,7 @@
     "name": "DaVon Hamilton",
     "position": "DT",
     "team": "JAX",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "7701": {
@@ -40665,7 +40665,7 @@
   "8351": {
     "name": "Drake Jackson",
     "position": "DL",
-    "team": null,
+    "team": "ATL",
     "status": "Active",
     "active": true
   },
@@ -50521,7 +50521,7 @@
   "12872": {
     "name": "John Saunders Jr.",
     "position": "DB",
-    "team": null,
+    "team": "GB",
     "status": "Active",
     "active": true
   },
@@ -58313,7 +58313,7 @@
     "name": "Kendrick Bourne",
     "position": "WR",
     "team": "ARI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "13581": {
@@ -61134,7 +61134,7 @@
     "name": "Daron Payne",
     "position": "DT",
     "team": "WAS",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "5201": {
@@ -66475,7 +66475,7 @@
     "name": "Dean Connors",
     "position": "RB",
     "team": "LAR",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "11337": {
@@ -66622,7 +66622,7 @@
     "name": "Jimmy Rolder",
     "position": "LB",
     "team": "DET",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "5328": {
@@ -70493,7 +70493,7 @@
     "name": "Tyler Loop",
     "position": "K",
     "team": "BAL",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "5898": {
@@ -77156,7 +77156,7 @@
   "12780": {
     "name": "Xavier Truss",
     "position": "OT",
-    "team": null,
+    "team": "CLE",
     "status": "Active",
     "active": true
   },
@@ -81328,7 +81328,7 @@
   "13887": {
     "name": "Nyzier Fourqurean",
     "position": "CB",
-    "team": null,
+    "team": "LAR",
     "status": "Active",
     "active": true
   },
