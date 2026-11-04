@@ -64,10 +64,9 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "shard": 470,
+    "season": "2026",
+    "season_type": "regular",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -114,24 +113,20 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1423620821351411712",
+    "sport": "nfl",
+    "last_message_id": "1423732606347816960",
     "draft_id": "1326711861202161664",
-    "last_author_avatar": null,
-    "last_author_display_name": "sys",
-    "last_author_id": "166666666666666666",
-    "last_author_is_bot": true,
+    "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
+    "last_author_display_name": "HebrewsHeroes",
+    "last_author_id": "434689597088198656",
+    "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1793780162707,
+    "last_message_time": 1793806814333,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -156,6 +151,11 @@
       "BN",
       "BN"
     ],
+    "group_id": null,
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -878,7 +878,8 @@
       "reserve": [
         "11589",
         "12484",
-        "12536"
+        "12536",
+        "13287"
       ],
       "roster_id": 4,
       "settings": {
@@ -898,14 +899,14 @@
       "starters": [
         "1166",
         "12507",
-        "13287",
+        "13337",
         "10229",
         "11646",
         "12501",
         "12517",
         "13294",
         "11783",
-        "9228"
+        "12545"
       ],
       "taxi": null
     },
@@ -1259,6 +1260,7 @@
       ],
       "reserve": [
         "12489",
+        "4881",
         "9508"
       ],
       "roster_id": 9,
@@ -1286,7 +1288,7 @@
         "1466",
         "11576",
         "6801",
-        "4881"
+        "6011"
       ],
       "taxi": null
     },
@@ -11200,7 +11202,7 @@
     "11795": {
       "name": "Jaden Crumedy",
       "position": "DT",
-      "team": null,
+      "team": "HOU",
       "status": "Active",
       "active": true
     },
@@ -24221,7 +24223,7 @@
       "name": "Tyler Huntley",
       "position": "QB",
       "team": "BAL",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "764": {
@@ -61705,7 +61707,7 @@
     "8123": {
       "name": "Hassan Haskins",
       "position": "RB",
-      "team": null,
+      "team": "CLE",
       "status": "Active",
       "active": true
     },
@@ -82313,7 +82315,7 @@
     "13861": {
       "name": "Daniel Sobkowicz",
       "position": "WR",
-      "team": null,
+      "team": "HOU",
       "status": "Active",
       "active": true
     },
@@ -85295,7 +85297,7 @@
     "13743": {
       "name": "Joseph Manjack",
       "position": "WR",
-      "team": null,
+      "team": "NYJ",
       "status": "Active",
       "active": true
     },
@@ -91290,7 +91292,7 @@
       "id": "13861",
       "name": "Daniel Sobkowicz",
       "position": "WR",
-      "team": null,
+      "team": "HOU",
       "status": "Active"
     },
     {
@@ -94223,7 +94225,7 @@
       "id": "8123",
       "name": "Hassan Haskins",
       "position": "RB",
-      "team": null,
+      "team": "CLE",
       "status": "Active"
     },
     {
@@ -97317,7 +97319,7 @@
       "id": "13743",
       "name": "Joseph Manjack",
       "position": "WR",
-      "team": null,
+      "team": "NYJ",
       "status": "Active"
     },
     {
@@ -105732,7 +105734,7 @@
       "name": "Tyler Huntley",
       "position": "QB",
       "team": "BAL",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "6960",

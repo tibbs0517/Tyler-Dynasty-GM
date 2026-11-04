@@ -4315,7 +4315,7 @@
     "id": "13861",
     "name": "Daniel Sobkowicz",
     "position": "WR",
-    "team": null,
+    "team": "HOU",
     "status": "Active"
   },
   {
@@ -7248,7 +7248,7 @@
     "id": "8123",
     "name": "Hassan Haskins",
     "position": "RB",
-    "team": null,
+    "team": "CLE",
     "status": "Active"
   },
   {
@@ -10342,7 +10342,7 @@
     "id": "13743",
     "name": "Joseph Manjack",
     "position": "WR",
-    "team": null,
+    "team": "NYJ",
     "status": "Active"
   },
   {
@@ -18757,7 +18757,7 @@
     "name": "Tyler Huntley",
     "position": "QB",
     "team": "BAL",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "6960",

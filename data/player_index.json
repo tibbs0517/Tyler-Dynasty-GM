@@ -9830,7 +9830,7 @@
   "11795": {
     "name": "Jaden Crumedy",
     "position": "DT",
-    "team": null,
+    "team": "HOU",
     "status": "Active",
     "active": true
   },
@@ -22851,7 +22851,7 @@
     "name": "Tyler Huntley",
     "position": "QB",
     "team": "BAL",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "764": {
@@ -60335,7 +60335,7 @@
   "8123": {
     "name": "Hassan Haskins",
     "position": "RB",
-    "team": null,
+    "team": "CLE",
     "status": "Active",
     "active": true
   },
@@ -80943,7 +80943,7 @@
   "13861": {
     "name": "Daniel Sobkowicz",
     "position": "WR",
-    "team": null,
+    "team": "HOU",
     "status": "Active",
     "active": true
   },
@@ -83925,7 +83925,7 @@
   "13743": {
     "name": "Joseph Manjack",
     "position": "WR",
-    "team": null,
+    "team": "NYJ",
     "status": "Active",
     "active": true
   },
