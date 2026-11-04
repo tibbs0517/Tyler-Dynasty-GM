@@ -30081,7 +30081,7 @@
   "10969": {
     "name": "Owen Pappoe",
     "position": "LB",
-    "team": null,
+    "team": "DET",
     "status": "Active",
     "active": true
   },
@@ -31887,7 +31887,7 @@
   "10966": {
     "name": "Rob Beal Jr.",
     "position": "LB",
-    "team": null,
+    "team": "SF",
     "status": "Active",
     "active": true
   },
@@ -65452,7 +65452,7 @@
   "7537": {
     "name": "Jaret Patterson",
     "position": "RB",
-    "team": null,
+    "team": "DEN",
     "status": "Active",
     "active": true
   },
@@ -65956,7 +65956,7 @@
   "6216": {
     "name": "Ugo Amadi",
     "position": "DB",
-    "team": null,
+    "team": "DEN",
     "status": "Active",
     "active": true
   },
@@ -82420,7 +82420,7 @@
   "12103": {
     "name": "Jordan Miller",
     "position": "DT",
-    "team": null,
+    "team": "DEN",
     "status": "Active",
     "active": true
   },

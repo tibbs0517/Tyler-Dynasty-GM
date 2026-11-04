@@ -2667,13 +2667,6 @@
     "status": "Inactive"
   },
   {
-    "id": "3161",
-    "name": "Carson Wentz",
-    "position": "QB",
-    "team": "MIN",
-    "status": "Active"
-  },
-  {
     "id": "7624",
     "name": "Carson Williams",
     "position": "TE",
@@ -5831,6 +5824,13 @@
     "status": "Active"
   },
   {
+    "id": "9486",
+    "name": "Dontayvion Wicks",
+    "position": "WR",
+    "team": "PHI",
+    "status": "Active"
+  },
+  {
     "id": "1971",
     "name": "Donte Moncrief",
     "position": "WR",
@@ -6787,13 +6787,6 @@
     "name": "Gannon Sinclair",
     "position": "TE",
     "team": null,
-    "status": "Active"
-  },
-  {
-    "id": "6011",
-    "name": "Gardner Minshew II",
-    "position": "QB",
-    "team": "ARI",
     "status": "Active"
   },
   {
@@ -8155,13 +8148,6 @@
     "status": "Active"
   },
   {
-    "id": "8119",
-    "name": "Jahan Dotson",
-    "position": "WR",
-    "team": "ATL",
-    "status": "Active"
-  },
-  {
     "id": "13079",
     "name": "Jahdae Walker",
     "position": "WR",
@@ -8659,6 +8645,13 @@
     "status": "Active"
   },
   {
+    "id": "2306",
+    "name": "Jameis Winston",
+    "position": "QB",
+    "team": "NYG",
+    "status": "Active"
+  },
+  {
     "id": "3078",
     "name": "Jamel Johnson",
     "position": "WR",
@@ -8907,7 +8900,7 @@
     "id": "7537",
     "name": "Jaret Patterson",
     "position": "RB",
-    "team": null,
+    "team": "DEN",
     "status": "Active"
   },
   {
@@ -11478,6 +11471,13 @@
     "position": "WR",
     "team": null,
     "status": "Active"
+  },
+  {
+    "id": "4454",
+    "name": "Kendrick Bourne",
+    "position": "WR",
+    "team": "ARI",
+    "status": "Inactive"
   },
   {
     "id": "3052",
@@ -16863,13 +16863,6 @@
     "status": "Active"
   },
   {
-    "id": "11729",
-    "name": "Sione Vaki",
-    "position": "RB",
-    "team": "DET",
-    "status": "Active"
-  },
-  {
     "id": "8206",
     "name": "Skylar Thompson",
     "position": "QB",
@@ -17693,6 +17686,13 @@
     "name": "Tevin Jones",
     "position": "WR",
     "team": null,
+    "status": "Active"
+  },
+  {
+    "id": "12485",
+    "name": "Tez Johnson",
+    "position": "WR",
+    "team": "TB",
     "status": "Active"
   },
   {

@@ -56,18 +56,18 @@
       "trade_review_days": 0,
       "bench_lock": 0,
       "offseason_adds": 1,
-      "leg": 8,
+      "leg": 9,
       "daily_waivers_base": 4,
       "reserve_slots": 4,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 3
+      "daily_waivers_last_ran": 4
     },
     "avatar": null,
     "company_id": null,
-    "shard": 470,
-    "season": "2026",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 470,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -114,22 +114,22 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1423504251245645824",
+    "last_message_id": "1423620821351411712",
     "draft_id": "1326711861202161664",
-    "last_author_avatar": "e3ce63b9b89745fd3909185246f956a2",
-    "last_author_display_name": "tylergratz",
-    "last_author_id": "472427763857354752",
-    "last_author_is_bot": false,
+    "last_author_avatar": null,
+    "last_author_display_name": "sys",
+    "last_author_id": "166666666666666666",
+    "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1793752370229,
+    "last_message_time": 1793780162707,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
-    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "roster_positions": [
@@ -656,7 +656,6 @@
         "9487"
       ],
       "reserve": [
-        "8154",
         "9226"
       ],
       "roster_id": 1,
@@ -1000,7 +999,7 @@
         "11435",
         "11565",
         "11632",
-        "12485",
+        "11729",
         "12495",
         "13414",
         "13424",
@@ -1036,8 +1035,8 @@
         "ppts_decimal": 72,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 12,
-        "waiver_position": 10,
+        "waiver_budget_used": 14,
+        "waiver_position": 8,
         "wins": 6
       },
       "starters": [
@@ -1084,12 +1083,12 @@
         "13413",
         "13421",
         "4199",
-        "4454",
         "5846",
         "6770",
         "6803",
         "7547",
         "7564",
+        "8119",
         "8155",
         "8183",
         "9221",
@@ -1113,8 +1112,8 @@
         "ppts_decimal": 24,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 53,
-        "waiver_position": 8,
+        "waiver_budget_used": 54,
+        "waiver_position": 9,
         "wins": 5
       },
       "starters": [
@@ -1240,9 +1239,10 @@
         "12493",
         "13275",
         "1466",
-        "2306",
+        "3161",
         "4881",
         "5022",
+        "6011",
         "6783",
         "6786",
         "6794",
@@ -1253,7 +1253,6 @@
         "8112",
         "8126",
         "8151",
-        "9486",
         "9500",
         "9508",
         "9753"
@@ -1273,8 +1272,8 @@
         "ppts_decimal": 58,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 21,
-        "waiver_position": 9,
+        "waiver_budget_used": 76,
+        "waiver_position": 10,
         "wins": 5
       },
       "starters": [
@@ -31452,7 +31451,7 @@
     "10969": {
       "name": "Owen Pappoe",
       "position": "LB",
-      "team": null,
+      "team": "DET",
       "status": "Active",
       "active": true
     },
@@ -33258,7 +33257,7 @@
     "10966": {
       "name": "Rob Beal Jr.",
       "position": "LB",
-      "team": null,
+      "team": "SF",
       "status": "Active",
       "active": true
     },
@@ -66823,7 +66822,7 @@
     "7537": {
       "name": "Jaret Patterson",
       "position": "RB",
-      "team": null,
+      "team": "DEN",
       "status": "Active",
       "active": true
     },
@@ -67327,7 +67326,7 @@
     "6216": {
       "name": "Ugo Amadi",
       "position": "DB",
-      "team": null,
+      "team": "DEN",
       "status": "Active",
       "active": true
     },
@@ -83791,7 +83790,7 @@
     "12103": {
       "name": "Jordan Miller",
       "position": "DT",
-      "team": null,
+      "team": "DEN",
       "status": "Active",
       "active": true
     },
@@ -89643,13 +89642,6 @@
       "status": "Inactive"
     },
     {
-      "id": "3161",
-      "name": "Carson Wentz",
-      "position": "QB",
-      "team": "MIN",
-      "status": "Active"
-    },
-    {
       "id": "7624",
       "name": "Carson Williams",
       "position": "TE",
@@ -92807,6 +92799,13 @@
       "status": "Active"
     },
     {
+      "id": "9486",
+      "name": "Dontayvion Wicks",
+      "position": "WR",
+      "team": "PHI",
+      "status": "Active"
+    },
+    {
       "id": "1971",
       "name": "Donte Moncrief",
       "position": "WR",
@@ -93763,13 +93762,6 @@
       "name": "Gannon Sinclair",
       "position": "TE",
       "team": null,
-      "status": "Active"
-    },
-    {
-      "id": "6011",
-      "name": "Gardner Minshew II",
-      "position": "QB",
-      "team": "ARI",
       "status": "Active"
     },
     {
@@ -95131,13 +95123,6 @@
       "status": "Active"
     },
     {
-      "id": "8119",
-      "name": "Jahan Dotson",
-      "position": "WR",
-      "team": "ATL",
-      "status": "Active"
-    },
-    {
       "id": "13079",
       "name": "Jahdae Walker",
       "position": "WR",
@@ -95635,6 +95620,13 @@
       "status": "Active"
     },
     {
+      "id": "2306",
+      "name": "Jameis Winston",
+      "position": "QB",
+      "team": "NYG",
+      "status": "Active"
+    },
+    {
       "id": "3078",
       "name": "Jamel Johnson",
       "position": "WR",
@@ -95883,7 +95875,7 @@
       "id": "7537",
       "name": "Jaret Patterson",
       "position": "RB",
-      "team": null,
+      "team": "DEN",
       "status": "Active"
     },
     {
@@ -98454,6 +98446,13 @@
       "position": "WR",
       "team": null,
       "status": "Active"
+    },
+    {
+      "id": "4454",
+      "name": "Kendrick Bourne",
+      "position": "WR",
+      "team": "ARI",
+      "status": "Inactive"
     },
     {
       "id": "3052",
@@ -103839,13 +103838,6 @@
       "status": "Active"
     },
     {
-      "id": "11729",
-      "name": "Sione Vaki",
-      "position": "RB",
-      "team": "DET",
-      "status": "Active"
-    },
-    {
       "id": "8206",
       "name": "Skylar Thompson",
       "position": "QB",
@@ -104669,6 +104661,13 @@
       "name": "Tevin Jones",
       "position": "WR",
       "team": null,
+      "status": "Active"
+    },
+    {
+      "id": "12485",
+      "name": "Tez Johnson",
+      "position": "WR",
+      "team": "TB",
       "status": "Active"
     },
     {

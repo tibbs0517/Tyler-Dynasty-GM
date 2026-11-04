@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-11-04 01:51:26
+Generated: 2026-11-04 08:30:58
 
 ---
 
@@ -16,7 +16,7 @@ Available Players: 2801
 ## League Activity
 
 Trades: 0
-Waiver Claims: 3
+Waiver Claims: 12
 Free Agent Moves: 3
 
 ---
@@ -37,6 +37,14 @@ No trades.
 
 ## Top Waiver Claims
 
+- Carson Wentz → jmikolay
+- Sione Vaki → SammyA
+- Chris Rodriguez Jr. → HebrewsHeroes
+- Jahan Dotson → HebrewsHeroes
+- Greg Dulcich → HebrewsHeroes
+- Gardner Minshew II → HebrewsHeroes
+- Gardner Minshew II → jmikolay
+- Gardner Minshew II → AnthonyJania
 - Elijah Mitchell → jmikolay
 - Tez Johnson → SammyA
 - Eli Raridon → HebrewsHeroes
@@ -45,6 +53,10 @@ No trades.
 
 ## Recently Dropped Players
 
+- Dontayvion Wicks
+- Tez Johnson
+- Kendrick Bourne
+- Jameis Winston
 - Tua Tagovailoa
 - Tyrone Tracy Jr.
 - Christian Kirk
@@ -54,11 +66,11 @@ No trades.
 
 ## Most Active Managers
 
-- SammyA: 2 moves
-- jmikolay: 1 moves
+- HebrewsHeroes: 5 moves
+- jmikolay: 4 moves
+- SammyA: 3 moves
+- AnthonyJania: 2 moves
 - tylergratz: 1 moves
-- HebrewsHeroes: 1 moves
-- AnthonyJania: 1 moves
 
 ---
 
