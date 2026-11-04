@@ -339,7 +339,7 @@
     "id": "6386",
     "name": "Alex Bachman",
     "position": "WR",
-    "team": "LAR",
+    "team": null,
     "status": "Active"
   },
   {
@@ -2145,14 +2145,14 @@
     "id": "12941",
     "name": "Bryson Nesbit",
     "position": "TE",
-    "team": "MIN",
+    "team": null,
     "status": "Active"
   },
   {
     "id": "11748",
     "name": "Bub Means",
     "position": "WR",
-    "team": "CLE",
+    "team": null,
     "status": "Active"
   },
   {
@@ -2551,7 +2551,7 @@
     "id": "13962",
     "name": "Cameron Dorner",
     "position": "WR",
-    "team": "NE",
+    "team": null,
     "status": "Active"
   },
   {
@@ -2572,7 +2572,7 @@
     "id": "13744",
     "name": "Cameron Ross",
     "position": "WR",
-    "team": "DEN",
+    "team": null,
     "status": "Active"
   },
   {
@@ -6261,7 +6261,7 @@
     "id": "12909",
     "name": "Eli Pancol",
     "position": "WR",
-    "team": "DEN",
+    "team": null,
     "status": "Active"
   },
   {
@@ -8723,9 +8723,9 @@
   },
   {
     "id": "6957",
-    "name": "James Proche",
+    "name": "James Proche II",
     "position": "WR",
-    "team": null,
+    "team": "ARI",
     "status": "Active"
   },
   {
@@ -9425,8 +9425,8 @@
     "id": "7599",
     "name": "Jermar Jefferson",
     "position": "RB",
-    "team": null,
-    "status": "Inactive"
+    "team": "ARI",
+    "status": "Active"
   },
   {
     "id": "7394",
@@ -15270,7 +15270,7 @@
     "id": "12907",
     "name": "Quentin Skinner",
     "position": "WR",
-    "team": "PHI",
+    "team": null,
     "status": "Active"
   },
   {
@@ -19533,7 +19533,7 @@
     "id": "8799",
     "name": "Zaire Mitchell-Paden",
     "position": "TE",
-    "team": "HOU",
+    "team": null,
     "status": "Active"
   },
   {
