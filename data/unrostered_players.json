@@ -206,7 +206,7 @@
     "id": "11065",
     "name": "Adrian Martinez",
     "position": "QB",
-    "team": null,
+    "team": "SEA",
     "status": "Active"
   },
   {
@@ -339,7 +339,7 @@
     "id": "6386",
     "name": "Alex Bachman",
     "position": "WR",
-    "team": null,
+    "team": "LAR",
     "status": "Active"
   },
   {
@@ -2685,7 +2685,7 @@
     "name": "Carter Runyon",
     "position": "TE",
     "team": "LV",
-    "status": "Inactive"
+    "status": "Active"
   },
   {
     "id": "7735",
@@ -7983,7 +7983,7 @@
     "id": "13904",
     "name": "Jacob De Jesus",
     "position": "WR",
-    "team": null,
+    "team": "KC",
     "status": "Active"
   },
   {

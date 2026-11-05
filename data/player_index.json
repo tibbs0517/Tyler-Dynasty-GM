@@ -7105,9 +7105,9 @@
     "active": true
   },
   "7817": {
-    "name": "Earnest Brown",
+    "name": "Earnest Brown IV",
     "position": "DE",
-    "team": null,
+    "team": "CHI",
     "status": "Active",
     "active": true
   },
@@ -16956,7 +16956,7 @@
   "6386": {
     "name": "Alex Bachman",
     "position": "WR",
-    "team": null,
+    "team": "LAR",
     "status": "Active",
     "active": true
   },
@@ -44207,7 +44207,7 @@
   "13904": {
     "name": "Jacob De Jesus",
     "position": "WR",
-    "team": null,
+    "team": "KC",
     "status": "Active",
     "active": true
   },
@@ -46888,8 +46888,8 @@
   "11018": {
     "name": "Christian Braswell",
     "position": "DB",
-    "team": null,
-    "status": "Inactive",
+    "team": "PHI",
+    "status": "Active",
     "active": true
   },
   "1252": {
@@ -50157,7 +50157,7 @@
   "11774": {
     "name": "Trevor Keegan",
     "position": "OL",
-    "team": null,
+    "team": "TB",
     "status": "Active",
     "active": true
   },
@@ -53216,7 +53216,7 @@
   "13048": {
     "name": "Jared Ivey",
     "position": "DE",
-    "team": null,
+    "team": "ATL",
     "status": "Active",
     "active": true
   },
@@ -59132,7 +59132,7 @@
     "name": "Kentavius Street",
     "position": "DT",
     "team": "CHI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "13500": {
@@ -68288,7 +68288,7 @@
     "name": "Carter Runyon",
     "position": "TE",
     "team": "LV",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "8512": {
@@ -78220,7 +78220,7 @@
   "11065": {
     "name": "Adrian Martinez",
     "position": "QB",
-    "team": null,
+    "team": "SEA",
     "status": "Active",
     "active": true
   },
@@ -84042,9 +84042,9 @@
     "active": true
   },
   "13719": {
-    "name": "Corey Robinson",
+    "name": "Corey Robinson II",
     "position": "OL",
-    "team": null,
+    "team": "MIN",
     "status": "Active",
     "active": true
   },

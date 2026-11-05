@@ -64,9 +64,6 @@
     },
     "avatar": null,
     "company_id": null,
-    "shard": 470,
-    "season": "2026",
-    "season_type": "regular",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -113,8 +110,11 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
+    "season": "2026",
+    "season_type": "regular",
     "sport": "nfl",
     "last_message_id": "1423732606347816960",
+    "shard": 470,
     "draft_id": "1326711861202161664",
     "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
     "last_author_display_name": "HebrewsHeroes",
@@ -127,6 +127,11 @@
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,11 +156,6 @@
       "BN",
       "BN"
     ],
-    "group_id": null,
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -8478,9 +8478,9 @@
       "active": true
     },
     "7817": {
-      "name": "Earnest Brown",
+      "name": "Earnest Brown IV",
       "position": "DE",
-      "team": null,
+      "team": "CHI",
       "status": "Active",
       "active": true
     },
@@ -18329,7 +18329,7 @@
     "6386": {
       "name": "Alex Bachman",
       "position": "WR",
-      "team": null,
+      "team": "LAR",
       "status": "Active",
       "active": true
     },
@@ -45580,7 +45580,7 @@
     "13904": {
       "name": "Jacob De Jesus",
       "position": "WR",
-      "team": null,
+      "team": "KC",
       "status": "Active",
       "active": true
     },
@@ -48261,8 +48261,8 @@
     "11018": {
       "name": "Christian Braswell",
       "position": "DB",
-      "team": null,
-      "status": "Inactive",
+      "team": "PHI",
+      "status": "Active",
       "active": true
     },
     "1252": {
@@ -51530,7 +51530,7 @@
     "11774": {
       "name": "Trevor Keegan",
       "position": "OL",
-      "team": null,
+      "team": "TB",
       "status": "Active",
       "active": true
     },
@@ -54589,7 +54589,7 @@
     "13048": {
       "name": "Jared Ivey",
       "position": "DE",
-      "team": null,
+      "team": "ATL",
       "status": "Active",
       "active": true
     },
@@ -60505,7 +60505,7 @@
       "name": "Kentavius Street",
       "position": "DT",
       "team": "CHI",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "13500": {
@@ -69661,7 +69661,7 @@
       "name": "Carter Runyon",
       "position": "TE",
       "team": "LV",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "8512": {
@@ -79593,7 +79593,7 @@
     "11065": {
       "name": "Adrian Martinez",
       "position": "QB",
-      "team": null,
+      "team": "SEA",
       "status": "Active",
       "active": true
     },
@@ -85415,9 +85415,9 @@
       "active": true
     },
     "13719": {
-      "name": "Corey Robinson",
+      "name": "Corey Robinson II",
       "position": "OL",
-      "team": null,
+      "team": "MIN",
       "status": "Active",
       "active": true
     },
@@ -87184,7 +87184,7 @@
       "id": "11065",
       "name": "Adrian Martinez",
       "position": "QB",
-      "team": null,
+      "team": "SEA",
       "status": "Active"
     },
     {
@@ -87317,7 +87317,7 @@
       "id": "6386",
       "name": "Alex Bachman",
       "position": "WR",
-      "team": null,
+      "team": "LAR",
       "status": "Active"
     },
     {
@@ -89663,7 +89663,7 @@
       "name": "Carter Runyon",
       "position": "TE",
       "team": "LV",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "id": "7735",
@@ -94961,7 +94961,7 @@
       "id": "13904",
       "name": "Jacob De Jesus",
       "position": "WR",
-      "team": null,
+      "team": "KC",
       "status": "Active"
     },
     {
