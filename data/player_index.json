@@ -16298,7 +16298,7 @@
   "12436": {
     "name": "Jamie Sheriff",
     "position": "LB",
-    "team": null,
+    "team": "SEA",
     "status": "Active",
     "active": true
   },
@@ -17005,8 +17005,8 @@
   "11823": {
     "name": "C.J. Hanson",
     "position": "OG",
-    "team": null,
-    "status": "Inactive",
+    "team": "MIN",
+    "status": "Active",
     "active": true
   },
   "8268": {
@@ -29773,8 +29773,8 @@
   "5914": {
     "name": "David Long Jr.",
     "position": "CB",
-    "team": null,
-    "status": "Inactive",
+    "team": "LAR",
+    "status": "Active",
     "active": true
   },
   "11663": {
@@ -35716,7 +35716,7 @@
   "12054": {
     "name": "Jimmy Ciarlo",
     "position": "LB",
-    "team": "SEA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -40973,7 +40973,7 @@
   "7039": {
     "name": "Cody White",
     "position": "WR",
-    "team": "LV",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -51410,7 +51410,7 @@
   "14058": {
     "name": "Malick Meiga",
     "position": "WR",
-    "team": "SEA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -52026,7 +52026,7 @@
   "8857": {
     "name": "Kader Kohou",
     "position": "CB",
-    "team": null,
+    "team": "BUF",
     "status": "Active",
     "active": true
   },
@@ -75805,7 +75805,7 @@
   "11420": {
     "name": "Luke Haggard",
     "position": "OT",
-    "team": "TB",
+    "team": null,
     "status": "Active",
     "active": true
   },
