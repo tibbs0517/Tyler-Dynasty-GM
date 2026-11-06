@@ -64,11 +64,6 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
-    "last_message_id": "1424343017141047296",
-    "shard": 470,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -115,6 +110,11 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 470,
+    "sport": "nfl",
+    "last_message_id": "1424343017141047296",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -123,10 +123,12 @@
     "last_message_text_map": null,
     "last_message_time": 1793952347601,
     "last_pinned_message_id": null,
-    "draft_id": "1326711861202161664",
     "last_read_id": null,
+    "draft_id": "1326711861202161664",
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,8 +153,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
@@ -23314,8 +23314,8 @@
     "10963": {
       "name": "Jakorian Bennett",
       "position": "DB",
-      "team": null,
-      "status": "Inactive",
+      "team": "CAR",
+      "status": "Active",
       "active": true
     },
     "5344": {
@@ -24679,7 +24679,7 @@
     "10215": {
       "name": "Jake Haener",
       "position": "QB",
-      "team": "NYG",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -53902,7 +53902,7 @@
       "active": false
     },
     "11935": {
-      "name": "A.J. Woods",
+      "name": "AJ Woods",
       "position": "CB",
       "team": "BUF",
       "status": "Active",
@@ -69661,7 +69661,7 @@
     "13122": {
       "name": "Carter Runyon",
       "position": "TE",
-      "team": "LV",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -75471,7 +75471,7 @@
     "3257": {
       "name": "Jacoby Brissett",
       "position": "QB",
-      "team": "ARI",
+      "team": "BAL",
       "status": "Active",
       "active": true
     },
@@ -79216,7 +79216,7 @@
     "13580": {
       "name": "Carsen Ryan",
       "position": "TE",
-      "team": "CLE",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -85297,7 +85297,7 @@
       "active": false
     },
     "13743": {
-      "name": "Joseph Manjack",
+      "name": "Joseph Manjack IV",
       "position": "WR",
       "team": "NYJ",
       "status": "Active",
@@ -89614,7 +89614,7 @@
       "id": "13580",
       "name": "Carsen Ryan",
       "position": "TE",
-      "team": "CLE",
+      "team": null,
       "status": "Active"
     },
     {
@@ -89663,7 +89663,7 @@
       "id": "13122",
       "name": "Carter Runyon",
       "position": "TE",
-      "team": "LV",
+      "team": null,
       "status": "Active"
     },
     {
@@ -95214,7 +95214,7 @@
       "id": "10215",
       "name": "Jake Haener",
       "position": "QB",
-      "team": "NYG",
+      "team": null,
       "status": "Active"
     },
     {
@@ -97312,7 +97312,7 @@
     },
     {
       "id": "13743",
-      "name": "Joseph Manjack",
+      "name": "Joseph Manjack IV",
       "position": "WR",
       "team": "NYJ",
       "status": "Active"
