@@ -1261,19 +1261,6 @@
     "roster_id": null
   },
   {
-    "id": "5854",
-    "name": "Drew Lock",
-    "position": "QB",
-    "team": "SEA",
-    "age": 29,
-    "years_exp": 7,
-    "active": true,
-    "injury_status": "Questionable",
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
     "id": "8915",
     "name": "Drew Plitt",
     "position": "QB",
