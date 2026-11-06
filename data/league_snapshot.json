@@ -115,7 +115,6 @@
       "st_ff": 1.0
     },
     "last_message_id": "1423732606347816960",
-    "draft_id": "1326711861202161664",
     "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
     "last_author_display_name": "HebrewsHeroes",
     "last_author_id": "434689597088198656",
@@ -123,15 +122,12 @@
     "last_message_attachment": null,
     "last_message_text_map": null,
     "last_message_time": 1793806814333,
+    "draft_id": "1326711861202161664",
     "last_pinned_message_id": null,
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
     "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -156,6 +152,10 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -723,7 +723,7 @@
         "9997"
       ],
       "reserve": [
-        "13286",
+        "13417",
         "6904",
         "7543",
         "8205"
@@ -747,13 +747,13 @@
         "6804",
         "12490",
         "4866",
-        "8167",
+        "9493",
         "12526",
-        "13346",
+        "9997",
         "8130",
         "1479",
-        "9997",
-        "9493"
+        "13346",
+        "8167"
       ],
       "taxi": null
     },
@@ -824,7 +824,7 @@
         "5850",
         "9488",
         "10213",
-        "11834",
+        "13276",
         "12506",
         "11586",
         "12512",

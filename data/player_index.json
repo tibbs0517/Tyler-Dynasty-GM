@@ -40973,7 +40973,7 @@
   "7039": {
     "name": "Cody White",
     "position": "WR",
-    "team": null,
+    "team": "LV",
     "status": "Active",
     "active": true
   },
@@ -42969,7 +42969,7 @@
     "name": "Zavier Scott",
     "position": "RB",
     "team": "CHI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "6646": {
@@ -57038,7 +57038,7 @@
   "6928": {
     "name": "Kindle Vildor",
     "position": "DB",
-    "team": null,
+    "team": "NE",
     "status": "Active",
     "active": true
   },
@@ -70289,7 +70289,7 @@
   "11748": {
     "name": "Bub Means",
     "position": "WR",
-    "team": null,
+    "team": "KC",
     "status": "Active",
     "active": true
   },

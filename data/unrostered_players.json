@@ -2152,7 +2152,7 @@
     "id": "11748",
     "name": "Bub Means",
     "position": "WR",
-    "team": null,
+    "team": "KC",
     "status": "Active"
   },
   {
@@ -3398,7 +3398,7 @@
     "id": "7039",
     "name": "Cody White",
     "position": "WR",
-    "team": null,
+    "team": "LV",
     "status": "Active"
   },
   {
@@ -19562,7 +19562,7 @@
     "name": "Zavier Scott",
     "position": "RB",
     "team": "CHI",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "13411",
