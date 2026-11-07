@@ -123,10 +123,15 @@
     "last_message_text_map": null,
     "last_message_time": 1794021399495,
     "last_pinned_message_id": null,
-    "draft_id": "1326711861202161664",
     "last_read_id": null,
+    "draft_id": "1326711861202161664",
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,11 +156,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -656,6 +656,7 @@
         "9487"
       ],
       "reserve": [
+        "8154",
         "9226"
       ],
       "roster_id": 1,
@@ -10014,7 +10015,7 @@
       "name": "Eyioma Uwazurike",
       "position": "DL",
       "team": "DEN",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "6750": {
@@ -11939,7 +11940,7 @@
       "name": "Brian Robinson Jr.",
       "position": "RB",
       "team": "ATL",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "4502": {
@@ -16068,7 +16069,7 @@
     "5882": {
       "name": "Taylor Rapp",
       "position": "DB",
-      "team": null,
+      "team": "DEN",
       "status": "Active",
       "active": true
     },
@@ -16531,7 +16532,7 @@
       "name": "Demarcus Robinson",
       "position": "WR",
       "team": "SF",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "3330": {
@@ -17077,7 +17078,7 @@
       "name": "Dyami Brown",
       "position": "WR",
       "team": "WAS",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "13422": {
@@ -24678,7 +24679,7 @@
     "10215": {
       "name": "Jake Haener",
       "position": "QB",
-      "team": null,
+      "team": "NYG",
       "status": "Active",
       "active": true
     },
@@ -28781,7 +28782,7 @@
       "name": "Kelvin Banks Jr.",
       "position": "OL",
       "team": "NO",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "4351": {
@@ -35991,7 +35992,7 @@
       "name": "Yasir Abdullah",
       "position": "LB",
       "team": "ATL",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "12444": {
@@ -42753,7 +42754,7 @@
       "name": "Mack Hollins",
       "position": "WR",
       "team": "NE",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "13564": {
@@ -47289,7 +47290,7 @@
       "name": "Malachi Lawrence",
       "position": "DL",
       "team": "DAL",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "4381": {
@@ -51818,7 +51819,7 @@
       "name": "Marist Liufau",
       "position": "LB",
       "team": "DAL",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "781": {
@@ -52427,7 +52428,7 @@
       "name": "Jordyn Tyson",
       "position": "WR",
       "team": "NO",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "8437": {
@@ -53449,7 +53450,7 @@
       "name": "Pat Bryant",
       "position": "WR",
       "team": "DEN",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "6257": {
@@ -59399,7 +59400,7 @@
       "name": "Christian Kirk",
       "position": "WR",
       "team": "SF",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "3995": {
@@ -60484,7 +60485,7 @@
       "name": "Isaiah Adams",
       "position": "OL",
       "team": "ARI",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "9225": {
@@ -77319,7 +77320,7 @@
       "name": "Jack Campbell",
       "position": "LB",
       "team": "DET",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "13145": {
@@ -82513,7 +82514,7 @@
       "name": "Beaux Collins",
       "position": "WR",
       "team": "ATL",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "8325": {
@@ -88207,7 +88208,7 @@
       "name": "Beaux Collins",
       "position": "WR",
       "team": "ATL",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "id": "13295",
@@ -90209,7 +90210,7 @@
       "name": "Christian Kirk",
       "position": "WR",
       "team": "SF",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "3556",
@@ -92099,7 +92100,7 @@
       "name": "Demarcus Robinson",
       "position": "WR",
       "team": "SF",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "id": "5143",
@@ -93065,7 +93066,7 @@
       "name": "Dyami Brown",
       "position": "WR",
       "team": "WAS",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "5103",
@@ -95220,7 +95221,7 @@
       "id": "10215",
       "name": "Jake Haener",
       "position": "QB",
-      "team": null,
+      "team": "NYG",
       "status": "Active"
     },
     {
@@ -99764,7 +99765,7 @@
       "name": "Mack Hollins",
       "position": "WR",
       "team": "NE",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "id": "8209",

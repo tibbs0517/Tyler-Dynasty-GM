@@ -1229,7 +1229,7 @@
     "name": "Beaux Collins",
     "position": "WR",
     "team": "ATL",
-    "status": "Inactive"
+    "status": "Active"
   },
   {
     "id": "13295",
@@ -3231,7 +3231,7 @@
     "name": "Christian Kirk",
     "position": "WR",
     "team": "SF",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "3556",
@@ -5121,7 +5121,7 @@
     "name": "Demarcus Robinson",
     "position": "WR",
     "team": "SF",
-    "status": "Inactive"
+    "status": "Active"
   },
   {
     "id": "5143",
@@ -6087,7 +6087,7 @@
     "name": "Dyami Brown",
     "position": "WR",
     "team": "WAS",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "5103",
@@ -8242,7 +8242,7 @@
     "id": "10215",
     "name": "Jake Haener",
     "position": "QB",
-    "team": null,
+    "team": "NYG",
     "status": "Active"
   },
   {
@@ -12786,7 +12786,7 @@
     "name": "Mack Hollins",
     "position": "WR",
     "team": "NE",
-    "status": "Inactive"
+    "status": "Active"
   },
   {
     "id": "8209",

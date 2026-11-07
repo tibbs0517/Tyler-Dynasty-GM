@@ -1745,7 +1745,7 @@
     "id": "10215",
     "name": "Jake Haener",
     "position": "QB",
-    "team": null,
+    "team": "NYG",
     "age": 27,
     "years_exp": 3,
     "active": true,
@@ -21054,7 +21054,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -22536,7 +22536,7 @@
     "age": 29,
     "years_exp": 8,
     "active": true,
-    "injury_status": "Out",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -24161,7 +24161,7 @@
     "age": 32,
     "years_exp": 10,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -25136,7 +25136,7 @@
     "age": 27,
     "years_exp": 5,
     "active": true,
-    "injury_status": "Out",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -30843,7 +30843,7 @@
     "age": 33,
     "years_exp": 9,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
