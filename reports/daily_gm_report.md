@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-11-07 01:33:49
+Generated: 2026-11-07 08:14:21
 
 ---
 
@@ -9,7 +9,7 @@ Generated: 2026-11-07 01:33:49
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2800
+Available Players: 2801
 
 ---
 
@@ -17,7 +17,7 @@ Available Players: 2800
 
 Trades: 0
 Waiver Claims: 1
-Free Agent Moves: 0
+Free Agent Moves: 1
 
 ---
 
@@ -25,7 +25,7 @@ Free Agent Moves: 0
 
 Username: tylergratz
 Roster ID: 5
-Players on Roster: 26
+Players on Roster: 25
 
 ---
 
@@ -43,12 +43,13 @@ No trades.
 
 ## Recently Dropped Players
 
+- Dameon Pierce
 
 ---
 
 ## Most Active Managers
 
-- tylergratz: 1 moves
+- tylergratz: 2 moves
 
 ---
 

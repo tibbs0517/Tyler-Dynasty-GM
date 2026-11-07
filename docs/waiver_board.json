@@ -5590,6 +5590,19 @@
     "roster_id": null
   },
   {
+    "id": "8129",
+    "name": "Dameon Pierce",
+    "position": "RB",
+    "team": "PHI",
+    "age": 26,
+    "years_exp": 4,
+    "active": true,
+    "injury_status": "Questionable",
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
     "id": "5890",
     "name": "Damien Harris",
     "position": "RB",

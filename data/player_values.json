@@ -3654,20 +3654,6 @@
     "gm_score": 80
   },
   {
-    "id": "8129",
-    "name": "Dameon Pierce",
-    "position": "RB",
-    "team": "PHI",
-    "age": 26,
-    "years_exp": 4,
-    "active": true,
-    "injury_status": "Questionable",
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 5,
-    "gm_score": 80
-  },
-  {
     "id": "6595",
     "name": "Devlin Hodges",
     "position": "QB",
@@ -26972,6 +26958,20 @@
     "years_exp": 1,
     "active": true,
     "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 60
+  },
+  {
+    "id": "8129",
+    "name": "Dameon Pierce",
+    "position": "RB",
+    "team": "PHI",
+    "age": 26,
+    "years_exp": 4,
+    "active": true,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null,
