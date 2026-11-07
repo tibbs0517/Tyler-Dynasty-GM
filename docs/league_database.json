@@ -64,10 +64,10 @@
     },
     "avatar": null,
     "company_id": null,
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "shard": 470,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -115,7 +115,6 @@
       "st_ff": 1.0
     },
     "last_message_id": "1424632641772175360",
-    "draft_id": "1326711861202161664",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -124,6 +123,7 @@
     "last_message_text_map": null,
     "last_message_time": 1794021399495,
     "last_pinned_message_id": null,
+    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
@@ -9649,7 +9649,7 @@
     "11931": {
       "name": "Austin Reed",
       "position": "QB",
-      "team": "BAL",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -16068,7 +16068,7 @@
     "5882": {
       "name": "Taylor Rapp",
       "position": "DB",
-      "team": "DEN",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -27520,7 +27520,7 @@
     "8223": {
       "name": "Velus Jones Jr.",
       "position": "WR",
-      "team": "SEA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -31630,7 +31630,7 @@
       "name": "Myles Garrett",
       "position": "DE",
       "team": "LAR",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "6725": {
@@ -52097,7 +52097,7 @@
     "8129": {
       "name": "Dameon Pierce",
       "position": "RB",
-      "team": "PHI",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -55787,7 +55787,7 @@
       "name": "Ronnie Rivers",
       "position": "RB",
       "team": "LAR",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "2130": {
@@ -56347,7 +56347,7 @@
       "name": "Jer'Zhan Newton",
       "position": "DL",
       "team": "WAS",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "5189": {
@@ -57705,7 +57705,7 @@
       "name": "Jaylen Watson",
       "position": "DB",
       "team": "LAR",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "12736": {
@@ -73279,7 +73279,7 @@
     "12856": {
       "name": "Zion Childress",
       "position": "DB",
-      "team": "CAR",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -79215,7 +79215,7 @@
     "13580": {
       "name": "Carsen Ryan",
       "position": "TE",
-      "team": null,
+      "team": "CLE",
       "status": "Active",
       "active": true
     },
@@ -85844,7 +85844,7 @@
     "2334": {
       "name": "Phillip Dorsett II",
       "position": "WR",
-      "team": "LV",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -88038,7 +88038,7 @@
       "id": "11931",
       "name": "Austin Reed",
       "position": "QB",
-      "team": "BAL",
+      "team": null,
       "status": "Active"
     },
     {
@@ -89613,7 +89613,7 @@
       "id": "13580",
       "name": "Carsen Ryan",
       "position": "TE",
-      "team": null,
+      "team": "CLE",
       "status": "Active"
     },
     {
@@ -91097,7 +91097,7 @@
       "id": "8129",
       "name": "Dameon Pierce",
       "position": "RB",
-      "team": "PHI",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -102115,7 +102115,7 @@
       "id": "2334",
       "name": "Phillip Dorsett II",
       "position": "WR",
-      "team": "LV",
+      "team": null,
       "status": "Active"
     },
     {
@@ -103019,7 +103019,7 @@
       "name": "Ronnie Rivers",
       "position": "RB",
       "team": "LAR",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "id": "2553",
@@ -106000,7 +106000,7 @@
       "id": "8223",
       "name": "Velus Jones Jr.",
       "position": "WR",
-      "team": "SEA",
+      "team": null,
       "status": "Active"
     },
     {

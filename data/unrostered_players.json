@@ -1060,7 +1060,7 @@
     "id": "11931",
     "name": "Austin Reed",
     "position": "QB",
-    "team": "BAL",
+    "team": null,
     "status": "Active"
   },
   {
@@ -2635,7 +2635,7 @@
     "id": "13580",
     "name": "Carsen Ryan",
     "position": "TE",
-    "team": null,
+    "team": "CLE",
     "status": "Active"
   },
   {
@@ -4119,7 +4119,7 @@
     "id": "8129",
     "name": "Dameon Pierce",
     "position": "RB",
-    "team": "PHI",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -15137,7 +15137,7 @@
     "id": "2334",
     "name": "Phillip Dorsett II",
     "position": "WR",
-    "team": "LV",
+    "team": null,
     "status": "Active"
   },
   {
@@ -16041,7 +16041,7 @@
     "name": "Ronnie Rivers",
     "position": "RB",
     "team": "LAR",
-    "status": "Inactive"
+    "status": "Active"
   },
   {
     "id": "2553",
@@ -19022,7 +19022,7 @@
     "id": "8223",
     "name": "Velus Jones Jr.",
     "position": "WR",
-    "team": "SEA",
+    "team": null,
     "status": "Active"
   },
   {
