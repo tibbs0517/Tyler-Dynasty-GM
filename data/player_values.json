@@ -1554,6 +1554,20 @@
     "gm_score": 90
   },
   {
+    "id": "12471",
+    "name": "DJ Giddens",
+    "position": "RB",
+    "team": "IND",
+    "age": 23,
+    "years_exp": 1,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 9,
+    "gm_score": 90
+  },
+  {
     "id": "13305",
     "name": "Mike Washington Jr.",
     "position": "RB",
@@ -14733,20 +14747,6 @@
     "position": "RB",
     "team": null,
     "age": 22,
-    "years_exp": 1,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 70
-  },
-  {
-    "id": "12471",
-    "name": "DJ Giddens",
-    "position": "RB",
-    "team": "IND",
-    "age": 23,
     "years_exp": 1,
     "active": true,
     "injury_status": null,
