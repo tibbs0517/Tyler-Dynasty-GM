@@ -17353,6 +17353,13 @@
     "status": "Active"
   },
   {
+    "id": "9230",
+    "name": "Tanner McKee",
+    "position": "QB",
+    "team": "PHI",
+    "status": "Active"
+  },
+  {
     "id": "11598",
     "name": "Tanner McLachlan",
     "position": "TE",
@@ -18476,7 +18483,7 @@
     "id": "12079",
     "name": "Treyton Welch",
     "position": "TE",
-    "team": "NO",
+    "team": null,
     "status": "Active"
   },
   {

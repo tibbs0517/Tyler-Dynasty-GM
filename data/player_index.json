@@ -24474,7 +24474,7 @@
   "12079": {
     "name": "Treyton Welch",
     "position": "TE",
-    "team": "NO",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -59593,7 +59593,7 @@
   "9757": {
     "name": "Kendre Miller",
     "position": "RB",
-    "team": "NO",
+    "team": null,
     "status": "Active",
     "active": true
   },
