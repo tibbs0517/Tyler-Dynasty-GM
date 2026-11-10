@@ -10531,7 +10531,7 @@
     "name": "Demond Claiborne",
     "position": "RB",
     "team": "MIN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "48": {
@@ -13365,7 +13365,7 @@
   "260": {
     "name": "Josh Johnson",
     "position": "QB",
-    "team": "CIN",
+    "team": "ARI",
     "status": "Active",
     "active": true
   },
@@ -25455,7 +25455,7 @@
     "name": "James Williams Sr.",
     "position": "DB",
     "team": "TEN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3195": {
@@ -28465,7 +28465,7 @@
     "name": "Puka Nacua",
     "position": "WR",
     "team": "LAR",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "106": {
@@ -35010,7 +35010,7 @@
     "name": "Dorian Mausi",
     "position": "LB",
     "team": "TEN",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "6219": {
@@ -35716,7 +35716,7 @@
   "12054": {
     "name": "Jimmy Ciarlo",
     "position": "LB",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
@@ -37410,7 +37410,7 @@
   "8269": {
     "name": "Jordan Davis",
     "position": "DL",
-    "team": "PHI",
+    "team": "JAX",
     "status": "Active",
     "active": true
   },
@@ -59601,7 +59601,7 @@
     "name": "Joshua Palmer",
     "position": "WR",
     "team": "BUF",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "677": {

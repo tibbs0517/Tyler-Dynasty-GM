@@ -5156,7 +5156,7 @@
     "name": "Demond Claiborne",
     "position": "RB",
     "team": "MIN",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "10870",
@@ -10475,7 +10475,7 @@
     "id": "260",
     "name": "Josh Johnson",
     "position": "QB",
-    "team": "CIN",
+    "team": "ARI",
     "status": "Active"
   },
   {
@@ -10658,7 +10658,7 @@
     "name": "Joshua Palmer",
     "position": "WR",
     "team": "BUF",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "3668",

@@ -64,6 +64,10 @@
     },
     "avatar": null,
     "company_id": null,
+    "shard": 470,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -110,23 +114,24 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
-    "last_message_id": "1425169384191651840",
-    "shard": 470,
-    "last_author_avatar": null,
-    "last_author_display_name": "sys",
-    "last_author_id": "166666666666666666",
-    "last_author_is_bot": true,
+    "last_message_id": "1425651735883415552",
+    "draft_id": "1326711861202161664",
+    "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
+    "last_author_display_name": "HebrewsHeroes",
+    "last_author_id": "434689597088198656",
+    "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1794149368859,
+    "last_message_time": 1794264370464,
     "last_pinned_message_id": null,
-    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,11 +156,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -11905,7 +11905,7 @@
       "name": "Demond Claiborne",
       "position": "RB",
       "team": "MIN",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "48": {
@@ -14739,7 +14739,7 @@
     "260": {
       "name": "Josh Johnson",
       "position": "QB",
-      "team": "CIN",
+      "team": "ARI",
       "status": "Active",
       "active": true
     },
@@ -26829,7 +26829,7 @@
       "name": "James Williams Sr.",
       "position": "DB",
       "team": "TEN",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "3195": {
@@ -29839,7 +29839,7 @@
       "name": "Puka Nacua",
       "position": "WR",
       "team": "LAR",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "106": {
@@ -36384,7 +36384,7 @@
       "name": "Dorian Mausi",
       "position": "LB",
       "team": "TEN",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "6219": {
@@ -37090,7 +37090,7 @@
     "12054": {
       "name": "Jimmy Ciarlo",
       "position": "LB",
-      "team": null,
+      "team": "TEN",
       "status": "Active",
       "active": true
     },
@@ -38784,7 +38784,7 @@
     "8269": {
       "name": "Jordan Davis",
       "position": "DL",
-      "team": "PHI",
+      "team": "JAX",
       "status": "Active",
       "active": true
     },
@@ -60975,7 +60975,7 @@
       "name": "Joshua Palmer",
       "position": "WR",
       "team": "BUF",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "677": {
@@ -92135,7 +92135,7 @@
       "name": "Demond Claiborne",
       "position": "RB",
       "team": "MIN",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "10870",
@@ -97454,7 +97454,7 @@
       "id": "260",
       "name": "Josh Johnson",
       "position": "QB",
-      "team": "CIN",
+      "team": "ARI",
       "status": "Active"
     },
     {
@@ -97637,7 +97637,7 @@
       "name": "Joshua Palmer",
       "position": "WR",
       "team": "BUF",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "3668",
