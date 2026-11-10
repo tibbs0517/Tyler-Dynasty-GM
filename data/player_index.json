@@ -18153,7 +18153,7 @@
   "10937": {
     "name": "Jake Moody",
     "position": "K",
-    "team": "BAL",
+    "team": "ATL",
     "status": "Active",
     "active": true
   },
@@ -18202,7 +18202,7 @@
   "13428": {
     "name": "Joey Aguilar",
     "position": "QB",
-    "team": "JAX",
+    "team": "ARI",
     "status": "Active",
     "active": true
   },
@@ -23550,7 +23550,7 @@
   "8799": {
     "name": "Zaire Mitchell-Paden",
     "position": "TE",
-    "team": null,
+    "team": "CLE",
     "status": "Active",
     "active": true
   },
@@ -49660,7 +49660,7 @@
   "13216": {
     "name": "Derrick Canteen",
     "position": "CB",
-    "team": "TEN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -63338,7 +63338,7 @@
   "10998": {
     "name": "Jose Ramirez",
     "position": "DL",
-    "team": "NE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -65893,7 +65893,7 @@
   "12938": {
     "name": "Jackson Meeks",
     "position": "TE",
-    "team": "DET",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -66089,7 +66089,7 @@
   "650": {
     "name": "Nick Folk",
     "position": "K",
-    "team": "ATL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -79809,7 +79809,7 @@
   "13827": {
     "name": "Tanner Arkin",
     "position": "TE",
-    "team": "NE",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -81146,7 +81146,7 @@
   "8325": {
     "name": "Arnold Ebiketie",
     "position": "DL",
-    "team": "PHI",
+    "team": "CIN",
     "status": "Active",
     "active": true
   },

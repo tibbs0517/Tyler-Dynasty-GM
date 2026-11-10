@@ -7941,7 +7941,7 @@
     "id": "12938",
     "name": "Jackson Meeks",
     "position": "TE",
-    "team": "DET",
+    "team": null,
     "status": "Active"
   },
   {
@@ -9754,7 +9754,7 @@
     "id": "13428",
     "name": "Joey Aguilar",
     "position": "QB",
-    "team": "JAX",
+    "team": "ARI",
     "status": "Active"
   },
   {
@@ -17314,7 +17314,7 @@
     "id": "13827",
     "name": "Tanner Arkin",
     "position": "TE",
-    "team": "NE",
+    "team": null,
     "status": "Active"
   },
   {
@@ -19533,7 +19533,7 @@
     "id": "8799",
     "name": "Zaire Mitchell-Paden",
     "position": "TE",
-    "team": null,
+    "team": "CLE",
     "status": "Active"
   },
   {

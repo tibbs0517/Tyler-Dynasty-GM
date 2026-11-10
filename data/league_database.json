@@ -9,7 +9,7 @@
     },
     "settings": {
       "best_ball": 0,
-      "last_report": 8,
+      "last_report": 9,
       "waiver_budget": 100,
       "disable_adds": 0,
       "capacity_override": 0,
@@ -64,6 +64,10 @@
     },
     "avatar": null,
     "company_id": null,
+    "shard": 470,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -110,23 +114,24 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
-    "last_message_id": "1425651735883415552",
-    "shard": 470,
-    "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
-    "last_author_display_name": "HebrewsHeroes",
-    "last_author_id": "434689597088198656",
-    "last_author_is_bot": false,
+    "last_message_id": "1425929429170798592",
+    "last_author_avatar": null,
+    "last_author_display_name": "sys",
+    "last_author_id": "166666666666666666",
+    "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1794264370464,
+    "last_message_time": 1794330577704,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "draft_id": "1326711861202161664",
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,11 +156,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -971,12 +971,12 @@
       "starters": [
         "3163",
         "8138",
-        "11584",
+        "12504",
         "4983",
         "11610",
         "9501",
         "4217",
-        "5844",
+        "7002",
         "10859",
         "5854"
       ],
@@ -1023,6 +1023,7 @@
         "9509"
       ],
       "reserve": [
+        "10232",
         "2133",
         "9225"
       ],
@@ -1046,10 +1047,10 @@
         "8150",
         "9509",
         "8144",
-        "10232",
+        "0",
         "11632",
         "8131",
-        "8132",
+        "5967",
         "12495",
         "4046"
       ],
@@ -1119,14 +1120,14 @@
         "wins": 6
       },
       "starters": [
-        "6770",
+        "11564",
         "9221",
         "8155",
         "7547",
         "7564",
         "13301",
-        "9484",
-        "4199",
+        "10236",
+        "5846",
         "13296",
         "8183"
       ],
@@ -1360,13 +1361,13 @@
       "starters": [
         "11566",
         "3198",
-        "6790",
+        "12527",
         "7569",
-        "12519",
+        "8146",
         "11635",
         "11604",
-        "12527",
-        "13345",
+        "6130",
+        "13281",
         "9758"
       ],
       "taxi": null
@@ -19527,7 +19528,7 @@
     "10937": {
       "name": "Jake Moody",
       "position": "K",
-      "team": "BAL",
+      "team": "ATL",
       "status": "Active",
       "active": true
     },
@@ -19576,7 +19577,7 @@
     "13428": {
       "name": "Joey Aguilar",
       "position": "QB",
-      "team": "JAX",
+      "team": "ARI",
       "status": "Active",
       "active": true
     },
@@ -24924,7 +24925,7 @@
     "8799": {
       "name": "Zaire Mitchell-Paden",
       "position": "TE",
-      "team": null,
+      "team": "CLE",
       "status": "Active",
       "active": true
     },
@@ -51034,7 +51035,7 @@
     "13216": {
       "name": "Derrick Canteen",
       "position": "CB",
-      "team": "TEN",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -64712,7 +64713,7 @@
     "10998": {
       "name": "Jose Ramirez",
       "position": "DL",
-      "team": "NE",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -67267,7 +67268,7 @@
     "12938": {
       "name": "Jackson Meeks",
       "position": "TE",
-      "team": "DET",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -67463,7 +67464,7 @@
     "650": {
       "name": "Nick Folk",
       "position": "K",
-      "team": "ATL",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -81183,7 +81184,7 @@
     "13827": {
       "name": "Tanner Arkin",
       "position": "TE",
-      "team": "NE",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -82520,7 +82521,7 @@
     "8325": {
       "name": "Arnold Ebiketie",
       "position": "DL",
-      "team": "PHI",
+      "team": "CIN",
       "status": "Active",
       "active": true
     },
@@ -94920,7 +94921,7 @@
       "id": "12938",
       "name": "Jackson Meeks",
       "position": "TE",
-      "team": "DET",
+      "team": null,
       "status": "Active"
     },
     {
@@ -96733,7 +96734,7 @@
       "id": "13428",
       "name": "Joey Aguilar",
       "position": "QB",
-      "team": "JAX",
+      "team": "ARI",
       "status": "Active"
     },
     {
@@ -104293,7 +104294,7 @@
       "id": "13827",
       "name": "Tanner Arkin",
       "position": "TE",
-      "team": "NE",
+      "team": null,
       "status": "Active"
     },
     {
@@ -106512,7 +106513,7 @@
       "id": "8799",
       "name": "Zaire Mitchell-Paden",
       "position": "TE",
-      "team": null,
+      "team": "CLE",
       "status": "Active"
     },
     {
