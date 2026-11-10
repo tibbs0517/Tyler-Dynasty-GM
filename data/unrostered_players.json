@@ -8351,6 +8351,13 @@
     "status": "Active"
   },
   {
+    "id": "11439",
+    "name": "Jaleel McLaughlin",
+    "position": "RB",
+    "team": "CLE",
+    "status": "Active"
+  },
+  {
     "id": "5005",
     "name": "Jaleel Scott",
     "position": "WR",
@@ -10301,7 +10308,7 @@
     "name": "Jordan Whittington",
     "position": "WR",
     "team": "LAR",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "5100",
@@ -11551,9 +11558,9 @@
   },
   {
     "id": "13957",
-    "name": "Kenny Fletcher",
+    "name": "Kenny Fletcher Jr.",
     "position": "TE",
-    "team": null,
+    "team": "GB",
     "status": "Active"
   },
   {
@@ -13527,7 +13534,7 @@
     "id": "13806",
     "name": "Matt Lauter",
     "position": "TE",
-    "team": null,
+    "team": "NO",
     "status": "Active"
   },
   {
@@ -15130,7 +15137,7 @@
     "id": "2334",
     "name": "Phillip Dorsett II",
     "position": "WR",
-    "team": null,
+    "team": "ARI",
     "status": "Active"
   },
   {
@@ -18483,7 +18490,7 @@
     "id": "12079",
     "name": "Treyton Welch",
     "position": "TE",
-    "team": null,
+    "team": "NO",
     "status": "Active"
   },
   {
@@ -19344,7 +19351,7 @@
     "id": "11168",
     "name": "Xavier Smith",
     "position": "WR",
-    "team": "SF",
+    "team": "LAR",
     "status": "Active"
   },
   {

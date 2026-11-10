@@ -64,10 +64,6 @@
     },
     "avatar": null,
     "company_id": null,
-    "shard": 470,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -114,17 +110,21 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1425929429170798592",
-    "last_author_avatar": null,
-    "last_author_display_name": "sys",
-    "last_author_id": "166666666666666666",
-    "last_author_is_bot": true,
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 470,
+    "sport": "nfl",
+    "last_message_id": "1426007110784671744",
+    "last_author_avatar": "5465a43bf96c8b16dc460cbf1b67e29c",
+    "last_author_display_name": "AnthonyJania",
+    "last_author_id": "353394136252092416",
+    "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1794330577704,
+    "last_message_time": 1794349098443,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1326711861202161664",
+    "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
     "bracket_id": null,
@@ -772,7 +772,6 @@
       "player_map": null,
       "players": [
         "10213",
-        "11439",
         "11586",
         "11630",
         "11637",
@@ -822,14 +821,14 @@
       "starters": [
         "4984",
         "9224",
-        "5850",
+        "11586",
         "9488",
         "10213",
         "13276",
         "12506",
-        "11586",
+        "12474",
         "12512",
-        "8161"
+        "0"
       ],
       "taxi": null
     },
@@ -976,7 +975,7 @@
         "11610",
         "9501",
         "4217",
-        "7002",
+        "5844",
         "10859",
         "5854"
       ],
@@ -7990,9 +7989,9 @@
       "active": true
     },
     "13957": {
-      "name": "Kenny Fletcher",
+      "name": "Kenny Fletcher Jr.",
       "position": "TE",
-      "team": null,
+      "team": "GB",
       "status": "Active",
       "active": true
     },
@@ -12942,7 +12941,7 @@
       "name": "Michael Wilson",
       "position": "WR",
       "team": "ARI",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "3022": {
@@ -13718,8 +13717,8 @@
     "11305": {
       "name": "Claudin Cherelus",
       "position": "LB",
-      "team": null,
-      "status": "Inactive",
+      "team": "CAR",
+      "status": "Active",
       "active": true
     },
     "4848": {
@@ -15286,7 +15285,7 @@
     "1166": {
       "name": "Kirk Cousins",
       "position": "QB",
-      "team": "LV",
+      "team": "MIN",
       "status": "Active",
       "active": true
     },
@@ -17134,7 +17133,7 @@
     "11045": {
       "name": "Andrew Vorhees",
       "position": "OL",
-      "team": "BAL",
+      "team": "ATL",
       "status": "Active",
       "active": true
     },
@@ -25443,7 +25442,7 @@
     "13213": {
       "name": "Lucas Scott",
       "position": "FB",
-      "team": null,
+      "team": "BAL",
       "status": "Active",
       "active": true
     },
@@ -25849,7 +25848,7 @@
     "12079": {
       "name": "Treyton Welch",
       "position": "TE",
-      "team": null,
+      "team": "NO",
       "status": "Active",
       "active": true
     },
@@ -25863,7 +25862,7 @@
     "7979": {
       "name": "Ryan Neuzil",
       "position": "OL",
-      "team": "ATL",
+      "team": "BAL",
       "status": "Active",
       "active": true
     },
@@ -30315,7 +30314,7 @@
     "13147": {
       "name": "Gus Hartwig",
       "position": "C",
-      "team": null,
+      "team": "ATL",
       "status": "Active",
       "active": true
     },
@@ -46961,7 +46960,7 @@
     "1479": {
       "name": "Keenan Allen",
       "position": "WR",
-      "team": "IND",
+      "team": "SF",
       "status": "Active",
       "active": true
     },
@@ -50594,7 +50593,7 @@
     "7077": {
       "name": "Jacob Bobenmoyer",
       "position": "LS",
-      "team": null,
+      "team": "IND",
       "status": "Active",
       "active": true
     },
@@ -52715,7 +52714,7 @@
     "13900": {
       "name": "Cole Brevard",
       "position": "DT",
-      "team": "KC",
+      "team": "SEA",
       "status": "Active",
       "active": true
     },
@@ -57496,7 +57495,7 @@
     "10914": {
       "name": "Daiyan Henley",
       "position": "LB",
-      "team": "LAC",
+      "team": "DEN",
       "status": "Active",
       "active": true
     },
@@ -60101,7 +60100,7 @@
       "name": "Jordan Whittington",
       "position": "WR",
       "team": "LAR",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "11950": {
@@ -60968,7 +60967,7 @@
     "9757": {
       "name": "Kendre Miller",
       "position": "RB",
-      "team": null,
+      "team": "DAL",
       "status": "Active",
       "active": true
     },
@@ -62502,7 +62501,7 @@
       "name": "Malik Willis",
       "position": "QB",
       "team": "MIA",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "4976": {
@@ -62747,7 +62746,7 @@
       "name": "Gardner Minshew II",
       "position": "QB",
       "team": "ARI",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "822": {
@@ -64070,7 +64069,7 @@
       "name": "Gracen Halton",
       "position": "DT",
       "team": "SF",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "6308": {
@@ -66911,7 +66910,7 @@
     "5908": {
       "name": "Amani Hooker",
       "position": "DB",
-      "team": "TEN",
+      "team": "BUF",
       "status": "Active",
       "active": true
     },
@@ -67604,7 +67603,7 @@
     "9500": {
       "name": "Josh Downs",
       "position": "WR",
-      "team": "IND",
+      "team": "KC",
       "status": "Active",
       "active": true
     },
@@ -68934,7 +68933,7 @@
     "11168": {
       "name": "Xavier Smith",
       "position": "WR",
-      "team": "SF",
+      "team": "LAR",
       "status": "Active",
       "active": true
     },
@@ -77180,7 +77179,7 @@
     "11420": {
       "name": "Luke Haggard",
       "position": "OT",
-      "team": null,
+      "team": "TB",
       "status": "Active",
       "active": true
     },
@@ -78384,7 +78383,7 @@
     "13748": {
       "name": "Wes Pahl",
       "position": "P",
-      "team": null,
+      "team": "CLE",
       "status": "Active",
       "active": true
     },
@@ -79833,7 +79832,7 @@
     "13806": {
       "name": "Matt Lauter",
       "position": "TE",
-      "team": null,
+      "team": "NO",
       "status": "Active",
       "active": true
     },
@@ -82521,7 +82520,7 @@
     "8325": {
       "name": "Arnold Ebiketie",
       "position": "DL",
-      "team": "CIN",
+      "team": "PHI",
       "status": "Active",
       "active": true
     },
@@ -83130,7 +83129,7 @@
     "8282": {
       "name": "Delarrin Turner-Yell",
       "position": "DB",
-      "team": null,
+      "team": "ATL",
       "status": "Active",
       "active": true
     },
@@ -85846,7 +85845,7 @@
     "2334": {
       "name": "Phillip Dorsett II",
       "position": "WR",
-      "team": null,
+      "team": "ARI",
       "status": "Active",
       "active": true
     },
@@ -95331,6 +95330,13 @@
       "status": "Active"
     },
     {
+      "id": "11439",
+      "name": "Jaleel McLaughlin",
+      "position": "RB",
+      "team": "CLE",
+      "status": "Active"
+    },
+    {
       "id": "5005",
       "name": "Jaleel Scott",
       "position": "WR",
@@ -97281,7 +97287,7 @@
       "name": "Jordan Whittington",
       "position": "WR",
       "team": "LAR",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "5100",
@@ -98531,9 +98537,9 @@
     },
     {
       "id": "13957",
-      "name": "Kenny Fletcher",
+      "name": "Kenny Fletcher Jr.",
       "position": "TE",
-      "team": null,
+      "team": "GB",
       "status": "Active"
     },
     {
@@ -100507,7 +100513,7 @@
       "id": "13806",
       "name": "Matt Lauter",
       "position": "TE",
-      "team": null,
+      "team": "NO",
       "status": "Active"
     },
     {
@@ -102110,7 +102116,7 @@
       "id": "2334",
       "name": "Phillip Dorsett II",
       "position": "WR",
-      "team": null,
+      "team": "ARI",
       "status": "Active"
     },
     {
@@ -105463,7 +105469,7 @@
       "id": "12079",
       "name": "Treyton Welch",
       "position": "TE",
-      "team": null,
+      "team": "NO",
       "status": "Active"
     },
     {
@@ -106324,7 +106330,7 @@
       "id": "11168",
       "name": "Xavier Smith",
       "position": "WR",
-      "team": "SF",
+      "team": "LAR",
       "status": "Active"
     },
     {
