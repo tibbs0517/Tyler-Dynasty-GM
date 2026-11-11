@@ -11580,8 +11580,8 @@
   "7012": {
     "name": "Mykal Walker",
     "position": "LB",
-    "team": null,
-    "status": "Inactive",
+    "team": "NYJ",
+    "status": "Active",
     "active": true
   },
   "12597": {
@@ -45999,7 +45999,7 @@
   "7283": {
     "name": "Chris Williams",
     "position": "DT",
-    "team": null,
+    "team": "LV",
     "status": "Active",
     "active": true
   },
