@@ -56,11 +56,11 @@
       "trade_review_days": 0,
       "bench_lock": 0,
       "offseason_adds": 1,
-      "leg": 9,
+      "leg": 10,
       "daily_waivers_base": 4,
       "reserve_slots": 4,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 10
+      "daily_waivers_last_ran": 11
     },
     "avatar": null,
     "company_id": null,
@@ -68,7 +68,6 @@
     "season": "2026",
     "season_type": "regular",
     "sport": "nfl",
-    "last_message_id": "1426068248247402496",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -115,18 +114,24 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_author_avatar": "e36a6748fbd53ab64ceb5f669bc6e27c",
-    "last_author_display_name": "SammyA",
-    "last_author_id": "429817971473403904",
-    "last_author_is_bot": false,
+    "last_message_id": "1426157413483958272",
+    "draft_id": "1326711861202161664",
+    "last_author_avatar": null,
+    "last_author_display_name": "sys",
+    "last_author_id": "166666666666666666",
+    "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1794363674755,
+    "last_message_time": 1794384933399,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1326711861202161664",
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,11 +156,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -671,7 +671,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 5,
-        "waiver_position": 6,
+        "waiver_position": 4,
         "wins": 4
       },
       "starters": [
@@ -703,6 +703,7 @@
         "11647",
         "12483",
         "12490",
+        "12491",
         "12522",
         "12526",
         "13272",
@@ -740,8 +741,8 @@
         "ppts_decimal": 62,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 0,
-        "waiver_position": 1,
+        "waiver_budget_used": 55,
+        "waiver_position": 7,
         "wins": 5
       },
       "starters": [
@@ -778,6 +779,7 @@
         "11834",
         "12474",
         "12481",
+        "12494",
         "12506",
         "12512",
         "13264",
@@ -814,8 +816,8 @@
         "ppts_decimal": 92,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 22,
-        "waiver_position": 3,
+        "waiver_budget_used": 30,
+        "waiver_position": 8,
         "wins": 3
       },
       "starters": [
@@ -893,7 +895,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 4,
+        "waiver_position": 2,
         "wins": 2
       },
       "starters": [
@@ -964,7 +966,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 9,
+        "waiver_position": 5,
         "wins": 5
       },
       "starters": [
@@ -1002,6 +1004,7 @@
         "11632",
         "11729",
         "12495",
+        "12524",
         "13414",
         "13424",
         "2133",
@@ -1037,8 +1040,8 @@
         "ppts_decimal": 80,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 14,
-        "waiver_position": 7,
+        "waiver_budget_used": 16,
+        "waiver_position": 10,
         "wins": 7
       },
       "starters": [
@@ -1077,10 +1080,9 @@
         "11643",
         "12487",
         "12492",
-        "12497",
-        "12509",
         "12542",
         "13296",
+        "13297",
         "13301",
         "13413",
         "13421",
@@ -1095,6 +1097,7 @@
         "8183",
         "9221",
         "9484",
+        "9504",
         "9511"
       ],
       "reserve": [
@@ -1114,8 +1117,8 @@
         "ppts_decimal": 46,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 54,
-        "waiver_position": 8,
+        "waiver_budget_used": 70,
+        "waiver_position": 9,
         "wins": 6
       },
       "starters": [
@@ -1193,7 +1196,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 28,
-        "waiver_position": 5,
+        "waiver_position": 3,
         "wins": 2
       },
       "starters": [
@@ -1263,7 +1266,7 @@
       "reserve": [
         "12489",
         "4881",
-        "9508"
+        "6011"
       ],
       "roster_id": 9,
       "settings": {
@@ -1277,7 +1280,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 76,
-        "waiver_position": 10,
+        "waiver_position": 6,
         "wins": 5
       },
       "starters": [
@@ -1288,9 +1291,9 @@
         "6794",
         "8112",
         "1466",
-        "11576",
+        "9753",
         "6801",
-        "3161"
+        "11559"
       ],
       "taxi": null
     },
@@ -1354,7 +1357,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 4,
-        "waiver_position": 2,
+        "waiver_position": 1,
         "wins": 6
       },
       "starters": [
@@ -85748,7 +85751,7 @@
       "name": "Zach Sieler",
       "position": "DT",
       "team": "MIA",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "4936": {
@@ -90679,13 +90682,6 @@
       "name": "Corey Davis",
       "position": "WR",
       "team": null,
-      "status": "Active"
-    },
-    {
-      "id": "12491",
-      "name": "Corey Kiner",
-      "position": "RB",
-      "team": "NE",
       "status": "Active"
     },
     {
@@ -98200,13 +98196,6 @@
       "status": "Active"
     },
     {
-      "id": "9504",
-      "name": "Kayshon Boutte",
-      "position": "WR",
-      "team": "HOU",
-      "status": "Active"
-    },
-    {
       "id": "11070",
       "name": "Kazmeir Allen",
       "position": "WR",
@@ -99023,13 +99012,6 @@
       "name": "Kyle Markway",
       "position": "TE",
       "team": null,
-      "status": "Active"
-    },
-    {
-      "id": "12494",
-      "name": "Kyle McCord",
-      "position": "QB",
-      "team": "MIA",
       "status": "Active"
     },
     {
@@ -102589,13 +102571,6 @@
       "status": "Active"
     },
     {
-      "id": "13297",
-      "name": "Reggie Virgil",
-      "position": "WR",
-      "team": "ARI",
-      "status": "Active"
-    },
-    {
       "id": "6261",
       "name": "Reggie White",
       "position": "WR",
@@ -103741,13 +103716,6 @@
       "name": "Shea Patterson",
       "position": "QB",
       "team": null,
-      "status": "Active"
-    },
-    {
-      "id": "12524",
-      "name": "Shedeur Sanders",
-      "position": "QB",
-      "team": "CLE",
       "status": "Active"
     },
     {
@@ -105018,6 +104986,13 @@
       "status": "Active"
     },
     {
+      "id": "12497",
+      "name": "Tory Horton",
+      "position": "WR",
+      "team": "SEA",
+      "status": "Active"
+    },
+    {
       "id": "3688",
       "name": "Tra Carson",
       "position": "RB",
@@ -105197,6 +105172,13 @@
       "name": "Tre Watson",
       "position": "TE",
       "team": "MIA",
+      "status": "Active"
+    },
+    {
+      "id": "12509",
+      "name": "Tre' Harris",
+      "position": "WR",
+      "team": "LAC",
       "status": "Active"
     },
     {

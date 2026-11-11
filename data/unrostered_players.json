@@ -3703,13 +3703,6 @@
     "status": "Active"
   },
   {
-    "id": "12491",
-    "name": "Corey Kiner",
-    "position": "RB",
-    "team": "NE",
-    "status": "Active"
-  },
-  {
     "id": "2933",
     "name": "Corey Knox",
     "position": "RB",
@@ -11221,13 +11214,6 @@
     "status": "Active"
   },
   {
-    "id": "9504",
-    "name": "Kayshon Boutte",
-    "position": "WR",
-    "team": "HOU",
-    "status": "Active"
-  },
-  {
     "id": "11070",
     "name": "Kazmeir Allen",
     "position": "WR",
@@ -12044,13 +12030,6 @@
     "name": "Kyle Markway",
     "position": "TE",
     "team": null,
-    "status": "Active"
-  },
-  {
-    "id": "12494",
-    "name": "Kyle McCord",
-    "position": "QB",
-    "team": "MIA",
     "status": "Active"
   },
   {
@@ -15610,13 +15589,6 @@
     "status": "Active"
   },
   {
-    "id": "13297",
-    "name": "Reggie Virgil",
-    "position": "WR",
-    "team": "ARI",
-    "status": "Active"
-  },
-  {
     "id": "6261",
     "name": "Reggie White",
     "position": "WR",
@@ -16762,13 +16734,6 @@
     "name": "Shea Patterson",
     "position": "QB",
     "team": null,
-    "status": "Active"
-  },
-  {
-    "id": "12524",
-    "name": "Shedeur Sanders",
-    "position": "QB",
-    "team": "CLE",
     "status": "Active"
   },
   {
@@ -18039,6 +18004,13 @@
     "status": "Active"
   },
   {
+    "id": "12497",
+    "name": "Tory Horton",
+    "position": "WR",
+    "team": "SEA",
+    "status": "Active"
+  },
+  {
     "id": "3688",
     "name": "Tra Carson",
     "position": "RB",
@@ -18218,6 +18190,13 @@
     "name": "Tre Watson",
     "position": "TE",
     "team": "MIA",
+    "status": "Active"
+  },
+  {
+    "id": "12509",
+    "name": "Tre' Harris",
+    "position": "WR",
+    "team": "LAC",
     "status": "Active"
   },
   {
