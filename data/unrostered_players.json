@@ -1165,7 +1165,7 @@
     "id": "14080",
     "name": "Barika Kpeenu",
     "position": "RB",
-    "team": "TB",
+    "team": null,
     "status": "Active"
   },
   {
@@ -4679,7 +4679,7 @@
     "id": "4274",
     "name": "David Moore",
     "position": "WR",
-    "team": "CAR",
+    "team": null,
     "status": "Active"
   },
   {
@@ -4714,7 +4714,7 @@
     "id": "6154",
     "name": "David Sills V",
     "position": "WR",
-    "team": "TB",
+    "team": null,
     "status": "Active"
   },
   {
@@ -6618,7 +6618,7 @@
     "id": "13630",
     "name": "Evan Svoboda",
     "position": "TE",
-    "team": "LAC",
+    "team": null,
     "status": "Active"
   },
   {
@@ -7262,7 +7262,7 @@
     "id": "12389",
     "name": "Hayden Rucci",
     "position": "TE",
-    "team": "LAC",
+    "team": null,
     "status": "Active"
   },
   {
@@ -8914,7 +8914,7 @@
     "id": "11569",
     "name": "Jarquez Hunter",
     "position": "RB",
-    "team": "NO",
+    "team": null,
     "status": "Active"
   },
   {
@@ -9124,7 +9124,7 @@
     "id": "12457",
     "name": "Jaydon Blue",
     "position": "RB",
-    "team": "PHI",
+    "team": null,
     "status": "Active"
   },
   {
@@ -9418,7 +9418,7 @@
     "id": "7599",
     "name": "Jermar Jefferson",
     "position": "RB",
-    "team": "ARI",
+    "team": null,
     "status": "Active"
   },
   {
@@ -9796,7 +9796,7 @@
     "id": "8500",
     "name": "John FitzPatrick",
     "position": "TE",
-    "team": "CLE",
+    "team": null,
     "status": "Active"
   },
   {
@@ -14605,7 +14605,7 @@
     "id": "3258",
     "name": "Nick Vannett",
     "position": "TE",
-    "team": "BAL",
+    "team": null,
     "status": "Active"
   },
   {
@@ -14647,7 +14647,7 @@
     "id": "11320",
     "name": "Nikko Remigio",
     "position": "WR",
-    "team": "KC",
+    "team": null,
     "status": "Active"
   },
   {
@@ -14794,7 +14794,7 @@
     "id": "2078",
     "name": "Odell Beckham Jr.",
     "position": "WR",
-    "team": "MIN",
+    "team": null,
     "status": "Active"
   },
   {
@@ -15739,7 +15739,7 @@
     "id": "12851",
     "name": "Rivaldo Fairweather",
     "position": "TE",
-    "team": "ARI",
+    "team": null,
     "status": "Active"
   },
   {

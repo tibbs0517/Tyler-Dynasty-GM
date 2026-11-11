@@ -115,7 +115,6 @@
       "st_ff": 1.0
     },
     "last_message_id": "1426157413483958272",
-    "draft_id": "1326711861202161664",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -124,6 +123,7 @@
     "last_message_text_map": null,
     "last_message_time": 1794384933399,
     "last_pinned_message_id": null,
+    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
@@ -1202,14 +1202,14 @@
       "starters": [
         "1373",
         "7588",
-        "7611",
+        "5892",
         "8148",
-        "4037",
-        "13150",
+        "5947",
+        "5872",
         "12518",
-        "6806",
-        "11624",
-        "12514"
+        "9480",
+        "13274",
+        "96"
       ],
       "taxi": null
     },
