@@ -1358,6 +1358,20 @@
     "gm_score": 93
   },
   {
+    "id": "13333",
+    "name": "Deion Burks",
+    "position": "WR",
+    "team": "IND",
+    "age": 23,
+    "years_exp": 0,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 5,
+    "gm_score": 93
+  },
+  {
     "id": "13294",
     "name": "Makai Lemon",
     "position": "WR",
@@ -1397,6 +1411,20 @@
     "bye_week": null,
     "rostered": true,
     "roster_id": 4,
+    "gm_score": 90
+  },
+  {
+    "id": "11579",
+    "name": "Audric Estime",
+    "position": "RB",
+    "team": "NO",
+    "age": 23,
+    "years_exp": 2,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 5,
     "gm_score": 90
   },
   {
@@ -13692,20 +13720,6 @@
     "gm_score": 73
   },
   {
-    "id": "13333",
-    "name": "Deion Burks",
-    "position": "WR",
-    "team": "IND",
-    "age": 23,
-    "years_exp": 0,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 73
-  },
-  {
     "id": "11962",
     "name": "Tayvion Robinson",
     "position": "WR",
@@ -13962,20 +13976,6 @@
     "name": "Javon Leake",
     "position": "RB",
     "team": null,
-    "age": 23,
-    "years_exp": 2,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 70
-  },
-  {
-    "id": "11579",
-    "name": "Audric Estime",
-    "position": "RB",
-    "team": "NO",
     "age": 23,
     "years_exp": 2,
     "active": true,

@@ -121,7 +121,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 55,
-      "waiver_position": 7,
+      "waiver_position": 6,
       "wins": 5
     },
     "starters": [
@@ -196,7 +196,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 30,
-      "waiver_position": 8,
+      "waiver_position": 7,
       "wins": 3
     },
     "starters": [
@@ -303,6 +303,7 @@
     "player_map": null,
     "players": [
       "10859",
+      "11579",
       "11584",
       "11610",
       "11638",
@@ -312,6 +313,7 @@
       "12533",
       "13285",
       "13305",
+      "13333",
       "13425",
       "3163",
       "4217",
@@ -345,7 +347,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 5,
+      "waiver_position": 10,
       "wins": 5
     },
     "starters": [
@@ -420,7 +422,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 16,
-      "waiver_position": 10,
+      "waiver_position": 9,
       "wins": 7
     },
     "starters": [
@@ -497,7 +499,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 70,
-      "waiver_position": 9,
+      "waiver_position": 8,
       "wins": 6
     },
     "starters": [
@@ -659,7 +661,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 76,
-      "waiver_position": 6,
+      "waiver_position": 5,
       "wins": 5
     },
     "starters": [

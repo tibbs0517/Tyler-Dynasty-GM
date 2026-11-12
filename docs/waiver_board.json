@@ -4459,19 +4459,6 @@
     "roster_id": null
   },
   {
-    "id": "11579",
-    "name": "Audric Estime",
-    "position": "RB",
-    "team": "NO",
-    "age": 23,
-    "years_exp": 2,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
     "id": "4663",
     "name": "Austin Ekeler",
     "position": "RB",
@@ -24108,19 +24095,6 @@
     "team": null,
     "age": 28,
     "years_exp": 5,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
-    "id": "13333",
-    "name": "Deion Burks",
-    "position": "WR",
-    "team": "IND",
-    "age": 23,
-    "years_exp": 0,
     "active": true,
     "injury_status": null,
     "bye_week": null,

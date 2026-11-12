@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-11-12 01:50:44
+Generated: 2026-11-12 09:10:21
 
 ---
 
@@ -9,15 +9,15 @@ Generated: 2026-11-12 01:50:44
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2799
+Available Players: 2797
 
 ---
 
 ## League Activity
 
 Trades: 0
-Waiver Claims: 9
-Free Agent Moves: 3
+Waiver Claims: 3
+Free Agent Moves: 0
 
 ---
 
@@ -25,7 +25,7 @@ Free Agent Moves: 3
 
 Username: tylergratz
 Roster ID: 5
-Players on Roster: 24
+Players on Roster: 26
 
 ---
 
@@ -37,35 +37,20 @@ No trades.
 
 ## Top Waiver Claims
 
-- Corey Kiner → SammyA
-- Shedeur Sanders → SammyA
-- Reggie Virgil → HebrewsHeroes
-- Kyle McCord → tylerhjensen
-- Kayshon Boutte → HebrewsHeroes
-- Corey Kiner → HebrewsHeroes
-- Corey Kiner → jaredgratz
-- DJ Giddens → jmikolay
-- Drew Lock → tylergratz
+- Deion Burks → tylergratz
+- Audric Estime → tylergratz
+- Audric Estime → jmikolay
 
 ---
 
 ## Recently Dropped Players
 
-- Tory Horton
-- Jaleel McLaughlin
-- Tre' Harris
-- Tanner McKee
-- Dameon Pierce
 
 ---
 
 ## Most Active Managers
 
-- HebrewsHeroes: 3 moves
-- tylergratz: 3 moves
-- SammyA: 2 moves
-- tylerhjensen: 2 moves
-- jaredgratz: 1 moves
+- tylergratz: 2 moves
 - jmikolay: 1 moves
 
 ---
