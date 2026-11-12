@@ -64,10 +64,6 @@
     },
     "avatar": null,
     "company_id": null,
-    "shard": 470,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -114,6 +110,10 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "shard": 470,
     "last_message_id": "1426157413483958272",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -123,8 +123,8 @@
     "last_message_text_map": null,
     "last_message_time": 1794384933399,
     "last_pinned_message_id": null,
-    "draft_id": "1326711861202161664",
     "last_read_id": null,
+    "draft_id": "1326711861202161664",
     "league_id": "1326711861197938688",
     "previous_league_id": "1228352285197746179",
     "bracket_id": null,
@@ -825,12 +825,12 @@
         "9224",
         "11586",
         "9488",
-        "10213",
+        "11637",
         "13276",
         "12506",
         "12474",
         "12512",
-        "0"
+        "12494"
       ],
       "taxi": null
     },

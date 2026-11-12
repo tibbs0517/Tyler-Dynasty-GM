@@ -13862,7 +13862,7 @@
   "13058": {
     "name": "Cam Horsley",
     "position": "DT",
-    "team": null,
+    "team": "CAR",
     "status": "Active",
     "active": true
   },
@@ -27099,7 +27099,7 @@
   "8285": {
     "name": "Josh Ross",
     "position": "LB",
-    "team": null,
+    "team": "MIN",
     "status": "Active",
     "active": true
   },
@@ -45635,7 +45635,7 @@
   "3258": {
     "name": "Nick Vannett",
     "position": "TE",
-    "team": null,
+    "team": "BAL",
     "status": "Active",
     "active": true
   },
@@ -49142,7 +49142,7 @@
   "2078": {
     "name": "Odell Beckham Jr.",
     "position": "WR",
-    "team": null,
+    "team": "MIN",
     "status": "Active",
     "active": true
   },
@@ -56492,7 +56492,7 @@
   "4274": {
     "name": "David Moore",
     "position": "WR",
-    "team": null,
+    "team": "CAR",
     "status": "Active",
     "active": true
   },
@@ -61812,8 +61812,8 @@
   "8480": {
     "name": "Jamaree Salyer",
     "position": "OL",
-    "team": null,
-    "status": "Inactive",
+    "team": "ARI",
+    "status": "Active",
     "active": true
   },
   "5116": {
@@ -65893,7 +65893,7 @@
   "12938": {
     "name": "Jackson Meeks",
     "position": "TE",
-    "team": null,
+    "team": "DET",
     "status": "Active",
     "active": true
   },
@@ -67741,7 +67741,7 @@
   "10976": {
     "name": "Kyu Blu Kelly",
     "position": "CB",
-    "team": null,
+    "team": "LAC",
     "status": "Active",
     "active": true
   },
@@ -71906,7 +71906,7 @@
   "12856": {
     "name": "Zion Childress",
     "position": "DB",
-    "team": null,
+    "team": "LAC",
     "status": "Active",
     "active": true
   },
@@ -79809,7 +79809,7 @@
   "13827": {
     "name": "Tanner Arkin",
     "position": "TE",
-    "team": null,
+    "team": "NE",
     "status": "Active",
     "active": true
   },
@@ -82952,7 +82952,7 @@
   "13949": {
     "name": "Damon Bankston",
     "position": "RB",
-    "team": null,
+    "team": "MIN",
     "status": "Active",
     "active": true
   },

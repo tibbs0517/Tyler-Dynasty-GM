@@ -4175,7 +4175,7 @@
     "id": "13949",
     "name": "Damon Bankston",
     "position": "RB",
-    "team": null,
+    "team": "MIN",
     "status": "Active"
   },
   {
@@ -4679,7 +4679,7 @@
     "id": "4274",
     "name": "David Moore",
     "position": "WR",
-    "team": null,
+    "team": "CAR",
     "status": "Active"
   },
   {
@@ -7934,7 +7934,7 @@
     "id": "12938",
     "name": "Jackson Meeks",
     "position": "TE",
-    "team": null,
+    "team": "DET",
     "status": "Active"
   },
   {
@@ -14605,7 +14605,7 @@
     "id": "3258",
     "name": "Nick Vannett",
     "position": "TE",
-    "team": null,
+    "team": "BAL",
     "status": "Active"
   },
   {
@@ -14794,7 +14794,7 @@
     "id": "2078",
     "name": "Odell Beckham Jr.",
     "position": "WR",
-    "team": null,
+    "team": "MIN",
     "status": "Active"
   },
   {
@@ -17286,7 +17286,7 @@
     "id": "13827",
     "name": "Tanner Arkin",
     "position": "TE",
-    "team": null,
+    "team": "NE",
     "status": "Active"
   },
   {
