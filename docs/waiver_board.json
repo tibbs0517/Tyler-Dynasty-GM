@@ -9009,6 +9009,19 @@
     "roster_id": null
   },
   {
+    "id": "11581",
+    "name": "MarShawn Lloyd",
+    "position": "RB",
+    "team": "GB",
+    "age": 25,
+    "years_exp": 2,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
     "id": "6700",
     "name": "Marcelias Sutton",
     "position": "RB",
@@ -25639,7 +25652,7 @@
     "id": "6045",
     "name": "Gary Jennings",
     "position": "WR",
-    "team": "LAC",
+    "team": null,
     "age": 29,
     "years_exp": 7,
     "active": true,

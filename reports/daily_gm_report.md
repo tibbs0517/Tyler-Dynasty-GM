@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-11-12 09:10:21
+Generated: 2026-11-12 17:52:37
 
 ---
 
@@ -9,7 +9,7 @@ Generated: 2026-11-12 09:10:21
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2797
+Available Players: 2798
 
 ---
 
@@ -17,7 +17,7 @@ Available Players: 2797
 
 Trades: 0
 Waiver Claims: 3
-Free Agent Moves: 0
+Free Agent Moves: 1
 
 ---
 
@@ -45,12 +45,14 @@ No trades.
 
 ## Recently Dropped Players
 
+- MarShawn Lloyd
 
 ---
 
 ## Most Active Managers
 
 - tylergratz: 2 moves
+- HebrewsHeroes: 1 moves
 - jmikolay: 1 moves
 
 ---

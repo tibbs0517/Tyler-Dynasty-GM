@@ -6988,7 +6988,7 @@
   "6045": {
     "name": "Gary Jennings",
     "position": "WR",
-    "team": "LAC",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -13295,7 +13295,7 @@
   "13049": {
     "name": "Alijah Huzzie",
     "position": "DB",
-    "team": null,
+    "team": "JAX",
     "status": "Active",
     "active": true
   },
@@ -56121,7 +56121,7 @@
   "10914": {
     "name": "Daiyan Henley",
     "position": "LB",
-    "team": "DEN",
+    "team": "LAC",
     "status": "Active",
     "active": true
   },
@@ -79137,7 +79137,7 @@
   "12015": {
     "name": "Harrison Mevis",
     "position": "K",
-    "team": null,
+    "team": "BAL",
     "status": "Active",
     "active": true
   },
@@ -85010,7 +85010,7 @@
   "7922": {
     "name": "Riley Patterson",
     "position": "K",
-    "team": null,
+    "team": "BAL",
     "status": "Active",
     "active": true
   },

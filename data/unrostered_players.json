@@ -6856,7 +6856,7 @@
     "id": "6045",
     "name": "Gary Jennings",
     "position": "WR",
-    "team": "LAC",
+    "team": null,
     "status": "Active"
   },
   {
@@ -12933,6 +12933,13 @@
     "name": "Mante Morrow",
     "position": "WR",
     "team": null,
+    "status": "Active"
+  },
+  {
+    "id": "11581",
+    "name": "MarShawn Lloyd",
+    "position": "RB",
+    "team": "GB",
     "status": "Active"
   },
   {
