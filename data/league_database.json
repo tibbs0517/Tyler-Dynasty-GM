@@ -748,12 +748,12 @@
       "starters": [
         "6804",
         "12490",
-        "4866",
-        "9493",
+        "12491",
+        "8676",
         "12526",
         "9997",
         "8130",
-        "1479",
+        "13286",
         "13346",
         "8167"
       ],
@@ -823,7 +823,7 @@
       "starters": [
         "4984",
         "12481",
-        "12474",
+        "12512",
         "9488",
         "11637",
         "13276",
@@ -29841,7 +29841,7 @@
       "name": "Puka Nacua",
       "position": "WR",
       "team": "LAR",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "106": {
@@ -73359,7 +73359,7 @@
     "9490": {
       "name": "Tyler Scott",
       "position": "WR",
-      "team": null,
+      "team": "LAR",
       "status": "Active",
       "active": true
     },
@@ -105793,7 +105793,7 @@
       "id": "9490",
       "name": "Tyler Scott",
       "position": "WR",
-      "team": null,
+      "team": "LAR",
       "status": "Active"
     },
     {

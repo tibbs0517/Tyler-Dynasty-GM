@@ -28465,7 +28465,7 @@
     "name": "Puka Nacua",
     "position": "WR",
     "team": "LAR",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "106": {
@@ -71983,7 +71983,7 @@
   "9490": {
     "name": "Tyler Scott",
     "position": "WR",
-    "team": null,
+    "team": "LAR",
     "status": "Active",
     "active": true
   },
