@@ -13268,7 +13268,7 @@
     "id": "5848",
     "name": "Marquise Brown",
     "position": "WR",
-    "team": "PHI",
+    "team": null,
     "status": "Active"
   },
   {
@@ -15107,7 +15107,7 @@
   },
   {
     "id": "2334",
-    "name": "Phillip Dorsett II",
+    "name": "Phillip Dorsett",
     "position": "WR",
     "team": "ARI",
     "status": "Active"

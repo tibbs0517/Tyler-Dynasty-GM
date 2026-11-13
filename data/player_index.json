@@ -23662,7 +23662,7 @@
   "13678": {
     "name": "Jack Pyburn",
     "position": "DE",
-    "team": null,
+    "team": "KC",
     "status": "Active",
     "active": true
   },
@@ -23718,7 +23718,7 @@
   "11121": {
     "name": "AJ Finley",
     "position": "DB",
-    "team": "SEA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -41575,7 +41575,7 @@
   "5848": {
     "name": "Marquise Brown",
     "position": "WR",
-    "team": "PHI",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -84469,7 +84469,7 @@
     "active": false
   },
   "2334": {
-    "name": "Phillip Dorsett II",
+    "name": "Phillip Dorsett",
     "position": "WR",
     "team": "ARI",
     "status": "Active",
