@@ -60,7 +60,7 @@
       "daily_waivers_base": 4,
       "reserve_slots": 4,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 12
+      "daily_waivers_last_ran": 13
     },
     "avatar": null,
     "company_id": null,
@@ -69,6 +69,7 @@
     "season": "2026",
     "season_type": "regular",
     "sport": "nfl",
+    "last_message_id": "1426879646124765184",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -115,17 +116,16 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1426639830145568768",
-    "draft_id": "1326711861202161664",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1794499950495,
+    "last_message_time": 1794557127079,
     "last_pinned_message_id": null,
     "last_read_id": null,
+    "draft_id": "1326711861202161664",
     "previous_league_id": "1228352285197746179",
     "bracket_id": null,
     "bracket_overrides_id": null,
@@ -968,7 +968,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 5
       },
       "starters": [
@@ -1001,12 +1001,12 @@
       "player_map": null,
       "players": [
         "10232",
-        "11435",
         "11565",
         "11632",
         "11729",
         "12495",
         "12524",
+        "13270",
         "13414",
         "13424",
         "2133",
@@ -1042,8 +1042,8 @@
         "ppts_decimal": 80,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 16,
-        "waiver_position": 9,
+        "waiver_budget_used": 17,
+        "waiver_position": 10,
         "wins": 7
       },
       "starters": [

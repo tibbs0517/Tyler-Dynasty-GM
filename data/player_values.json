@@ -644,6 +644,20 @@
     "gm_score": 93
   },
   {
+    "id": "13270",
+    "name": "CJ Daniels",
+    "position": "WR",
+    "team": "LAR",
+    "age": 24,
+    "years_exp": 0,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 6,
+    "gm_score": 93
+  },
+  {
     "id": "9488",
     "name": "Jaxon Smith-Njigba",
     "position": "WR",
@@ -4368,20 +4382,6 @@
     "gm_score": 80
   },
   {
-    "id": "11435",
-    "name": "Emanuel Wilson",
-    "position": "RB",
-    "team": "SEA",
-    "age": 27,
-    "years_exp": 3,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 6,
-    "gm_score": 80
-  },
-  {
     "id": "5228",
     "name": "J.T. Barrett",
     "position": "QB",
@@ -7341,20 +7341,6 @@
     "position": "WR",
     "team": "JAX",
     "age": 23,
-    "years_exp": 0,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 73
-  },
-  {
-    "id": "13270",
-    "name": "CJ Daniels",
-    "position": "WR",
-    "team": "LAR",
-    "age": 24,
     "years_exp": 0,
     "active": true,
     "injury_status": null,
@@ -28342,6 +28328,20 @@
     "team": null,
     "age": null,
     "years_exp": 0,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 60
+  },
+  {
+    "id": "11435",
+    "name": "Emanuel Wilson",
+    "position": "RB",
+    "team": "SEA",
+    "age": 27,
+    "years_exp": 3,
     "active": true,
     "injury_status": null,
     "bye_week": null,

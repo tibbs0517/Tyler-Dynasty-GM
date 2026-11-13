@@ -2268,13 +2268,6 @@
     "status": "Active"
   },
   {
-    "id": "13270",
-    "name": "CJ Daniels",
-    "position": "WR",
-    "team": "LAR",
-    "status": "Active"
-  },
-  {
     "id": "12984",
     "name": "CJ Dippre",
     "position": "TE",
@@ -6375,6 +6368,13 @@
     "position": "WR",
     "team": null,
     "status": "Inactive"
+  },
+  {
+    "id": "11435",
+    "name": "Emanuel Wilson",
+    "position": "RB",
+    "team": "SEA",
+    "status": "Active"
   },
   {
     "id": "11199",

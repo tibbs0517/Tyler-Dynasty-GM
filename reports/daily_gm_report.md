@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-11-13 04:48:53
+Generated: 2026-11-13 12:49:11
 
 ---
 
@@ -16,7 +16,7 @@ Available Players: 2798
 ## League Activity
 
 Trades: 0
-Waiver Claims: 3
+Waiver Claims: 6
 Free Agent Moves: 1
 
 ---
@@ -37,6 +37,9 @@ No trades.
 
 ## Top Waiver Claims
 
+- CJ Daniels → SammyA
+- Mack Hollins → SammyA
+- CJ Daniels → HebrewsHeroes
 - Deion Burks → tylergratz
 - Audric Estime → tylergratz
 - Audric Estime → jmikolay
@@ -45,14 +48,16 @@ No trades.
 
 ## Recently Dropped Players
 
+- Emanuel Wilson
 - MarShawn Lloyd
 
 ---
 
 ## Most Active Managers
 
+- SammyA: 2 moves
+- HebrewsHeroes: 2 moves
 - tylergratz: 2 moves
-- HebrewsHeroes: 1 moves
 - jmikolay: 1 moves
 
 ---

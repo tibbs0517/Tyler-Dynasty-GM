@@ -6591,6 +6591,19 @@
     "roster_id": null
   },
   {
+    "id": "11435",
+    "name": "Emanuel Wilson",
+    "position": "RB",
+    "team": "SEA",
+    "age": 27,
+    "years_exp": 3,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
     "id": "11199",
     "name": "Emari Demercado",
     "position": "RB",
@@ -21807,19 +21820,6 @@
     "team": null,
     "age": 25,
     "years_exp": 3,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
-    "id": "13270",
-    "name": "CJ Daniels",
-    "position": "WR",
-    "team": "LAR",
-    "age": 24,
-    "years_exp": 0,
     "active": true,
     "injury_status": null,
     "bye_week": null,
