@@ -248,7 +248,7 @@
     "name": "Jake Hummel",
     "position": "LB",
     "team": "HOU",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "13221": {
@@ -2040,7 +2040,7 @@
     "name": "Mo Alie-Cox",
     "position": "TE",
     "team": "IND",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "1450": {
@@ -7444,7 +7444,7 @@
     "name": "Michael Burton",
     "position": "FB",
     "team": "CLE",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "12593": {
@@ -32035,7 +32035,7 @@
     "name": "Jonathan Bullard",
     "position": "DE",
     "team": "DAL",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "7379": {
@@ -40505,7 +40505,7 @@
     "name": "Tyler Goodson",
     "position": "RB",
     "team": "DAL",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "247": {
@@ -49689,7 +49689,7 @@
     "name": "Arden Key",
     "position": "DE",
     "team": "IND",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "8105": {
@@ -53336,7 +53336,7 @@
     "name": "Travis Etienne Jr.",
     "position": "RB",
     "team": "NO",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "12217": {
@@ -61694,7 +61694,7 @@
     "name": "Xavier Legette",
     "position": "WR",
     "team": "CAR",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "4146": {
@@ -61834,7 +61834,7 @@
     "name": "Akeem Davis-Gaither",
     "position": "LB",
     "team": "IND",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "1320": {
@@ -76015,7 +76015,7 @@
   "6024": {
     "name": "Fred Johnson",
     "position": "T",
-    "team": "PHI",
+    "team": null,
     "status": "Active",
     "active": true
   },
