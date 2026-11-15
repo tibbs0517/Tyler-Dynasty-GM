@@ -1395,7 +1395,7 @@
   "11512": {
     "name": "Tyrus Wheat",
     "position": "DE",
-    "team": "DAL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -19868,7 +19868,7 @@
   "7607": {
     "name": "Michael Carter",
     "position": "RB",
-    "team": "TEN",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -28961,7 +28961,7 @@
   "13860": {
     "name": "Sabastian Harsh",
     "position": "DE",
-    "team": "HOU",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -33182,7 +33182,7 @@
   "10972": {
     "name": "Terell Smith",
     "position": "DB",
-    "team": "PIT",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -49891,7 +49891,7 @@
   "12829": {
     "name": "Coleman Owen",
     "position": "WR",
-    "team": "GB",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -56317,7 +56317,7 @@
   "12429": {
     "name": "Kohl Levao",
     "position": "OL",
-    "team": "NYJ",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -70380,7 +70380,7 @@
   "12380": {
     "name": "Te'Cory Couch",
     "position": "CB",
-    "team": "BUF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -80943,7 +80943,7 @@
   "13861": {
     "name": "Daniel Sobkowicz",
     "position": "WR",
-    "team": "HOU",
+    "team": null,
     "status": "Active",
     "active": true
   },

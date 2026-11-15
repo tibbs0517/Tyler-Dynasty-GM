@@ -3510,7 +3510,7 @@
     "id": "12829",
     "name": "Coleman Owen",
     "position": "WR",
-    "team": "GB",
+    "team": null,
     "status": "Active"
   },
   {
@@ -4294,7 +4294,7 @@
     "id": "13861",
     "name": "Daniel Sobkowicz",
     "position": "WR",
-    "team": "HOU",
+    "team": null,
     "status": "Active"
   },
   {
@@ -13758,7 +13758,7 @@
     "id": "7607",
     "name": "Michael Carter",
     "position": "RB",
-    "team": "TEN",
+    "team": null,
     "status": "Active"
   },
   {
