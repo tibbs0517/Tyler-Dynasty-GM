@@ -65,10 +65,10 @@
     "avatar": null,
     "company_id": null,
     "league_id": "1326711861197938688",
-    "shard": 470,
-    "season": "2026",
-    "season_type": "regular",
     "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 470,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -115,14 +115,14 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1427010659400314880",
-    "last_author_avatar": "5465a43bf96c8b16dc460cbf1b67e29c",
-    "last_author_display_name": "AnthonyJania",
-    "last_author_id": "353394136252092416",
+    "last_message_id": "1427530791537106944",
+    "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
+    "last_author_display_name": "HebrewsHeroes",
+    "last_author_id": "434689597088198656",
     "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1794588363081,
+    "last_message_time": 1794712372244,
     "last_pinned_message_id": null,
     "draft_id": "1326711861202161664",
     "last_read_id": null,
@@ -683,7 +683,7 @@
         "2449",
         "3214",
         "8228",
-        "12634",
+        "7021",
         "5870"
       ],
       "taxi": null
@@ -823,7 +823,7 @@
       "starters": [
         "4984",
         "12481",
-        "12512",
+        "12474",
         "9488",
         "9502",
         "13276",
@@ -1020,7 +1020,6 @@
         "5967",
         "7553",
         "8131",
-        "8132",
         "8144",
         "8150",
         "9225",
@@ -1172,7 +1171,7 @@
         "7588",
         "7611",
         "8121",
-        "8135",
+        "8132",
         "8142",
         "8148",
         "9480",
@@ -1202,7 +1201,7 @@
       "starters": [
         "1373",
         "7588",
-        "5892",
+        "8132",
         "8148",
         "5947",
         "5872",
@@ -1342,6 +1341,7 @@
       "reserve": [
         "11618",
         "12534",
+        "13279",
         "7526"
       ],
       "roster_id": 10,
@@ -1368,7 +1368,7 @@
         "11635",
         "11604",
         "6130",
-        "13281",
+        "5859",
         "9758"
       ],
       "taxi": null
@@ -1559,6 +1559,13 @@
     },
     {
       "round": 1,
+      "season": "2027",
+      "roster_id": 8,
+      "owner_id": 6,
+      "previous_owner_id": 8
+    },
+    {
+      "round": 3,
       "season": "2027",
       "roster_id": 8,
       "owner_id": 6,

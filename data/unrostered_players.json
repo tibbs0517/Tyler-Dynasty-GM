@@ -13629,6 +13629,13 @@
     "status": "Active"
   },
   {
+    "id": "13200",
+    "name": "Max Hurleman",
+    "position": "WR",
+    "team": "PIT",
+    "status": "Active"
+  },
+  {
     "id": "13278",
     "name": "Max Klare",
     "position": "TE",
@@ -18450,6 +18457,13 @@
     "position": "RB",
     "team": "ATL",
     "status": "Inactive"
+  },
+  {
+    "id": "8135",
+    "name": "Treylon Burks",
+    "position": "WR",
+    "team": "WAS",
+    "status": "Active"
   },
   {
     "id": "12320",

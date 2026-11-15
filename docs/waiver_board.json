@@ -6455,7 +6455,7 @@
     "age": 24,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -31642,6 +31642,19 @@
     "roster_id": null
   },
   {
+    "id": "13200",
+    "name": "Max Hurleman",
+    "position": "WR",
+    "team": "PIT",
+    "age": 25,
+    "years_exp": 1,
+    "active": true,
+    "injury_status": "Out",
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
     "id": "13698",
     "name": "Max Tomczak",
     "position": "WR",
@@ -35392,6 +35405,19 @@
     "team": null,
     "age": 27,
     "years_exp": 5,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
+    "id": "8135",
+    "name": "Treylon Burks",
+    "position": "WR",
+    "team": "WAS",
+    "age": 26,
+    "years_exp": 4,
     "active": true,
     "injury_status": null,
     "bye_week": null,

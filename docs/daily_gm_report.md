@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-11-15 00:40:22
+Generated: 2026-11-15 07:29:03
 
 ---
 
@@ -9,15 +9,15 @@ Generated: 2026-11-15 00:40:22
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2798
+Available Players: 2800
 
 ---
 
 ## League Activity
 
-Trades: 0
+Trades: 1
 Waiver Claims: 6
-Free Agent Moves: 1
+Free Agent Moves: 2
 
 ---
 
@@ -31,7 +31,7 @@ Players on Roster: 26
 
 ## Recent Trades
 
-No trades.
+- SammyA ↔ HoNeYmOOnBaBy
 
 ---
 
@@ -48,6 +48,8 @@ No trades.
 
 ## Recently Dropped Players
 
+- Treylon Burks
+- Tyler Allgeier
 - Emanuel Wilson
 - MarShawn Lloyd
 
@@ -55,7 +57,8 @@ No trades.
 
 ## Most Active Managers
 
-- SammyA: 2 moves
+- SammyA: 3 moves
+- HoNeYmOOnBaBy: 2 moves
 - HebrewsHeroes: 2 moves
 - tylergratz: 2 moves
 - jmikolay: 1 moves

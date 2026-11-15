@@ -1816,7 +1816,7 @@
     "name": "VJ Payne",
     "position": "DB",
     "team": "NYJ",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "3837": {
@@ -82650,7 +82650,7 @@
   },
   "13200": {
     "name": "Max Hurleman",
-    "position": "CB",
+    "position": "WR",
     "team": "PIT",
     "status": "Active",
     "active": true

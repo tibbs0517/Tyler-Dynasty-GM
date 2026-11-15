@@ -43052,8 +43052,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": true,
-    "roster_id": 8
+    "rostered": false,
+    "roster_id": null
   },
   "8683": {
     "id": "8683",
@@ -47564,7 +47564,7 @@
     "injury_status": null,
     "bye_week": null,
     "rostered": true,
-    "roster_id": 6
+    "roster_id": 8
   },
   "991": {
     "id": "991",
@@ -141863,7 +141863,7 @@
     "age": 24,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -153493,7 +153493,7 @@
   "13200": {
     "id": "13200",
     "name": "Max Hurleman",
-    "position": "CB",
+    "position": "WR",
     "team": "PIT",
     "age": 25,
     "years_exp": 1,
