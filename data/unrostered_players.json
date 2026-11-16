@@ -10759,13 +10759,6 @@
     "status": "Active"
   },
   {
-    "id": "5995",
-    "name": "Justice Hill",
-    "position": "RB",
-    "team": "BAL",
-    "status": "Active"
-  },
-  {
     "id": "4831",
     "name": "Justice Liggins",
     "position": "WR",
@@ -15586,6 +15579,13 @@
     "name": "Reggie Roberson",
     "position": "WR",
     "team": null,
+    "status": "Active"
+  },
+  {
+    "id": "13297",
+    "name": "Reggie Virgil",
+    "position": "WR",
+    "team": "ARI",
     "status": "Active"
   },
   {

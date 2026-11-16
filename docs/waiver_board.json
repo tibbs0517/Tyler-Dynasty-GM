@@ -8125,19 +8125,6 @@
     "roster_id": null
   },
   {
-    "id": "5995",
-    "name": "Justice Hill",
-    "position": "RB",
-    "team": "BAL",
-    "age": 29,
-    "years_exp": 7,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
     "id": "5398",
     "name": "Justin Crawford",
     "position": "RB",
@@ -33143,6 +33130,19 @@
     "team": null,
     "age": 24,
     "years_exp": 1,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
+    "id": "13297",
+    "name": "Reggie Virgil",
+    "position": "WR",
+    "team": "ARI",
+    "age": 22,
+    "years_exp": 0,
     "active": true,
     "injury_status": null,
     "bye_week": null,

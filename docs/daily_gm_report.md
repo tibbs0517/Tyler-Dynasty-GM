@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-11-16 07:34:47
+Generated: 2026-11-16 17:50:50
 
 ---
 
@@ -16,7 +16,7 @@ Available Players: 2800
 ## League Activity
 
 Trades: 1
-Waiver Claims: 6
+Waiver Claims: 7
 Free Agent Moves: 2
 
 ---
@@ -37,6 +37,7 @@ Players on Roster: 26
 
 ## Top Waiver Claims
 
+- Justice Hill → HebrewsHeroes
 - CJ Daniels → SammyA
 - Mack Hollins → SammyA
 - CJ Daniels → HebrewsHeroes
@@ -48,6 +49,7 @@ Players on Roster: 26
 
 ## Recently Dropped Players
 
+- Reggie Virgil
 - Treylon Burks
 - Tyler Allgeier
 - Emanuel Wilson
@@ -57,9 +59,9 @@ Players on Roster: 26
 
 ## Most Active Managers
 
+- HebrewsHeroes: 3 moves
 - SammyA: 3 moves
 - HoNeYmOOnBaBy: 2 moves
-- HebrewsHeroes: 2 moves
 - tylergratz: 2 moves
 - jmikolay: 1 moves
 
