@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-11-17 10:03:46
+Generated: 2026-11-17 19:32:43
 
 ---
 
@@ -9,7 +9,7 @@ Generated: 2026-11-17 10:03:46
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2800
+Available Players: 2801
 
 ---
 
@@ -17,7 +17,7 @@ Available Players: 2800
 
 Trades: 1
 Waiver Claims: 7
-Free Agent Moves: 2
+Free Agent Moves: 3
 
 ---
 
@@ -49,6 +49,7 @@ Players on Roster: 26
 
 ## Recently Dropped Players
 
+- Daniel Jones
 - Reggie Virgil
 - Treylon Burks
 - Tyler Allgeier
@@ -63,6 +64,7 @@ Players on Roster: 26
 - SammyA: 3 moves
 - HoNeYmOOnBaBy: 2 moves
 - tylergratz: 2 moves
+- AnthonyJania: 1 moves
 - jmikolay: 1 moves
 
 ---

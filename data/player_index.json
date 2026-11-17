@@ -4860,7 +4860,7 @@
   "12877": {
     "name": "Brandon Johnson",
     "position": "DB",
-    "team": "TB",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -4923,7 +4923,7 @@
   "13563": {
     "name": "Deven Eastern",
     "position": "DT",
-    "team": "SEA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -5770,7 +5770,7 @@
   "10228": {
     "name": "Charlie Jones",
     "position": "WR",
-    "team": "NYG",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -6904,7 +6904,7 @@
   "11721": {
     "name": "Bralen Trice",
     "position": "DE",
-    "team": "LV",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -12539,7 +12539,7 @@
   "8500": {
     "name": "John FitzPatrick",
     "position": "TE",
-    "team": null,
+    "team": "KC",
     "status": "Active",
     "active": true
   },
@@ -12617,7 +12617,7 @@
     "name": "Azeez Al-Shaair",
     "position": "LB",
     "team": "HOU",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3176": {
@@ -24047,7 +24047,7 @@
   "4233": {
     "name": "Zane Gonzalez",
     "position": "K",
-    "team": "MIA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -28961,7 +28961,7 @@
   "13860": {
     "name": "Sabastian Harsh",
     "position": "DE",
-    "team": null,
+    "team": "HOU",
     "status": "Active",
     "active": true
   },
@@ -35156,7 +35156,7 @@
   "13829": {
     "name": "David Blay Jr.",
     "position": "DT",
-    "team": "GB",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -36360,7 +36360,7 @@
   "12838": {
     "name": "Nikko Reed",
     "position": "DB",
-    "team": "NYG",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -45019,7 +45019,7 @@
   "7830": {
     "name": "Shaun Wade",
     "position": "CB",
-    "team": "PHI",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -67356,7 +67356,7 @@
   "11160": {
     "name": "Nick Whiteside",
     "position": "CB",
-    "team": "DET",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -71367,7 +71367,7 @@
   "10973": {
     "name": "Nick Hampton",
     "position": "LB",
-    "team": "CAR",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -73481,7 +73481,7 @@
   "12035": {
     "name": "Jamree Kromah",
     "position": "DL",
-    "team": "MIA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -76176,7 +76176,7 @@
   "13011": {
     "name": "Brennan Presley",
     "position": "WR",
-    "team": "LAR",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -76386,8 +76386,8 @@
   "13778": {
     "name": "EJ Smith",
     "position": "RB",
-    "team": null,
-    "status": "Inactive",
+    "team": "KC",
+    "status": "Active",
     "active": true
   },
   "12510": {
@@ -79907,7 +79907,7 @@
   "13652": {
     "name": "Jalen Hunt",
     "position": "DL",
-    "team": "LAR",
+    "team": null,
     "status": "Active",
     "active": true
   },

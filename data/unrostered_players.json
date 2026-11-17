@@ -1795,7 +1795,7 @@
     "id": "13011",
     "name": "Brennan Presley",
     "position": "WR",
-    "team": "LAR",
+    "team": null,
     "status": "Active"
   },
   {
@@ -2866,7 +2866,7 @@
     "id": "10228",
     "name": "Charlie Jones",
     "position": "WR",
-    "team": "NYG",
+    "team": null,
     "status": "Active"
   },
   {
@@ -4281,6 +4281,13 @@
     "name": "Daniel Jackson",
     "position": "WR",
     "team": null,
+    "status": "Active"
+  },
+  {
+    "id": "5870",
+    "name": "Daniel Jones",
+    "position": "QB",
+    "team": "IND",
     "status": "Active"
   },
   {
@@ -6163,8 +6170,8 @@
     "id": "13778",
     "name": "EJ Smith",
     "position": "RB",
-    "team": null,
-    "status": "Inactive"
+    "team": "KC",
+    "status": "Active"
   },
   {
     "id": "7334",
@@ -9782,7 +9789,7 @@
     "id": "8500",
     "name": "John FitzPatrick",
     "position": "TE",
-    "team": null,
+    "team": "KC",
     "status": "Active"
   },
   {

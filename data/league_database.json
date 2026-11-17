@@ -9,7 +9,7 @@
     },
     "settings": {
       "best_ball": 0,
-      "last_report": 9,
+      "last_report": 10,
       "waiver_budget": 100,
       "disable_adds": 0,
       "capacity_override": 0,
@@ -65,10 +65,6 @@
     "avatar": null,
     "company_id": null,
     "league_id": "1326711861197938688",
-    "shard": 470,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -115,14 +111,18 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1428173506234826752",
-    "last_author_avatar": "5465a43bf96c8b16dc460cbf1b67e29c",
-    "last_author_display_name": "AnthonyJania",
-    "last_author_id": "353394136252092416",
-    "last_author_is_bot": false,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "shard": 470,
+    "last_message_id": "1428485895442427904",
+    "last_author_avatar": null,
+    "last_author_display_name": "sys",
+    "last_author_id": "166666666666666666",
+    "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1794865607372,
+    "last_message_time": 1794940086760,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "draft_id": "1326711861202161664",
@@ -151,9 +151,9 @@
       "BN",
       "BN"
     ],
-    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -198,7 +198,7 @@
         "transaction_waiver": "on",
         "mascot_item_type_id_leg_15": "chicago-bears",
         "mascot_message_emotion_leg_1": "idle_happy",
-        "team_name": "Kiss my Boutte",
+        "team_name": "Sunshine\u2019s Penix",
         "mascot_item_type_id_leg_8": "chicago-bears",
         "avatar": "https://sleepercdn.com/uploads/b473828fdbd5d88031634fe7895cf350.jpg",
         "mascot_item_type_id_leg_16": "chicago-bears",
@@ -643,7 +643,6 @@
         "3214",
         "3257",
         "4034",
-        "5870",
         "7021",
         "7594",
         "8134",
@@ -684,7 +683,7 @@
         "3214",
         "8228",
         "7021",
-        "5870"
+        "0"
       ],
       "taxi": null
     },
@@ -727,7 +726,6 @@
       "reserve": [
         "13417",
         "6904",
-        "7543",
         "8205"
       ],
       "roster_id": 2,
@@ -746,16 +744,16 @@
         "wins": 5
       },
       "starters": [
-        "6804",
+        "12522",
         "12490",
-        "12491",
-        "8676",
+        "4866",
+        "1479",
         "12526",
         "9997",
         "8130",
-        "13286",
-        "13346",
-        "8167"
+        "7543",
+        "7567",
+        "11647"
       ],
       "taxi": null
     },
@@ -954,7 +952,7 @@
         "11638",
         "12508",
         "12533",
-        "7525"
+        "7049"
       ],
       "roster_id": 5,
       "settings": {
@@ -974,14 +972,14 @@
       "starters": [
         "3163",
         "8138",
-        "11579",
+        "11584",
         "4983",
         "11610",
-        "9501",
+        "7525",
         "4217",
         "9756",
         "10859",
-        "5854"
+        "5844"
       ],
       "taxi": null
     },
@@ -1222,13 +1220,11 @@
         "allow_pn_scoring": "on",
         "p_nick_1817": "Trade bait",
         "p_nick_2449": "Luke Skywalker (aka my only hope)",
-        "p_nick_3198": "On the block ",
-        "p_nick_4034": "",
-        "p_nick_4037": "Antonio\u2019s Daddy ",
-        "p_nick_421": "Andy let me know when you want to trade ",
+        "p_nick_3198": "On the block",
+        "p_nick_4037": "Antonio\u2019s Daddy",
+        "p_nick_421": "Andy let me know when you want to trade",
         "p_nick_4217": "On the block",
-        "p_nick_5849": "Dead to me ",
-        "p_nick_5850": "",
+        "p_nick_5849": "Dead to me",
         "p_nick_745": "Keeper",
         "record": "WLWWLWWLLL",
         "restrict_pn_scoring_starters_only": "on",
@@ -6237,7 +6233,7 @@
     "12877": {
       "name": "Brandon Johnson",
       "position": "DB",
-      "team": "TB",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -6300,7 +6296,7 @@
     "13563": {
       "name": "Deven Eastern",
       "position": "DT",
-      "team": "SEA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -7147,7 +7143,7 @@
     "10228": {
       "name": "Charlie Jones",
       "position": "WR",
-      "team": "NYG",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -8281,7 +8277,7 @@
     "11721": {
       "name": "Bralen Trice",
       "position": "DE",
-      "team": "LV",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -13916,7 +13912,7 @@
     "8500": {
       "name": "John FitzPatrick",
       "position": "TE",
-      "team": null,
+      "team": "KC",
       "status": "Active",
       "active": true
     },
@@ -13994,7 +13990,7 @@
       "name": "Azeez Al-Shaair",
       "position": "LB",
       "team": "HOU",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "3176": {
@@ -25424,7 +25420,7 @@
     "4233": {
       "name": "Zane Gonzalez",
       "position": "K",
-      "team": "MIA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -30338,7 +30334,7 @@
     "13860": {
       "name": "Sabastian Harsh",
       "position": "DE",
-      "team": null,
+      "team": "HOU",
       "status": "Active",
       "active": true
     },
@@ -36533,7 +36529,7 @@
     "13829": {
       "name": "David Blay Jr.",
       "position": "DT",
-      "team": "GB",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -37737,7 +37733,7 @@
     "12838": {
       "name": "Nikko Reed",
       "position": "DB",
-      "team": "NYG",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -46396,7 +46392,7 @@
     "7830": {
       "name": "Shaun Wade",
       "position": "CB",
-      "team": "PHI",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -68733,7 +68729,7 @@
     "11160": {
       "name": "Nick Whiteside",
       "position": "CB",
-      "team": "DET",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -72744,7 +72740,7 @@
     "10973": {
       "name": "Nick Hampton",
       "position": "LB",
-      "team": "CAR",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -74858,7 +74854,7 @@
     "12035": {
       "name": "Jamree Kromah",
       "position": "DL",
-      "team": "MIA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -77553,7 +77549,7 @@
     "13011": {
       "name": "Brennan Presley",
       "position": "WR",
-      "team": "LAR",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -77763,8 +77759,8 @@
     "13778": {
       "name": "EJ Smith",
       "position": "RB",
-      "team": null,
-      "status": "Inactive",
+      "team": "KC",
+      "status": "Active",
       "active": true
     },
     "12510": {
@@ -81284,7 +81280,7 @@
     "13652": {
       "name": "Jalen Hunt",
       "position": "DL",
-      "team": "LAR",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -88777,7 +88773,7 @@
       "id": "13011",
       "name": "Brennan Presley",
       "position": "WR",
-      "team": "LAR",
+      "team": null,
       "status": "Active"
     },
     {
@@ -89848,7 +89844,7 @@
       "id": "10228",
       "name": "Charlie Jones",
       "position": "WR",
-      "team": "NYG",
+      "team": null,
       "status": "Active"
     },
     {
@@ -91263,6 +91259,13 @@
       "name": "Daniel Jackson",
       "position": "WR",
       "team": null,
+      "status": "Active"
+    },
+    {
+      "id": "5870",
+      "name": "Daniel Jones",
+      "position": "QB",
+      "team": "IND",
       "status": "Active"
     },
     {
@@ -93145,8 +93148,8 @@
       "id": "13778",
       "name": "EJ Smith",
       "position": "RB",
-      "team": null,
-      "status": "Inactive"
+      "team": "KC",
+      "status": "Active"
     },
     {
       "id": "7334",
@@ -96764,7 +96767,7 @@
       "id": "8500",
       "name": "John FitzPatrick",
       "position": "TE",
-      "team": null,
+      "team": "KC",
       "status": "Active"
     },
     {
