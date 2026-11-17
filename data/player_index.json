@@ -1395,7 +1395,7 @@
   "11512": {
     "name": "Tyrus Wheat",
     "position": "DE",
-    "team": null,
+    "team": "DET",
     "status": "Active",
     "active": true
   },
@@ -6113,7 +6113,7 @@
   "11311": {
     "name": "Jason Brownlee",
     "position": "WR",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
@@ -6233,7 +6233,7 @@
     "name": "Branson Taylor",
     "position": "OL",
     "team": "LAC",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "5351": {
@@ -12469,7 +12469,7 @@
   "4574": {
     "name": "Cooper Rush",
     "position": "QB",
-    "team": null,
+    "team": "TB",
     "status": "Active",
     "active": true
   },
@@ -14940,7 +14940,7 @@
   "5519": {
     "name": "Tavierre Thomas",
     "position": "DB",
-    "team": "MIN",
+    "team": "NYG",
     "status": "Active",
     "active": true
   },
@@ -17692,7 +17692,7 @@
     "name": "Dylan McMahon",
     "position": "OL",
     "team": "LAR",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "7624": {
@@ -26434,7 +26434,7 @@
   "13680": {
     "name": "Bishop Fitzgerald",
     "position": "DB",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
@@ -33229,7 +33229,7 @@
     "active": true
   },
   "13356": {
-    "name": "Trebor Pena",
+    "name": "Trebor Pe\u00f1a",
     "position": "WR",
     "team": "JAX",
     "status": "Active",
@@ -41828,7 +41828,7 @@
     "name": "Denzel Perryman",
     "position": "LB",
     "team": "LAC",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "13651": {
@@ -42429,7 +42429,7 @@
   "6037": {
     "name": "Brett Rypien",
     "position": "QB",
-    "team": null,
+    "team": "LV",
     "status": "Active",
     "active": true
   },
@@ -57710,7 +57710,7 @@
   "11306": {
     "name": "Xavier Gipson",
     "position": "WR",
-    "team": "PHI",
+    "team": "NYG",
     "status": "Active",
     "active": true
   },
@@ -58606,7 +58606,7 @@
   "6154": {
     "name": "David Sills V",
     "position": "WR",
-    "team": null,
+    "team": "TB",
     "status": "Active",
     "active": true
   },
@@ -68280,7 +68280,7 @@
   "8235": {
     "name": "Samori Toure",
     "position": "WR",
-    "team": null,
+    "team": "IND",
     "status": "Active",
     "active": true
   },
@@ -69596,7 +69596,7 @@
   "6850": {
     "name": "Harrison Bryant",
     "position": "TE",
-    "team": null,
+    "team": "IND",
     "status": "Active",
     "active": true
   },
@@ -80447,7 +80447,7 @@
     "name": "Jordan Addison",
     "position": "WR",
     "team": "MIN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "5508": {
@@ -80622,7 +80622,7 @@
     "name": "David Njoku",
     "position": "TE",
     "team": "LAC",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "13974": {

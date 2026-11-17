@@ -1823,7 +1823,7 @@
     "id": "6037",
     "name": "Brett Rypien",
     "position": "QB",
-    "team": null,
+    "team": "LV",
     "status": "Active"
   },
   {
@@ -3643,7 +3643,7 @@
     "id": "4574",
     "name": "Cooper Rush",
     "position": "QB",
-    "team": null,
+    "team": "TB",
     "status": "Active"
   },
   {
@@ -4673,7 +4673,7 @@
     "name": "David Njoku",
     "position": "TE",
     "team": "LAC",
-    "status": "Inactive"
+    "status": "Active"
   },
   {
     "id": "4775",
@@ -4700,7 +4700,7 @@
     "id": "6154",
     "name": "David Sills V",
     "position": "WR",
-    "team": null,
+    "team": "TB",
     "status": "Active"
   },
   {
@@ -7192,7 +7192,7 @@
     "id": "6850",
     "name": "Harrison Bryant",
     "position": "TE",
-    "team": null,
+    "team": "IND",
     "status": "Active"
   },
   {
@@ -8970,7 +8970,7 @@
     "id": "11311",
     "name": "Jason Brownlee",
     "position": "WR",
-    "team": null,
+    "team": "TEN",
     "status": "Active"
   },
   {
@@ -16376,7 +16376,7 @@
     "id": "8235",
     "name": "Samori Toure",
     "position": "WR",
-    "team": null,
+    "team": "IND",
     "status": "Active"
   },
   {
@@ -18222,7 +18222,7 @@
   },
   {
     "id": "13356",
-    "name": "Trebor Pena",
+    "name": "Trebor Pe\u00f1a",
     "position": "WR",
     "team": "JAX",
     "status": "Active"
@@ -19267,7 +19267,7 @@
     "id": "11306",
     "name": "Xavier Gipson",
     "position": "WR",
-    "team": "PHI",
+    "team": "NYG",
     "status": "Active"
   },
   {
