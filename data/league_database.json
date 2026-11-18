@@ -113,20 +113,25 @@
     },
     "season": "2026",
     "season_type": "regular",
-    "sport": "nfl",
     "shard": 470,
-    "last_message_id": "1428485895442427904",
-    "last_author_avatar": null,
-    "last_author_display_name": "sys",
-    "last_author_id": "166666666666666666",
-    "last_author_is_bot": true,
+    "sport": "nfl",
+    "last_message_id": "1428557223440687104",
+    "draft_id": "1326711861202161664",
+    "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
+    "last_author_display_name": "HebrewsHeroes",
+    "last_author_id": "434689597088198656",
+    "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1794940086760,
+    "last_message_time": 1794957092683,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1326711861202161664",
     "previous_league_id": "1228352285197746179",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,11 +156,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -1046,12 +1046,12 @@
       "starters": [
         "4046",
         "5967",
-        "9509",
+        "4035",
         "8144",
-        "13270",
+        "5045",
         "11632",
         "8131",
-        "8150",
+        "5012",
         "12495",
         "3294"
       ],
@@ -5422,7 +5422,7 @@
       "name": "Jordan Burch",
       "position": "DL",
       "team": "ARI",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "6841": {
@@ -6205,7 +6205,7 @@
     "11345": {
       "name": "Chris Smith",
       "position": "DL",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -6296,7 +6296,7 @@
     "13563": {
       "name": "Deven Eastern",
       "position": "DT",
-      "team": null,
+      "team": "SEA",
       "status": "Active",
       "active": true
     },
@@ -7899,7 +7899,7 @@
     "6948": {
       "name": "Leki Fotu",
       "position": "DT",
-      "team": null,
+      "team": "PHI",
       "status": "Active",
       "active": true
     },
@@ -15089,7 +15089,7 @@
       "name": "Ar'maj Reed-Adams",
       "position": "G",
       "team": "BUF",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "13363": {
@@ -16880,7 +16880,7 @@
     "13658": {
       "name": "Brady Boyd",
       "position": "WR",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -18000,7 +18000,7 @@
     "11633": {
       "name": "Jamari Thrash",
       "position": "WR",
-      "team": null,
+      "team": "TEN",
       "status": "Active",
       "active": true
     },
@@ -18456,7 +18456,7 @@
       "name": "Zeek Biggers",
       "position": "DL",
       "team": "MIA",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "11403": {
@@ -23495,7 +23495,7 @@
     "10221": {
       "name": "Ronnie Bell",
       "position": "WR",
-      "team": null,
+      "team": "ARI",
       "status": "Active",
       "active": true
     },
@@ -25091,7 +25091,7 @@
     "11121": {
       "name": "AJ Finley",
       "position": "DB",
-      "team": null,
+      "team": "PIT",
       "status": "Active",
       "active": true
     },
@@ -31889,7 +31889,7 @@
       "name": "Jordan Phillips",
       "position": "DL",
       "team": "MIA",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "3419": {
@@ -38958,7 +38958,7 @@
     "10997": {
       "name": "Jerrick Reed II",
       "position": "DB",
-      "team": null,
+      "team": "ARI",
       "status": "Active",
       "active": true
     },
@@ -44608,7 +44608,7 @@
       "name": "Jaylon Carlies",
       "position": "DB",
       "team": "IND",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "11135": {
@@ -51264,7 +51264,7 @@
     "12829": {
       "name": "Coleman Owen",
       "position": "WR",
-      "team": null,
+      "team": "GB",
       "status": "Active",
       "active": true
     },
@@ -57690,7 +57690,7 @@
     "12429": {
       "name": "Kohl Levao",
       "position": "OL",
-      "team": null,
+      "team": "NYJ",
       "status": "Active",
       "active": true
     },
@@ -60630,7 +60630,7 @@
     "8332": {
       "name": "Matthew Butler",
       "position": "DL",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -64537,7 +64537,7 @@
       "name": "Andrew Wingard",
       "position": "DB",
       "team": "ARI",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "5827": {
@@ -68800,7 +68800,7 @@
       "name": "Wan'Dale Robinson",
       "position": "WR",
       "team": "TEN",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "3761": {
@@ -71200,7 +71200,7 @@
     "12883": {
       "name": "Joshua Simon",
       "position": "TE",
-      "team": null,
+      "team": "CAR",
       "status": "Active",
       "active": true
     },
@@ -71753,7 +71753,7 @@
     "12380": {
       "name": "Te'Cory Couch",
       "position": "CB",
-      "team": null,
+      "team": "BUF",
       "status": "Active",
       "active": true
     },
@@ -73951,7 +73951,7 @@
     "8415": {
       "name": "Haggai Ndubuisi",
       "position": "T",
-      "team": null,
+      "team": "GB",
       "status": "Active",
       "active": true
     },
@@ -77549,7 +77549,7 @@
     "13011": {
       "name": "Brennan Presley",
       "position": "WR",
-      "team": null,
+      "team": "LAR",
       "status": "Active",
       "active": true
     },
@@ -77619,7 +77619,7 @@
     "5095": {
       "name": "Daniel Carlson",
       "position": "K",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -82876,7 +82876,7 @@
     "8795": {
       "name": "D'Anthony Bell",
       "position": "DB",
-      "team": null,
+      "team": "MIN",
       "status": "Active",
       "active": true
     },
@@ -88500,7 +88500,7 @@
       "id": "13658",
       "name": "Brady Boyd",
       "position": "WR",
-      "team": null,
+      "team": "MIA",
       "status": "Active"
     },
     {
@@ -88773,7 +88773,7 @@
       "id": "13011",
       "name": "Brennan Presley",
       "position": "WR",
-      "team": null,
+      "team": "LAR",
       "status": "Active"
     },
     {
@@ -90488,7 +90488,7 @@
       "id": "12829",
       "name": "Coleman Owen",
       "position": "WR",
-      "team": null,
+      "team": "GB",
       "status": "Active"
     },
     {
@@ -95598,7 +95598,7 @@
       "id": "11633",
       "name": "Jamari Thrash",
       "position": "WR",
-      "team": null,
+      "team": "TEN",
       "status": "Active"
     },
     {
@@ -97649,7 +97649,7 @@
       "id": "12883",
       "name": "Joshua Simon",
       "position": "TE",
-      "team": null,
+      "team": "CAR",
       "status": "Active"
     },
     {
@@ -102983,7 +102983,7 @@
       "id": "10221",
       "name": "Ronnie Bell",
       "position": "WR",
-      "team": null,
+      "team": "ARI",
       "status": "Active"
     },
     {

@@ -4049,7 +4049,7 @@
     "name": "Jordan Burch",
     "position": "DL",
     "team": "ARI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "6841": {
@@ -4832,7 +4832,7 @@
   "11345": {
     "name": "Chris Smith",
     "position": "DL",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -4923,7 +4923,7 @@
   "13563": {
     "name": "Deven Eastern",
     "position": "DT",
-    "team": null,
+    "team": "SEA",
     "status": "Active",
     "active": true
   },
@@ -6526,7 +6526,7 @@
   "6948": {
     "name": "Leki Fotu",
     "position": "DT",
-    "team": null,
+    "team": "PHI",
     "status": "Active",
     "active": true
   },
@@ -13716,7 +13716,7 @@
     "name": "Ar'maj Reed-Adams",
     "position": "G",
     "team": "BUF",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "13363": {
@@ -15507,7 +15507,7 @@
   "13658": {
     "name": "Brady Boyd",
     "position": "WR",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -16627,7 +16627,7 @@
   "11633": {
     "name": "Jamari Thrash",
     "position": "WR",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
@@ -17083,7 +17083,7 @@
     "name": "Zeek Biggers",
     "position": "DL",
     "team": "MIA",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "11403": {
@@ -22122,7 +22122,7 @@
   "10221": {
     "name": "Ronnie Bell",
     "position": "WR",
-    "team": null,
+    "team": "ARI",
     "status": "Active",
     "active": true
   },
@@ -23718,7 +23718,7 @@
   "11121": {
     "name": "AJ Finley",
     "position": "DB",
-    "team": null,
+    "team": "PIT",
     "status": "Active",
     "active": true
   },
@@ -30516,7 +30516,7 @@
     "name": "Jordan Phillips",
     "position": "DL",
     "team": "MIA",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3419": {
@@ -37585,7 +37585,7 @@
   "10997": {
     "name": "Jerrick Reed II",
     "position": "DB",
-    "team": null,
+    "team": "ARI",
     "status": "Active",
     "active": true
   },
@@ -43235,7 +43235,7 @@
     "name": "Jaylon Carlies",
     "position": "DB",
     "team": "IND",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "11135": {
@@ -49891,7 +49891,7 @@
   "12829": {
     "name": "Coleman Owen",
     "position": "WR",
-    "team": null,
+    "team": "GB",
     "status": "Active",
     "active": true
   },
@@ -56317,7 +56317,7 @@
   "12429": {
     "name": "Kohl Levao",
     "position": "OL",
-    "team": null,
+    "team": "NYJ",
     "status": "Active",
     "active": true
   },
@@ -59257,7 +59257,7 @@
   "8332": {
     "name": "Matthew Butler",
     "position": "DL",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -63164,7 +63164,7 @@
     "name": "Andrew Wingard",
     "position": "DB",
     "team": "ARI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "5827": {
@@ -67427,7 +67427,7 @@
     "name": "Wan'Dale Robinson",
     "position": "WR",
     "team": "TEN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3761": {
@@ -69827,7 +69827,7 @@
   "12883": {
     "name": "Joshua Simon",
     "position": "TE",
-    "team": null,
+    "team": "CAR",
     "status": "Active",
     "active": true
   },
@@ -70380,7 +70380,7 @@
   "12380": {
     "name": "Te'Cory Couch",
     "position": "CB",
-    "team": null,
+    "team": "BUF",
     "status": "Active",
     "active": true
   },
@@ -72578,7 +72578,7 @@
   "8415": {
     "name": "Haggai Ndubuisi",
     "position": "T",
-    "team": null,
+    "team": "GB",
     "status": "Active",
     "active": true
   },
@@ -76176,7 +76176,7 @@
   "13011": {
     "name": "Brennan Presley",
     "position": "WR",
-    "team": null,
+    "team": "LAR",
     "status": "Active",
     "active": true
   },
@@ -76246,7 +76246,7 @@
   "5095": {
     "name": "Daniel Carlson",
     "position": "K",
-    "team": null,
+    "team": "MIA",
     "status": "Active",
     "active": true
   },
@@ -81503,7 +81503,7 @@
   "8795": {
     "name": "D'Anthony Bell",
     "position": "DB",
-    "team": null,
+    "team": "MIN",
     "status": "Active",
     "active": true
   },

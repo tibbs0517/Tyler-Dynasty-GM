@@ -1522,7 +1522,7 @@
     "id": "13658",
     "name": "Brady Boyd",
     "position": "WR",
-    "team": null,
+    "team": "MIA",
     "status": "Active"
   },
   {
@@ -1795,7 +1795,7 @@
     "id": "13011",
     "name": "Brennan Presley",
     "position": "WR",
-    "team": null,
+    "team": "LAR",
     "status": "Active"
   },
   {
@@ -3510,7 +3510,7 @@
     "id": "12829",
     "name": "Coleman Owen",
     "position": "WR",
-    "team": null,
+    "team": "GB",
     "status": "Active"
   },
   {
@@ -8620,7 +8620,7 @@
     "id": "11633",
     "name": "Jamari Thrash",
     "position": "WR",
-    "team": null,
+    "team": "TEN",
     "status": "Active"
   },
   {
@@ -10671,7 +10671,7 @@
     "id": "12883",
     "name": "Joshua Simon",
     "position": "TE",
-    "team": null,
+    "team": "CAR",
     "status": "Active"
   },
   {
@@ -16005,7 +16005,7 @@
     "id": "10221",
     "name": "Ronnie Bell",
     "position": "WR",
-    "team": null,
+    "team": "ARI",
     "status": "Active"
   },
   {
