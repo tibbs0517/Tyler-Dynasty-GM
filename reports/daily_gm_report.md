@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-11-18 02:01:33
+Generated: 2026-11-18 11:00:19
 
 ---
 
@@ -9,14 +9,14 @@ Generated: 2026-11-18 02:01:33
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2801
+Available Players: 2799
 
 ---
 
 ## League Activity
 
 Trades: 1
-Waiver Claims: 7
+Waiver Claims: 14
 Free Agent Moves: 3
 
 ---
@@ -37,6 +37,13 @@ Players on Roster: 26
 
 ## Top Waiver Claims
 
+- Tre' Harris → SammyA
+- Samaje Perine → SammyA
+- Xavier Hutchinson → HebrewsHeroes
+- Xavier Hutchinson → tylerhjensen
+- Josh Cameron → HebrewsHeroes
+- Tre' Harris → HebrewsHeroes
+- Jimmy Garoppolo → jmikolay
 - Justice Hill → HebrewsHeroes
 - CJ Daniels → SammyA
 - Mack Hollins → SammyA
@@ -49,7 +56,10 @@ Players on Roster: 26
 
 ## Recently Dropped Players
 
+- Shedeur Sanders
+- Elijah Sarratt
 - Daniel Jones
+- Carson Wentz
 - Reggie Virgil
 - Treylon Burks
 - Tyler Allgeier
@@ -60,12 +70,13 @@ Players on Roster: 26
 
 ## Most Active Managers
 
-- HebrewsHeroes: 3 moves
-- SammyA: 3 moves
+- HebrewsHeroes: 6 moves
+- SammyA: 5 moves
+- jmikolay: 2 moves
 - HoNeYmOOnBaBy: 2 moves
 - tylergratz: 2 moves
+- tylerhjensen: 1 moves
 - AnthonyJania: 1 moves
-- jmikolay: 1 moves
 
 ---
 

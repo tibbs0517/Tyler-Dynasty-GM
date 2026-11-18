@@ -14100,7 +14100,7 @@
   "10981": {
     "name": "Colby Sorsdal",
     "position": "OL",
-    "team": null,
+    "team": "NO",
     "status": "Active",
     "active": true
   },
@@ -19868,7 +19868,7 @@
   "7607": {
     "name": "Michael Carter",
     "position": "RB",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
@@ -73481,7 +73481,7 @@
   "12035": {
     "name": "Jamree Kromah",
     "position": "DL",
-    "team": null,
+    "team": "CLE",
     "status": "Active",
     "active": true
   },

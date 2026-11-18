@@ -2653,6 +2653,13 @@
     "status": "Inactive"
   },
   {
+    "id": "3161",
+    "name": "Carson Wentz",
+    "position": "QB",
+    "team": "MIN",
+    "status": "Active"
+  },
+  {
     "id": "7624",
     "name": "Carson Williams",
     "position": "TE",
@@ -6321,6 +6328,13 @@
     "status": "Active"
   },
   {
+    "id": "13268",
+    "name": "Elijah Sarratt",
+    "position": "WR",
+    "team": "BAL",
+    "status": "Active"
+  },
+  {
     "id": "13909",
     "name": "Elijah Tau-Tolliver",
     "position": "RB",
@@ -9569,13 +9583,6 @@
     "status": "Active"
   },
   {
-    "id": "1837",
-    "name": "Jimmy Garoppolo",
-    "position": "QB",
-    "team": null,
-    "status": "Active"
-  },
-  {
     "id": "616",
     "name": "Jimmy Graham",
     "position": "TE",
@@ -10392,13 +10399,6 @@
     "name": "Josh Caldwell",
     "position": "RB",
     "team": null,
-    "status": "Active"
-  },
-  {
-    "id": "13394",
-    "name": "Josh Cameron",
-    "position": "WR",
-    "team": "JAX",
     "status": "Active"
   },
   {
@@ -13758,7 +13758,7 @@
     "id": "7607",
     "name": "Michael Carter",
     "position": "RB",
-    "team": null,
+    "team": "TEN",
     "status": "Active"
   },
   {
@@ -16359,13 +16359,6 @@
     "status": "Active"
   },
   {
-    "id": "4147",
-    "name": "Samaje Perine",
-    "position": "RB",
-    "team": "CIN",
-    "status": "Active"
-  },
-  {
     "id": "7622",
     "name": "Sammis Reyes",
     "position": "TE",
@@ -16741,6 +16734,13 @@
     "name": "Shea Patterson",
     "position": "QB",
     "team": null,
+    "status": "Active"
+  },
+  {
+    "id": "12524",
+    "name": "Shedeur Sanders",
+    "position": "QB",
+    "team": "CLE",
     "status": "Active"
   },
   {
@@ -18200,13 +18200,6 @@
     "status": "Active"
   },
   {
-    "id": "12509",
-    "name": "Tre' Harris",
-    "position": "WR",
-    "team": "LAC",
-    "status": "Active"
-  },
-  {
     "id": "7554",
     "name": "Tre' McKitty",
     "position": "TE",
@@ -19289,13 +19282,6 @@
     "name": "Xavier Guillory",
     "position": "WR",
     "team": "CLE",
-    "status": "Active"
-  },
-  {
-    "id": "10218",
-    "name": "Xavier Hutchinson",
-    "position": "WR",
-    "team": "HOU",
     "status": "Active"
   },
   {
