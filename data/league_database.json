@@ -63,13 +63,8 @@
       "daily_waivers_last_ran": 18
     },
     "avatar": null,
-    "company_id": null,
     "league_id": "1326711861197938688",
-    "last_message_id": "1428694250421256192",
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
-    "shard": 470,
+    "company_id": null,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -116,16 +111,21 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_author_avatar": null,
-    "last_author_display_name": "sys",
-    "last_author_id": "166666666666666666",
-    "last_author_is_bot": true,
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 470,
+    "sport": "nfl",
+    "last_message_id": "1428781101249212416",
+    "draft_id": "1326711861202161664",
+    "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
+    "last_author_display_name": "HebrewsHeroes",
+    "last_author_id": "434689597088198656",
+    "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1794989762458,
+    "last_message_time": 1795010469312,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1326711861202161664",
     "previous_league_id": "1228352285197746179",
     "roster_positions": [
       "QB",
@@ -674,16 +674,16 @@
         "wins": 5
       },
       "starters": [
-        "3257",
+        "11560",
         "4034",
         "7594",
         "8137",
         "9487",
         "2449",
-        "3214",
+        "13330",
         "8228",
-        "7021",
-        "0"
+        "11620",
+        "11563"
       ],
       "taxi": null
     },
@@ -822,11 +822,11 @@
         "4984",
         "12481",
         "9224",
-        "10213",
-        "9502",
+        "10218",
+        "2216",
         "11637",
         "0",
-        "11834",
+        "10213",
         "13264",
         "4892"
       ],
@@ -951,8 +951,8 @@
       "reserve": [
         "11638",
         "12508",
-        "12533",
-        "7049"
+        "5849",
+        "9756"
       ],
       "roster_id": 5,
       "settings": {
@@ -977,9 +977,9 @@
         "11610",
         "7525",
         "4217",
-        "9756",
+        "5844",
         "10859",
-        "5844"
+        "13425"
       ],
       "taxi": null
     },
@@ -1202,7 +1202,7 @@
       "starters": [
         "1373",
         "7588",
-        "8132",
+        "5892",
         "8148",
         "5947",
         "5872",
@@ -1264,7 +1264,8 @@
       "reserve": [
         "12489",
         "4881",
-        "6011"
+        "6011",
+        "8126"
       ],
       "roster_id": 9,
       "settings": {
@@ -1284,14 +1285,14 @@
       "starters": [
         "7523",
         "6813",
-        "9753",
+        "11576",
         "6786",
         "6794",
-        "8112",
+        "9500",
         "1466",
-        "8126",
+        "9508",
         "6801",
-        "11559"
+        "5022"
       ],
       "taxi": null
     },
@@ -2791,7 +2792,7 @@
     "11044": {
       "name": "Nick Broeker",
       "position": "OL",
-      "team": "BUF",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -39450,7 +39451,7 @@
     "6957": {
       "name": "James Proche II",
       "position": "WR",
-      "team": "ARI",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -42222,7 +42223,7 @@
     "12548": {
       "name": "Lenny Krieg",
       "position": "K",
-      "team": "GB",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -45582,7 +45583,7 @@
     "13904": {
       "name": "Jacob De Jesus",
       "position": "WR",
-      "team": "KC",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -53408,7 +53409,7 @@
     "10223": {
       "name": "Eric Gray",
       "position": "RB",
-      "team": "NYG",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -55844,7 +55845,7 @@
     "13054": {
       "name": "Junior Tafuna",
       "position": "DT",
-      "team": "HOU",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -57447,7 +57448,7 @@
     "13951": {
       "name": "Nathan Voorhis",
       "position": "DE",
-      "team": "NYJ",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -67457,7 +67458,7 @@
     "12907": {
       "name": "Quentin Skinner",
       "position": "WR",
-      "team": null,
+      "team": "PHI",
       "status": "Active",
       "active": true
     },
@@ -71664,7 +71665,7 @@
     "11748": {
       "name": "Bub Means",
       "position": "WR",
-      "team": "KC",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -73771,7 +73772,7 @@
     "8850": {
       "name": "Ben Stille",
       "position": "DT",
-      "team": "DET",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -74086,7 +74087,7 @@
     "12005": {
       "name": "Jack Browning",
       "position": "K/P",
-      "team": null,
+      "team": "MIA",
       "status": "Active",
       "active": true
     },
@@ -74352,7 +74353,7 @@
     "12698": {
       "name": "Ajani Cornelius",
       "position": "OL",
-      "team": "DAL",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -76697,7 +76698,7 @@
     "13978": {
       "name": "Albert Reese",
       "position": "OT",
-      "team": "ARI",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -77390,7 +77391,7 @@
     "6024": {
       "name": "Fred Johnson",
       "position": "T",
-      "team": null,
+      "team": "KC",
       "status": "Active",
       "active": true
     },
@@ -79217,7 +79218,7 @@
     "13580": {
       "name": "Carsen Ryan",
       "position": "TE",
-      "team": "CLE",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -79595,7 +79596,7 @@
     "11065": {
       "name": "Adrian Martinez",
       "position": "QB",
-      "team": "SEA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -80512,7 +80513,7 @@
     "12015": {
       "name": "Harrison Mevis",
       "position": "K",
-      "team": "BAL",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -87186,7 +87187,7 @@
       "id": "11065",
       "name": "Adrian Martinez",
       "position": "QB",
-      "team": "SEA",
+      "team": null,
       "status": "Active"
     },
     {
@@ -89125,7 +89126,7 @@
       "id": "11748",
       "name": "Bub Means",
       "position": "WR",
-      "team": "KC",
+      "team": null,
       "status": "Active"
     },
     {
@@ -89601,7 +89602,7 @@
       "id": "13580",
       "name": "Carsen Ryan",
       "position": "TE",
-      "team": "CLE",
+      "team": null,
       "status": "Active"
     },
     {
@@ -93465,7 +93466,7 @@
       "id": "10223",
       "name": "Eric Gray",
       "position": "RB",
-      "team": "NYG",
+      "team": null,
       "status": "Active"
     },
     {
@@ -94956,7 +94957,7 @@
       "id": "13904",
       "name": "Jacob De Jesus",
       "position": "WR",
-      "team": "KC",
+      "team": null,
       "status": "Active"
     },
     {
@@ -95705,7 +95706,7 @@
       "id": "6957",
       "name": "James Proche II",
       "position": "WR",
-      "team": "ARI",
+      "team": null,
       "status": "Active"
     },
     {
@@ -102229,7 +102230,7 @@
       "id": "12907",
       "name": "Quentin Skinner",
       "position": "WR",
-      "team": null,
+      "team": "PHI",
       "status": "Active"
     },
     {

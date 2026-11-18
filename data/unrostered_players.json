@@ -206,7 +206,7 @@
     "id": "11065",
     "name": "Adrian Martinez",
     "position": "QB",
-    "team": "SEA",
+    "team": null,
     "status": "Active"
   },
   {
@@ -2145,7 +2145,7 @@
     "id": "11748",
     "name": "Bub Means",
     "position": "WR",
-    "team": "KC",
+    "team": null,
     "status": "Active"
   },
   {
@@ -2621,7 +2621,7 @@
     "id": "13580",
     "name": "Carsen Ryan",
     "position": "TE",
-    "team": "CLE",
+    "team": null,
     "status": "Active"
   },
   {
@@ -6485,7 +6485,7 @@
     "id": "10223",
     "name": "Eric Gray",
     "position": "RB",
-    "team": "NYG",
+    "team": null,
     "status": "Active"
   },
   {
@@ -7976,7 +7976,7 @@
     "id": "13904",
     "name": "Jacob De Jesus",
     "position": "WR",
-    "team": "KC",
+    "team": null,
     "status": "Active"
   },
   {
@@ -8725,7 +8725,7 @@
     "id": "6957",
     "name": "James Proche II",
     "position": "WR",
-    "team": "ARI",
+    "team": null,
     "status": "Active"
   },
   {
@@ -15249,7 +15249,7 @@
     "id": "12907",
     "name": "Quentin Skinner",
     "position": "WR",
-    "team": null,
+    "team": "PHI",
     "status": "Active"
   },
   {
