@@ -2996,13 +2996,6 @@
     "status": "Active"
   },
   {
-    "id": "8210",
-    "name": "Chig Okonkwo",
-    "position": "TE",
-    "team": "WAS",
-    "status": "Active"
-  },
-  {
     "id": "12540",
     "name": "Chimere Dike",
     "position": "WR",
@@ -6885,13 +6878,6 @@
     "name": "Gary Jennings",
     "position": "WR",
     "team": null,
-    "status": "Active"
-  },
-  {
-    "id": "12700",
-    "name": "Gavin Bartholomew",
-    "position": "TE",
-    "team": "MIN",
     "status": "Active"
   },
   {

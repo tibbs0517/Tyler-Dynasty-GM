@@ -13390,19 +13390,6 @@
     "roster_id": null
   },
   {
-    "id": "8210",
-    "name": "Chig Okonkwo",
-    "position": "TE",
-    "team": "WAS",
-    "age": 27,
-    "years_exp": 4,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
     "id": "4874",
     "name": "Chris Bazile",
     "position": "TE",
@@ -14890,19 +14877,6 @@
     "position": "TE",
     "team": null,
     "age": 24,
-    "years_exp": 1,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
-    "id": "12700",
-    "name": "Gavin Bartholomew",
-    "position": "TE",
-    "team": "MIN",
-    "age": 23,
     "years_exp": 1,
     "active": true,
     "injury_status": null,

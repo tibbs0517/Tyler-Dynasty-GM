@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-11-19 01:38:42
+Generated: 2026-11-19 09:47:06
 
 ---
 
@@ -9,14 +9,14 @@ Generated: 2026-11-19 01:38:42
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2800
+Available Players: 2798
 
 ---
 
 ## League Activity
 
 Trades: 0
-Waiver Claims: 0
+Waiver Claims: 3
 Free Agent Moves: 1
 
 ---
@@ -37,6 +37,9 @@ No trades.
 
 ## Top Waiver Claims
 
+- Gavin Bartholomew → tylerhjensen
+- Chig Okonkwo → jmikolay
+- Gavin Bartholomew → jmikolay
 
 ---
 
@@ -48,7 +51,8 @@ No trades.
 
 ## Most Active Managers
 
-- tylerhjensen: 1 moves
+- tylerhjensen: 2 moves
+- jmikolay: 2 moves
 
 ---
 
