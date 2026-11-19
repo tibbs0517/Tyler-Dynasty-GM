@@ -2621,7 +2621,7 @@
     "id": "13580",
     "name": "Carsen Ryan",
     "position": "TE",
-    "team": null,
+    "team": "CLE",
     "status": "Active"
   },
   {
@@ -7493,7 +7493,7 @@
     "id": "6920",
     "name": "Isaiah Hodgins",
     "position": "WR",
-    "team": "PIT",
+    "team": null,
     "status": "Active"
   },
   {
