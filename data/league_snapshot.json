@@ -63,8 +63,12 @@
       "daily_waivers_last_ran": 18
     },
     "avatar": null,
-    "league_id": "1326711861197938688",
     "company_id": null,
+    "league_id": "1326711861197938688",
+    "shard": 470,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -111,22 +115,21 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 470,
-    "sport": "nfl",
-    "last_message_id": "1428781101249212416",
-    "draft_id": "1326711861202161664",
+    "last_message_id": "1428920762504331264",
     "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
     "last_author_display_name": "HebrewsHeroes",
     "last_author_id": "434689597088198656",
     "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1795010469312,
+    "last_message_time": 1795043767151,
     "last_pinned_message_id": null,
+    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "previous_league_id": "1228352285197746179",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,9 +154,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -783,7 +783,6 @@
         "12512",
         "13264",
         "13276",
-        "13353",
         "13402",
         "2216",
         "4892",
@@ -799,8 +798,8 @@
       ],
       "reserve": [
         "11630",
-        "13353",
         "5927",
+        "6819",
         "8161"
       ],
       "roster_id": 3,
@@ -827,8 +826,8 @@
         "11637",
         "0",
         "10213",
-        "13264",
-        "4892"
+        "11834",
+        "12494"
       ],
       "taxi": null
     },
@@ -902,8 +901,8 @@
         "13337",
         "10229",
         "11646",
-        "12501",
-        "12498",
+        "12499",
+        "12517",
         "11625",
         "11783",
         "12545"

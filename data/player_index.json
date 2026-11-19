@@ -899,7 +899,7 @@
     "name": "Adam Randall",
     "position": "RB",
     "team": "BAL",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "11450": {
@@ -5770,7 +5770,7 @@
   "10228": {
     "name": "Charlie Jones",
     "position": "WR",
-    "team": null,
+    "team": "NYG",
     "status": "Active",
     "active": true
   },
@@ -9243,7 +9243,7 @@
     "name": "Omarr Norman-Lott",
     "position": "DT",
     "team": "KC",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "1017": {
@@ -15060,7 +15060,7 @@
     "name": "Kerby Joseph",
     "position": "DB",
     "team": "DET",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "1814": {
@@ -17678,7 +17678,7 @@
     "name": "Bo Richter",
     "position": "DE",
     "team": "MIN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3172": {
@@ -24628,7 +24628,7 @@
   "5869": {
     "name": "Michael Jordan",
     "position": "G",
-    "team": null,
+    "team": "BAL",
     "status": "Active",
     "active": true
   },
@@ -36360,7 +36360,7 @@
   "12838": {
     "name": "Nikko Reed",
     "position": "DB",
-    "team": null,
+    "team": "NYG",
     "status": "Active",
     "active": true
   },
@@ -37502,7 +37502,7 @@
     "name": "Mason McCormick",
     "position": "OL",
     "team": "PIT",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "12260": {
@@ -45159,7 +45159,7 @@
   "7612": {
     "name": "Dee Eskridge",
     "position": "WR",
-    "team": null,
+    "team": "MIN",
     "status": "Active",
     "active": true
   },
@@ -46238,7 +46238,7 @@
     "name": "Jared Wiley",
     "position": "TE",
     "team": "KC",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "3967": {
@@ -59685,7 +59685,7 @@
     "name": "Aidan Hutchinson",
     "position": "DL",
     "team": "DET",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "6883": {
@@ -67356,7 +67356,7 @@
   "11160": {
     "name": "Nick Whiteside",
     "position": "CB",
-    "team": null,
+    "team": "DET",
     "status": "Active",
     "active": true
   },
@@ -70289,7 +70289,7 @@
   "11748": {
     "name": "Bub Means",
     "position": "WR",
-    "team": null,
+    "team": "ARI",
     "status": "Active",
     "active": true
   },
@@ -71367,7 +71367,7 @@
   "10973": {
     "name": "Nick Hampton",
     "position": "LB",
-    "team": null,
+    "team": "CAR",
     "status": "Active",
     "active": true
   },
@@ -72977,7 +72977,7 @@
   "12698": {
     "name": "Ajani Cornelius",
     "position": "OL",
-    "team": null,
+    "team": "PHI",
     "status": "Active",
     "active": true
   },
@@ -80447,7 +80447,7 @@
     "name": "Jordan Addison",
     "position": "WR",
     "team": "MIN",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "5508": {

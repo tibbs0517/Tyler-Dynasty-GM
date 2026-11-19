@@ -63,8 +63,12 @@
       "daily_waivers_last_ran": 18
     },
     "avatar": null,
-    "league_id": "1326711861197938688",
     "company_id": null,
+    "league_id": "1326711861197938688",
+    "shard": 470,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -111,22 +115,21 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 470,
-    "sport": "nfl",
-    "last_message_id": "1428781101249212416",
-    "draft_id": "1326711861202161664",
+    "last_message_id": "1428920762504331264",
     "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
     "last_author_display_name": "HebrewsHeroes",
     "last_author_id": "434689597088198656",
     "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1795010469312,
+    "last_message_time": 1795043767151,
     "last_pinned_message_id": null,
+    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "previous_league_id": "1228352285197746179",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,9 +154,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
@@ -783,7 +783,6 @@
         "12512",
         "13264",
         "13276",
-        "13353",
         "13402",
         "2216",
         "4892",
@@ -799,8 +798,8 @@
       ],
       "reserve": [
         "11630",
-        "13353",
         "5927",
+        "6819",
         "8161"
       ],
       "roster_id": 3,
@@ -827,8 +826,8 @@
         "11637",
         "0",
         "10213",
-        "13264",
-        "4892"
+        "11834",
+        "12494"
       ],
       "taxi": null
     },
@@ -902,8 +901,8 @@
         "13337",
         "10229",
         "11646",
-        "12501",
-        "12498",
+        "12499",
+        "12517",
         "11625",
         "11783",
         "12545"
@@ -2275,7 +2274,7 @@
       "name": "Adam Randall",
       "position": "RB",
       "team": "BAL",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "11450": {
@@ -7146,7 +7145,7 @@
     "10228": {
       "name": "Charlie Jones",
       "position": "WR",
-      "team": null,
+      "team": "NYG",
       "status": "Active",
       "active": true
     },
@@ -10619,7 +10618,7 @@
       "name": "Omarr Norman-Lott",
       "position": "DT",
       "team": "KC",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "1017": {
@@ -16436,7 +16435,7 @@
       "name": "Kerby Joseph",
       "position": "DB",
       "team": "DET",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "1814": {
@@ -19054,7 +19053,7 @@
       "name": "Bo Richter",
       "position": "DE",
       "team": "MIN",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "3172": {
@@ -26004,7 +26003,7 @@
     "5869": {
       "name": "Michael Jordan",
       "position": "G",
-      "team": null,
+      "team": "BAL",
       "status": "Active",
       "active": true
     },
@@ -37736,7 +37735,7 @@
     "12838": {
       "name": "Nikko Reed",
       "position": "DB",
-      "team": null,
+      "team": "NYG",
       "status": "Active",
       "active": true
     },
@@ -38878,7 +38877,7 @@
       "name": "Mason McCormick",
       "position": "OL",
       "team": "PIT",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "12260": {
@@ -46535,7 +46534,7 @@
     "7612": {
       "name": "Dee Eskridge",
       "position": "WR",
-      "team": null,
+      "team": "MIN",
       "status": "Active",
       "active": true
     },
@@ -47614,7 +47613,7 @@
       "name": "Jared Wiley",
       "position": "TE",
       "team": "KC",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "3967": {
@@ -61061,7 +61060,7 @@
       "name": "Aidan Hutchinson",
       "position": "DL",
       "team": "DET",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "6883": {
@@ -68732,7 +68731,7 @@
     "11160": {
       "name": "Nick Whiteside",
       "position": "CB",
-      "team": null,
+      "team": "DET",
       "status": "Active",
       "active": true
     },
@@ -71665,7 +71664,7 @@
     "11748": {
       "name": "Bub Means",
       "position": "WR",
-      "team": null,
+      "team": "ARI",
       "status": "Active",
       "active": true
     },
@@ -72743,7 +72742,7 @@
     "10973": {
       "name": "Nick Hampton",
       "position": "LB",
-      "team": null,
+      "team": "CAR",
       "status": "Active",
       "active": true
     },
@@ -74353,7 +74352,7 @@
     "12698": {
       "name": "Ajani Cornelius",
       "position": "OL",
-      "team": null,
+      "team": "PHI",
       "status": "Active",
       "active": true
     },
@@ -81823,7 +81822,7 @@
       "name": "Jordan Addison",
       "position": "WR",
       "team": "MIN",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "5508": {
@@ -87125,7 +87124,7 @@
       "name": "Adam Randall",
       "position": "RB",
       "team": "BAL",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "id": "4085",
@@ -89126,7 +89125,7 @@
       "id": "11748",
       "name": "Bub Means",
       "position": "WR",
-      "team": null,
+      "team": "ARI",
       "status": "Active"
     },
     {
@@ -89854,7 +89853,7 @@
       "id": "10228",
       "name": "Charlie Jones",
       "position": "WR",
-      "team": null,
+      "team": "NYG",
       "status": "Active"
     },
     {
@@ -90010,6 +90009,13 @@
       "position": "WR",
       "team": "ATL",
       "status": "Active"
+    },
+    {
+      "id": "13353",
+      "name": "Chris Brazzell II",
+      "position": "WR",
+      "team": "CAR",
+      "status": "Inactive"
     },
     {
       "id": "4004",
@@ -92052,7 +92058,7 @@
       "id": "7612",
       "name": "Dee Eskridge",
       "position": "WR",
-      "team": null,
+      "team": "MIN",
       "status": "Active"
     },
     {
@@ -95861,7 +95867,7 @@
       "name": "Jared Wiley",
       "position": "TE",
       "team": "KC",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "9231",

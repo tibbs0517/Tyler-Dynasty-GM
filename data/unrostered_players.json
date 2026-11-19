@@ -144,7 +144,7 @@
     "name": "Adam Randall",
     "position": "RB",
     "team": "BAL",
-    "status": "Inactive"
+    "status": "Active"
   },
   {
     "id": "4085",
@@ -2145,7 +2145,7 @@
     "id": "11748",
     "name": "Bub Means",
     "position": "WR",
-    "team": null,
+    "team": "ARI",
     "status": "Active"
   },
   {
@@ -2873,7 +2873,7 @@
     "id": "10228",
     "name": "Charlie Jones",
     "position": "WR",
-    "team": null,
+    "team": "NYG",
     "status": "Active"
   },
   {
@@ -3029,6 +3029,13 @@
     "position": "WR",
     "team": "ATL",
     "status": "Active"
+  },
+  {
+    "id": "13353",
+    "name": "Chris Brazzell II",
+    "position": "WR",
+    "team": "CAR",
+    "status": "Inactive"
   },
   {
     "id": "4004",
@@ -5071,7 +5078,7 @@
     "id": "7612",
     "name": "Dee Eskridge",
     "position": "WR",
-    "team": null,
+    "team": "MIN",
     "status": "Active"
   },
   {
@@ -8880,7 +8887,7 @@
     "name": "Jared Wiley",
     "position": "TE",
     "team": "KC",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "9231",
