@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-11-20 00:59:28
+Generated: 2026-11-20 08:18:05
 
 ---
 
@@ -16,7 +16,7 @@ Available Players: 2800
 ## League Activity
 
 Trades: 0
-Waiver Claims: 3
+Waiver Claims: 5
 Free Agent Moves: 3
 
 ---
@@ -37,6 +37,8 @@ No trades.
 
 ## Top Waiver Claims
 
+- Chris Rodriguez Jr. → HebrewsHeroes
+- Chris Rodriguez Jr. → SammyA
 - Gavin Bartholomew → tylerhjensen
 - Chig Okonkwo → jmikolay
 - Gavin Bartholomew → jmikolay
@@ -45,6 +47,7 @@ No trades.
 
 ## Recently Dropped Players
 
+- Sione Vaki
 - Kendre Miller
 - Devin Singletary
 - Chris Brazzell II
@@ -56,6 +59,8 @@ No trades.
 - TheCreecher: 2 moves
 - tylerhjensen: 2 moves
 - jmikolay: 2 moves
+- HebrewsHeroes: 1 moves
+- SammyA: 1 moves
 
 ---
 

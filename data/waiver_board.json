@@ -5174,19 +5174,6 @@
     "roster_id": null
   },
   {
-    "id": "10219",
-    "name": "Chris Rodriguez Jr.",
-    "position": "RB",
-    "team": "JAX",
-    "age": 27,
-    "years_exp": 3,
-    "active": true,
-    "injury_status": "Questionable",
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
     "id": "11249",
     "name": "Chris Smith",
     "position": "RB",
@@ -10772,6 +10759,19 @@
     "years_exp": 9,
     "active": true,
     "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
+    "id": "11729",
+    "name": "Sione Vaki",
+    "position": "RB",
+    "team": "DET",
+    "age": 25,
+    "years_exp": 2,
+    "active": true,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null

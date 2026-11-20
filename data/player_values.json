@@ -553,7 +553,7 @@
     "age": 24,
     "years_exp": 3,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": true,
     "roster_id": 7,
@@ -3101,7 +3101,7 @@
     "age": 25,
     "years_exp": 0,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": true,
     "roster_id": 6,
@@ -3301,6 +3301,20 @@
     "bye_week": null,
     "rostered": false,
     "roster_id": null,
+    "gm_score": 80
+  },
+  {
+    "id": "10219",
+    "name": "Chris Rodriguez Jr.",
+    "position": "RB",
+    "team": "JAX",
+    "age": 27,
+    "years_exp": 3,
+    "active": true,
+    "injury_status": "Questionable",
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 6,
     "gm_score": 80
   },
   {
@@ -4015,20 +4029,6 @@
     "bye_week": null,
     "rostered": false,
     "roster_id": null,
-    "gm_score": 80
-  },
-  {
-    "id": "11729",
-    "name": "Sione Vaki",
-    "position": "RB",
-    "team": "DET",
-    "age": 25,
-    "years_exp": 2,
-    "active": true,
-    "injury_status": "Questionable",
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 6,
     "gm_score": 80
   },
   {
@@ -25984,20 +25984,6 @@
     "gm_score": 60
   },
   {
-    "id": "10219",
-    "name": "Chris Rodriguez Jr.",
-    "position": "RB",
-    "team": "JAX",
-    "age": 27,
-    "years_exp": 3,
-    "active": true,
-    "injury_status": "Questionable",
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 60
-  },
-  {
     "id": "5271",
     "name": "Buddy Howell",
     "position": "RB",
@@ -27686,6 +27672,20 @@
     "years_exp": 4,
     "active": true,
     "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 60
+  },
+  {
+    "id": "11729",
+    "name": "Sione Vaki",
+    "position": "RB",
+    "team": "DET",
+    "age": 25,
+    "years_exp": 2,
+    "active": true,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null,

@@ -3164,13 +3164,6 @@
     "status": "Active"
   },
   {
-    "id": "10219",
-    "name": "Chris Rodriguez Jr.",
-    "position": "RB",
-    "team": "JAX",
-    "status": "Active"
-  },
-  {
     "id": "7175",
     "name": "Chris Rowland",
     "position": "WR",
@@ -16839,6 +16832,13 @@
     "name": "Sione Houma",
     "position": "RB",
     "team": null,
+    "status": "Active"
+  },
+  {
+    "id": "11729",
+    "name": "Sione Vaki",
+    "position": "RB",
+    "team": "DET",
     "status": "Active"
   },
   {
