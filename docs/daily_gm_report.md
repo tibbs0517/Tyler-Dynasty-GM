@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-11-19 18:48:01
+Generated: 2026-11-20 00:59:28
 
 ---
 
@@ -9,7 +9,7 @@ Generated: 2026-11-19 18:48:01
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2798
+Available Players: 2800
 
 ---
 
@@ -17,7 +17,7 @@ Available Players: 2798
 
 Trades: 0
 Waiver Claims: 3
-Free Agent Moves: 1
+Free Agent Moves: 3
 
 ---
 
@@ -45,12 +45,15 @@ No trades.
 
 ## Recently Dropped Players
 
+- Kendre Miller
+- Devin Singletary
 - Chris Brazzell II
 
 ---
 
 ## Most Active Managers
 
+- TheCreecher: 2 moves
 - tylerhjensen: 2 moves
 - jmikolay: 2 moves
 

@@ -65,6 +65,10 @@
     "avatar": null,
     "company_id": null,
     "league_id": "1326711861197938688",
+    "shard": 470,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -111,27 +115,18 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "shard": 470,
-    "sport": "nfl",
-    "last_message_id": "1429053881270153216",
+    "last_message_id": "1429300232679608320",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
-    "draft_id": "1326711861202161664",
     "last_message_text_map": null,
-    "last_message_time": 1795075505133,
+    "last_message_time": 1795134239886,
     "last_pinned_message_id": null,
+    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "previous_league_id": "1228352285197746179",
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -156,6 +151,11 @@
       "BN",
       "BN"
     ],
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -979,7 +979,7 @@
         "4217",
         "5844",
         "10859",
-        "13425"
+        "12533"
       ],
       "taxi": null
     },
@@ -1329,21 +1329,17 @@
         "4017",
         "4993",
         "5859",
-        "6130",
         "6790",
         "6797",
         "7526",
         "7569",
         "8146",
         "9482",
-        "9757",
         "9758"
       ],
       "reserve": [
         "11618",
-        "12534",
-        "13279",
-        "7526"
+        "5859"
       ],
       "roster_id": 10,
       "settings": {
@@ -1361,7 +1357,7 @@
         "wins": 7
       },
       "starters": [
-        "11566",
+        "9758",
         "3198",
         "13345",
         "7569",
@@ -1370,7 +1366,7 @@
         "11604",
         "13281",
         "12527",
-        "9758"
+        "11566"
       ],
       "taxi": null
     }
@@ -8281,7 +8277,7 @@
     "11721": {
       "name": "Bralen Trice",
       "position": "DE",
-      "team": null,
+      "team": "DAL",
       "status": "Active",
       "active": true
     },
@@ -26516,7 +26512,7 @@
     "12382": {
       "name": "Jake Kubas",
       "position": "OG",
-      "team": null,
+      "team": "DAL",
       "status": "Active",
       "active": true
     },
@@ -29842,7 +29838,7 @@
       "name": "Puka Nacua",
       "position": "WR",
       "team": "LAR",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "106": {
@@ -54089,7 +54085,7 @@
     "11210": {
       "name": "Malik Heath",
       "position": "WR",
-      "team": "ATL",
+      "team": "WAS",
       "status": "Active",
       "active": true
     },
@@ -56610,7 +56606,7 @@
       "name": "Jaylin Smith",
       "position": "CB",
       "team": "HOU",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "11926": {
@@ -68537,7 +68533,7 @@
     "7050": {
       "name": "Josiah Deguara",
       "position": "TE",
-      "team": null,
+      "team": "LAC",
       "status": "Active",
       "active": true
     },
@@ -76699,7 +76695,7 @@
     "13978": {
       "name": "Albert Reese",
       "position": "OT",
-      "team": null,
+      "team": "CAR",
       "status": "Active",
       "active": true
     },
@@ -92442,6 +92438,13 @@
       "status": "Active"
     },
     {
+      "id": "6130",
+      "name": "Devin Singletary",
+      "position": "RB",
+      "team": "NYG",
+      "status": "Active"
+    },
+    {
       "id": "2342",
       "name": "Devin Smith",
       "position": "WR",
@@ -97653,7 +97656,7 @@
       "id": "7050",
       "name": "Josiah Deguara",
       "position": "TE",
-      "team": null,
+      "team": "LAC",
       "status": "Active"
     },
     {
@@ -98410,6 +98413,13 @@
       "name": "Kendall Milton",
       "position": "RB",
       "team": "CIN",
+      "status": "Active"
+    },
+    {
+      "id": "9757",
+      "name": "Kendre Miller",
+      "position": "RB",
+      "team": "DAL",
       "status": "Active"
     },
     {
@@ -99830,7 +99840,7 @@
       "id": "11210",
       "name": "Malik Heath",
       "position": "WR",
-      "team": "ATL",
+      "team": "WAS",
       "status": "Active"
     },
     {

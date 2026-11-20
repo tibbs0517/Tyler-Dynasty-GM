@@ -5460,6 +5460,13 @@
     "status": "Active"
   },
   {
+    "id": "6130",
+    "name": "Devin Singletary",
+    "position": "RB",
+    "team": "NYG",
+    "status": "Active"
+  },
+  {
     "id": "2342",
     "name": "Devin Smith",
     "position": "WR",
@@ -10671,7 +10678,7 @@
     "id": "7050",
     "name": "Josiah Deguara",
     "position": "TE",
-    "team": null,
+    "team": "LAC",
     "status": "Active"
   },
   {
@@ -11428,6 +11435,13 @@
     "name": "Kendall Milton",
     "position": "RB",
     "team": "CIN",
+    "status": "Active"
+  },
+  {
+    "id": "9757",
+    "name": "Kendre Miller",
+    "position": "RB",
+    "team": "DAL",
     "status": "Active"
   },
   {
@@ -12848,7 +12862,7 @@
     "id": "11210",
     "name": "Malik Heath",
     "position": "WR",
-    "team": "ATL",
+    "team": "WAS",
     "status": "Active"
   },
   {

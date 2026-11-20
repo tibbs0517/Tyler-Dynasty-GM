@@ -6904,7 +6904,7 @@
   "11721": {
     "name": "Bralen Trice",
     "position": "DE",
-    "team": null,
+    "team": "DAL",
     "status": "Active",
     "active": true
   },
@@ -25139,7 +25139,7 @@
   "12382": {
     "name": "Jake Kubas",
     "position": "OG",
-    "team": null,
+    "team": "DAL",
     "status": "Active",
     "active": true
   },
@@ -28465,7 +28465,7 @@
     "name": "Puka Nacua",
     "position": "WR",
     "team": "LAR",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "106": {
@@ -52712,7 +52712,7 @@
   "11210": {
     "name": "Malik Heath",
     "position": "WR",
-    "team": "ATL",
+    "team": "WAS",
     "status": "Active",
     "active": true
   },
@@ -55233,7 +55233,7 @@
     "name": "Jaylin Smith",
     "position": "CB",
     "team": "HOU",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "11926": {
@@ -67160,7 +67160,7 @@
   "7050": {
     "name": "Josiah Deguara",
     "position": "TE",
-    "team": null,
+    "team": "LAC",
     "status": "Active",
     "active": true
   },
@@ -75322,7 +75322,7 @@
   "13978": {
     "name": "Albert Reese",
     "position": "OT",
-    "team": null,
+    "team": "CAR",
     "status": "Active",
     "active": true
   },
