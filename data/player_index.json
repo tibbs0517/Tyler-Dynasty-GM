@@ -2956,7 +2956,7 @@
   "8116": {
     "name": "Pierre Strong Jr.",
     "position": "RB",
-    "team": "GB",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -44235,7 +44235,7 @@
   "13697": {
     "name": "Da'Metrius Weatherspoon",
     "position": "OL",
-    "team": "CAR",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -69505,7 +69505,7 @@
   "5036": {
     "name": "Justin Reid",
     "position": "DB",
-    "team": "NO",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -77625,7 +77625,7 @@
   "7865": {
     "name": "Brandon Smith",
     "position": "WR",
-    "team": "PIT",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -81300,7 +81300,7 @@
   "4293": {
     "name": "Daniel Brunskill",
     "position": "OL",
-    "team": "LAC",
+    "team": null,
     "status": "Active",
     "active": true
   },

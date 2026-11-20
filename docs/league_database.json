@@ -69,6 +69,7 @@
     "season": "2026",
     "season_type": "regular",
     "sport": "nfl",
+    "last_message_id": "1429484863248936960",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -115,18 +116,22 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1429416301025067008",
-    "draft_id": "1326711861202161664",
-    "last_author_avatar": null,
-    "last_author_display_name": "sys",
-    "last_author_id": "166666666666666666",
-    "last_author_is_bot": true,
+    "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
+    "last_author_display_name": "HebrewsHeroes",
+    "last_author_id": "434689597088198656",
+    "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1795161912736,
+    "last_message_time": 1795178259244,
     "last_pinned_message_id": null,
+    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "previous_league_id": "1228352285197746179",
+    "bracket_id": null,
+    "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -151,11 +156,6 @@
       "BN",
       "BN"
     ],
-    "bracket_id": null,
-    "bracket_overrides_id": null,
-    "group_id": null,
-    "loser_bracket_id": null,
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -4329,7 +4329,7 @@
     "8116": {
       "name": "Pierre Strong Jr.",
       "position": "RB",
-      "team": "GB",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -45608,7 +45608,7 @@
     "13697": {
       "name": "Da'Metrius Weatherspoon",
       "position": "OL",
-      "team": "CAR",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -70878,7 +70878,7 @@
     "5036": {
       "name": "Justin Reid",
       "position": "DB",
-      "team": "NO",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -78998,7 +78998,7 @@
     "7865": {
       "name": "Brandon Smith",
       "position": "WR",
-      "team": "PIT",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -82673,7 +82673,7 @@
     "4293": {
       "name": "Daniel Brunskill",
       "position": "OL",
-      "team": "LAC",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -88654,7 +88654,7 @@
       "id": "7865",
       "name": "Brandon Smith",
       "position": "WR",
-      "team": "PIT",
+      "team": null,
       "status": "Active"
     },
     {
@@ -102115,7 +102115,7 @@
       "id": "8116",
       "name": "Pierre Strong Jr.",
       "position": "RB",
-      "team": "GB",
+      "team": null,
       "status": "Active"
     },
     {

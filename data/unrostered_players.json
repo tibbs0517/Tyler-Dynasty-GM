@@ -1676,7 +1676,7 @@
     "id": "7865",
     "name": "Brandon Smith",
     "position": "WR",
-    "team": "PIT",
+    "team": null,
     "status": "Active"
   },
   {
@@ -15137,7 +15137,7 @@
     "id": "8116",
     "name": "Pierre Strong Jr.",
     "position": "RB",
-    "team": "GB",
+    "team": null,
     "status": "Active"
   },
   {
