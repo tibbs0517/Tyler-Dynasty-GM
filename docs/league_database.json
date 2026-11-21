@@ -60,10 +60,15 @@
       "daily_waivers_base": 4,
       "reserve_slots": 4,
       "reserve_allow_cov": 1,
-      "daily_waivers_last_ran": 20
+      "daily_waivers_last_ran": 21
     },
     "avatar": null,
     "company_id": null,
+    "league_id": "1326711861197938688",
+    "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "shard": 470,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -110,26 +115,21 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "season": "2026",
-    "sport": "nfl",
-    "season_type": "regular",
-    "shard": 470,
-    "league_id": "1326711861197938688",
-    "last_message_id": "1429484863248936960",
-    "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
-    "last_author_display_name": "HebrewsHeroes",
-    "last_author_id": "434689597088198656",
-    "last_author_is_bot": false,
+    "last_message_id": "1429778869480620032",
+    "last_author_avatar": null,
+    "last_author_display_name": "sys",
+    "last_author_id": "166666666666666666",
+    "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1795178259244,
+    "last_message_time": 1795248355792,
     "last_pinned_message_id": null,
-    "last_read_id": null,
     "draft_id": "1326711861202161664",
+    "last_read_id": null,
     "previous_league_id": "1228352285197746179",
-    "group_id": null,
     "bracket_id": null,
     "bracket_overrides_id": null,
+    "group_id": null,
     "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "roster_positions": [
@@ -815,7 +815,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 41,
-        "waiver_position": 8,
+        "waiver_position": 7,
         "wins": 4
       },
       "starters": [
@@ -1041,7 +1041,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 21,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 8
       },
       "starters": [
@@ -1079,12 +1079,12 @@
         "11643",
         "12487",
         "12492",
-        "12542",
         "13296",
         "13301",
         "13394",
         "13413",
         "13421",
+        "2505",
         "4199",
         "5846",
         "5995",
@@ -1118,7 +1118,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 70,
-        "waiver_position": 7,
+        "waiver_position": 10,
         "wins": 7
       },
       "starters": [
@@ -1128,7 +1128,7 @@
         "7547",
         "13296",
         "12492",
-        "10236",
+        "2505",
         "5846",
         "7564",
         "8183"
@@ -1280,7 +1280,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 76,
-        "waiver_position": 9,
+        "waiver_position": 8,
         "wins": 5
       },
       "starters": [
@@ -91528,13 +91528,6 @@
       "status": "Injured Reserve"
     },
     {
-      "id": "2505",
-      "name": "Darren Waller",
-      "position": "TE",
-      "team": "CAR",
-      "status": "Active"
-    },
-    {
       "id": "4676",
       "name": "Darreus Rogers",
       "position": "WR",
@@ -93191,6 +93184,13 @@
       "name": "Ed Lee",
       "position": "WR",
       "team": null,
+      "status": "Active"
+    },
+    {
+      "id": "12542",
+      "name": "Efton Chism III",
+      "position": "WR",
+      "team": "NE",
       "status": "Active"
     },
     {

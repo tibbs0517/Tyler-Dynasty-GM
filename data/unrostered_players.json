@@ -4550,13 +4550,6 @@
     "status": "Injured Reserve"
   },
   {
-    "id": "2505",
-    "name": "Darren Waller",
-    "position": "TE",
-    "team": "CAR",
-    "status": "Active"
-  },
-  {
     "id": "4676",
     "name": "Darreus Rogers",
     "position": "WR",
@@ -6213,6 +6206,13 @@
     "name": "Ed Lee",
     "position": "WR",
     "team": null,
+    "status": "Active"
+  },
+  {
+    "id": "12542",
+    "name": "Efton Chism III",
+    "position": "WR",
+    "team": "NE",
     "status": "Active"
   },
   {

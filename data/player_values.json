@@ -574,20 +574,6 @@
     "gm_score": 93
   },
   {
-    "id": "12542",
-    "name": "Efton Chism III",
-    "position": "WR",
-    "team": "NE",
-    "age": 25,
-    "years_exp": 1,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 7,
-    "gm_score": 93
-  },
-  {
     "id": "11610",
     "name": "Malik Washington",
     "position": "WR",
@@ -7215,6 +7201,20 @@
     "position": "WR",
     "team": null,
     "age": 24,
+    "years_exp": 1,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 73
+  },
+  {
+    "id": "12542",
+    "name": "Efton Chism III",
+    "position": "WR",
+    "team": "NE",
+    "age": 25,
     "years_exp": 1,
     "active": true,
     "injury_status": null,
@@ -23517,6 +23517,20 @@
     "bye_week": null,
     "rostered": true,
     "roster_id": 9,
+    "gm_score": 62
+  },
+  {
+    "id": "2505",
+    "name": "Darren Waller",
+    "position": "TE",
+    "team": "CAR",
+    "age": 34,
+    "years_exp": 11,
+    "active": true,
+    "injury_status": "Questionable",
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 7,
     "gm_score": 62
   },
   {
@@ -42498,20 +42512,6 @@
     "years_exp": 9,
     "active": true,
     "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 42
-  },
-  {
-    "id": "2505",
-    "name": "Darren Waller",
-    "position": "TE",
-    "team": "CAR",
-    "age": 34,
-    "years_exp": 11,
-    "active": true,
-    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null,

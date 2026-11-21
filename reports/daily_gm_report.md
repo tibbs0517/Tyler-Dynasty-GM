@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-11-21 05:23:12
+Generated: 2026-11-21 14:05:24
 
 ---
 
@@ -16,7 +16,7 @@ Available Players: 2800
 ## League Activity
 
 Trades: 0
-Waiver Claims: 5
+Waiver Claims: 8
 Free Agent Moves: 3
 
 ---
@@ -37,6 +37,9 @@ No trades.
 
 ## Top Waiver Claims
 
+- Darren Waller → HebrewsHeroes
+- Will Shipley → HebrewsHeroes
+- Sione Vaki → HebrewsHeroes
 - Chris Rodriguez Jr. → HebrewsHeroes
 - Chris Rodriguez Jr. → SammyA
 - Gavin Bartholomew → tylerhjensen
@@ -47,6 +50,7 @@ No trades.
 
 ## Recently Dropped Players
 
+- Efton Chism III
 - Sione Vaki
 - Kendre Miller
 - Devin Singletary
@@ -56,10 +60,10 @@ No trades.
 
 ## Most Active Managers
 
+- HebrewsHeroes: 4 moves
 - TheCreecher: 2 moves
 - tylerhjensen: 2 moves
 - jmikolay: 2 moves
-- HebrewsHeroes: 1 moves
 - SammyA: 1 moves
 
 ---
