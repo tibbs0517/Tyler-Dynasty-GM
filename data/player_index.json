@@ -1074,7 +1074,7 @@
     "name": "Oren Burks",
     "position": "LB",
     "team": "CIN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "13295": {
@@ -8472,7 +8472,7 @@
   "5870": {
     "name": "Daniel Jones",
     "position": "QB",
-    "team": "IND",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -49219,7 +49219,7 @@
   "7077": {
     "name": "Jacob Bobenmoyer",
     "position": "LS",
-    "team": "IND",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -54316,7 +54316,7 @@
     "name": "Tyjae Spears",
     "position": "RB",
     "team": "TEN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "11570": {
@@ -70156,7 +70156,7 @@
   "7559": {
     "name": "Ihmir Smith-Marsette",
     "position": "WR",
-    "team": "CAR",
+    "team": null,
     "status": "Active",
     "active": true
   },

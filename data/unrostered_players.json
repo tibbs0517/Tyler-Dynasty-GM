@@ -4287,7 +4287,7 @@
     "id": "5870",
     "name": "Daniel Jones",
     "position": "QB",
-    "team": "IND",
+    "team": null,
     "status": "Active"
   },
   {
@@ -7402,7 +7402,7 @@
     "id": "7559",
     "name": "Ihmir Smith-Marsette",
     "position": "WR",
-    "team": "CAR",
+    "team": null,
     "status": "Active"
   },
   {

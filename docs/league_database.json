@@ -65,10 +65,11 @@
     "avatar": null,
     "company_id": null,
     "league_id": "1326711861197938688",
+    "last_message_id": "1429778869480620032",
     "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "shard": 470,
+    "season": "2026",
+    "season_type": "regular",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -115,7 +116,6 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1429778869480620032",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -2447,7 +2447,7 @@
       "name": "Oren Burks",
       "position": "LB",
       "team": "CIN",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "13295": {
@@ -9845,7 +9845,7 @@
     "5870": {
       "name": "Daniel Jones",
       "position": "QB",
-      "team": "IND",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -50592,7 +50592,7 @@
     "7077": {
       "name": "Jacob Bobenmoyer",
       "position": "LS",
-      "team": "IND",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -55689,7 +55689,7 @@
       "name": "Tyjae Spears",
       "position": "RB",
       "team": "TEN",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "11570": {
@@ -71529,7 +71529,7 @@
     "7559": {
       "name": "Ihmir Smith-Marsette",
       "position": "WR",
-      "team": "CAR",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -91265,7 +91265,7 @@
       "id": "5870",
       "name": "Daniel Jones",
       "position": "QB",
-      "team": "IND",
+      "team": null,
       "status": "Active"
     },
     {
@@ -94380,7 +94380,7 @@
       "id": "7559",
       "name": "Ihmir Smith-Marsette",
       "position": "WR",
-      "team": "CAR",
+      "team": null,
       "status": "Active"
     },
     {

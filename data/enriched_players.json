@@ -1996,7 +1996,7 @@
     "age": 31,
     "years_exp": 8,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -3179,7 +3179,7 @@
     "age": 25,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -5285,7 +5285,7 @@
     "age": 28,
     "years_exp": 7,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -9172,7 +9172,7 @@
     "age": 27,
     "years_exp": 4,
     "active": true,
-    "injury_status": "Out",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -15733,7 +15733,7 @@
     "id": "5870",
     "name": "Daniel Jones",
     "position": "QB",
-    "team": "IND",
+    "team": null,
     "age": 29,
     "years_exp": 7,
     "active": true,
@@ -38786,7 +38786,7 @@
     "age": 24,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": true,
     "roster_id": 2
@@ -42374,7 +42374,7 @@
     "age": 25,
     "years_exp": 2,
     "active": true,
-    "injury_status": "IR",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": true,
     "roster_id": 3
@@ -48588,7 +48588,7 @@
     "age": 28,
     "years_exp": 4,
     "active": true,
-    "injury_status": "PUP",
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -91406,7 +91406,7 @@
     "id": "7077",
     "name": "Jacob Bobenmoyer",
     "position": "LS",
-    "team": "IND",
+    "team": null,
     "age": 29,
     "years_exp": 6,
     "active": true,
@@ -100874,7 +100874,7 @@
     "age": 25,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "IR",
     "bye_week": null,
     "rostered": true,
     "roster_id": 9
@@ -130289,7 +130289,7 @@
     "id": "7559",
     "name": "Ihmir Smith-Marsette",
     "position": "WR",
-    "team": "CAR",
+    "team": null,
     "age": 27,
     "years_exp": 5,
     "active": true,
@@ -133660,7 +133660,7 @@
     "age": 31,
     "years_exp": 7,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -136923,7 +136923,7 @@
     "age": 24,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -144307,7 +144307,7 @@
     "age": 27,
     "years_exp": 4,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
