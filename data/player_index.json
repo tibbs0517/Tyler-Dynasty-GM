@@ -464,7 +464,7 @@
   "10938": {
     "name": "D.J. Johnson",
     "position": "LB",
-    "team": "GB",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -8395,7 +8395,7 @@
   "2197": {
     "name": "Brandin Cooks",
     "position": "WR",
-    "team": "SF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -61854,7 +61854,7 @@
   "965": {
     "name": "Jake McQuaide",
     "position": "LS",
-    "team": "LAR",
+    "team": null,
     "status": "Active",
     "active": true
   },

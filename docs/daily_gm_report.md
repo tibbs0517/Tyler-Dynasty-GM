@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-11-22 15:52:15
+Generated: 2026-11-22 21:28:14
 
 ---
 

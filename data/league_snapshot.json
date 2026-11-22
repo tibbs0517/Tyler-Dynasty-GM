@@ -65,10 +65,10 @@
     "avatar": null,
     "company_id": null,
     "league_id": "1326711861197938688",
-    "sport": "nfl",
-    "season_type": "regular",
+    "shard": 470,
     "season": "2026",
-    "last_message_id": "1429778869480620032",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -115,18 +115,18 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "shard": 470,
-    "draft_id": "1326711861202161664",
+    "last_message_id": "1430316181927002112",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1795248355792,
+    "last_message_time": 1795376461063,
     "last_pinned_message_id": null,
-    "previous_league_id": "1228352285197746179",
     "last_read_id": null,
+    "draft_id": "1326711861202161664",
+    "previous_league_id": "1228352285197746179",
     "roster_positions": [
       "QB",
       "RB",
@@ -798,9 +798,9 @@
         "9502"
       ],
       "reserve": [
-        "11630",
         "5927",
         "6819",
+        "8110",
         "8161"
       ],
       "roster_id": 3,
@@ -827,8 +827,8 @@
         "11637",
         "12700",
         "10213",
-        "11834",
-        "12494"
+        "11630",
+        "4892"
       ],
       "taxi": null
     },
@@ -1127,9 +1127,9 @@
         "8155",
         "7547",
         "13296",
-        "12492",
-        "2505",
         "5846",
+        "2505",
+        "12492",
         "7564",
         "8183"
       ],
@@ -1204,12 +1204,12 @@
         "7588",
         "5892",
         "8148",
-        "5947",
+        "12514",
         "5872",
         "12518",
         "9480",
-        "13274",
-        "96"
+        "6806",
+        "13269"
       ],
       "taxi": null
     },
@@ -1363,7 +1363,7 @@
         "7569",
         "8146",
         "12519",
-        "11604",
+        "9482",
         "13345",
         "12527",
         "11566"
