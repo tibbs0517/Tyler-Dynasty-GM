@@ -24173,8 +24173,8 @@
   "8750": {
     "name": "Michael Niese",
     "position": "G",
-    "team": null,
-    "status": "Inactive",
+    "team": "LAR",
+    "status": "Active",
     "active": true
   },
   "6283": {
@@ -28465,7 +28465,7 @@
     "name": "Puka Nacua",
     "position": "WR",
     "team": "LAR",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "106": {
