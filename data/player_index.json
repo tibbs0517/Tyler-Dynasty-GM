@@ -1704,7 +1704,7 @@
     "name": "Cade Mays",
     "position": "OL",
     "team": "DET",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "10940": {
@@ -2956,7 +2956,7 @@
   "8116": {
     "name": "Pierre Strong Jr.",
     "position": "RB",
-    "team": null,
+    "team": "GB",
     "status": "Active",
     "active": true
   },
@@ -4938,7 +4938,7 @@
     "name": "DaRon Bland",
     "position": "DB",
     "team": "DAL",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "409": {
@@ -8186,7 +8186,7 @@
     "name": "Mike Jackson",
     "position": "CB",
     "team": "CAR",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "6820": {
@@ -14073,7 +14073,7 @@
     "name": "C.J. West",
     "position": "DT",
     "team": "SF",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "1305": {
@@ -18000,7 +18000,7 @@
     "name": "Dontayvion Wicks",
     "position": "WR",
     "team": "PHI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "7122": {
@@ -22816,7 +22816,7 @@
     "name": "Roman Wilson",
     "position": "WR",
     "team": "PIT",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "1606": {
@@ -29830,7 +29830,7 @@
     "name": "Will Shipley",
     "position": "RB",
     "team": "PHI",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "12540": {
@@ -35976,7 +35976,7 @@
     "name": "Rodney Shelley",
     "position": "CB",
     "team": "LAC",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "12181": {
@@ -36837,7 +36837,7 @@
     "name": "Isaiah Simmons",
     "position": "DB",
     "team": "CAR",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "465": {
@@ -56276,7 +56276,7 @@
     "name": "Trey Pipkins III",
     "position": "T",
     "team": "LAC",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "207": {
@@ -64781,7 +64781,7 @@
     "name": "Zack Baun",
     "position": "LB",
     "team": "PHI",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "326": {

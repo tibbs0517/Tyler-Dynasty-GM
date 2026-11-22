@@ -5807,7 +5807,7 @@
     "name": "Dontayvion Wicks",
     "position": "WR",
     "team": "PHI",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "1971",
@@ -15137,7 +15137,7 @@
     "id": "8116",
     "name": "Pierre Strong Jr.",
     "position": "RB",
-    "team": null,
+    "team": "GB",
     "status": "Active"
   },
   {
@@ -19212,7 +19212,7 @@
     "name": "Will Shipley",
     "position": "RB",
     "team": "PHI",
-    "status": "Inactive"
+    "status": "Active"
   },
   {
     "id": "3157",
