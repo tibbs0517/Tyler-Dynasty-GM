@@ -3757,19 +3757,6 @@
     "roster_id": null
   },
   {
-    "id": "11292",
-    "name": "Tommy DeVito",
-    "position": "QB",
-    "team": "NE",
-    "age": 28,
-    "years_exp": 3,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
     "id": "5974",
     "name": "Trace McSorley",
     "position": "QB",
@@ -7624,6 +7611,19 @@
     "team": null,
     "age": 25,
     "years_exp": 4,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
+    "id": "11643",
+    "name": "Jaylen Wright",
+    "position": "RB",
+    "team": "MIA",
+    "age": 23,
+    "years_exp": 2,
     "active": true,
     "injury_status": null,
     "bye_week": null,

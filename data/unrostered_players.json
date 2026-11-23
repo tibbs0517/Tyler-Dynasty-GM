@@ -9156,6 +9156,13 @@
     "status": "Active"
   },
   {
+    "id": "11643",
+    "name": "Jaylen Wright",
+    "position": "RB",
+    "team": "MIA",
+    "status": "Active"
+  },
+  {
     "id": "12641",
     "name": "Jaylin Lane",
     "position": "WR",
@@ -17904,13 +17911,6 @@
     "position": "QB",
     "team": null,
     "status": "Inactive"
-  },
-  {
-    "id": "11292",
-    "name": "Tommy DeVito",
-    "position": "QB",
-    "team": "NE",
-    "status": "Active"
   },
   {
     "id": "7439",

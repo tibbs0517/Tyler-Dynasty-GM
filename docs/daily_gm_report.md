@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-11-23 02:09:49
+Generated: 2026-11-23 11:42:20
 
 ---
 
@@ -16,7 +16,7 @@ Available Players: 2800
 ## League Activity
 
 Trades: 0
-Waiver Claims: 8
+Waiver Claims: 9
 Free Agent Moves: 3
 
 ---
@@ -37,6 +37,7 @@ No trades.
 
 ## Top Waiver Claims
 
+- Tommy DeVito → HebrewsHeroes
 - Darren Waller → HebrewsHeroes
 - Will Shipley → HebrewsHeroes
 - Sione Vaki → HebrewsHeroes
@@ -50,6 +51,7 @@ No trades.
 
 ## Recently Dropped Players
 
+- Jaylen Wright
 - Efton Chism III
 - Sione Vaki
 - Kendre Miller
@@ -60,7 +62,7 @@ No trades.
 
 ## Most Active Managers
 
-- HebrewsHeroes: 4 moves
+- HebrewsHeroes: 5 moves
 - TheCreecher: 2 moves
 - tylerhjensen: 2 moves
 - jmikolay: 2 moves
