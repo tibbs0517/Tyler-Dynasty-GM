@@ -1658,7 +1658,7 @@
     "age": 23,
     "years_exp": 0,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -3270,7 +3270,7 @@
     "age": 27,
     "years_exp": 5,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -4489,7 +4489,7 @@
     "name": "Justin Skule",
     "position": "OT",
     "team": "TB",
-    "age": 29,
+    "age": 30,
     "years_exp": 7,
     "active": true,
     "injury_status": null,
@@ -13059,7 +13059,7 @@
     "age": 26,
     "years_exp": 5,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -19894,7 +19894,7 @@
     "name": "Jonas Sanker",
     "position": "DB",
     "team": "NO",
-    "age": 23,
+    "age": 24,
     "years_exp": 1,
     "active": true,
     "injury_status": null,
@@ -23511,7 +23511,7 @@
     "age": 32,
     "years_exp": 9,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -28152,7 +28152,7 @@
     "age": 32,
     "years_exp": 10,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -29868,7 +29868,7 @@
     "age": 28,
     "years_exp": 6,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": true,
     "roster_id": 10
@@ -33713,7 +33713,7 @@
     "name": "Jake Moody",
     "position": "K",
     "team": "ATL",
-    "age": 26,
+    "age": 27,
     "years_exp": 3,
     "active": true,
     "injury_status": null,
@@ -36537,7 +36537,7 @@
     "age": 24,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -44012,7 +44012,7 @@
     "age": 24,
     "years_exp": 3,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": true,
     "roster_id": 7
@@ -44376,7 +44376,7 @@
     "age": 26,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -47041,7 +47041,7 @@
     "age": 33,
     "years_exp": 12,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": true,
     "roster_id": 3
@@ -50239,7 +50239,7 @@
     "age": 27,
     "years_exp": 6,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -50912,7 +50912,7 @@
     "name": "Tim Patrick",
     "position": "WR",
     "team": "NYJ",
-    "age": 32,
+    "age": 33,
     "years_exp": 9,
     "active": true,
     "injury_status": null,
@@ -56193,7 +56193,7 @@
     "age": 30,
     "years_exp": 9,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -57532,7 +57532,7 @@
     "age": 29,
     "years_exp": 8,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": true,
     "roster_id": 2
@@ -67204,7 +67204,7 @@
     "age": 31,
     "years_exp": 7,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -70490,7 +70490,7 @@
     "name": "Tyrone Tracy Jr.",
     "position": "RB",
     "team": "NYG",
-    "age": 26,
+    "age": 27,
     "years_exp": 2,
     "active": true,
     "injury_status": "IR",
@@ -70558,7 +70558,7 @@
     "age": 25,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -84273,7 +84273,7 @@
     "age": 28,
     "years_exp": 6,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -85339,7 +85339,7 @@
     "age": 26,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -97871,7 +97871,7 @@
     "age": 25,
     "years_exp": 2,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -101797,7 +101797,7 @@
     "age": 24,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -110520,7 +110520,7 @@
     "age": 28,
     "years_exp": 6,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -112366,7 +112366,7 @@
     "age": 27,
     "years_exp": 4,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -121635,7 +121635,7 @@
     "age": 22,
     "years_exp": 1,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -122519,7 +122519,7 @@
     "age": 27,
     "years_exp": 5,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -128096,7 +128096,7 @@
     "age": 23,
     "years_exp": 0,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -132903,7 +132903,7 @@
     "name": "Chris Roland-Wallace",
     "position": "CB",
     "team": "KC",
-    "age": 24,
+    "age": 25,
     "years_exp": 2,
     "active": true,
     "injury_status": null,
@@ -139484,7 +139484,7 @@
     "age": 29,
     "years_exp": 7,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -145461,7 +145461,7 @@
     "name": "Johnny Mundt",
     "position": "TE",
     "team": "PHI",
-    "age": 31,
+    "age": 32,
     "years_exp": 9,
     "active": true,
     "injury_status": null,
@@ -145477,7 +145477,7 @@
     "age": 28,
     "years_exp": 5,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -147167,7 +147167,7 @@
     "age": 33,
     "years_exp": 10,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -149728,7 +149728,7 @@
     "age": 30,
     "years_exp": 9,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -150053,7 +150053,7 @@
     "age": 25,
     "years_exp": 0,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
