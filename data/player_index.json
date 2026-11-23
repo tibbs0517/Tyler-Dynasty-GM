@@ -6918,7 +6918,7 @@
   "8278": {
     "name": "Christian Harris",
     "position": "LB",
-    "team": "ATL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -33182,7 +33182,7 @@
   "10972": {
     "name": "Terell Smith",
     "position": "DB",
-    "team": null,
+    "team": "ATL",
     "status": "Active",
     "active": true
   },
@@ -33764,7 +33764,7 @@
     "name": "Jacory Croskey-Merritt",
     "position": "RB",
     "team": "WAS",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "12448": {
@@ -35450,7 +35450,7 @@
   "7329": {
     "name": "Cole Christiansen",
     "position": "LB",
-    "team": null,
+    "team": "KC",
     "status": "Active",
     "active": true
   },
@@ -38124,7 +38124,7 @@
   "14059": {
     "name": "Sean Fresch Jr.",
     "position": "CB",
-    "team": null,
+    "team": "DEN",
     "status": "Active",
     "active": true
   },
@@ -41324,7 +41324,7 @@
     "name": "Brian Parker II",
     "position": "OT",
     "team": "CIN",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "8112": {
@@ -48037,7 +48037,7 @@
     "name": "Swayze Bozeman",
     "position": "LB",
     "team": "CIN",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "873": {
@@ -52033,7 +52033,7 @@
   "10223": {
     "name": "Eric Gray",
     "position": "RB",
-    "team": null,
+    "team": "IND",
     "status": "Active",
     "active": true
   },
@@ -72718,7 +72718,7 @@
   "13609": {
     "name": "Tristan Leigh",
     "position": "OL",
-    "team": null,
+    "team": "MIN",
     "status": "Active",
     "active": true
   },
@@ -81356,7 +81356,7 @@
   "13917": {
     "name": "Marlen Sewell",
     "position": "DB",
-    "team": null,
+    "team": "CHI",
     "status": "Active",
     "active": true
   },
