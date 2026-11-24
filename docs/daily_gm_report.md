@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-11-23 23:17:28
+Generated: 2026-11-24 08:06:08
 
 ---
 
@@ -15,7 +15,7 @@ Available Players: 2800
 
 ## League Activity
 
-Trades: 0
+Trades: 2
 Waiver Claims: 9
 Free Agent Moves: 3
 
@@ -31,7 +31,8 @@ Players on Roster: 26
 
 ## Recent Trades
 
-No trades.
+- jaredgratz ↔ HebrewsHeroes
+- jaredgratz ↔ HebrewsHeroes
 
 ---
 
@@ -51,6 +52,8 @@ No trades.
 
 ## Recently Dropped Players
 
+- Travis Etienne Jr.
+- Travis Etienne Jr.
 - Jaylen Wright
 - Efton Chism III
 - Sione Vaki
@@ -62,7 +65,8 @@ No trades.
 
 ## Most Active Managers
 
-- HebrewsHeroes: 5 moves
+- HebrewsHeroes: 7 moves
+- jaredgratz: 2 moves
 - TheCreecher: 2 moves
 - tylerhjensen: 2 moves
 - jmikolay: 2 moves
