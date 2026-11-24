@@ -3069,7 +3069,7 @@
     "id": "11963",
     "name": "Chris Collier",
     "position": "RB",
-    "team": "LV",
+    "team": null,
     "status": "Inactive"
   },
   {
@@ -6170,7 +6170,7 @@
     "id": "13778",
     "name": "EJ Smith",
     "position": "RB",
-    "team": "KC",
+    "team": null,
     "status": "Active"
   },
   {
@@ -10489,7 +10489,7 @@
     "id": "13312",
     "name": "Josh Kattus",
     "position": "TE",
-    "team": "CIN",
+    "team": null,
     "status": "Active"
   },
   {
@@ -11252,7 +11252,7 @@
     "id": "11648",
     "name": "Kedon Slovis",
     "position": "QB",
-    "team": "BAL",
+    "team": null,
     "status": "Active"
   },
   {
@@ -14073,7 +14073,7 @@
     "id": "13310",
     "name": "Miller Moss",
     "position": "QB",
-    "team": "CHI",
+    "team": null,
     "status": "Active"
   },
   {

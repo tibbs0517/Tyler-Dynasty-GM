@@ -3292,7 +3292,7 @@
   "13566": {
     "name": "Max Llewellyn",
     "position": "DE",
-    "team": "MIA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -9221,7 +9221,7 @@
   "13310": {
     "name": "Miller Moss",
     "position": "QB",
-    "team": "CHI",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -15031,7 +15031,7 @@
   "10922": {
     "name": "Wanya Morris",
     "position": "OL",
-    "team": "DAL",
+    "team": "IND",
     "status": "Active",
     "active": true
   },
@@ -25209,7 +25209,7 @@
   "5048": {
     "name": "Isaac Yiadom",
     "position": "CB",
-    "team": "WAS",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -32839,7 +32839,7 @@
   "11648": {
     "name": "Kedon Slovis",
     "position": "QB",
-    "team": "BAL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -53216,7 +53216,7 @@
   "13048": {
     "name": "Jared Ivey",
     "position": "DE",
-    "team": "ATL",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -61070,7 +61070,7 @@
   "11251": {
     "name": "Shaka Heyward",
     "position": "LB",
-    "team": "MIA",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -64073,7 +64073,7 @@
   "7727": {
     "name": "Cameron Sample",
     "position": "DE",
-    "team": null,
+    "team": "IND",
     "status": "Active",
     "active": true
   },
@@ -66551,7 +66551,7 @@
   "6803": {
     "name": "Brandon Aiyuk",
     "position": "WR",
-    "team": "SF",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -76386,7 +76386,7 @@
   "13778": {
     "name": "EJ Smith",
     "position": "RB",
-    "team": "KC",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -76512,7 +76512,7 @@
   "11963": {
     "name": "Chris Collier",
     "position": "RB",
-    "team": "LV",
+    "team": null,
     "status": "Inactive",
     "active": true
   },
@@ -83449,7 +83449,7 @@
   "13312": {
     "name": "Josh Kattus",
     "position": "TE",
-    "team": "CIN",
+    "team": null,
     "status": "Active",
     "active": true
   },

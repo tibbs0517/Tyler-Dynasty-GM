@@ -9,7 +9,7 @@
     },
     "settings": {
       "best_ball": 0,
-      "last_report": 10,
+      "last_report": 11,
       "waiver_budget": 100,
       "disable_adds": 0,
       "capacity_override": 0,
@@ -65,11 +65,6 @@
     "avatar": null,
     "company_id": null,
     "league_id": "1326711861197938688",
-    "last_message_id": "1430777951334440960",
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
-    "shard": 470,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -116,19 +111,26 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_author_avatar": "fec5e739d20e3468342d3021a07bfeb4",
-    "last_author_display_name": "jaredgratz",
-    "last_author_id": "334388238179381248",
-    "last_author_is_bot": false,
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
+    "last_message_id": "1431002920274374656",
+    "shard": 470,
+    "draft_id": "1326711861202161664",
+    "last_author_avatar": null,
+    "last_author_display_name": "sys",
+    "last_author_id": "166666666666666666",
+    "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1795486555469,
+    "last_message_time": 1795540192244,
     "last_pinned_message_id": null,
     "last_read_id": null,
-    "draft_id": "1326711861202161664",
     "previous_league_id": "1228352285197746179",
     "bracket_id": null,
     "bracket_overrides_id": null,
+    "group_id": null,
+    "loser_bracket_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -153,8 +155,6 @@
       "BN",
       "BN"
     ],
-    "group_id": null,
-    "loser_bracket_id": null,
     "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
@@ -1363,7 +1363,7 @@
         "7569",
         "8146",
         "12519",
-        "9482",
+        "11604",
         "13345",
         "12527",
         "11566"
@@ -4665,7 +4665,7 @@
     "13566": {
       "name": "Max Llewellyn",
       "position": "DE",
-      "team": "MIA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -10594,7 +10594,7 @@
     "13310": {
       "name": "Miller Moss",
       "position": "QB",
-      "team": "CHI",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -16404,7 +16404,7 @@
     "10922": {
       "name": "Wanya Morris",
       "position": "OL",
-      "team": "DAL",
+      "team": "IND",
       "status": "Active",
       "active": true
     },
@@ -26582,7 +26582,7 @@
     "5048": {
       "name": "Isaac Yiadom",
       "position": "CB",
-      "team": "WAS",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -34212,7 +34212,7 @@
     "11648": {
       "name": "Kedon Slovis",
       "position": "QB",
-      "team": "BAL",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -54589,7 +54589,7 @@
     "13048": {
       "name": "Jared Ivey",
       "position": "DE",
-      "team": "ATL",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -62443,7 +62443,7 @@
     "11251": {
       "name": "Shaka Heyward",
       "position": "LB",
-      "team": "MIA",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -65446,7 +65446,7 @@
     "7727": {
       "name": "Cameron Sample",
       "position": "DE",
-      "team": null,
+      "team": "IND",
       "status": "Active",
       "active": true
     },
@@ -67924,7 +67924,7 @@
     "6803": {
       "name": "Brandon Aiyuk",
       "position": "WR",
-      "team": "SF",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -77759,7 +77759,7 @@
     "13778": {
       "name": "EJ Smith",
       "position": "RB",
-      "team": "KC",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -77885,7 +77885,7 @@
     "11963": {
       "name": "Chris Collier",
       "position": "RB",
-      "team": "LV",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -84822,7 +84822,7 @@
     "13312": {
       "name": "Josh Kattus",
       "position": "TE",
-      "team": "CIN",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -90047,7 +90047,7 @@
       "id": "11963",
       "name": "Chris Collier",
       "position": "RB",
-      "team": "LV",
+      "team": null,
       "status": "Inactive"
     },
     {
@@ -93148,7 +93148,7 @@
       "id": "13778",
       "name": "EJ Smith",
       "position": "RB",
-      "team": "KC",
+      "team": null,
       "status": "Active"
     },
     {
@@ -97467,7 +97467,7 @@
       "id": "13312",
       "name": "Josh Kattus",
       "position": "TE",
-      "team": "CIN",
+      "team": null,
       "status": "Active"
     },
     {
@@ -98230,7 +98230,7 @@
       "id": "11648",
       "name": "Kedon Slovis",
       "position": "QB",
-      "team": "BAL",
+      "team": null,
       "status": "Active"
     },
     {
@@ -101051,7 +101051,7 @@
       "id": "13310",
       "name": "Miller Moss",
       "position": "QB",
-      "team": "CHI",
+      "team": null,
       "status": "Active"
     },
     {
