@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-11-25 03:19:17
+Generated: 2026-11-25 13:49:48
 
 ---
 
@@ -9,15 +9,15 @@ Generated: 2026-11-25 03:19:17
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2800
+Available Players: 2801
 
 ---
 
 ## League Activity
 
-Trades: 2
-Waiver Claims: 9
-Free Agent Moves: 3
+Trades: 0
+Waiver Claims: 0
+Free Agent Moves: 2
 
 ---
 
@@ -25,52 +25,31 @@ Free Agent Moves: 3
 
 Username: tylergratz
 Roster ID: 5
-Players on Roster: 26
+Players on Roster: 24
 
 ---
 
 ## Recent Trades
 
-- jaredgratz ↔ HebrewsHeroes
-- jaredgratz ↔ HebrewsHeroes
+No trades.
 
 ---
 
 ## Top Waiver Claims
 
-- Tommy DeVito → HebrewsHeroes
-- Darren Waller → HebrewsHeroes
-- Will Shipley → HebrewsHeroes
-- Sione Vaki → HebrewsHeroes
-- Chris Rodriguez Jr. → HebrewsHeroes
-- Chris Rodriguez Jr. → SammyA
-- Gavin Bartholomew → tylerhjensen
-- Chig Okonkwo → jmikolay
-- Gavin Bartholomew → jmikolay
 
 ---
 
 ## Recently Dropped Players
 
-- Travis Etienne Jr.
-- Travis Etienne Jr.
-- Jaylen Wright
-- Efton Chism III
-- Sione Vaki
-- Kendre Miller
-- Devin Singletary
-- Chris Brazzell II
+- Drew Lock
+- Audric Estime
 
 ---
 
 ## Most Active Managers
 
-- HebrewsHeroes: 7 moves
-- jaredgratz: 2 moves
-- TheCreecher: 2 moves
-- tylerhjensen: 2 moves
-- jmikolay: 2 moves
-- SammyA: 1 moves
+- tylergratz: 2 moves
 
 ---
 

@@ -206,7 +206,7 @@
     "id": "11065",
     "name": "Adrian Martinez",
     "position": "QB",
-    "team": null,
+    "team": "SEA",
     "status": "Active"
   },
   {
@@ -963,6 +963,13 @@
     "name": "Auden Tate",
     "position": "WR",
     "team": null,
+    "status": "Active"
+  },
+  {
+    "id": "11579",
+    "name": "Audric Estime",
+    "position": "RB",
+    "team": "NO",
     "status": "Active"
   },
   {
@@ -2993,13 +3000,6 @@
     "name": "Cheyenne O'Grady",
     "position": "TE",
     "team": null,
-    "status": "Active"
-  },
-  {
-    "id": "12540",
-    "name": "Chimere Dike",
-    "position": "WR",
-    "team": "TEN",
     "status": "Active"
   },
   {
@@ -5964,6 +5964,13 @@
     "status": "Active"
   },
   {
+    "id": "5854",
+    "name": "Drew Lock",
+    "position": "QB",
+    "team": "SEA",
+    "status": "Active"
+  },
+  {
     "id": "4396",
     "name": "Drew Morgan",
     "position": "WR",
@@ -6948,7 +6955,7 @@
     "name": "George Holani",
     "position": "RB",
     "team": "SEA",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "4089",
@@ -7969,7 +7976,7 @@
     "id": "13904",
     "name": "Jacob De Jesus",
     "position": "WR",
-    "team": null,
+    "team": "SEA",
     "status": "Active"
   },
   {
@@ -14962,7 +14969,7 @@
     "id": "11245",
     "name": "Patrick Murtagh",
     "position": "TE",
-    "team": null,
+    "team": "NO",
     "status": "Active"
   },
   {
