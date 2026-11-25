@@ -1327,7 +1327,7 @@
     "name": "Ben VanSumeren",
     "position": "RB",
     "team": "KC",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "13065",
@@ -1676,7 +1676,7 @@
     "id": "7865",
     "name": "Brandon Smith",
     "position": "WR",
-    "team": null,
+    "team": "PIT",
     "status": "Active"
   },
   {
@@ -7381,7 +7381,7 @@
     "id": "12036",
     "name": "Ian Wheeler",
     "position": "RB",
-    "team": null,
+    "team": "LAC",
     "status": "Active"
   },
   {
@@ -16502,8 +16502,8 @@
     "id": "6964",
     "name": "Sean McKeon",
     "position": "TE",
-    "team": null,
-    "status": "Inactive"
+    "team": "IND",
+    "status": "Active"
   },
   {
     "id": "6459",
@@ -16628,7 +16628,7 @@
     "id": "8002",
     "name": "Shane Buechele",
     "position": "QB",
-    "team": "BUF",
+    "team": "IND",
     "status": "Active"
   },
   {

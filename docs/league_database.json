@@ -65,6 +65,11 @@
     "avatar": null,
     "company_id": null,
     "league_id": "1326711861197938688",
+    "sport": "nfl",
+    "season_type": "regular",
+    "season": "2026",
+    "last_message_id": "1431002920274374656",
+    "shard": 470,
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -111,12 +116,6 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
-    "last_message_id": "1431002920274374656",
-    "shard": 470,
-    "draft_id": "1326711861202161664",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
     "last_author_id": "166666666666666666",
@@ -125,12 +124,14 @@
     "last_message_text_map": null,
     "last_message_time": 1795540192244,
     "last_pinned_message_id": null,
+    "draft_id": "1326711861202161664",
     "last_read_id": null,
     "previous_league_id": "1228352285197746179",
     "bracket_id": null,
     "bracket_overrides_id": null,
     "group_id": null,
     "loser_bracket_id": null,
+    "loser_bracket_overrides_id": null,
     "roster_positions": [
       "QB",
       "RB",
@@ -155,7 +156,6 @@
       "BN",
       "BN"
     ],
-    "loser_bracket_overrides_id": null,
     "total_rosters": 10
   },
   "users": [
@@ -822,13 +822,13 @@
         "4984",
         "12481",
         "9224",
-        "10218",
+        "9488",
         "2216",
-        "11637",
-        "12700",
-        "10213",
-        "11630",
-        "4892"
+        "10218",
+        "12506",
+        "12512",
+        "11586",
+        "12494"
       ],
       "taxi": null
     },
@@ -1126,11 +1126,11 @@
         "9221",
         "8155",
         "7547",
-        "13296",
-        "5846",
-        "2505",
-        "12492",
         "7564",
+        "13301",
+        "9484",
+        "13296",
+        "4199",
         "8183"
       ],
       "taxi": null
@@ -2789,7 +2789,7 @@
     "11044": {
       "name": "Nick Broeker",
       "position": "OL",
-      "team": null,
+      "team": "BUF",
       "status": "Active",
       "active": true
     },
@@ -8404,7 +8404,7 @@
       "name": "Greg Newsome II",
       "position": "CB",
       "team": "NYG",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "4967": {
@@ -12275,7 +12275,7 @@
       "name": "Ben VanSumeren",
       "position": "RB",
       "team": "KC",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "196": {
@@ -12730,7 +12730,7 @@
       "name": "Caden Curry",
       "position": "DL",
       "team": "IND",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "1056": {
@@ -18021,7 +18021,7 @@
     "12282": {
       "name": "C.J. Ravenell",
       "position": "DL",
-      "team": null,
+      "team": "CAR",
       "status": "Active",
       "active": true
     },
@@ -26582,7 +26582,7 @@
     "5048": {
       "name": "Isaac Yiadom",
       "position": "CB",
-      "team": null,
+      "team": "CHI",
       "status": "Active",
       "active": true
     },
@@ -32833,7 +32833,7 @@
     "12036": {
       "name": "Ian Wheeler",
       "position": "RB",
-      "team": null,
+      "team": "LAC",
       "status": "Active",
       "active": true
     },
@@ -34191,8 +34191,8 @@
     "6964": {
       "name": "Sean McKeon",
       "position": "TE",
-      "team": null,
-      "status": "Inactive",
+      "team": "IND",
+      "status": "Active",
       "active": true
     },
     "2048": {
@@ -35017,7 +35017,7 @@
     "13928": {
       "name": "Geno VanDeMark",
       "position": "OL",
-      "team": null,
+      "team": "NYG",
       "status": "Active",
       "active": true
     },
@@ -36529,7 +36529,7 @@
     "13829": {
       "name": "David Blay Jr.",
       "position": "DT",
-      "team": null,
+      "team": "LV",
       "status": "Active",
       "active": true
     },
@@ -41660,7 +41660,7 @@
     "8002": {
       "name": "Shane Buechele",
       "position": "QB",
-      "team": "BUF",
+      "team": "IND",
       "status": "Active",
       "active": true
     },
@@ -51033,7 +51033,7 @@
     "13216": {
       "name": "Derrick Canteen",
       "position": "CB",
-      "team": null,
+      "team": "TEN",
       "status": "Active",
       "active": true
     },
@@ -53903,7 +53903,7 @@
     "11935": {
       "name": "AJ Woods",
       "position": "CB",
-      "team": null,
+      "team": "LV",
       "status": "Active",
       "active": true
     },
@@ -65320,7 +65320,7 @@
     "12957": {
       "name": "Corey Thornton",
       "position": "CB",
-      "team": "CAR",
+      "team": "TEN",
       "status": "Active",
       "active": true
     },
@@ -69786,7 +69786,7 @@
     "12686": {
       "name": "Chase Lundt",
       "position": "OL",
-      "team": "BUF",
+      "team": "SEA",
       "status": "Active",
       "active": true
     },
@@ -78998,7 +78998,7 @@
     "7865": {
       "name": "Brandon Smith",
       "position": "WR",
-      "team": null,
+      "team": "PIT",
       "status": "Active",
       "active": true
     },
@@ -88305,7 +88305,7 @@
       "name": "Ben VanSumeren",
       "position": "RB",
       "team": "KC",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "13065",
@@ -88654,7 +88654,7 @@
       "id": "7865",
       "name": "Brandon Smith",
       "position": "WR",
-      "team": null,
+      "team": "PIT",
       "status": "Active"
     },
     {
@@ -94359,7 +94359,7 @@
       "id": "12036",
       "name": "Ian Wheeler",
       "position": "RB",
-      "team": null,
+      "team": "LAC",
       "status": "Active"
     },
     {
@@ -103480,8 +103480,8 @@
       "id": "6964",
       "name": "Sean McKeon",
       "position": "TE",
-      "team": null,
-      "status": "Inactive"
+      "team": "IND",
+      "status": "Active"
     },
     {
       "id": "6459",
@@ -103606,7 +103606,7 @@
       "id": "8002",
       "name": "Shane Buechele",
       "position": "QB",
-      "team": "BUF",
+      "team": "IND",
       "status": "Active"
     },
     {

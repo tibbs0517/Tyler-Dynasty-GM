@@ -1416,7 +1416,7 @@
   "11044": {
     "name": "Nick Broeker",
     "position": "OL",
-    "team": null,
+    "team": "BUF",
     "status": "Active",
     "active": true
   },
@@ -7031,7 +7031,7 @@
     "name": "Greg Newsome II",
     "position": "CB",
     "team": "NYG",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "4967": {
@@ -10902,7 +10902,7 @@
     "name": "Ben VanSumeren",
     "position": "RB",
     "team": "KC",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "196": {
@@ -11357,7 +11357,7 @@
     "name": "Caden Curry",
     "position": "DL",
     "team": "IND",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "1056": {
@@ -16648,7 +16648,7 @@
   "12282": {
     "name": "C.J. Ravenell",
     "position": "DL",
-    "team": null,
+    "team": "CAR",
     "status": "Active",
     "active": true
   },
@@ -25209,7 +25209,7 @@
   "5048": {
     "name": "Isaac Yiadom",
     "position": "CB",
-    "team": null,
+    "team": "CHI",
     "status": "Active",
     "active": true
   },
@@ -31460,7 +31460,7 @@
   "12036": {
     "name": "Ian Wheeler",
     "position": "RB",
-    "team": null,
+    "team": "LAC",
     "status": "Active",
     "active": true
   },
@@ -32818,8 +32818,8 @@
   "6964": {
     "name": "Sean McKeon",
     "position": "TE",
-    "team": null,
-    "status": "Inactive",
+    "team": "IND",
+    "status": "Active",
     "active": true
   },
   "2048": {
@@ -33644,7 +33644,7 @@
   "13928": {
     "name": "Geno VanDeMark",
     "position": "OL",
-    "team": null,
+    "team": "NYG",
     "status": "Active",
     "active": true
   },
@@ -35156,7 +35156,7 @@
   "13829": {
     "name": "David Blay Jr.",
     "position": "DT",
-    "team": null,
+    "team": "LV",
     "status": "Active",
     "active": true
   },
@@ -40287,7 +40287,7 @@
   "8002": {
     "name": "Shane Buechele",
     "position": "QB",
-    "team": "BUF",
+    "team": "IND",
     "status": "Active",
     "active": true
   },
@@ -49660,7 +49660,7 @@
   "13216": {
     "name": "Derrick Canteen",
     "position": "CB",
-    "team": null,
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
@@ -52530,7 +52530,7 @@
   "11935": {
     "name": "AJ Woods",
     "position": "CB",
-    "team": null,
+    "team": "LV",
     "status": "Active",
     "active": true
   },
@@ -63947,7 +63947,7 @@
   "12957": {
     "name": "Corey Thornton",
     "position": "CB",
-    "team": "CAR",
+    "team": "TEN",
     "status": "Active",
     "active": true
   },
@@ -68413,7 +68413,7 @@
   "12686": {
     "name": "Chase Lundt",
     "position": "OL",
-    "team": "BUF",
+    "team": "SEA",
     "status": "Active",
     "active": true
   },
@@ -77625,7 +77625,7 @@
   "7865": {
     "name": "Brandon Smith",
     "position": "WR",
-    "team": null,
+    "team": "PIT",
     "status": "Active",
     "active": true
   },
