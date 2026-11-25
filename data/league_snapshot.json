@@ -65,10 +65,6 @@
     "avatar": null,
     "company_id": null,
     "league_id": "1326711861197938688",
-    "shard": 470,
-    "season": "2026",
-    "season_type": "regular",
-    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -115,7 +111,11 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_message_id": "1431292503130136576",
+    "season": "2026",
+    "season_type": "regular",
+    "shard": 470,
+    "sport": "nfl",
+    "last_message_id": "1431384508858368000",
     "draft_id": "1326711861202161664",
     "last_author_avatar": null,
     "last_author_display_name": "sys",
@@ -123,7 +123,7 @@
     "last_author_is_bot": true,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1795609234177,
+    "last_message_time": 1795631170052,
     "last_pinned_message_id": null,
     "last_read_id": null,
     "previous_league_id": "1228352285197746179",
@@ -484,7 +484,7 @@
         "transaction_waiver": "on",
         "mascot_item_type_id_leg_15": "poo-oct-19",
         "mascot_message_emotion_leg_1": "idle",
-        "team_name": "The Thortons",
+        "team_name": "Aiyukidding Me",
         "mascot_message_emotion_leg_11": "idle",
         "mascot_item_type_id_leg_8": "poo-oct-19",
         "avatar": "https://sleepercdn.com/uploads/ee1fd998a4ee46662c96f0a5828f8e6e.jpg",
@@ -680,7 +680,7 @@
         "8137",
         "9487",
         "2449",
-        "13330",
+        "3214",
         "8228",
         "11620",
         "11563"
@@ -781,7 +781,6 @@
         "12494",
         "12506",
         "12512",
-        "12700",
         "13264",
         "13276",
         "13402",
@@ -828,7 +827,7 @@
         "12506",
         "12512",
         "11586",
-        "12494"
+        "4892"
       ],
       "taxi": null
     },

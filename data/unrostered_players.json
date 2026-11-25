@@ -1557,7 +1557,7 @@
     "id": "2197",
     "name": "Brandin Cooks",
     "position": "WR",
-    "team": null,
+    "team": "SF",
     "status": "Active"
   },
   {
@@ -3643,7 +3643,7 @@
     "id": "4574",
     "name": "Cooper Rush",
     "position": "QB",
-    "team": "TB",
+    "team": null,
     "status": "Active"
   },
   {
@@ -3762,7 +3762,7 @@
     "id": "6659",
     "name": "Craig Reynolds",
     "position": "RB",
-    "team": "WAS",
+    "team": null,
     "status": "Active"
   },
   {
@@ -4301,7 +4301,7 @@
     "id": "13861",
     "name": "Daniel Sobkowicz",
     "position": "WR",
-    "team": null,
+    "team": "HOU",
     "status": "Active"
   },
   {
@@ -6885,6 +6885,13 @@
     "name": "Gary Jennings",
     "position": "WR",
     "team": null,
+    "status": "Active"
+  },
+  {
+    "id": "12700",
+    "name": "Gavin Bartholomew",
+    "position": "TE",
+    "team": "MIN",
     "status": "Active"
   },
   {
@@ -10685,7 +10692,7 @@
     "id": "7050",
     "name": "Josiah Deguara",
     "position": "TE",
-    "team": "LAC",
+    "team": null,
     "status": "Active"
   },
   {
@@ -11259,7 +11266,7 @@
     "id": "11648",
     "name": "Kedon Slovis",
     "position": "QB",
-    "team": null,
+    "team": "ARI",
     "status": "Active"
   },
   {
@@ -11677,9 +11684,9 @@
   },
   {
     "id": "8200",
-    "name": "Kevin Austin",
+    "name": "Kevin Austin Jr.",
     "position": "WR",
-    "team": null,
+    "team": "NO",
     "status": "Active"
   },
   {
@@ -12162,7 +12169,7 @@
     "id": "12699",
     "name": "LaJohntay Wester",
     "position": "WR",
-    "team": "BAL",
+    "team": null,
     "status": "Active"
   },
   {
@@ -17727,7 +17734,7 @@
     "id": "12860",
     "name": "Theo Wease Jr.",
     "position": "WR",
-    "team": "LAC",
+    "team": null,
     "status": "Active"
   },
   {
