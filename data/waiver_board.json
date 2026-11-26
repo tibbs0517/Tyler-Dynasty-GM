@@ -1248,19 +1248,6 @@
     "roster_id": null
   },
   {
-    "id": "13289",
-    "name": "Drew Allar",
-    "position": "QB",
-    "team": "PIT",
-    "age": 22,
-    "years_exp": 0,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
     "id": "6371",
     "name": "Drew Anderson",
     "position": "QB",
@@ -2691,19 +2678,6 @@
     "roster_id": null
   },
   {
-    "id": "4972",
-    "name": "Mason Rudolph",
-    "position": "QB",
-    "team": "PIT",
-    "age": 31,
-    "years_exp": 8,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
     "id": "1338",
     "name": "Matt Barkley",
     "position": "QB",
@@ -3763,6 +3737,19 @@
     "team": null,
     "age": null,
     "years_exp": null,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
+    "id": "11292",
+    "name": "Tommy DeVito",
+    "position": "QB",
+    "team": "NE",
+    "age": 28,
+    "years_exp": 3,
     "active": true,
     "injury_status": null,
     "bye_week": null,
@@ -5481,6 +5468,19 @@
     "years_exp": 1,
     "active": true,
     "injury_status": "Questionable",
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
+    "id": "12471",
+    "name": "DJ Giddens",
+    "position": "RB",
+    "team": "IND",
+    "age": 23,
+    "years_exp": 1,
+    "active": true,
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null

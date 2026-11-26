@@ -224,6 +224,20 @@
     "gm_score": 100
   },
   {
+    "id": "13289",
+    "name": "Drew Allar",
+    "position": "QB",
+    "team": "PIT",
+    "age": 22,
+    "years_exp": 0,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 7,
+    "gm_score": 100
+  },
+  {
     "id": "11566",
     "name": "Jayden Daniels",
     "position": "QB",
@@ -406,20 +420,6 @@
     "gm_score": 95
   },
   {
-    "id": "11292",
-    "name": "Tommy DeVito",
-    "position": "QB",
-    "team": "NE",
-    "age": 28,
-    "years_exp": 3,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 7,
-    "gm_score": 95
-  },
-  {
     "id": "6770",
     "name": "Joe Burrow",
     "position": "QB",
@@ -501,6 +501,20 @@
     "bye_week": null,
     "rostered": true,
     "roster_id": 1,
+    "gm_score": 95
+  },
+  {
+    "id": "4972",
+    "name": "Mason Rudolph",
+    "position": "QB",
+    "team": "PIT",
+    "age": 31,
+    "years_exp": 8,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 9,
     "gm_score": 95
   },
   {
@@ -1537,20 +1551,6 @@
     "bye_week": null,
     "rostered": true,
     "roster_id": 5,
-    "gm_score": 90
-  },
-  {
-    "id": "12471",
-    "name": "DJ Giddens",
-    "position": "RB",
-    "team": "IND",
-    "age": 23,
-    "years_exp": 1,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 9,
     "gm_score": 90
   },
   {
@@ -4466,20 +4466,6 @@
     "gm_score": 80
   },
   {
-    "id": "13289",
-    "name": "Drew Allar",
-    "position": "QB",
-    "team": "PIT",
-    "age": 22,
-    "years_exp": 0,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 80
-  },
-  {
     "id": "13314",
     "name": "Luke Altmyer",
     "position": "QB",
@@ -5684,6 +5670,20 @@
     "gm_score": 75
   },
   {
+    "id": "11292",
+    "name": "Tommy DeVito",
+    "position": "QB",
+    "team": "NE",
+    "age": 28,
+    "years_exp": 3,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 75
+  },
+  {
     "id": "8002",
     "name": "Shane Buechele",
     "position": "QB",
@@ -6544,20 +6544,6 @@
     "team": "BAL",
     "age": null,
     "years_exp": 1,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 75
-  },
-  {
-    "id": "4972",
-    "name": "Mason Rudolph",
-    "position": "QB",
-    "team": "PIT",
-    "age": 31,
-    "years_exp": 8,
     "active": true,
     "injury_status": null,
     "bye_week": null,
@@ -14747,6 +14733,20 @@
     "position": "RB",
     "team": null,
     "age": 22,
+    "years_exp": 1,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 70
+  },
+  {
+    "id": "12471",
+    "name": "DJ Giddens",
+    "position": "RB",
+    "team": "IND",
+    "age": 23,
     "years_exp": 1,
     "active": true,
     "injury_status": null,

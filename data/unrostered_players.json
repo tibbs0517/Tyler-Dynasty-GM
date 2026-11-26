@@ -3857,6 +3857,13 @@
     "status": "Active"
   },
   {
+    "id": "12471",
+    "name": "DJ Giddens",
+    "position": "RB",
+    "team": "IND",
+    "status": "Active"
+  },
+  {
     "id": "14026",
     "name": "DJ Herman",
     "position": "RB",
@@ -5919,13 +5926,6 @@
     "name": "Dresser Winn",
     "position": "QB",
     "team": null,
-    "status": "Active"
-  },
-  {
-    "id": "13289",
-    "name": "Drew Allar",
-    "position": "QB",
-    "team": "PIT",
     "status": "Active"
   },
   {
@@ -13405,13 +13405,6 @@
     "status": "Active"
   },
   {
-    "id": "4972",
-    "name": "Mason Rudolph",
-    "position": "QB",
-    "team": "PIT",
-    "status": "Active"
-  },
-  {
     "id": "4229",
     "name": "Mason Schreck",
     "position": "TE",
@@ -17932,6 +17925,13 @@
     "position": "QB",
     "team": null,
     "status": "Inactive"
+  },
+  {
+    "id": "11292",
+    "name": "Tommy DeVito",
+    "position": "QB",
+    "team": "NE",
+    "status": "Active"
   },
   {
     "id": "7439",
