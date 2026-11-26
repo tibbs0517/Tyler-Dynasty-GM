@@ -13862,7 +13862,7 @@
   "13058": {
     "name": "Cam Horsley",
     "position": "DT",
-    "team": "CAR",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -18664,7 +18664,7 @@
   "96": {
     "name": "Aaron Rodgers",
     "position": "QB",
-    "team": "PIT",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -24076,7 +24076,7 @@
     "name": "Tyler Badie",
     "position": "RB",
     "team": "DEN",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "1855": {
@@ -41947,7 +41947,7 @@
     "name": "Deane Leonard",
     "position": "DB",
     "team": "LAC",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "6770": {
@@ -53637,7 +53637,7 @@
     "name": "Ben Skowronek",
     "position": "WR",
     "team": "PIT",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "7904": {
@@ -60167,7 +60167,7 @@
   "7686": {
     "name": "Ambry Thomas",
     "position": "CB",
-    "team": null,
+    "team": "WAS",
     "status": "Active",
     "active": true
   },
@@ -60790,7 +60790,7 @@
   "12860": {
     "name": "Theo Wease Jr.",
     "position": "WR",
-    "team": null,
+    "team": "LAC",
     "status": "Active",
     "active": true
   },
@@ -70072,7 +70072,7 @@
   "4718": {
     "name": "Dare Ogunbowale",
     "position": "RB",
-    "team": "HOU",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -81427,7 +81427,7 @@
     "name": "Michael Pittman Jr.",
     "position": "WR",
     "team": "PIT",
-    "status": "Inactive",
+    "status": "Active",
     "active": true
   },
   "6124": {
@@ -81769,7 +81769,7 @@
   "13181": {
     "name": "Payton Page",
     "position": "DT",
-    "team": null,
+    "team": "NYJ",
     "status": "Active",
     "active": true
   },
@@ -83519,7 +83519,7 @@
   "4114": {
     "name": "Tanoh Kpassagnon",
     "position": "DE",
-    "team": "TEN",
+    "team": null,
     "status": "Inactive",
     "active": true
   },

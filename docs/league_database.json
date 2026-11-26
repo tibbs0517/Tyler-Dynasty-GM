@@ -65,11 +65,10 @@
     "avatar": null,
     "company_id": null,
     "league_id": "1326711861197938688",
-    "sport": "nfl",
-    "season_type": "regular",
-    "season": "2026",
     "shard": 470,
-    "last_message_id": "1431687663139721216",
+    "season": "2026",
+    "season_type": "regular",
+    "sport": "nfl",
     "scoring_settings": {
       "sack": 1.0,
       "fgm_40_49": 4.0,
@@ -116,16 +115,17 @@
       "pts_allow_7_13": 4.0,
       "st_ff": 1.0
     },
-    "last_author_avatar": "fde3ddaa5f8e2773416ba2804a4ee9b8",
-    "last_author_display_name": "jmikolay",
-    "last_author_id": "326192785587699712",
+    "last_message_id": "1431701060904321024",
+    "last_author_avatar": "644359a5592533b5a1571ff2beb6e938",
+    "last_author_display_name": "HebrewsHeroes",
+    "last_author_id": "434689597088198656",
     "last_author_is_bot": false,
     "last_message_attachment": null,
     "last_message_text_map": null,
-    "last_message_time": 1795703447665,
+    "last_message_time": 1795706641941,
     "last_pinned_message_id": null,
-    "draft_id": "1326711861202161664",
     "last_read_id": null,
+    "draft_id": "1326711861202161664",
     "previous_league_id": "1228352285197746179",
     "bracket_id": null,
     "bracket_overrides_id": null,
@@ -1284,11 +1284,11 @@
         "11576",
         "6786",
         "6794",
-        "9500",
+        "8112",
         "1466",
-        "8210",
-        "5022",
-        "6801"
+        "6801",
+        "9753",
+        "11559"
       ],
       "taxi": null
     },
@@ -15230,7 +15230,7 @@
     "13058": {
       "name": "Cam Horsley",
       "position": "DT",
-      "team": "CAR",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -20032,7 +20032,7 @@
     "96": {
       "name": "Aaron Rodgers",
       "position": "QB",
-      "team": "PIT",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -25444,7 +25444,7 @@
       "name": "Tyler Badie",
       "position": "RB",
       "team": "DEN",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "1855": {
@@ -43315,7 +43315,7 @@
       "name": "Deane Leonard",
       "position": "DB",
       "team": "LAC",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "6770": {
@@ -55005,7 +55005,7 @@
       "name": "Ben Skowronek",
       "position": "WR",
       "team": "PIT",
-      "status": "Active",
+      "status": "Inactive",
       "active": true
     },
     "7904": {
@@ -61535,7 +61535,7 @@
     "7686": {
       "name": "Ambry Thomas",
       "position": "CB",
-      "team": null,
+      "team": "WAS",
       "status": "Active",
       "active": true
     },
@@ -62158,7 +62158,7 @@
     "12860": {
       "name": "Theo Wease Jr.",
       "position": "WR",
-      "team": null,
+      "team": "LAC",
       "status": "Active",
       "active": true
     },
@@ -71440,7 +71440,7 @@
     "4718": {
       "name": "Dare Ogunbowale",
       "position": "RB",
-      "team": "HOU",
+      "team": null,
       "status": "Active",
       "active": true
     },
@@ -82795,7 +82795,7 @@
       "name": "Michael Pittman Jr.",
       "position": "WR",
       "team": "PIT",
-      "status": "Inactive",
+      "status": "Active",
       "active": true
     },
     "6124": {
@@ -83137,7 +83137,7 @@
     "13181": {
       "name": "Payton Page",
       "position": "DT",
-      "team": null,
+      "team": "NYJ",
       "status": "Active",
       "active": true
     },
@@ -84887,7 +84887,7 @@
     "4114": {
       "name": "Tanoh Kpassagnon",
       "position": "DE",
-      "team": "TEN",
+      "team": null,
       "status": "Inactive",
       "active": true
     },
@@ -88300,7 +88300,7 @@
       "name": "Ben Skowronek",
       "position": "WR",
       "team": "PIT",
-      "status": "Active"
+      "status": "Inactive"
     },
     {
       "id": "11273",
@@ -91351,7 +91351,7 @@
       "id": "4718",
       "name": "Dare Ogunbowale",
       "position": "RB",
-      "team": "HOU",
+      "team": null,
       "status": "Active"
     },
     {
@@ -104707,7 +104707,7 @@
       "id": "12860",
       "name": "Theo Wease Jr.",
       "position": "WR",
-      "team": null,
+      "team": "LAC",
       "status": "Active"
     },
     {
@@ -105653,7 +105653,7 @@
       "name": "Tyler Badie",
       "position": "RB",
       "team": "DEN",
-      "status": "Inactive"
+      "status": "Active"
     },
     {
       "id": "3225",

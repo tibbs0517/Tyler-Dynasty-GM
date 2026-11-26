@@ -1327,7 +1327,7 @@
     "name": "Ben Skowronek",
     "position": "WR",
     "team": "PIT",
-    "status": "Active"
+    "status": "Inactive"
   },
   {
     "id": "11273",
@@ -4378,7 +4378,7 @@
     "id": "4718",
     "name": "Dare Ogunbowale",
     "position": "RB",
-    "team": "HOU",
+    "team": null,
     "status": "Active"
   },
   {
@@ -17734,7 +17734,7 @@
     "id": "12860",
     "name": "Theo Wease Jr.",
     "position": "WR",
-    "team": null,
+    "team": "LAC",
     "status": "Active"
   },
   {
@@ -18680,7 +18680,7 @@
     "name": "Tyler Badie",
     "position": "RB",
     "team": "DEN",
-    "status": "Inactive"
+    "status": "Active"
   },
   {
     "id": "3225",
