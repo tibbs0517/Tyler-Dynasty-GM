@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-11-25 22:54:40
+Generated: 2026-11-26 04:40:10
 
 ---
 
@@ -9,7 +9,7 @@ Generated: 2026-11-25 22:54:40
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2802
+Available Players: 2803
 
 ---
 
@@ -17,7 +17,7 @@ Available Players: 2802
 
 Trades: 0
 Waiver Claims: 0
-Free Agent Moves: 3
+Free Agent Moves: 4
 
 ---
 
@@ -42,6 +42,7 @@ No trades.
 
 ## Recently Dropped Players
 
+- Jahan Dotson
 - Gavin Bartholomew
 - Drew Lock
 - Audric Estime
@@ -51,6 +52,7 @@ No trades.
 ## Most Active Managers
 
 - tylergratz: 2 moves
+- HebrewsHeroes: 1 moves
 - tylerhjensen: 1 moves
 
 ---

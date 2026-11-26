@@ -1294,7 +1294,7 @@
     "age": 30,
     "years_exp": 7,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -1879,7 +1879,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -6907,7 +6907,7 @@
     "name": "Hassan Haskins",
     "position": "RB",
     "team": "CLE",
-    "age": 26,
+    "age": 27,
     "years_exp": 4,
     "active": true,
     "injury_status": null,
@@ -9052,7 +9052,7 @@
     "name": "Malik Davis",
     "position": "RB",
     "team": "DAL",
-    "age": 27,
+    "age": 28,
     "years_exp": 4,
     "active": true,
     "injury_status": "IR",
@@ -10225,7 +10225,7 @@
     "age": 29,
     "years_exp": 6,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -12656,7 +12656,7 @@
     "age": 26,
     "years_exp": 3,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -14073,7 +14073,7 @@
     "age": 30,
     "years_exp": 9,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -14112,7 +14112,7 @@
     "age": 25,
     "years_exp": 3,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -18038,7 +18038,7 @@
     "age": 25,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -19702,7 +19702,7 @@
     "age": 33,
     "years_exp": 10,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -21184,7 +21184,7 @@
     "age": 27,
     "years_exp": 4,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -25900,7 +25900,7 @@
     "name": "Gunner Olszewski",
     "position": "WR",
     "team": "NYG",
-    "age": 29,
+    "age": 30,
     "years_exp": 7,
     "active": true,
     "injury_status": "IR",
@@ -26710,6 +26710,19 @@
     "years_exp": 4,
     "active": true,
     "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
+    "id": "8119",
+    "name": "Jahan Dotson",
+    "position": "WR",
+    "team": "ATL",
+    "age": 26,
+    "years_exp": 4,
+    "active": true,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -32182,7 +32195,7 @@
     "age": 24,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -34145,7 +34158,7 @@
     "age": 26,
     "years_exp": 4,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": null,
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -34444,7 +34457,7 @@
     "age": 23,
     "years_exp": 1,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -35458,7 +35471,7 @@
     "age": 26,
     "years_exp": 4,
     "active": true,
-    "injury_status": null,
+    "injury_status": "Questionable",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
