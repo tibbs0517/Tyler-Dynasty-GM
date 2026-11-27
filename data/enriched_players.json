@@ -540,7 +540,7 @@
     "age": 24,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": true,
     "roster_id": 1
@@ -15986,8 +15986,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": true,
-    "roster_id": 7
+    "rostered": false,
+    "roster_id": null
   },
   "12250": {
     "id": "12250",
@@ -97624,7 +97624,7 @@
     "age": 22,
     "years_exp": 0,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": true,
     "roster_id": 3
@@ -97893,7 +97893,7 @@
     "id": "11210",
     "name": "Malik Heath",
     "position": "WR",
-    "team": "WAS",
+    "team": null,
     "age": 26,
     "years_exp": 3,
     "active": true,
@@ -116877,7 +116877,7 @@
     "age": 26,
     "years_exp": 3,
     "active": true,
-    "injury_status": "Questionable",
+    "injury_status": "Out",
     "bye_week": null,
     "rostered": false,
     "roster_id": null
@@ -145479,8 +145479,8 @@
     "active": true,
     "injury_status": null,
     "bye_week": null,
-    "rostered": false,
-    "roster_id": null
+    "rostered": true,
+    "roster_id": 7
   },
   "3875": {
     "id": "3875",

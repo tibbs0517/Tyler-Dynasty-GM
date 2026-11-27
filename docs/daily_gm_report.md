@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-11-27 06:26:20
+Generated: 2026-11-27 17:10:01
 
 ---
 
@@ -16,7 +16,7 @@ Available Players: 2803
 ## League Activity
 
 Trades: 0
-Waiver Claims: 4
+Waiver Claims: 5
 Free Agent Moves: 4
 
 ---
@@ -37,6 +37,7 @@ No trades.
 
 ## Top Waiver Claims
 
+- Mac Jones → HebrewsHeroes
 - Mason Rudolph → HebrewsHeroes
 - Drew Allar → HebrewsHeroes
 - Mason Rudolph → jmikolay
@@ -45,6 +46,7 @@ No trades.
 
 ## Recently Dropped Players
 
+- Eli Raridon
 - Tommy DeVito
 - Jahan Dotson
 - DJ Giddens
@@ -56,7 +58,7 @@ No trades.
 
 ## Most Active Managers
 
-- HebrewsHeroes: 4 moves
+- HebrewsHeroes: 5 moves
 - tylergratz: 2 moves
 - jmikolay: 1 moves
 - tylerhjensen: 1 moves

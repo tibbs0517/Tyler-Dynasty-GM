@@ -6251,6 +6251,13 @@
     "status": "Active"
   },
   {
+    "id": "13421",
+    "name": "Eli Raridon",
+    "position": "TE",
+    "team": "NE",
+    "status": "Active"
+  },
+  {
     "id": "7935",
     "name": "Eli Stove",
     "position": "WR",
@@ -12768,13 +12775,6 @@
     "status": "Active"
   },
   {
-    "id": "7527",
-    "name": "Mac Jones",
-    "position": "QB",
-    "team": "SF",
-    "status": "Active"
-  },
-  {
     "id": "4177",
     "name": "Mack Hollins",
     "position": "WR",
@@ -12883,7 +12883,7 @@
     "id": "11210",
     "name": "Malik Heath",
     "position": "WR",
-    "team": "WAS",
+    "team": null,
     "status": "Active"
   },
   {

@@ -2613,19 +2613,6 @@
     "roster_id": null
   },
   {
-    "id": "7527",
-    "name": "Mac Jones",
-    "position": "QB",
-    "team": "SF",
-    "age": 28,
-    "years_exp": 5,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null
-  },
-  {
     "id": "6343",
     "name": "Manny Wilkins",
     "position": "QB",
@@ -14540,6 +14527,19 @@
     "team": null,
     "age": 20,
     "years_exp": 1,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null
+  },
+  {
+    "id": "13421",
+    "name": "Eli Raridon",
+    "position": "TE",
+    "team": "NE",
+    "age": 22,
+    "years_exp": 0,
     "active": true,
     "injury_status": null,
     "bye_week": null,
@@ -30995,7 +30995,7 @@
     "id": "11210",
     "name": "Malik Heath",
     "position": "WR",
-    "team": "WAS",
+    "team": null,
     "age": 26,
     "years_exp": 3,
     "active": true,

@@ -52712,7 +52712,7 @@
   "11210": {
     "name": "Malik Heath",
     "position": "WR",
-    "team": "WAS",
+    "team": null,
     "status": "Active",
     "active": true
   },
@@ -73566,7 +73566,7 @@
     "name": "Sai'vion Jones",
     "position": "DE",
     "team": "DEN",
-    "status": "Active",
+    "status": "Inactive",
     "active": true
   },
   "8684": {
