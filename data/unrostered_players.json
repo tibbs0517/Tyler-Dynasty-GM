@@ -3892,13 +3892,6 @@
     "status": "Active"
   },
   {
-    "id": "12773",
-    "name": "DJ Uiagalelei",
-    "position": "QB",
-    "team": "LAC",
-    "status": "Active"
-  },
-  {
     "id": "13326",
     "name": "DT Sheffield",
     "position": "WR",
@@ -8579,6 +8572,13 @@
     "name": "Jalon Calhoun",
     "position": "WR",
     "team": null,
+    "status": "Active"
+  },
+  {
+    "id": "13425",
+    "name": "Jalon Daniels",
+    "position": "QB",
+    "team": "TB",
     "status": "Active"
   },
   {
@@ -17925,13 +17925,6 @@
     "position": "QB",
     "team": null,
     "status": "Inactive"
-  },
-  {
-    "id": "11292",
-    "name": "Tommy DeVito",
-    "position": "QB",
-    "team": "NE",
-    "status": "Active"
   },
   {
     "id": "7439",

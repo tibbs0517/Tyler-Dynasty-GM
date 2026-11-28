@@ -1,6 +1,6 @@
 # Tyler Dynasty GM Report
 
-Generated: 2026-11-28 00:59:30
+Generated: 2026-11-28 08:47:29
 
 ---
 
@@ -9,14 +9,14 @@ Generated: 2026-11-28 00:59:30
 League: The Fantasy Football League
 Season: 2026
 Teams: 10
-Available Players: 2803
+Available Players: 2802
 
 ---
 
 ## League Activity
 
 Trades: 0
-Waiver Claims: 5
+Waiver Claims: 7
 Free Agent Moves: 4
 
 ---
@@ -37,6 +37,8 @@ No trades.
 
 ## Top Waiver Claims
 
+- DJ Uiagalelei → tylerhjensen
+- Tommy DeVito → tylergratz
 - Mac Jones → HebrewsHeroes
 - Mason Rudolph → HebrewsHeroes
 - Drew Allar → HebrewsHeroes
@@ -46,6 +48,7 @@ No trades.
 
 ## Recently Dropped Players
 
+- Jalon Daniels
 - Eli Raridon
 - Tommy DeVito
 - Jahan Dotson
@@ -59,9 +62,9 @@ No trades.
 ## Most Active Managers
 
 - HebrewsHeroes: 5 moves
-- tylergratz: 2 moves
+- tylergratz: 3 moves
+- tylerhjensen: 2 moves
 - jmikolay: 1 moves
-- tylerhjensen: 1 moves
 
 ---
 

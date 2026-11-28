@@ -154,6 +154,20 @@
     "gm_score": 100
   },
   {
+    "id": "12773",
+    "name": "DJ Uiagalelei",
+    "position": "QB",
+    "team": "LAC",
+    "age": 25,
+    "years_exp": 1,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 3,
+    "gm_score": 100
+  },
+  {
     "id": "11563",
     "name": "Bo Nix",
     "position": "QB",
@@ -165,20 +179,6 @@
     "bye_week": null,
     "rostered": true,
     "roster_id": 1,
-    "gm_score": 100
-  },
-  {
-    "id": "13425",
-    "name": "Jalon Daniels",
-    "position": "QB",
-    "team": "TB",
-    "age": 24,
-    "years_exp": 0,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": true,
-    "roster_id": 5,
     "gm_score": 100
   },
   {
@@ -417,6 +417,20 @@
     "bye_week": null,
     "rostered": true,
     "roster_id": 9,
+    "gm_score": 95
+  },
+  {
+    "id": "11292",
+    "name": "Tommy DeVito",
+    "position": "QB",
+    "team": "NE",
+    "age": 28,
+    "years_exp": 3,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": true,
+    "roster_id": 5,
     "gm_score": 95
   },
   {
@@ -3640,20 +3654,6 @@
     "gm_score": 80
   },
   {
-    "id": "12773",
-    "name": "DJ Uiagalelei",
-    "position": "QB",
-    "team": "LAC",
-    "age": 25,
-    "years_exp": 1,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 80
-  },
-  {
     "id": "6595",
     "name": "Devlin Hodges",
     "position": "QB",
@@ -3870,6 +3870,20 @@
     "team": null,
     "age": 26,
     "years_exp": 3,
+    "active": true,
+    "injury_status": null,
+    "bye_week": null,
+    "rostered": false,
+    "roster_id": null,
+    "gm_score": 80
+  },
+  {
+    "id": "13425",
+    "name": "Jalon Daniels",
+    "position": "QB",
+    "team": "TB",
+    "age": 24,
+    "years_exp": 0,
     "active": true,
     "injury_status": null,
     "bye_week": null,
@@ -5662,20 +5676,6 @@
     "team": null,
     "age": 27,
     "years_exp": 5,
-    "active": true,
-    "injury_status": null,
-    "bye_week": null,
-    "rostered": false,
-    "roster_id": null,
-    "gm_score": 75
-  },
-  {
-    "id": "11292",
-    "name": "Tommy DeVito",
-    "position": "QB",
-    "team": "NE",
-    "age": 28,
-    "years_exp": 3,
     "active": true,
     "injury_status": null,
     "bye_week": null,
